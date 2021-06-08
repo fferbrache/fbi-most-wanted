@@ -1,0 +1,1817 @@
+{
+  "total": 1003,
+  "items": [
+      {
+          "age_range": null,
+          "subjects": [
+              "Additional Violent Crimes"
+          ],
+          "languages": null,
+          "path": "/wanted/additional/leslie-charles-dawson",
+          "weight_min": 155,
+          "details": null,
+          "status": "na",
+          "possible_states": [
+              "US-CA",
+              "US-IL",
+              "US-LA",
+              "US-OR",
+              "US-WI"
+          ],
+          "eyes": "brown",
+          "hair": "brown",
+          "legat_names": null,
+          "eyes_raw": "Brown",
+          "field_offices": [
+              "portland"
+          ],
+          "weight": "155 pounds",
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": "<p>Dawson has a military background and training. He may have altered his appearance using plastic surgery and hair dye. Dawson has ties to California, Louisiana, Illinois, Wisconsin, and the Philippines.</p>",
+          "possible_countries": [
+              "PHL",
+              "USA"
+          ],
+          "url": "https://www.fbi.gov/wanted/additional/leslie-charles-dawson",
+          "nationality": "American",
+          "uid": "dafe918654c77bb5bc112f0024e01984",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS AND AN ESCAPE RISK",
+          "scars_and_marks": "Dawson has a scar on his abdomen.",
+          "race": "white",
+          "hair_raw": "Brown (Some Gray)",
+          "modified": "2016-08-04T16:01:40+00:00",
+          "title": "LESLIE CHARLES DAWSON",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/additional/leslie-charles-dawson/@@images/image/large",
+                  "caption": "Photograph taken in 1991 or 1992",
+                  "original": "https://www.fbi.gov/wanted/additional/leslie-charles-dawson/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/additional/leslie-charles-dawson/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/additional/leslie-charles-dawson/dawson_lc2.jpg/@@images/image/large",
+                  "caption": "Photograph taken in 1991 or 1992",
+                  "original": "https://www.fbi.gov/wanted/additional/leslie-charles-dawson/dawson_lc2.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/additional/leslie-charles-dawson/dawson_lc2.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/additional/leslie-charles-dawson/dawson_lc3.jpg/@@images/image/large",
+                  "caption": "Photograph taken in 1991 or 1992",
+                  "original": "https://www.fbi.gov/wanted/additional/leslie-charles-dawson/dawson_lc3.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/additional/leslie-charles-dawson/dawson_lc3.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/additional/leslie-charles-dawson/dawson_lc4.jpg/@@images/image/large",
+                  "caption": "Photograph taken in 1986",
+                  "original": "https://www.fbi.gov/wanted/additional/leslie-charles-dawson/dawson_lc4.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/additional/leslie-charles-dawson/dawson_lc4.jpg/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": null,
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": "<p>On January 31, 1986, Leslie Charles Dawson was confined in an Oregon State Correctional Facility for two counts of rape in the first degree and two counts of sodomy in the first degree, both involving juveniles. On October 7, 1986, he escaped from custody at the South Fork Forest Camp in Tillamook, Oregon. An order of arrest of an escaped prisoner was issued for Dawson on August 8, 1991, by the State of Oregon Department of Corrections. A federal arrest warrant charging Dawson with unlawful flight to avoid prosecution was issued on April 20, 1999, in the United States District Court, District of Oregon, Portland, Oregon.</p>",
+          "reward_max": 0,
+          "ncic": "W152102680",
+          "aliases": [
+              "Leslie C. Dawson"
+          ],
+          "height_max": 70,
+          "dates_of_birth_used": [
+              "March 21, 1946"
+          ],
+          "height_min": 70,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/additional/leslie-charles-dawson/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "occupations": [
+              "Unknown"
+          ],
+          "publication": "2010-08-31T18:05:00",
+          "description": "Unlawful Flight to Avoid Prosecution - Escape",
+          "race_raw": "White",
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": "Illinois",
+          "reward_min": 0,
+          "weight_max": 155,
+          "sex": "Male",
+          "@id": "https://api.fbi.gov/@wanted-person/dafe918654c77bb5bc112f0024e01984"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Additional Violent Crimes"
+          ],
+          "languages": null,
+          "path": "/wanted/additional/miguel-angel-morales-orozco",
+          "weight_min": 180,
+          "details": null,
+          "status": "na",
+          "possible_states": null,
+          "eyes": "brown",
+          "hair": "black",
+          "legat_names": null,
+          "eyes_raw": "Brown",
+          "field_offices": [
+              "losangeles"
+          ],
+          "weight": "180 pounds (in 1998)",
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": "<p>At the time of the incident, Morales Orozco had short hair and a mustache. His last known residence was in Newhall, California. Morales Orozco has ties to Mexico, and may currently be living there.</p>",
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/additional/miguel-angel-morales-orozco",
+          "nationality": "Mexican",
+          "uid": "4f9a111a-104a-4b2e-9e34-ee15ad88395a",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS AND AN ESCAPE RISK",
+          "scars_and_marks": null,
+          "race": "hispanic",
+          "hair_raw": "Black",
+          "modified": "2016-08-04T16:01:39+00:00",
+          "title": "MIGUEL ANGEL MORALES OROZCO",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/additional/miguel-angel-morales-orozco/@@images/image/large",
+                  "caption": null,
+                  "original": "https://www.fbi.gov/wanted/additional/miguel-angel-morales-orozco/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/additional/miguel-angel-morales-orozco/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": null,
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": "<p>Miguel Angel Morales Orozco is wanted for his alleged involvement in the attempted murder of a man in Newhall, California, on September 13, 1998. Morales Orozco allegedly stabbed a man several times, causing serious injuries, after an altercation that occurred in the victim's apartment.</p>\r\n<p> </p>\r\n<p>Morales Orozco was charged with one count of attempted murder by the Los Angeles County, California Superior Court. On October 28, 1998, a state warrant was issued for his arrest. A federal arrest warrant was issued by the United States District Court, Central District of California, on March 27, 2000, after Morales Orozco was charged federally with unlawful flight to avoid prosecution.</p>",
+          "reward_max": 0,
+          "ncic": "W620591437",
+          "aliases": [
+              "Miguel A. Morales",
+              "Miguel Angel Morales",
+              "Orozco Miguel Angel Morales"
+          ],
+          "height_max": null,
+          "dates_of_birth_used": [
+              "July 27, 1976"
+          ],
+          "height_min": null,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/additional/miguel-angel-morales-orozco/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "occupations": null,
+          "publication": "2014-05-28T07:00:00",
+          "description": "Unlawful Flight to Avoid Prosecution - Attempted Murder",
+          "race_raw": "White (Hispanic)",
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": "Mexico",
+          "reward_min": 0,
+          "weight_max": 1998,
+          "sex": "Male",
+          "@id": "https://api.fbi.gov/@wanted-person/4f9a111a-104a-4b2e-9e34-ee15ad88395a"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Additional Violent Crimes"
+          ],
+          "languages": null,
+          "path": "/wanted/additional/timothy-thomas-coombs",
+          "weight_min": 140,
+          "details": null,
+          "status": "na",
+          "possible_states": null,
+          "eyes": "blue",
+          "hair": "brown",
+          "legat_names": null,
+          "eyes_raw": "Blue",
+          "field_offices": [
+              "kansascity"
+          ],
+          "weight": "140 pounds",
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": "<p>When last seen, Coombs had a full beard. In the past, he has had a short trimmed beard, mustache, and wore wire-rimmed glasses. He is known to alter his appearance. Coombs reportedly maintains very radical, anti-government, white supremacist beliefs, and is associated with the Christian Identity Movement. Indicative of his extreme religious beliefs, he has been seen wearing fringe on his shirt cuffs and pants bottoms. Additionally, he has identified himself in the past as a Christian Israelite Pastor, Nazarite, Ambassador for the Kingdom of Christ, and Legal Ambassador. Coombs formerly resided in Witts Springs, Arkansas, and has close associates there and in Missouri. He also has supporters and relatives in other states. He has been observed with .45 caliber and 9 mm semiautomatic pistols that he carries in an ankle holster and in the small part of his back.</p>",
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/additional/timothy-thomas-coombs",
+          "nationality": "American",
+          "uid": "a3256627-a975-4c76-afa6-56e7d2db01f5",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "scars_and_marks": null,
+          "race": "white",
+          "hair_raw": "Brown, balding",
+          "modified": "2016-08-04T16:01:39+00:00",
+          "title": "TIMOTHY THOMAS COOMBS",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/additional/timothy-thomas-coombs/@@images/image/large",
+                  "caption": "Photograph taken in 1992",
+                  "original": "https://www.fbi.gov/wanted/additional/timothy-thomas-coombs/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/additional/timothy-thomas-coombs/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/additional/timothy-thomas-coombs/coombs_t-2.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/additional/timothy-thomas-coombs/coombs_t-2.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/additional/timothy-thomas-coombs/coombs_t-2.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/additional/timothy-thomas-coombs/coombs_t-3.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/additional/timothy-thomas-coombs/coombs_t-3.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/additional/timothy-thomas-coombs/coombs_t-3.jpg/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": "The FBI is offering a reward of up to $100,000 for information leading to the arrest of Timothy Thomas Coombs.",
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": "<p>On September 16, 1994, Timothy Thomas Coombs allegedly shot a Missouri Highway Trooper in the chest, while the officer was standing in his rural Missouri home. Although the officer was seriously injured, he survived the attack. It is believed that the shooting was in retalitation for the officer's arrest of a man who was an acquaintance of Coombs.</p>\r\n<p> </p>\r\n<p>On September 23, 1994, a state arrest warrant was issued in the Division II Circuit Court in the State of Missouri, County of McDonald, charging Coombs with first degree assault of a law enforcement officer. On October 19, 1994, a federal arrest warrant was issued in the Western District of Missouri, Springfield, Missouri, after Coombs was charged with unlawful flight to avoid prosecution.</p>",
+          "reward_max": 0,
+          "ncic": "W831020408",
+          "aliases": [
+              "Tim Coombs",
+              "Timothy T. Coombs",
+              "Cai Liberty",
+              "Cal Liberty",
+              "William Patterson",
+              "James Wilson",
+              "James Mason"
+          ],
+          "height_max": 67,
+          "dates_of_birth_used": [
+              "February 21, 1959",
+              "July 7, 1959"
+          ],
+          "height_min": 67,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/additional/timothy-thomas-coombs/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "occupations": [
+              "Tree planter",
+              "Volunteer firefighter"
+          ],
+          "publication": "2014-10-30T07:00:00",
+          "description": "Unlawful Flight to Avoid Prosecution - First Degree Assault On A Law Enforcement Officer",
+          "race_raw": "White",
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": "Ocean County, New Jersey",
+          "reward_min": 0,
+          "weight_max": 140,
+          "sex": "Male",
+          "@id": "https://api.fbi.gov/@wanted-person/a3256627-a975-4c76-afa6-56e7d2db01f5"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Additional Violent Crimes"
+          ],
+          "languages": null,
+          "path": "/wanted/additional/ulises-omar-felix",
+          "weight_min": 160,
+          "details": null,
+          "status": "na",
+          "possible_states": null,
+          "eyes": "brown",
+          "hair": "black",
+          "legat_names": null,
+          "eyes_raw": "Brown",
+          "field_offices": [
+              "denver"
+          ],
+          "weight": "160 pounds",
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": "<p>Felix and his common-law wife, <a data-val=\"https://www.fbi.gov/wanted/additional/ashley-cynthia-montalvo\" href=\"https://www.fbi.gov/wanted/additional/ashley-cynthia-montalvo\" data-urltype=\"/view\" data-linktype=\"external\">Ashley Cynthia Montalvo</a>, may have fled to Arizona or Mexico with their two young boys. Montalvo is also considered a fugitive with a current federal unlawful flight to avoid prosecution warrant.</p>",
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/additional/ulises-omar-felix",
+          "nationality": "Mexican",
+          "uid": "d6553f45-3e90-4eda-ae25-97e3383cb0f8",
+          "warning_message": null,
+          "scars_and_marks": null,
+          "race": "hispanic",
+          "hair_raw": "Black",
+          "modified": "2016-08-04T16:01:39+00:00",
+          "title": "ULISES OMAR FELIX",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/additional/ulises-omar-felix/@@images/image/large",
+                  "caption": "Photograph taken in 2011",
+                  "original": "https://www.fbi.gov/wanted/additional/ulises-omar-felix/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/additional/ulises-omar-felix/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": null,
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": "<p>On September 6, 2011, Ulises Omar Felix and his male accomplice allegedly participated in a violent home invasion robbery in San Miguel County, Colorado. The subjects were heavily armed and allegedly stole numerous items from the home. During the robbery, the victims were assaulted and held hostage for 12 hours. Felix’s accomplice during the crime has since been incarcerated.</p>\r\n<p> </p>\r\n<p>A state arrest warrant was issued on September 30, 2011, for Felix’s arrest by the County and District Courts of the 7th Judicial District, San Miguel County, Colorado. Felix was charged with the following crimes: aggravated robbery of a controlled substance; aggravated robbery; first degree burglary; theft; false imprisonment; and use of stun guns. Felix was charged federally with unlawful flight to avoid prosecution by the District of Colorado. A federal warrant was issued for his arrest on February 15, 2013.</p>",
+          "reward_max": 0,
+          "ncic": "W846850911",
+          "aliases": [
+              "Omar Felix",
+              "Omar Felix Gonzales"
+          ],
+          "height_max": 66,
+          "dates_of_birth_used": [
+              "December 1, 1978"
+          ],
+          "height_min": 66,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/additional/ulises-omar-felix/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "occupations": null,
+          "publication": "2014-09-11T07:00:00",
+          "description": "Unlawful Flight to Avoid Prosecution - Aggravated Robbery of a Controlled Substance, Aggravated Robbery, First Degree Burglary, Theft, False Imprisonment, Use of Stun Guns",
+          "race_raw": "White (Hispanic)",
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": "Mexico",
+          "reward_min": 0,
+          "weight_max": 160,
+          "sex": "Male",
+          "@id": "https://api.fbi.gov/@wanted-person/d6553f45-3e90-4eda-ae25-97e3383cb0f8"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Additional Violent Crimes"
+          ],
+          "languages": null,
+          "path": "/wanted/additional/barry-james-deemer",
+          "weight_min": 240,
+          "details": null,
+          "status": "na",
+          "possible_states": [
+              "US-HI",
+              "US-KY",
+              "US-PA"
+          ],
+          "eyes": "green",
+          "hair": "brown",
+          "legat_names": null,
+          "eyes_raw": "Green",
+          "field_offices": [
+              "pittsburgh"
+          ],
+          "weight": "240 pounds",
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": "<p>Deemer plays multiple musical instruments, including the accordion. He is known to frequent auto shows and gun shows, as well as flea markets. He may travel to Carlyle, Pennsylvania, and Covington, Kentucky to attend these shows.</p>\r\n<p>Deemer may be traveling with his girlfriend, Sally Ann Suttle. She is described as a White female with a Date of Birth of October 29, 1956. She may work as a nurse and has previously lived in Hawaii. She is not a fugitive from the law.</p>",
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/additional/barry-james-deemer",
+          "nationality": "American",
+          "uid": "af25d4edcfebc05ac462b218cbbed1bc",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "scars_and_marks": "Deemer has scars on his right wrist and right ankle.",
+          "race": "white",
+          "hair_raw": "Brown",
+          "modified": "2016-08-04T16:01:39+00:00",
+          "title": "BARRY JAMES DEEMER",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/additional/barry-james-deemer/@@images/image/large",
+                  "caption": null,
+                  "original": "https://www.fbi.gov/wanted/additional/barry-james-deemer/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/additional/barry-james-deemer/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/additional/barry-james-deemer/deemer_bj2.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/additional/barry-james-deemer/deemer_bj2.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/additional/barry-james-deemer/deemer_bj2.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/additional/barry-james-deemer/deemer_bj3.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/additional/barry-james-deemer/deemer_bj3.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/additional/barry-james-deemer/deemer_bj3.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/additional/barry-james-deemer/deemer-age-pro.jpg/@@images/image/large",
+                  "caption": "Age Progressed Photograph - 2014",
+                  "original": "https://www.fbi.gov/wanted/additional/barry-james-deemer/deemer-age-pro.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/additional/barry-james-deemer/deemer-age-pro.jpg/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": null,
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": "<p>Barry James Deemer is wanted for his alleged attempt to solicit an individual to assist in the murder of his ex-girlfriend in Westmoreland County, Pennsylvania, in late October of 1995. Deemer allegedly supplied an individual with an unregistered, semi-automatic pistol and ammunition to be used in the murder of the woman.</p>\r\n<p> </p>\r\n<p>Deemer was charged via a criminal complaint in the Commonwealth of Pennsylvania in Westmoreland County on October 24, 1995, for criminal solicitation to commit murder, violation of the Uniform Firearms Act - possession of a firearm without a license, violation of the Uniform Firearms Act - lending of a firearm without a license, and violation of the Uniform Firearms Act - sale or transfer of a firearm to an unlicensed person. Deemer was arrested and released after posting bond. On November 8, 1996, a bench warrant was issued for Deemer for failure to appear after he did not appear for pretrial motions. On February 4, 1997, another bench warrant was issued for Deemer for failure to appear after he did not appear for a status conference. Finally, on February 21, 1997, a criminal complaint and federal arrest warrant were issued for Deemer in the Western District of Pennsylvania, Pittsburgh, Pennsylvania, for moving and traveling in interstate commerce with the intent to avoid prosecution for the crime of criminal attempt to commit homicide.</p>",
+          "reward_max": 0,
+          "ncic": "W984713307",
+          "aliases": null,
+          "height_max": 69,
+          "dates_of_birth_used": [
+              "December 16, 1944"
+          ],
+          "height_min": 69,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/additional/barry-james-deemer/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "occupations": [
+              "Deemer has been known to sell items at flea markets. These items are usually knock-offs and fakes."
+          ],
+          "publication": "2010-08-31T20:05:00",
+          "description": "Unlawful Flight to Avoid Prosecution - Criminal Attempt to Commit Homicide",
+          "race_raw": "White",
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": "Pennsylvania",
+          "reward_min": 0,
+          "weight_max": 240,
+          "sex": "Male",
+          "@id": "https://api.fbi.gov/@wanted-person/af25d4edcfebc05ac462b218cbbed1bc"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Additional Violent Crimes"
+          ],
+          "languages": null,
+          "path": "/wanted/additional/david-anthony-durham",
+          "weight_min": 160,
+          "details": null,
+          "status": "na",
+          "possible_states": [
+              "US-CA",
+              "US-OR"
+          ],
+          "eyes": "blue",
+          "hair": "brown",
+          "legat_names": null,
+          "eyes_raw": "Blue",
+          "field_offices": [
+              "portland"
+          ],
+          "weight": "160 to 185 pounds",
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": "<p>Durham is known to possess survival skills. He was wearing full green camouflage at the time of his disappearance, as well as tan or dark boots, and a dark-colored beret. In the past, he has expressed a desire to travel or is believed to have traveled to California, the Caribbean, and Thailand.</p>",
+          "possible_countries": [
+              "THA",
+              "USA"
+          ],
+          "url": "https://www.fbi.gov/wanted/additional/david-anthony-durham",
+          "nationality": "American",
+          "uid": "1d6a63df5843d3ebcc8eb8ebfed7d1a8",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "scars_and_marks": "None known",
+          "race": "white",
+          "hair_raw": "Blondish Brown - Long",
+          "modified": "2016-08-04T16:01:39+00:00",
+          "title": "DAVID ANTHONY DURHAM",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/additional/david-anthony-durham/@@images/image/large",
+                  "caption": null,
+                  "original": "https://www.fbi.gov/wanted/additional/david-anthony-durham/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/additional/david-anthony-durham/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/additional/david-anthony-durham/durham2010.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/additional/david-anthony-durham/durham2010.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/additional/david-anthony-durham/durham2010.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/additional/david-anthony-durham/durham2.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/additional/david-anthony-durham/durham2.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/additional/david-anthony-durham/durham2.jpg/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": "The FBI is offering a reward of up to $10,000 for information leading to the location and arrest of David Anthony Durham.",
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": "<p>David Anthony Durham is wanted for his alleged involvement in the shooting of a police officer in Lincoln City, Oregon. At approximately 11:00 p.m. on January 23, 2011, the police officer pulled over an SUV for a traffic violation. During the traffic stop, the driver of the vehicle, later identified as Durham, shot the officer multiple times and critically wounded him. Durham then fled the area in the vehicle. A police chase ensued and Durham exchanged gunfire with officers before abandoning his vehicle in Waldport, Oregon.</p>\r\n<p> </p>\r\n<p>A local arrest warrant was issued for Durham in the Circuit Court of the State of Oregon for the County of Lincoln on January 27, 2011, and he was charged with the various violations listed above. A federal arrest warrant was issued in the United States District Court in Portland, Oregon, on January 29, 2011, and Durham was charged with unlawful flight to avoid prosecution.</p>",
+          "reward_max": 10000,
+          "ncic": "W602055000",
+          "aliases": null,
+          "height_max": 75,
+          "dates_of_birth_used": [
+              "March 11, 1967"
+          ],
+          "height_min": 75,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/additional/david-anthony-durham/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "occupations": [
+              "Unknown"
+          ],
+          "publication": "2011-02-01T18:35:00",
+          "description": "Unlawful Flight to Avoid Prosecution - Attempted Aggravated Murder (4 counts), Attempted Murder (10 counts), Assault in the First Degree, Assaulting a Public Safety Officer, Unlawful Use of a Weapon (12 counts), Recklessly Endangering Another (10 counts), Menacing (10 counts), Attempted Assault in the First Degree (9 counts), Assault in the Second Degree (3 counts), Attempted Assault on a Public Safety Officer (3 counts), Fleeing or Attempting to Elude a Police Officer (3 counts), Reckless Driving, Assault in the Third Degree",
+          "race_raw": "White",
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": "Oregon",
+          "reward_min": 0,
+          "weight_max": 185,
+          "sex": "Male",
+          "@id": "https://api.fbi.gov/@wanted-person/1d6a63df5843d3ebcc8eb8ebfed7d1a8"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Additional Violent Crimes"
+          ],
+          "languages": null,
+          "path": "/wanted/additional/murray-gordon-waller",
+          "weight_min": 190,
+          "details": null,
+          "status": "na",
+          "possible_states": [
+              "US-AL"
+          ],
+          "eyes": "green",
+          "hair": "blond",
+          "legat_names": null,
+          "eyes_raw": "Green",
+          "field_offices": [
+              "mobile"
+          ],
+          "weight": "190 pounds",
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": "<p>Waller is believed to have fled from the United States to the Philippines. He enjoys visiting Internet chat rooms.</p>",
+          "possible_countries": [
+              "PHL",
+              "USA"
+          ],
+          "url": "https://www.fbi.gov/wanted/additional/murray-gordon-waller",
+          "nationality": "American",
+          "uid": "3e8fe84b028a39f66fc7b9a0bc4ba9e8",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS AND AN ESCAPE RISK",
+          "scars_and_marks": "None known",
+          "race": "white",
+          "hair_raw": "Blond",
+          "modified": "2016-08-04T16:01:39+00:00",
+          "title": "MURRAY GORDON WALLER",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/additional/murray-gordon-waller/@@images/image/large",
+                  "caption": "Photograph taken in 2006",
+                  "original": "https://www.fbi.gov/wanted/additional/murray-gordon-waller/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/additional/murray-gordon-waller/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": null,
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": "<p>From 2001 to 2006, Murray Gordon Waller was the Executive Director of the Alabama Safety Institute, Inc. in Mobile. This was a court referral program that monitored young men placed on formal probation by the court. During this time, Waller made threats to a probationer who was under his direct supervision. The probationer was ordered to perform deviate sex acts for and with Waller or go back to jail. Waller also used his home computer to find other men on the Internet and had the probationer to meet them and determine their suitability for sex acts.</p>\r\n<p> </p>\r\n<p>In March of 2006, Waller was indicted for extortion first degree (2 counts) and extortion second degree (3 counts), and a warrant was issued for his arrest. On March 31, 2006, Waller was arrested and released on bond. Waller appeared for his arraignment hearing in May of 2006, however, he failed to appear for his status hearing in August of 2006. Waller's status hearing was rescheduled for September 7, 2006, but he failed to appear.</p>\r\n<p> </p>\r\n<p>A state arrest warrant was issued by the Alabama Circuit Court of Mobile County on September 7, 2006, after Waller failed to appear on the extortion charges. Waller was charged federally with unlawful flight to avoid prosecution by the United States District Court, Southern District of Alabama, and on September 15, 2006, a federal warrant was issued for his arrest.</p>\r\n<p> </p>\r\n<p>Waller's trial was scheduled for September 18, 2006, but he did not appear. In November of 2007, Waller was tried in absentia in Mobile, Alabama. He was found guilty on all charges.</p>",
+          "reward_max": 0,
+          "ncic": "W341095931",
+          "aliases": [
+              "Gordon Waller",
+              "Murray G. Waller",
+              "Gordan Murray Waller",
+              "Robert Charles Johnson",
+              "Bert Coners"
+          ],
+          "height_max": 72,
+          "dates_of_birth_used": [
+              "February 25, 1947"
+          ],
+          "height_min": 72,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/additional/murray-gordon-waller/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "occupations": [
+              "Probation Program Director"
+          ],
+          "publication": "2010-08-31T22:25:00",
+          "description": "Unlawful Flight to Avoid Prosecution - Failure to Appear (Extortion)",
+          "race_raw": "White",
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": "Mobile, Alabama",
+          "reward_min": 0,
+          "weight_max": 190,
+          "sex": "Male",
+          "@id": "https://api.fbi.gov/@wanted-person/3e8fe84b028a39f66fc7b9a0bc4ba9e8"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Additional Violent Crimes"
+          ],
+          "languages": null,
+          "path": "/wanted/additional/ashley-cynthia-montalvo",
+          "weight_min": 125,
+          "details": null,
+          "status": "na",
+          "possible_states": null,
+          "eyes": "brown",
+          "hair": "brown",
+          "legat_names": null,
+          "eyes_raw": "Brown",
+          "field_offices": [
+              "denver"
+          ],
+          "weight": "125 pounds",
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": "<p>Montalvo and her common-law husband, <a data-val=\"https://www.fbi.gov/wanted/additional/ulises-omar-felix\" href=\"https://www.fbi.gov/wanted/additional/ulises-omar-felix\" data-linktype=\"external\" data-urltype=\"/view\">Ulises Omar Felix</a>, may have fled to Arizona or Mexico with their two young boys. Felix is also considered a fugitive with a current federal unlawful flight to avoid prosecution warrant.</p>",
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/additional/ashley-cynthia-montalvo",
+          "nationality": null,
+          "uid": "0f1f71db-2c11-4813-9d3c-04730710e9d8",
+          "warning_message": null,
+          "scars_and_marks": "Montalvo has a scar on her abdomen.",
+          "race": "white",
+          "hair_raw": "Brown",
+          "modified": "2016-08-04T16:01:38+00:00",
+          "title": "ASHLEY CYNTHIA MONTALVO",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/additional/ashley-cynthia-montalvo/@@images/image/large",
+                  "caption": "Photograph taken in 2011",
+                  "original": "https://www.fbi.gov/wanted/additional/ashley-cynthia-montalvo/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/additional/ashley-cynthia-montalvo/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": null,
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": "<p>On September 28, 2011, Ashley Montalvo, was arrested for the following charges: aggravated robbery of a controlled substance; aggravated robbery; first degree burglary; theft; false imprisonment; and use of stun guns. Montalvo’s charges stemmed from her assistance and involvement in a violent home invasion robbery allegedly conducted by her common law husband, <a data-val=\"https://www.fbi.gov/wanted/additional/ulises-omar-felix\" href=\"https://www.fbi.gov/wanted/additional/ulises-omar-felix\" data-linktype=\"external\" data-urltype=\"/view\">Ulises Omar Felix</a>, in San Miguel County, Colorado. She was released from jail on May 2, 2012, when she pled guilty to robbery in the state of Colorado and was sentenced to time served in jail. Upon release, Montalvo was sentenced to probation for a period of 3 years. Montalvo allegedly violated her probation and is believed to have fled to Arizona or Mexico with her two young boys. As a result, she was charged federally with unlawful flight to avoid prosecution by the District of Colorado. A federal warrant was issued for her arrest on February 15, 2013.</p>",
+          "reward_max": 0,
+          "ncic": "W066813036",
+          "aliases": null,
+          "height_max": 61,
+          "dates_of_birth_used": [
+              "April 28, 1984"
+          ],
+          "height_min": 61,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/additional/ashley-cynthia-montalvo/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "occupations": null,
+          "publication": "2014-09-12T07:00:00",
+          "description": "Unlawful Flight to Avoid Prosecution - Probation Violation (Aggravated Robbery of a Controlled Substance, Aggravated Robbery, First Degree Burglary, Theft, False Imprisonment, Use of  Stun Guns)",
+          "race_raw": "White",
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": "Japan (U.S. military installation)",
+          "reward_min": 0,
+          "weight_max": 125,
+          "sex": "Female",
+          "@id": "https://api.fbi.gov/@wanted-person/0f1f71db-2c11-4813-9d3c-04730710e9d8"
+      },
+      {
+          "dates_of_birth_used": [
+              "March 14, 1999"
+          ],
+          "images": [
+              {
+                  "caption": "Wesley Morgan at age 2",
+                  "large": "https://www.fbi.gov/wanted/kidnap/wesley-dale-morgan/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/wesley-dale-morgan/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/kidnap/wesley-dale-morgan/@@images/image"
+              },
+              {
+                  "caption": "Photograph age-progressed to 12 years old",
+                  "large": "https://www.fbi.gov/wanted/kidnap/wesley-dale-morgan/morgan_wd_age-progressed-12.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/wesley-dale-morgan/morgan_wd_age-progressed-12.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/kidnap/wesley-dale-morgan/morgan_wd_age-progressed-12.jpg"
+              },
+              {
+                  "caption": "Photograph age-progressed to 15 years old",
+                  "large": "https://www.fbi.gov/wanted/kidnap/wesley-dale-morgan/morgan_w_ageprog15yrs.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/wesley-dale-morgan/morgan_w_ageprog15yrs.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/kidnap/wesley-dale-morgan/morgan_w_ageprog15yrs.jpg"
+              }
+          ],
+          "details": "<p>Wesley Dale Morgan has been missing from his home in Clinton, Louisiana, since May 15, 2001. Morgan, who was a toddler at that time, was reportedly last seen playing on the front porch of his home at approximately 9:45 that Tuesday morning.</p>",
+          "warning_message": null,
+          "build": null,
+          "person_classification": "Victim",
+          "complexion": null,
+          "race": "white",
+          "occupations": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": null,
+          "legat_names": null,
+          "modified": "2016-08-04T15:15:12+00:00",
+          "status": "na",
+          "publication": "2014-02-05T07:00:00",
+          "weight": "35 pounds (at the time of his disappearance)",
+          "caution": null,
+          "possible_states": [
+              "US-LA"
+          ],
+          "scars_and_marks": null,
+          "race_raw": "White",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/kidnap/wesley-dale-morgan/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "field_offices": [
+              "neworleans"
+          ],
+          "nationality": "American",
+          "weight_min": 35,
+          "age_range": null,
+          "uid": "f422d6c2-5b39-488e-a83e-89012a5c56f7",
+          "eyes_raw": "Blue",
+          "height_max": 36,
+          "height_min": 36,
+          "aliases": null,
+          "reward_text": "The FBI is offering a $10,000 reward for information leading to the location of Wesley Dale Morgan.",
+          "description": "May 15, 2001\r\nClinton, Louisiana",
+          "title": "WESLEY DALE MORGAN",
+          "possible_countries": null,
+          "hair_raw": "Sandy",
+          "remarks": null,
+          "weight_max": 35,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/kidnap/wesley-dale-morgan",
+          "ncic": null,
+          "eyes": "blue",
+          "sex": "Male",
+          "coordinates": [],
+          "path": "/wanted/kidnap/wesley-dale-morgan",
+          "place_of_birth": "Louisiana",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Kidnappings and Missing Persons"
+          ],
+          "additional_information": null,
+          "reward_max": 10000,
+          "@id": "https://api.fbi.gov/@wanted-person/f422d6c2-5b39-488e-a83e-89012a5c56f7"
+      },
+      {
+          "dates_of_birth_used": [
+              "September 9, 2002"
+          ],
+          "images": [
+              {
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/kidnap/kyron-richard-horman/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/kyron-richard-horman/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/kidnap/kyron-richard-horman/@@images/image"
+              },
+              {
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/kidnap/kyron-richard-horman/horman_kr2.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/kyron-richard-horman/horman_kr2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/kidnap/kyron-richard-horman/horman_kr2.jpg"
+              },
+              {
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/kidnap/kyron-richard-horman/horman_kr3.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/kyron-richard-horman/horman_kr3.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/kidnap/kyron-richard-horman/horman_kr3.jpg"
+              }
+          ],
+          "details": "<p>Kyron Richard Horman has been missing from Skyline Elementary School in Portland, Oregon, since June 4, 2010. He was last seen that morning after attending a science fair at the school.</p>",
+          "warning_message": null,
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "white",
+          "occupations": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "legat_names": null,
+          "modified": "2016-08-04T14:58:08+00:00",
+          "status": "na",
+          "publication": "2010-09-10T09:20:00",
+          "weight": "50 pounds",
+          "caution": null,
+          "possible_states": [
+              "US-OR"
+          ],
+          "scars_and_marks": null,
+          "race_raw": "White",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/kidnap/kyron-richard-horman/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "field_offices": [
+              "portland"
+          ],
+          "nationality": null,
+          "weight_min": 50,
+          "age_range": null,
+          "uid": "8789e8f4116633bd872efd3b514ecd0b",
+          "eyes_raw": "Blue",
+          "height_max": 44,
+          "height_min": 44,
+          "aliases": null,
+          "reward_text": null,
+          "description": "June 4, 2010\r\nPortland, Oregon",
+          "title": "KYRON RICHARD HORMAN",
+          "possible_countries": null,
+          "hair_raw": "Brown",
+          "remarks": "<p>Kyron was last seen wearing a black T-shirt with the letters \"CSI\" in green and a handprint graphic on it, black cargo pants, white socks, and black Skechers sneakers with orange trim. He wears metal framed glasses.</p>",
+          "weight_max": 50,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/kidnap/kyron-richard-horman",
+          "ncic": null,
+          "eyes": "blue",
+          "sex": "Male",
+          "coordinates": [],
+          "path": "/wanted/kidnap/kyron-richard-horman",
+          "place_of_birth": "Oregon",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Kidnappings and Missing Persons"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/8789e8f4116633bd872efd3b514ecd0b"
+      },
+      {
+          "dates_of_birth_used": [
+              "June 1, 1979"
+          ],
+          "images": [
+              {
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/kidnap/kristen-modafferi/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/kristen-modafferi/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/kidnap/kristen-modafferi/@@images/image"
+              },
+              {
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/kidnap/kristen-modafferi/modafferi_k2.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/kristen-modafferi/modafferi_k2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/kidnap/kristen-modafferi/modafferi_k2.jpg"
+              },
+              {
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/kidnap/kristen-modafferi/modafferi_k3.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/kristen-modafferi/modafferi_k3.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/kidnap/kristen-modafferi/modafferi_k3.jpg"
+              }
+          ],
+          "details": "<p>Kristen Modafferi was last seen on the afternoon of June 23, 1997, at the coffee shop where she was working in the Crocker Galleria Mall in San Francisco, California. The then eighteen-year-old had completed her freshman year of college in North Carolina and had recently moved to the San Francisco area to attend summer school at the University of California at Berkeley. She was living in Oakland. She has not been seen or heard from since.</p>",
+          "warning_message": null,
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "white",
+          "occupations": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "legat_names": null,
+          "modified": "2016-08-04T14:49:58+00:00",
+          "status": "na",
+          "publication": "2010-09-13T11:25:00",
+          "weight": "140 pounds",
+          "caution": null,
+          "possible_states": [
+              "US-CA",
+              "US-CT",
+              "US-NC"
+          ],
+          "scars_and_marks": null,
+          "race_raw": "White",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/kidnap/kristen-modafferi/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "field_offices": [
+              "sanfrancisco"
+          ],
+          "nationality": null,
+          "weight_min": 140,
+          "age_range": null,
+          "uid": "5b78372c7421b004b05fdbb1d4177fb9",
+          "eyes_raw": "Brown",
+          "height_max": 66,
+          "height_min": 66,
+          "aliases": null,
+          "reward_text": null,
+          "description": "June 23, 1997\r\nSan Francisco, California",
+          "title": "KRISTEN MODAFFERI",
+          "possible_countries": null,
+          "hair_raw": "Dark Brown - Shoulder Length",
+          "remarks": "<p>Kristen Modafferi has distinctive dimples on her face. She likes photography, painting, and other creative activities. She was not known to own any vehicles and generally used public transportation. She may have been carrying a green Jansport brand backpack with a black mesh pocket in the front.</p>",
+          "weight_max": 140,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/kidnap/kristen-modafferi",
+          "ncic": null,
+          "eyes": "brown",
+          "sex": "Female",
+          "coordinates": [],
+          "path": "/wanted/kidnap/kristen-modafferi",
+          "place_of_birth": "Danbury, Connecticut",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Kidnappings and Missing Persons"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/5b78372c7421b004b05fdbb1d4177fb9"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Criminal Enterprise Investigations"
+          ],
+          "languages": null,
+          "path": "/wanted/cei/jeremias-lopez-lira",
+          "weight_min": 150,
+          "details": null,
+          "status": "na",
+          "possible_states": null,
+          "eyes": "brown",
+          "hair": "black",
+          "legat_names": null,
+          "eyes_raw": "Brown",
+          "field_offices": [
+              "kansascity"
+          ],
+          "weight": "Approximately 150 pounds",
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": null,
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/cei/jeremias-lopez-lira",
+          "nationality": null,
+          "uid": "12546e41-501a-49a1-b92a-d0a71513964d",
+          "warning_message": null,
+          "scars_and_marks": null,
+          "race": "hispanic",
+          "hair_raw": "Black",
+          "modified": "2016-08-04T14:01:41+00:00",
+          "title": "JEREMIAS LOPEZ-LIRA",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/cei/jeremias-lopez-lira/@@images/image/large",
+                  "caption": null,
+                  "original": "https://www.fbi.gov/wanted/cei/jeremias-lopez-lira/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/cei/jeremias-lopez-lira/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/cei/jeremias-lopez-lira/lopez-lira_j-2.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/cei/jeremias-lopez-lira/lopez-lira_j-2.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/cei/jeremias-lopez-lira/lopez-lira_j-2.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/cei/jeremias-lopez-lira/lopez-lira_j-3.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/cei/jeremias-lopez-lira/lopez-lira_j-3.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/cei/jeremias-lopez-lira/lopez-lira_j-3.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/cei/jeremias-lopez-lira/lopez-lira_j-4.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/cei/jeremias-lopez-lira/lopez-lira_j-4.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/cei/jeremias-lopez-lira/lopez-lira_j-4.jpg/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": null,
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": "<p>Beginning in approximately 2012, FBI Kansas City and the Jackson County Missouri Drug Task Force investigated a group of individuals allegedly responsible for distributing crack cocaine, powder cocaine, marijuana, and methamphetamine in the greater Kansas City metropolitan area. The organization was linked to a Mexican Transnational Criminal Organization. In January of 2015, approximately 14 of the subjects were indicted and most of them were arrested. However, Jeremias Lopez-Lira eluded capture and is believed to be in Santa Cruz, Mexico.</p>\r\n<p> </p>\r\n<p>An arrest warrant was issued for Jeremias Lopez-Lira on January 27, 2015, by the United States District Court, Western District of Missouri, after Lopez-Lira was charged federally with money laundering conspiracy and conspiracy to distribute marijuana.</p>",
+          "reward_max": 0,
+          "ncic": "W312823822",
+          "aliases": null,
+          "height_max": 65,
+          "dates_of_birth_used": [
+              "April 21, 1981"
+          ],
+          "height_min": 65,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/cei/jeremias-lopez-lira/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "occupations": null,
+          "publication": "2015-02-27T07:00:00",
+          "description": "Money Laundering Conspiracy and Conspiracy to Distribute Marijuana",
+          "race_raw": "White (Hispanic)",
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": "Unknown",
+          "reward_min": 0,
+          "weight_max": 150,
+          "sex": "Male",
+          "@id": "https://api.fbi.gov/@wanted-person/12546e41-501a-49a1-b92a-d0a71513964d"
+      },
+      {
+          "dates_of_birth_used": [
+              "September 6, 2013"
+          ],
+          "images": [
+              {
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/kidnap/arianna-fitts/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/arianna-fitts/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/kidnap/arianna-fitts/@@images/image"
+              },
+              {
+                  "caption": "Arianna Fitts was reported missing from the San Francisco, California, area on April 5, 2016. On April 8, 2016, Arianna's mother, Nicole Fitts, was found murdered and buried in a public park in San Francisco. It is believed that Arianna was not with her mother when she was killed.",
+                  "large": "https://www.fbi.gov/wanted/kidnap/arianna-fitts/fitts4.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/arianna-fitts/fitts4.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/kidnap/arianna-fitts/fitts4.jpg"
+              },
+              {
+                  "caption": "Arianna Fitts was reported missing from the San Francisco, California, area on April 5, 2016. On April 8, 2016, Arianna's mother, Nicole Fitts, was found murdered and buried in a public park in San Francisco. It is believed that Arianna was not with her mother when she was killed.",
+                  "large": "https://www.fbi.gov/wanted/kidnap/arianna-fitts/fitts2.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/arianna-fitts/fitts2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/kidnap/arianna-fitts/fitts2.jpg"
+              },
+              {
+                  "caption": "Arianna Fitts was reported missing from the San Francisco, California, area on April 5, 2016. On April 8, 2016, Arianna's mother, Nicole Fitts, was found murdered and buried in a public park in San Francisco. It is believed that Arianna was not with her mother when she was killed.",
+                  "large": "https://www.fbi.gov/wanted/kidnap/arianna-fitts/fitts3.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/arianna-fitts/fitts3.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/kidnap/arianna-fitts/fitts3.jpg"
+              }
+          ],
+          "details": "<p>Arianna Fitts was reported missing from the San Francisco, California, area on April 5, 2016. She was last seen in Oakland, California, in February of 2016. On April 8, 2016, Arianna's mother, Nicole Fitts, was found murdered and buried in a public park in San Francisco. It is believed that Arianna was not with her mother when she was killed.</p>",
+          "warning_message": null,
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "black",
+          "occupations": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "black",
+          "legat_names": null,
+          "modified": "2016-08-04T01:10:17+00:00",
+          "status": "na",
+          "publication": "2016-07-14T17:29:00",
+          "weight": "45 pounds (at time of disappearance)",
+          "caution": null,
+          "possible_states": null,
+          "scars_and_marks": null,
+          "race_raw": "Black",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/kidnap/arianna-fitts/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "field_offices": [
+              "sanfrancisco"
+          ],
+          "nationality": "American",
+          "weight_min": 45,
+          "age_range": null,
+          "uid": "5a658d3f82d6415c9b9d612058c5c805",
+          "eyes_raw": "Brown",
+          "height_max": 24,
+          "height_min": 24,
+          "aliases": null,
+          "reward_text": null,
+          "description": "Oakland, California\r\nFebruary of 2016",
+          "title": "ARIANNA FITTS",
+          "possible_countries": null,
+          "hair_raw": "Black",
+          "remarks": null,
+          "weight_max": 45,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/kidnap/arianna-fitts",
+          "ncic": null,
+          "eyes": "brown",
+          "sex": "Female",
+          "coordinates": [],
+          "path": "/wanted/kidnap/arianna-fitts",
+          "place_of_birth": "California",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Kidnappings and Missing Persons"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/5a658d3f82d6415c9b9d612058c5c805"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Seeking Information - Terrorism"
+          ],
+          "languages": [
+              "Arabic"
+          ],
+          "path": "/wanted/terrorinfo/sirajuddin-haqqani",
+          "weight_min": 150,
+          "details": "<p>Sirajuddin Haqqani is wanted for questioning in connection with the January 2008 attack on a hotel in Kabul, Afghanistan, that killed six people, including an American citizen. He is believed to have coordinated and participated in cross-border attacks against United States and coalition forces in Afghanistan. Haqqani also allegedly was involved in the planning of the assassination attempt on Afghan President Hamid Karzai in 2008.</p>",
+          "status": "na",
+          "possible_states": null,
+          "eyes": "brown",
+          "hair": "black",
+          "legat_names": null,
+          "eyes_raw": "Brown or Black",
+          "field_offices": [
+              "washingtondc"
+          ],
+          "weight": "150 pounds",
+          "age_min": null,
+          "build": "Medium",
+          "person_classification": "Main",
+          "remarks": "<p>Haqqani is thought to stay in Pakistan, specifically the Miram Shah, North Waziristan, Pakistan, area. He is reportedly a senior leader of the Haqqani network, and maintains close ties to the Taliban and al Qaeda. Haqqani is a specially designated global terrorist.</p>",
+          "possible_countries": [
+              "AFG",
+              "PAK"
+          ],
+          "url": "https://www.fbi.gov/wanted/terrorinfo/sirajuddin-haqqani",
+          "nationality": "Unknown",
+          "uid": "2f29ae89310c95494df8920b75d63995",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "scars_and_marks": "None known",
+          "race": null,
+          "hair_raw": "Black",
+          "modified": "2016-08-04T01:07:19+00:00",
+          "title": "SIRAJUDDIN HAQQANI",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/terrorinfo/sirajuddin-haqqani/@@images/image/large",
+                  "caption": null,
+                  "original": "https://www.fbi.gov/wanted/terrorinfo/sirajuddin-haqqani/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/terrorinfo/sirajuddin-haqqani/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/terrorinfo/sirajuddin-haqqani/haqqani_s2.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/terrorinfo/sirajuddin-haqqani/haqqani_s2.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/terrorinfo/sirajuddin-haqqani/haqqani_s2.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/terrorinfo/sirajuddin-haqqani/haqqani_s3.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/terrorinfo/sirajuddin-haqqani/haqqani_s3.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/terrorinfo/sirajuddin-haqqani/haqqani_s3.jpg/@@images/image/thumb"
+              }
+          ],
+          "complexion": "Light with wrinkles",
+          "reward_text": "The Rewards For Justice Program, United States Department of State, is offering a reward of up to $5 million for information leading directly to the arrest of Sirajuddin Haqqani.",
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": null,
+          "reward_max": 4999999,
+          "ncic": null,
+          "aliases": [
+              "Siraj",
+              "Khalifa",
+              "Mohammad Siraj",
+              "Sarajadin",
+              "Cirodjiddin",
+              "Seraj",
+              "Arkani",
+              "Khalifa (Boss) Shahib",
+              "Halifa",
+              "Ahmed Zia",
+              "Sirajuddin Jallaloudine Haqqani",
+              "Siraj Haqqani",
+              "Serajuddin Haqani",
+              "Siraj Haqani",
+              "Saraj Haqani"
+          ],
+          "height_max": 67,
+          "dates_of_birth_used": [
+              "Circa 1973 - 1980"
+          ],
+          "height_min": 67,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/terrorinfo/sirajuddin-haqqani/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "occupations": null,
+          "publication": "2010-08-02T00:00:00",
+          "description": "",
+          "race_raw": null,
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": "Afghanistan/Pakistan",
+          "reward_min": 1000000,
+          "weight_max": 150,
+          "sex": "Male",
+          "@id": "https://api.fbi.gov/@wanted-person/2f29ae89310c95494df8920b75d63995"
+      },
+      {
+          "dates_of_birth_used": [
+              "July 11, 1958"
+          ],
+          "images": [
+              {
+                  "caption": "Photograph taken in 2007",
+                  "large": "https://www.fbi.gov/wanted/cac/juan-najera-quezada/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/cac/juan-najera-quezada/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cac/juan-najera-quezada/@@images/image"
+              }
+          ],
+          "details": null,
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "hispanic",
+          "occupations": [
+              "Quezada previously worked in landscaping."
+          ],
+          "suspects": null,
+          "age_min": null,
+          "hair": "black",
+          "legat_names": null,
+          "modified": "2016-08-03T17:02:57+00:00",
+          "status": "na",
+          "publication": "2014-04-28T07:00:00",
+          "weight": "155 to 165 pounds",
+          "caution": "<p>Juan Najera Quezada is being sought for his alleged involvement in the sexual abuse of a six-year-old female in Chicago, Illinois in June of 2007.</p>\r\n<p> </p>\r\n<p>In August of 2007, Quezada was arrested by Chicago Police Department officers after he was identified as having sexually assaulted the child, who lived in the same apartment building as him. At the time of the incident, Quezada resided with a woman who ran a daycare service out of the home. Quezada failed to appear following his release on bond from the arrest, and is also being sought for questioning in connection with the sexual assault of another child while out on bond.</p>\r\n<p> </p>\r\n<p>Quezada was charged with aggravated criminal sexual abuse of a child by the Circuit Court of Cook County, Illinois, and a state warrant was issued for his arrest on September 30, 2008. On February 9, 2012, Quezada was charged in the United States District Court, Northern District of Illinois, Eastern Division, Chicago, Illinois, with unlawful flight to avoid prosecution and a warrant was issued for his arrest.</p>",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "race_raw": "White (Hispanic)",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/cac/juan-najera-quezada/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "field_offices": [
+              "chicago"
+          ],
+          "nationality": "Mexican",
+          "weight_min": 155,
+          "age_range": null,
+          "uid": "a075d4d5-2fb2-41f9-9f1a-2184c3eae013",
+          "eyes_raw": "Brown",
+          "height_max": 64,
+          "height_min": 60,
+          "aliases": [
+              "Juan Quezada"
+          ],
+          "reward_text": null,
+          "description": "Unlawful Flight to Avoid Prosecution - Aggravated Criminal Sexual Abuse of a Child",
+          "title": "JUAN NAJERA QUEZADA",
+          "possible_countries": null,
+          "hair_raw": "Black",
+          "remarks": "<p>Quezada previously lived in Chicago, Illinois, and may have ties to Northwest Indiana and Mexico.</p>",
+          "weight_max": 165,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/cac/juan-najera-quezada",
+          "ncic": "W914441557",
+          "eyes": "brown",
+          "sex": "Male",
+          "coordinates": [],
+          "path": "/wanted/cac/juan-najera-quezada",
+          "place_of_birth": "Mexico",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Crimes Against Children"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/a075d4d5-2fb2-41f9-9f1a-2184c3eae013"
+      },
+      {
+          "dates_of_birth_used": [
+              "July 29, 1967"
+          ],
+          "images": [
+              {
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/@@images/image"
+              },
+              {
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/godbolt-molder_rl2.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/godbolt-molder_rl2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/godbolt-molder_rl2.jpg"
+              },
+              {
+                  "caption": "Age-progressed photograph",
+                  "large": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/godbolt-molder_rl3.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/godbolt-molder_rl3.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/godbolt-molder_rl3.jpg"
+              }
+          ],
+          "details": null,
+          "warning_message": "SHOULD BE CONSIDERED AN ESCAPE RISK",
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "black",
+          "occupations": [
+              "Police dispatcher",
+              "Convenience store clerk"
+          ],
+          "suspects": null,
+          "age_min": null,
+          "hair": "black",
+          "legat_names": null,
+          "modified": "2016-08-02T21:39:17+00:00",
+          "status": "na",
+          "publication": "2010-09-07T22:55:00",
+          "weight": "123 pounds",
+          "caution": "<p>Rosemary Lorraine Godbolt-Molder is being sought for the murder of her 5-year-old stepson. On August 22, 1989, Rayshon Omar Alexxander was transported from his residence in Fort Bliss, Texas, to an army medical center with injuries. Alexxander was pronounced dead on the same date by physicians at the medical facility. Additionally, examination of the victim disclosed numerous bruises throughout his body, which indicated a fractured skull and possible physical abuse. An autopsy later revealed that Alexxander died as a result of extensive child abuse.</p>\r\n<p> </p>\r\n<p>Godbolt-Molder was arrested and indicted by a Western District of Texas Federal Grand Jury at El Paso, Texas, for homicide on a government reservation. Godbolt-Molder was released on bond on October 4, 1989. After Godbolt-Molder violated the terms of her release, by failing to report to her Pre-trial Service Officer while her trial was still pending, her bond was revoked on April 27, 1993. A federal warrant was then issued by the United States District Court, Western District of Texas, for Godbolt-Molder's arrest.</p>",
+          "possible_states": [
+              "US-NJ",
+              "US-TX"
+          ],
+          "scars_and_marks": "Rosemary Lorraine Godbolt-Molder has scars on both knees.",
+          "race_raw": "Black",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "field_offices": [
+              "elpaso"
+          ],
+          "nationality": "American",
+          "weight_min": 123,
+          "age_range": null,
+          "uid": "6497efc926f214c3f18d95e51aad5946",
+          "eyes_raw": "Brown",
+          "height_max": 61,
+          "height_min": 61,
+          "aliases": [
+              "Rosemary L. Godbolt",
+              "Rosemary Lorraine Molder",
+              "Rosemary Lorraine Davis",
+              "Rosemary L. Molder",
+              "Rosemary Lorraine Godbolt",
+              "Ann Godbolt",
+              "R. Lorraine Godbolt-Molder"
+          ],
+          "reward_text": null,
+          "description": "Crime On a Government Reservation - Homicide",
+          "title": "ROSEMARY LORRAINE GODBOLT-MOLDER",
+          "possible_countries": [
+              "USA"
+          ],
+          "hair_raw": "Black",
+          "remarks": "<p>Rosemary Lorraine Godbolt-Molder has ties to Trenton, New Jersey; and the Fort Bliss and El Paso, Texas, areas. On occasion, Godbolt-Molder is known to gamble.</p>",
+          "weight_max": 123,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder",
+          "ncic": "W016118996",
+          "eyes": "brown",
+          "sex": "Female",
+          "coordinates": [],
+          "path": "/wanted/murders/rosemary-lorraine-godbolt-molder",
+          "place_of_birth": "New Jersey",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Violent Crime - Murders"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/6497efc926f214c3f18d95e51aad5946"
+      },
+      {
+          "dates_of_birth_used": [
+              "September 18, 1942"
+          ],
+          "images": [
+              {
+                  "caption": "Photograph taken in 1974",
+                  "large": "https://www.fbi.gov/wanted/murders/william-junior-jordan/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/william-junior-jordan/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/william-junior-jordan/@@images/image"
+              },
+              {
+                  "caption": "Age-enhanced photograph taken in 1996",
+                  "large": "https://www.fbi.gov/wanted/murders/william-junior-jordan/jordan_wj2.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/william-junior-jordan/jordan_wj2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/william-junior-jordan/jordan_wj2.jpg"
+              }
+          ],
+          "details": null,
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "white",
+          "occupations": [
+              "Heavy Equipment Operator",
+              "Brick Mason"
+          ],
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "legat_names": null,
+          "modified": "2016-08-02T21:36:42+00:00",
+          "status": "na",
+          "publication": "2010-09-07T22:55:00",
+          "weight": "135 pounds",
+          "caution": "<p>William Junior Jordan is wanted for the brutal murder of a man in Georgia. On March 6, 1974, James Rouse, Jr., was taken hostage by Jordan and an accomplice and was forced to drive to a nearby lake. There, after walking into the woods, he was shot in the head with a shotgun. Jordan and the accomplice were arrested and, in June of 1974, were convicted and sentenced to life in prison on charges of murder and armed robbery. On August 6, 1984, Jordan escaped from the Wayne Correctional Institution in Odum, Georgia, and has not been seen since that time.</p>",
+          "possible_states": [
+              "US-GA",
+              "US-NC"
+          ],
+          "scars_and_marks": "Jordan has the following tattoos: a skeleton on his right forearm, a spider on his right upper arm, a cross with the word \"Sybil\" on his left forearm, and the word \"Louise\" on his left leg. He also has numerous scars and some discolorations on his forehead.",
+          "race_raw": "White",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/william-junior-jordan/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "field_offices": [
+              "atlanta"
+          ],
+          "nationality": "American",
+          "weight_min": 135,
+          "age_range": null,
+          "uid": "ac5d78cfc9ed705821dfac0cfbf610bf",
+          "eyes_raw": "Blue",
+          "height_max": 74,
+          "height_min": 74,
+          "aliases": [
+              "Buddy Jordan",
+              "Bill Jordan",
+              "William Jordan",
+              "William B. Jordan",
+              "William Bell Jordan",
+              "William Bill Jordan"
+          ],
+          "reward_text": null,
+          "description": "Unlawful Flight to Avoid Prosecution - Murder",
+          "title": "WILLIAM JUNIOR JORDAN",
+          "possible_countries": [
+              "JOR"
+          ],
+          "hair_raw": "Brown",
+          "remarks": "<p>Jordan has a visual defect which is corrected with glasses.</p>",
+          "weight_max": 135,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/murders/william-junior-jordan",
+          "ncic": "W479560391",
+          "eyes": "blue",
+          "sex": "Male",
+          "coordinates": [],
+          "path": "/wanted/murders/william-junior-jordan",
+          "place_of_birth": "Wadesboro, North Carolina",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Violent Crime - Murders"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/ac5d78cfc9ed705821dfac0cfbf610bf"
+      },
+      {
+          "dates_of_birth_used": [
+              "November 17, 1970"
+          ],
+          "images": [
+              {
+                  "caption": "Photograph taken in 1996",
+                  "large": "https://www.fbi.gov/wanted/murders/warren-stern/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/warren-stern/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/warren-stern/@@images/image"
+              },
+              {
+                  "caption": "Age-enhanced Sketch",
+                  "large": "https://www.fbi.gov/wanted/murders/warren-stern/stern_w2.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/warren-stern/stern_w2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/warren-stern/stern_w2.jpg"
+              }
+          ],
+          "details": null,
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "white",
+          "occupations": [
+              "Mechanic",
+              "Car salesman"
+          ],
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "legat_names": null,
+          "modified": "2016-08-02T18:48:10+00:00",
+          "status": "na",
+          "publication": "2010-09-01T16:05:00",
+          "weight": "170 pounds",
+          "caution": "<p>Warren Stern is wanted for his alleged involvement in the murder of a man in Los Angeles, California, on April 21, 1996. Stern is alleged to have arrived uninvited to a party and attempted to pick fights with partygoers. Stern was thrown out of the party, but allegedly returned later and confronted the victim. The two exchanged words, Stern left, and the victim followed. The victim was found lying in an alley with a stab wound to one of his lungs. He died before reaching the hospital.</p>\r\n<p> </p>\r\n<p>On September 5, 1996, Stern was charged with murder and an arrest warrant was issued by the Los Angeles County Court. A federal arrest warrant was issued on September 30, 1996, by the United States District Court, Central District of California, after Stern was charged with unlawful flight to avoid prosecution.</p>",
+          "possible_states": [
+              "US-CA"
+          ],
+          "scars_and_marks": "Stern has a tattoo of a skull on his left rear shoulder, the word \"Joey\" on his left arm, the letters \"WS\" on his right arm, and either the word \"Raider\" or a picture of a raider on his left shoulder.",
+          "race_raw": "White",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/warren-stern/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "field_offices": [
+              "losangeles"
+          ],
+          "nationality": "South African",
+          "weight_min": 170,
+          "age_range": null,
+          "uid": "06a9e0f28517e21bce399ceb3878d3f7",
+          "eyes_raw": "Blue",
+          "height_max": 71,
+          "height_min": 71,
+          "aliases": [
+              "Stern Warren",
+              "Wade Stone",
+              "\"Warren\""
+          ],
+          "reward_text": null,
+          "description": "Unlawful Flight to Avoid Prosecution - Murder",
+          "title": "WARREN STERN",
+          "possible_countries": [
+              "ZAF",
+              "USA"
+          ],
+          "hair_raw": "Brown",
+          "remarks": "<p>Stern may wear corrective lenses. He is believed to have fled the United States, and has ties to South Africa, England, and South America.</p>",
+          "weight_max": 170,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/murders/warren-stern",
+          "ncic": "W957817015",
+          "eyes": "blue",
+          "sex": "Male",
+          "coordinates": [],
+          "path": "/wanted/murders/warren-stern",
+          "place_of_birth": "South Africa",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Violent Crime - Murders"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/06a9e0f28517e21bce399ceb3878d3f7"
+      },
+      {
+          "dates_of_birth_used": [
+              "November 17, 1974",
+              "November 17, 1979",
+              "November 10, 1977",
+              "November 17, 1977"
+          ],
+          "images": [
+              {
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/murders/juan-carlos-mayorga/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/juan-carlos-mayorga/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/juan-carlos-mayorga/@@images/image"
+              },
+              {
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/murders/juan-carlos-mayorga/mayorga_jc2.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/juan-carlos-mayorga/mayorga_jc2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/juan-carlos-mayorga/mayorga_jc2.jpg"
+              },
+              {
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/murders/juan-carlos-mayorga/mayorga_jc3.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/juan-carlos-mayorga/mayorga_jc3.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/juan-carlos-mayorga/mayorga_jc3.jpg"
+              },
+              {
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/murders/juan-carlos-mayorga/mayorga_jc4.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/juan-carlos-mayorga/mayorga_jc4.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/juan-carlos-mayorga/mayorga_jc4.jpg"
+              }
+          ],
+          "details": null,
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS AND AN ESCAPE RISK",
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "hispanic",
+          "occupations": [
+              "Construction worker"
+          ],
+          "suspects": null,
+          "age_min": null,
+          "hair": "black",
+          "legat_names": null,
+          "modified": "2016-08-02T18:13:26+00:00",
+          "status": "na",
+          "publication": "2010-09-01T16:05:00",
+          "weight": "150 pounds",
+          "caution": "<p>Juan Carlos Mayorga is wanted for his alleged involvement in the murder of a man in DeKalb County, Georgia, on July 8, 2002. It is alleged that the murder stemmed from a jealousy that Mayorga had against the victim over a female acquaintance. Mayorga allegedly confronted the victim at a residence and shot him to death with an AK-47 assault rifle. A local arrest warrant charging Mayorga with murder was issued on July 9, 2002, in DeKalb County, Georgia. A federal arrest warrant charging Mayorga with unlawful flight to avoid prosecution was issued on November 12, 2002, in the Northern District of Georgia, Atlanta, Georgia.</p>",
+          "possible_states": [
+              "US-GA",
+              "US-NC"
+          ],
+          "scars_and_marks": "None known",
+          "race_raw": "White (Hispanic)",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/juan-carlos-mayorga/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "field_offices": [
+              "atlanta"
+          ],
+          "nationality": "Mexican",
+          "weight_min": 150,
+          "age_range": null,
+          "uid": "71aab09ed115339fc50a25332fa57ffb",
+          "eyes_raw": "Brown",
+          "height_max": 66,
+          "height_min": 66,
+          "aliases": [
+              "Juan C. Mayorga",
+              "Juan C. Mayrga",
+              "Juan Mayorga",
+              "Filiberto Mayorga",
+              "Fyliberto Mayorga"
+          ],
+          "reward_text": null,
+          "description": "Unlawful Flight to Avoid Prosecution - Murder",
+          "title": "JUAN CARLOS MAYORGA",
+          "possible_countries": [
+              "MEX"
+          ],
+          "hair_raw": "Black",
+          "remarks": "<p>Mayorga has ties to the state of North Carolina and Hidalgo, Mexico.</p>",
+          "weight_max": 150,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/murders/juan-carlos-mayorga",
+          "ncic": "W145682139",
+          "eyes": "brown",
+          "sex": "Male",
+          "coordinates": [],
+          "path": "/wanted/murders/juan-carlos-mayorga",
+          "place_of_birth": "Mexico",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Violent Crime - Murders"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/71aab09ed115339fc50a25332fa57ffb"
+      },
+      {
+          "dates_of_birth_used": [
+              "July 27, 1967",
+              "February 27, 1967"
+          ],
+          "images": [
+              {
+                  "caption": "Photograph taken in 2010",
+                  "large": "https://www.fbi.gov/wanted/murders/joe-matthew-constance/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/joe-matthew-constance/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/joe-matthew-constance/@@images/image"
+              },
+              {
+                  "caption": "Photograph taken circa 1998",
+                  "large": "https://www.fbi.gov/wanted/murders/joe-matthew-constance/constance_jm1.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/joe-matthew-constance/constance_jm1.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/joe-matthew-constance/constance_jm1.jpg"
+              }
+          ],
+          "details": null,
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "white",
+          "occupations": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "legat_names": null,
+          "modified": "2016-08-02T13:19:48+00:00",
+          "status": "na",
+          "publication": "2015-06-02T07:00:00",
+          "weight": "190 to 220 pounds",
+          "caution": "<p>Joe Matthew Constance, a convicted felon, is wanted for his alleged involvement in the murder of his estranged wife in Calcasieu Parish, Louisiana, on June 5, 2011. It is alleged that Constance forcefully entered his estranged wife's residence, confronted other occupants of the residence, threatened to shoot two of the occupants and physically assaulted another one while demanding to know the location of his estranged wife. When Constance located his estranged wife in another area of her residence, he allegedly shot and killed her, and fled the area.</p>\r\n<p> </p>\r\n<p>That same day, Constance was charged with first degree murder, aggravated assault and aggravated burglary, by the Fourteenth Judiciary District Court, State of Louisiana, Parish of Calcasieu, and a state warrant was issued for his arrest. A federal arrest warrant was issued by the United States District Court for the Western District of Louisiana on October 16, 2014, after Constance was charged federally with unlawful flight to avoid prosecution.</p>",
+          "possible_states": [
+              "US-LA"
+          ],
+          "scars_and_marks": "Constance has a tattoo on his left arm and a mole on his neck.",
+          "race_raw": "White",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/joe-matthew-constance/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "field_offices": [
+              "neworleans"
+          ],
+          "nationality": "American",
+          "weight_min": 190,
+          "age_range": null,
+          "uid": "d0280905-52b5-4c98-90be-599cd73ad306",
+          "eyes_raw": "Brown",
+          "height_max": 74,
+          "height_min": 74,
+          "aliases": [
+              "Joe Constance",
+              "Joe M. Constance",
+              "Joe Mathew Constance",
+              "Joseph Constance"
+          ],
+          "reward_text": "The FBI is offering a reward of up to $20,000 for information leading to the arrest and conviction of Joe Matthew Constance.",
+          "description": "Unlawful Flight to Avoid Prosecution - First Degree Murder, Aggravated Assault, Aggravated Burglary",
+          "title": "JOE MATTHEW CONSTANCE",
+          "possible_countries": null,
+          "hair_raw": "Brown",
+          "remarks": null,
+          "weight_max": 220,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/murders/joe-matthew-constance",
+          "ncic": "W982172903",
+          "eyes": "brown",
+          "sex": "Male",
+          "coordinates": [],
+          "path": "/wanted/murders/joe-matthew-constance",
+          "place_of_birth": "Louisiana",
+          "reward_min": 10000,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Violent Crime - Murders"
+          ],
+          "additional_information": null,
+          "reward_max": 99999,
+          "@id": "https://api.fbi.gov/@wanted-person/d0280905-52b5-4c98-90be-599cd73ad306"
+      }
+  ],
+  "page": 46
+}

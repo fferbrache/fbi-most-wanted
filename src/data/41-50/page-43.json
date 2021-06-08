@@ -1,0 +1,1792 @@
+{
+  "total": 1003,
+  "items": [
+      {
+          "dates_of_birth_used": [
+              "December 19, 1949"
+          ],
+          "images": [
+              {
+                  "caption": "Photograph taken in 1991",
+                  "large": "https://www.fbi.gov/wanted/murders/hazel-leota-head/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/hazel-leota-head/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/hazel-leota-head/@@images/image"
+              },
+              {
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/murders/hazel-leota-head/head_hl2.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/hazel-leota-head/head_hl2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/hazel-leota-head/head_hl2.jpg"
+              }
+          ],
+          "details": null,
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "white",
+          "occupations": [
+              "Waitress"
+          ],
+          "suspects": null,
+          "age_min": null,
+          "hair": "blond",
+          "legat_names": null,
+          "modified": "2017-01-19T14:14:38+00:00",
+          "status": "na",
+          "publication": "2010-09-07T22:55:00",
+          "weight": "120 pounds",
+          "caution": "<p>Hazel Leota Head is wanted for the murder of a man in Benton, Louisiana, in 1998. The victim was shot in the back of the head while he sat in his trailer. In September of 1998, a state arrest warrant was issued by the 26th Judicial District Court, Bossier Parish, Louisiana, after Head was charged with murder. A federal arrest warrant was subsequently issued in the Western District of Louisiana in January of 1999, after Head was charged with unlawful flight to avoid prosecution.</p>\r\n<p> </p>\r\n<p>In addition, Head has been wanted since 1991 by local law enforcement authorities in Nebraska where she is charged with arson and failure to appear. She is accused there of burning down a boyfriend's trailer.</p>",
+          "possible_states": [
+              "US-CO",
+              "US-LA",
+              "US-NE",
+              "US-OH"
+          ],
+          "scars_and_marks": "Head has a scar near her right eye.",
+          "race_raw": "White",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/hazel-leota-head/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "field_offices": [
+              "neworleans"
+          ],
+          "nationality": "American",
+          "weight_min": 120,
+          "age_range": null,
+          "uid": "7be307c2ed3d787d22d4db52056afde6",
+          "eyes_raw": "Green/Hazel",
+          "height_max": 62,
+          "height_min": 62,
+          "aliases": [
+              "Hazel Morgan",
+              "Hazel L. Morgan",
+              "Willow Shield",
+              "Willow L. Shields",
+              "Williow Shield",
+              "Hazel Woodman",
+              "Hazel Leota Woodman",
+              "Hazel Foley",
+              "Hazel Leota Foley",
+              "Kelly Morgan",
+              "Hazel Spurbeck",
+              "Willow Spurbeck",
+              "Hazel Haynes",
+              "Hazel Leota Haynes",
+              "Hazel Vincent",
+              "Deianna Ray",
+              "Hazel Fatuch",
+              "Hazel Leota Fatuch",
+              "Treasa Tess Jean Coyle",
+              "Treasa Tess Venable",
+              "Tess Venable",
+              "Tess Coyle",
+              "Treasa Venable",
+              "Treasa Coyle",
+              "Hazel Leota Sperbeck",
+              "Willow Sperbeck",
+              "Deianna Wray"
+          ],
+          "reward_text": "The FBI is offering a reward of up to $5,000 for information leading to the arrest of Hazel Head.",
+          "description": "Unlawful Flight To Avoid Prosecution - First Degree Murder; Arson; Failure To Appear",
+          "title": "HAZEL LEOTA HEAD",
+          "possible_countries": [
+              "USA"
+          ],
+          "hair_raw": "Blonde (reddish)",
+          "remarks": "<p>Head has a gap between her front teeth. She may have gained weight. Head often works as a waitress, hangs out at truck stops, and likes to travel with truck drivers. She is a smoker, likes to drink vodka, and frequents casinos. She has been married several times, possibly to as many as 10 men, and is known to place personal ads seeking men. Head has a history of moving and living throughout the United States, and may have ties to Wheat Ridge, Colorado.</p>",
+          "weight_max": 120,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/murders/hazel-leota-head",
+          "ncic": "W131834307",
+          "eyes": "green",
+          "sex": "Female",
+          "coordinates": [],
+          "path": "/wanted/murders/hazel-leota-head",
+          "place_of_birth": "Dayton, Ohio",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Violent Crime - Murders"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/7be307c2ed3d787d22d4db52056afde6"
+      },
+      {
+          "eyes": "blue",
+          "sex": "Male",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/wcc/john-anthony-quinn",
+          "ncic": "W648052561",
+          "path": "/wanted/wcc/john-anthony-quinn",
+          "locations": null,
+          "weight_min": 225,
+          "place_of_birth": null,
+          "reward_min": 0,
+          "subjects": [
+              "White-Collar Crime"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "9f1ad7ac37a84797a3d29f47b4cda8aa",
+          "eyes_raw": "Blue",
+          "height_max": 68,
+          "nationality": null,
+          "age_range": null,
+          "height_min": 68,
+          "aliases": [
+              "Dale Calvin Cluckey, Dale Clucke, Jack Quinn, James Sullivan"
+          ],
+          "reward_text": null,
+          "possible_countries": null,
+          "description": "Unlawful Flight to Avoid Prosecution - First Degree Grand Theft",
+          "caution": null,
+          "weight_max": 225,
+          "legat_names": null,
+          "race": "white",
+          "modified": "2017-01-19T13:48:05+00:00",
+          "publication": "2016-11-08T12:23:00",
+          "weight": "225 pounds",
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": "Quinn has a \"U.S. Marine style\" tattoo on his left bicep and a scar on the back of his neck.",
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/wcc/john-anthony-quinn/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/wcc/john-anthony-quinn/@@images/image",
+                  "caption": "Photograph taken in the 1980s",
+                  "large": "https://www.fbi.gov/wanted/wcc/john-anthony-quinn/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/wcc/john-anthony-quinn/quinn-1-09-06-16.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/wcc/john-anthony-quinn/quinn-1-09-06-16.jpg",
+                  "caption": "Age progressed photographs to 76 years old",
+                  "large": "https://www.fbi.gov/wanted/wcc/john-anthony-quinn/quinn-1-09-06-16.jpg/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/wcc/john-anthony-quinn/quinn-beard-1-09-06-16.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/wcc/john-anthony-quinn/quinn-beard-1-09-06-16.jpg",
+                  "caption": "Age progressed photographs to 76 years old.",
+                  "large": "https://www.fbi.gov/wanted/wcc/john-anthony-quinn/quinn-beard-1-09-06-16.jpg/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/wcc/john-anthony-quinn/quinn2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/wcc/john-anthony-quinn/quinn2.jpg",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/wcc/john-anthony-quinn/quinn2.jpg/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/wcc/john-anthony-quinn/quinntattoo.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/wcc/john-anthony-quinn/quinntattoo.jpg",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/wcc/john-anthony-quinn/quinntattoo.jpg/@@images/image/large"
+              }
+          ],
+          "remarks": "<p>Quinn is known to have ties to Maryland.</p>",
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/wcc/john-anthony-quinn/download.pdf"
+              }
+          ],
+          "field_offices": [
+              "miami"
+          ],
+          "coordinates": [],
+          "race_raw": "White",
+          "hair_raw": "Brown",
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": [
+              "January 7, 1940",
+              "June 26, 1952"
+          ],
+          "details": "<p>John Anthony Quinn is wanted for his alleged involvement in the theft of $1.3 million in cash from Federal Protection Service, an armored car service in Riviera Beach, Florida, in April of 1988. Quinn was employed as the manager and is alleged to have stolen the money from the company's vault. On April 12, 1988, the state of Florida, in and for Palm Beach County, Florida, issued an arrest warrant for Quinn on one count of Grand Theft. A federal arrest warrant was issued for Quinn in the United States District Court, Southern District of Florida, on June 21, 1988, after he was charged with Unlawful Flight to Avoid Prosecution.  </p>",
+          "warning_message": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "title": "JOHN ANTHONY QUINN",
+          "occupations": null,
+          "@id": "https://api.fbi.gov/@wanted-person/9f1ad7ac37a84797a3d29f47b4cda8aa"
+      },
+      {
+          "dates_of_birth_used": [
+              "June 3, 1964"
+          ],
+          "images": [
+              {
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/parental-kidnappings/reiko-nakata-greenberg-collins/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/parental-kidnappings/reiko-nakata-greenberg-collins/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/parental-kidnappings/reiko-nakata-greenberg-collins/@@images/image"
+              },
+              {
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/parental-kidnappings/reiko-nakata-greenberg-collins/greenberg-collins_2.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/parental-kidnappings/reiko-nakata-greenberg-collins/greenberg-collins_2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/parental-kidnappings/reiko-nakata-greenberg-collins/greenberg-collins_2.jpg"
+              }
+          ],
+          "details": "<p>On June 16, 2008, Reiko Nakata Greenberg-Collins is believed to have left Santa Ana, California, with her six-year-old son, <a data-linktype=\"external\" href=\"https://www.fbi.gov/wanted/parental-kidnappings/reiko-nakata-greenberg-collins/keisuke-christian-collins\" data-val=\"https://www.fbi.gov/wanted/parental-kidnappings/reiko-nakata-greenberg-collins/keisuke-christian-collins\" data-urltype=\"/view\">Keisuke Christian Collins</a>, and travelled to Japan. At the time, Greenberg-Collins was involved in a custody dispute with the child's father, who was originally scheduled for visitation that evening.</p>\r\n<p> </p>\r\n<p>A warrant for child abduction was issued by Orange County, California, on August 26, 2008. A federal arrest warrant was issued on September 15, 2008, by the United States District Court, Central District of California, after Greenberg-Collins was charged with unlawful flight to avoid prosecution.</p>",
+          "warning_message": null,
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "asian",
+          "occupations": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "black",
+          "legat_names": null,
+          "modified": "2017-01-12T14:50:19+00:00",
+          "status": "na",
+          "publication": "2010-09-24T20:30:00",
+          "weight": "110 pounds",
+          "caution": null,
+          "possible_states": [
+              "US-CA"
+          ],
+          "scars_and_marks": null,
+          "race_raw": "Asian",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/parental-kidnappings/reiko-nakata-greenberg-collins/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "field_offices": [
+              "losangeles"
+          ],
+          "nationality": null,
+          "weight_min": 110,
+          "age_range": null,
+          "uid": "5fcdd7dad088f7d1aefbbec2454f2557",
+          "eyes_raw": "Brown",
+          "height_max": 65,
+          "height_min": 65,
+          "aliases": [
+              "Reiko Nakata-Greenberg",
+              "Reiko Nakata",
+              "Reiko Greenberg",
+              "Reiko Nakata Greenberg",
+              "Reiko Nakata Greenberg-Collin"
+          ],
+          "reward_text": null,
+          "description": "Unlawful Flight To Avoid Prosecution - Child Abduction",
+          "title": "REIKO NAKATA GREENBERG-COLLINS",
+          "possible_countries": [
+              "JPN",
+              "USA"
+          ],
+          "hair_raw": "Black",
+          "remarks": "<p>Reiko Greenberg-Collins is believed to be residing in Japan with Keisuke Collins.</p>",
+          "weight_max": 110,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/parental-kidnappings/reiko-nakata-greenberg-collins",
+          "ncic": null,
+          "eyes": "brown",
+          "sex": "Female",
+          "coordinates": [],
+          "path": "/wanted/parental-kidnappings/reiko-nakata-greenberg-collins",
+          "place_of_birth": "Japan",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Parental Kidnapping"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/5fcdd7dad088f7d1aefbbec2454f2557"
+      },
+      {
+          "dates_of_birth_used": [
+              "September 22, 1961",
+              "September 23, 1961",
+              "September 24, 1961",
+              "October 18, 1969"
+          ],
+          "images": [
+              {
+                  "caption": "Photograph taken circa 2000",
+                  "large": "https://www.fbi.gov/wanted/parental-kidnappings/ahmed-elsafi/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/parental-kidnappings/ahmed-elsafi/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/parental-kidnappings/ahmed-elsafi/@@images/image"
+              },
+              {
+                  "caption": "Photograph taken circa 1998",
+                  "large": "https://www.fbi.gov/wanted/parental-kidnappings/ahmed-elsafi/elsafi_a2.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/parental-kidnappings/ahmed-elsafi/elsafi_a2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/parental-kidnappings/ahmed-elsafi/elsafi_a2.jpg"
+              }
+          ],
+          "details": "<p>Ahmed Elsafi is wanted for fleeing the United States with his two children, Sarah Raquel Elsafi and Tariq Ahmed Elsafi, whom he had joint custody of with his ex-wife. On Friday, May 9, 2003, Ahmed Elsafi picked up his two children in Miami, Florida for a scheduled visitation. Elsafi failed to return the children to their mother as scheduled on May 11, 2003. Elsafi's ex-wife reported Elsafi to local law enforcement authorities in Miami, Florida, on May 14, 2003. Elsafi's ex-wife subsequently filed for and received a temporary sole custody order for the children.</p>\r\n<p> </p>\r\n<p>Elsafi was charged locally in the 11th Judicial Circuit of Florida with child removal from state. On April 8, 2004, a Federal Grand Jury in Miami-Dade County, Florida, indicted Ahmed Elsafi for international parental kidnapping. That same day, a federal warrant was issued by the United States District Court, Southern District of Florida, for Elsafi's arrest.</p>\r\n<p> </p>\r\n<p>As of 2012, Elsafi remains at large. His children, Sarah and Tariq, have not been located, but they have reached the age of 18 and are legally considered adults in the state of Florida.</p>",
+          "warning_message": null,
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "black",
+          "occupations": [
+              "Ahmed Elsafi has worked as a mechanic for an airline in the United States.  He also may be a pilot."
+          ],
+          "suspects": null,
+          "age_min": null,
+          "hair": "black",
+          "legat_names": null,
+          "modified": "2017-01-12T14:42:12+00:00",
+          "status": "na",
+          "publication": "2010-09-28T11:40:00",
+          "weight": "205 pounds",
+          "caution": null,
+          "possible_states": [
+              "US-FL"
+          ],
+          "scars_and_marks": null,
+          "race_raw": "Black",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/parental-kidnappings/ahmed-elsafi/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "field_offices": [
+              "miami"
+          ],
+          "nationality": null,
+          "weight_min": 205,
+          "age_range": null,
+          "uid": "6b2277537b5a289f1f48dae27242556b",
+          "eyes_raw": "Brown",
+          "height_max": 71,
+          "height_min": 71,
+          "aliases": [
+              "Ahmed Abdalla",
+              "Mohamed Abdullah",
+              "Ahmed Mohamed",
+              "Ahmed Hamood",
+              "Hamood Ashemimry",
+              "Mohamed Elsafi"
+          ],
+          "reward_text": null,
+          "description": "International Parental Kidnapping; Child Removal From State",
+          "title": "AHMED ELSAFI",
+          "possible_countries": [
+              "SAU",
+              "SDN",
+              "USA",
+              "YEM"
+          ],
+          "hair_raw": "Black",
+          "remarks": "<p>Ahmed Elsafi may have travelled to Sudan, Saudi Arabia or Yemen. Elsafi should be considered an escape risk.</p>",
+          "weight_max": 205,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/parental-kidnappings/ahmed-elsafi",
+          "ncic": null,
+          "eyes": "brown",
+          "sex": "Male",
+          "coordinates": [],
+          "path": "/wanted/parental-kidnappings/ahmed-elsafi",
+          "place_of_birth": "Sudan",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Parental Kidnapping"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/6b2277537b5a289f1f48dae27242556b"
+      },
+      {
+          "dates_of_birth_used": [
+              "June 22, 1980"
+          ],
+          "images": [
+              {
+                  "caption": "Photograph taken in 2006",
+                  "large": "https://www.fbi.gov/wanted/parental-kidnappings/aline-rivas-vera/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/parental-kidnappings/aline-rivas-vera/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/parental-kidnappings/aline-rivas-vera/@@images/image"
+              }
+          ],
+          "details": "<p>Aline Rivas-Vera is wanted for international parental kidnapping in Platte City, Missouri. On March 15, 2006, law enforcement was notified that <a data-linktype=\"external\" href=\"https://www.fbi.gov/wanted/parental-kidnappings/aline-rivas-vera/chloe-combe-rivas\" data-val=\"https://www.fbi.gov/wanted/parental-kidnappings/aline-rivas-vera/chloe-combe-rivas\" data-urltype=\"/view\">Chloe Combe-Rivas</a> was allegedly taken to Mexico by her mother without the consent or knowledge of Chloe's father. At the time of this incident, Rivas-Vera and her husband were in the process of getting a divorce. Additionally, on July 3, 2006, Rivas-Vera's husband was granted sole custody, in the divorce decree, of their daughter Chloe. Aline Rivas-Vera was charged with international parental kidnapping on June 28, 2006, and a federal arrest warrant was issued by the United States District Court, Western District of Missouri.</p>",
+          "warning_message": null,
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "hispanic",
+          "occupations": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "legat_names": null,
+          "modified": "2017-01-12T14:31:50+00:00",
+          "status": "na",
+          "publication": "2010-09-27T07:20:00",
+          "weight": "110 pounds",
+          "caution": null,
+          "possible_states": [
+              "US-MO"
+          ],
+          "scars_and_marks": null,
+          "race_raw": "White (Hispanic)",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/parental-kidnappings/aline-rivas-vera/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "field_offices": [
+              "kansascity"
+          ],
+          "nationality": null,
+          "weight_min": 110,
+          "age_range": null,
+          "uid": "aaea73be062d88ae2414c422ddcb4050",
+          "eyes_raw": "Green",
+          "height_max": 64,
+          "height_min": 64,
+          "aliases": [
+              "Aline Combe",
+              "Aline Combe-Rivas"
+          ],
+          "reward_text": null,
+          "description": "International Parental Kidnapping",
+          "title": "ALINE RIVAS-VERA",
+          "possible_countries": [
+              "MEX",
+              "USA"
+          ],
+          "hair_raw": "Brown",
+          "remarks": "<p>Aline Rivas-Vera is a citizen of Mexico, who entered the United States in either 2001 or 2002 with a student visa. Additionally, she may be an escape risk and have suicidal tendencies.</p>",
+          "weight_max": 110,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/parental-kidnappings/aline-rivas-vera",
+          "ncic": null,
+          "eyes": "green",
+          "sex": "Female",
+          "coordinates": [],
+          "path": "/wanted/parental-kidnappings/aline-rivas-vera",
+          "place_of_birth": "Mexico",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Parental Kidnapping"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/aaea73be062d88ae2414c422ddcb4050"
+      },
+      {
+          "dates_of_birth_used": [
+              "April 29, 1970"
+          ],
+          "images": [
+              {
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/parental-kidnappings/francina-dacanay-fernandez/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/parental-kidnappings/francina-dacanay-fernandez/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/parental-kidnappings/francina-dacanay-fernandez/@@images/image"
+              },
+              {
+                  "caption": "Photograph taken in 2003",
+                  "large": "https://www.fbi.gov/wanted/parental-kidnappings/francina-dacanay-fernandez/fernandezfrancina2.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/parental-kidnappings/francina-dacanay-fernandez/fernandezfrancina2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/parental-kidnappings/francina-dacanay-fernandez/fernandezfrancina2.jpg"
+              }
+          ],
+          "details": "<p>During the course of their relationship, Francina Fernandez and her boyfriend had three boys, <a data-linktype=\"external\" href=\"https://www.fbi.gov/wanted/parental-kidnappings/francina-dacanay-fernandez/keoni-alexander-fernandez\" data-val=\"https://www.fbi.gov/wanted/parental-kidnappings/francina-dacanay-fernandez/keoni-alexander-fernandez\" data-urltype=\"/view\">Keoni</a>, <a data-linktype=\"external\" href=\"https://www.fbi.gov/wanted/parental-kidnappings/francina-dacanay-fernandez/mason-christopher-fernandez\" data-val=\"https://www.fbi.gov/wanted/parental-kidnappings/francina-dacanay-fernandez/mason-christopher-fernandez\" data-urltype=\"/view\">Mason</a>, and <a data-linktype=\"external\" href=\"https://www.fbi.gov/wanted/parental-kidnappings/francina-dacanay-fernandez/lance-sterling-fernandez\" data-val=\"https://www.fbi.gov/wanted/parental-kidnappings/francina-dacanay-fernandez/lance-sterling-fernandez\" data-urltype=\"/view\">Lance</a> Fernandez. The couple never married and in June of 2001 the relationship ended. The two became embroiled in a very lengthy and aggressive custody-visitation dispute in the San Diego Family Court. In early November of 2004, the mother reportedly mentioned to the father that she and the children were planning a 2-week vacation in New Zealand. He told her that the trip would violate the court orders, and Fernandez's attorney was served with a notice of an ex-parte hearing scheduled for November 8, 2004. At the hearing, a judge ordered that neither parent could take the children out of the jurisdiction of the court and that the children's passports were to be relinquished. The passports were never returned. Also, in November it was reported that Fernandez abruptly left her job and a relative filed a missing person's report for her. Fernandez may have fled with her children to the Philippines.<br /> <br /> On December 9, 2004, a state warrant was issued in the state of California, San Diego County, charging Francina Dacanay Fernandez with three counts of child abduction. A federal arrest warrant was subsequently issued on February 4, 2005, in the United States District Court, Southern District of California, charging Fernandez with international parental kidnapping.</p>",
+          "warning_message": null,
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "asian",
+          "occupations": [
+              "Paralegal"
+          ],
+          "suspects": null,
+          "age_min": null,
+          "hair": "black",
+          "legat_names": null,
+          "modified": "2017-01-12T14:30:29+00:00",
+          "status": "na",
+          "publication": "2010-09-28T13:15:00",
+          "weight": "100 pounds",
+          "caution": null,
+          "possible_states": [
+              "US-CA"
+          ],
+          "scars_and_marks": null,
+          "race_raw": "Asian",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/parental-kidnappings/francina-dacanay-fernandez/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "field_offices": [
+              "sandiego"
+          ],
+          "nationality": null,
+          "weight_min": 100,
+          "age_range": null,
+          "uid": "9bcf6e6250d11973078abf2417cca400",
+          "eyes_raw": "Brown",
+          "height_max": 63,
+          "height_min": 63,
+          "aliases": [
+              "Francina D. Fernandez",
+              "Francina Dacanay"
+          ],
+          "reward_text": null,
+          "description": "International Parental Kidnapping - Detainment or Consealment of a Child From Legal Custodian",
+          "title": "FRANCINA DACANAY FERNANDEZ",
+          "possible_countries": [
+              "NZL",
+              "PHL",
+              "USA"
+          ],
+          "hair_raw": "Black",
+          "remarks": "<p>Francina Fernandez has ties to California and the Philippines.</p>",
+          "weight_max": 100,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/parental-kidnappings/francina-dacanay-fernandez",
+          "ncic": null,
+          "eyes": "brown",
+          "sex": "Female",
+          "coordinates": [],
+          "path": "/wanted/parental-kidnappings/francina-dacanay-fernandez",
+          "place_of_birth": "Philippines",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Parental Kidnapping"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/9bcf6e6250d11973078abf2417cca400"
+      },
+      {
+          "dates_of_birth_used": [
+              "March 25, 1963"
+          ],
+          "images": [
+              {
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/parental-kidnappings/ann-kibalo/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/parental-kidnappings/ann-kibalo/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/parental-kidnappings/ann-kibalo/@@images/image"
+              }
+          ],
+          "details": "<p>Ann Kibalo is wanted for failing to return her daughter, <a data-linktype=\"external\" href=\"https://www.fbi.gov/wanted/parental-kidnappings/ann-kibalo/samantha-kibalo\" data-val=\"https://www.fbi.gov/wanted/parental-kidnappings/ann-kibalo/samantha-kibalo\" data-urltype=\"/view\">Samantha</a>, to the girl's father after a court authorized weekend visit. Kibalo's estranged husband had been awarded custody of their daughter after their divorce. Ann Kibalo was to return Samantha to her father in Suffern, New York, on February 3, 2001, but failed to do so. Neither Ann nor Samantha Kibalo have been seen since that time. On January 15, 2002, a federal arrest warrant was issued for Ann Kibalo in the United States District Court, White Plains, New York, charging her with unlawful flight to avoid prosecution.</p>",
+          "warning_message": null,
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "white",
+          "occupations": [
+              "Bookkeeper"
+          ],
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "legat_names": null,
+          "modified": "2017-01-12T14:26:39+00:00",
+          "status": "na",
+          "publication": "2010-09-28T23:35:00",
+          "weight": "120 pounds",
+          "caution": null,
+          "possible_states": [
+              "US-NY"
+          ],
+          "scars_and_marks": null,
+          "race_raw": "White",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/parental-kidnappings/ann-kibalo/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "field_offices": [
+              "newyork"
+          ],
+          "nationality": null,
+          "weight_min": 120,
+          "age_range": null,
+          "uid": "5e820cdb1635e60d1c126df6549afb8e",
+          "eyes_raw": "Blue",
+          "height_max": 60,
+          "height_min": 60,
+          "aliases": [
+              "Ann Yermak Kibalo",
+              "Ann Saul",
+              "Ann Yermak",
+              "Ann Kaplan"
+          ],
+          "reward_text": null,
+          "description": "Unlawful Flight To Avoid Prosecution - Parental Kidnapping",
+          "title": "ANN KIBALO",
+          "possible_countries": [
+              "USA"
+          ],
+          "hair_raw": "Brown",
+          "remarks": "<p>Ann Kibalo may wear eyeglasses when driving. Her last known address was in New Hyde Park, New York. The Kibalos may be traveling with a 12 pound, red, mini Spaniel dog named Vodka.</p>",
+          "weight_max": 120,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/parental-kidnappings/ann-kibalo",
+          "ncic": null,
+          "eyes": "blue",
+          "sex": "Female",
+          "coordinates": [],
+          "path": "/wanted/parental-kidnappings/ann-kibalo",
+          "place_of_birth": "New York",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Parental Kidnapping"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/5e820cdb1635e60d1c126df6549afb8e"
+      },
+      {
+          "dates_of_birth_used": [
+              "July 9, 1984"
+          ],
+          "images": [
+              {
+                  "caption": "Photograph taken in 2007",
+                  "large": "https://www.fbi.gov/wanted/parental-kidnappings/maria-belen-francesconi/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/parental-kidnappings/maria-belen-francesconi/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/parental-kidnappings/maria-belen-francesconi/@@images/image"
+              },
+              {
+                  "caption": "Photograph taken circa 2013",
+                  "large": "https://www.fbi.gov/wanted/parental-kidnappings/maria-belen-francesconi/francesconi_mb2.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/parental-kidnappings/maria-belen-francesconi/francesconi_mb2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/parental-kidnappings/maria-belen-francesconi/francesconi_mb2.jpg"
+              }
+          ],
+          "details": "<p>Maria Belen Francesconi is wanted for her alleged involvement in the kidnapping of her son, <a data-linktype=\"external\" href=\"https://www.fbi.gov/wanted/parental-kidnappings/maria-belen-francesconi/michael-alexander-reyes\" data-val=\"https://www.fbi.gov/wanted/parental-kidnappings/maria-belen-francesconi/michael-alexander-reyes\" data-urltype=\"/view\">Michael Alexander Reyes</a>, from Miami, Florida. Francesconi no longer has legal custody of Michael.</p>\r\n<p> </p>\r\n<p>On August 31, 2008, shortly after the birth of her son, Michael, Francesconi travelled to Argentina to visit family with Michael. Michael's father, Miguel Reyes, authorized the foreign travel with the agreement that Francesconi would return to the United States with their son. However, Francesconi never returned to the United States and ceased all contact with Reyes. Michael was located by Interpol in Argentina.</p>\r\n<p> </p>\r\n<p>On November 27, 2009, the Civil Court, pursuant to the Hague Convention, ordered the return of Michael to the United States. On December 21, 2010, the Supreme Court of Argentina upheld the decision of the Civil Court and ordered the return of Michael to the United States. That order has yet to be executed, and the child remains in Argentina.</p>\r\n<p> </p>\r\n<p>On March 26, 2012, the Florida Miami-Dade Family Court issued a final judgment, finding Reyes to be Michael's natural and biological father, and ordered physical and legal custody of Michael to Reyes. On June 25, 2013, Francesconi was indicted for international parental kidnapping by a Federal Grand Jury for the United States District Court, Southern District of Florida. That same day, a federal warrant was issued for Francesconi's arrest.</p>",
+          "warning_message": null,
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "hispanic",
+          "occupations": [
+              "Chef"
+          ],
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "legat_names": null,
+          "modified": "2017-01-12T14:24:46+00:00",
+          "status": "na",
+          "publication": "2014-03-08T07:00:00",
+          "weight": "110 pounds",
+          "caution": null,
+          "possible_states": [
+              "US-FL"
+          ],
+          "scars_and_marks": "Francesconi has tattoos on her back, lower abdomen, and right ankle.",
+          "race_raw": "White (Hispanic)",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/parental-kidnappings/maria-belen-francesconi/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "field_offices": [
+              "miami"
+          ],
+          "nationality": "Argentinian",
+          "weight_min": 110,
+          "age_range": null,
+          "uid": "074ce53c-b6e1-4e43-a261-f678a0a715bc",
+          "eyes_raw": "Blue",
+          "height_max": 65,
+          "height_min": 65,
+          "aliases": [
+              "Mary Bethlehem"
+          ],
+          "reward_text": null,
+          "description": "International Parental Kidnapping",
+          "title": "MARIA BELEN FRANCESCONI",
+          "possible_countries": [
+              "ARG"
+          ],
+          "hair_raw": "Brown",
+          "remarks": "<p>Francesconi enjoys fine cuisine. She may display erratic behavior. Francesconi speaks English, Spanish and Italian fluently. Francesconi has dual citizenship in Argentina and Italy. She has ties to Italy, Argentina, possibly Ecuador, and countries surrounding Argentina. She is believed to be in Argentina.</p>",
+          "weight_max": 110,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/parental-kidnappings/maria-belen-francesconi",
+          "ncic": "W547700968",
+          "eyes": "blue",
+          "sex": "Female",
+          "coordinates": [],
+          "path": "/wanted/parental-kidnappings/maria-belen-francesconi",
+          "place_of_birth": "Argentina",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Parental Kidnapping"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/074ce53c-b6e1-4e43-a261-f678a0a715bc"
+      },
+      {
+          "eyes": null,
+          "sex": null,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/seeking-info/charles-edward-carroll-jr",
+          "ncic": null,
+          "path": "/wanted/seeking-info/charles-edward-carroll-jr",
+          "locations": null,
+          "weight_min": null,
+          "place_of_birth": null,
+          "reward_min": 0,
+          "subjects": [
+              "Seeking Information"
+          ],
+          "additional_information": null,
+          "reward_max": 10000,
+          "languages": null,
+          "uid": "6eb37fad31194565b851e966fc8ee181",
+          "eyes_raw": null,
+          "height_max": null,
+          "nationality": null,
+          "age_range": null,
+          "height_min": null,
+          "aliases": [
+              "\"Butta\""
+          ],
+          "reward_text": "The FBI is offering a reward of up to $10,000 for information regarding the death of Charles Edward Carroll, Jr.",
+          "possible_countries": null,
+          "description": "Murder Victim\r\nAnnapolis, Maryland\r\nJuly 28, 2016",
+          "caution": null,
+          "weight_max": null,
+          "legat_names": null,
+          "race": null,
+          "modified": "2016-12-01T16:48:03+00:00",
+          "publication": "2016-10-24T09:10:00",
+          "weight": null,
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/charles-edward-carroll-jr/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/charles-edward-carroll-jr/@@images/image",
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/seeking-info/charles-edward-carroll-jr/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/charles-edward-carroll-jr/carrollce3.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/charles-edward-carroll-jr/carrollce3.jpg",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/charles-edward-carroll-jr/carrollce3.jpg/@@images/image/large"
+              }
+          ],
+          "remarks": null,
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/seeking-info/charles-edward-carroll-jr/download.pdf"
+              }
+          ],
+          "field_offices": [
+              "baltimore"
+          ],
+          "coordinates": [],
+          "race_raw": null,
+          "hair_raw": null,
+          "complexion": null,
+          "build": null,
+          "person_classification": "Victim",
+          "dates_of_birth_used": null,
+          "details": "<p>The Federal Bureau of Investigation and the Annapolis Police Department are asking for the public’s assistance in identifying the individual(s) responsible for the homicide of Charles Edward Carroll, Jr., in Annapolis, Maryland.</p>\r\n<p> </p>\r\n<p>On July 28, 2016, around 9:30 p.m. officers from the Annapolis Police Department responded to the 900 block of Royal Street in Annapolis, Maryland, for the report of shots fired and a vehicle crashing into a dwelling.  Upon arrival, officers found the vehicle that had crashed into a residential building.  Carroll was found shot inside the vehicle.  He was later pronounced deceased at the Anne Arundel Medical Center.  Carroll was a 25-year-old man from Baltimore, Maryland.</p>\r\n<p> </p>",
+          "warning_message": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": null,
+          "title": "CHARLES EDWARD CARROLL, JR.",
+          "occupations": null,
+          "@id": "https://api.fbi.gov/@wanted-person/6eb37fad31194565b851e966fc8ee181"
+      },
+      {
+          "dates_of_birth_used": [
+              "April 4, 1995"
+          ],
+          "images": [
+              {
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/kidnap/alexis-s.-patterson/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/alexis-s.-patterson/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/kidnap/alexis-s.-patterson/@@images/image"
+              },
+              {
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/kidnap/alexis-s.-patterson/patterson2.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/alexis-s.-patterson/patterson2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/kidnap/alexis-s.-patterson/patterson2.jpg"
+              }
+          ],
+          "details": "<p>Alexis S. Patterson was reported missing by her mother on Friday, May 3, 2002. Patterson was last seen in the area of Hi-Mount School located at 4921 West Garfield Street, Milwaukee, Wisconsin, at approximately 8:00 a.m. She was reportedly dropped off by her step-father.</p>",
+          "warning_message": null,
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "black",
+          "occupations": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "black",
+          "legat_names": null,
+          "modified": "2016-11-29T20:21:23+00:00",
+          "status": "na",
+          "publication": "2010-09-10T09:25:00",
+          "weight": "42 pounds",
+          "caution": null,
+          "possible_states": [
+              "US-WI"
+          ],
+          "scars_and_marks": null,
+          "race_raw": "Black",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/kidnap/alexis-s.-patterson/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "field_offices": [
+              "milwaukee"
+          ],
+          "nationality": null,
+          "weight_min": 42,
+          "age_range": null,
+          "uid": "2c4eac470eb91b3915807699ee4b5cf4",
+          "eyes_raw": "Brown",
+          "height_max": 44,
+          "height_min": 44,
+          "aliases": null,
+          "reward_text": null,
+          "description": "May 3, 2002\r\nMilwaukee, Wisconsin",
+          "title": "ALEXIS S. PATTERSON",
+          "possible_countries": null,
+          "hair_raw": "Black",
+          "remarks": "<p>Alexis S. Patterson was last seen wearing a red hooded jacket with a gray stripe on the sleeves, a purple shirt, light colored blue jeans, and white Nike tennis shoes. She wore her hair in two braids pulled back into one ponytail and was carrying a pink \"Barbie\" book bag.</p>",
+          "weight_max": 42,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/kidnap/alexis-s.-patterson",
+          "ncic": null,
+          "eyes": "brown",
+          "sex": "Female",
+          "coordinates": [],
+          "path": "/wanted/kidnap/alexis-s.-patterson",
+          "place_of_birth": "Milwaukee, Wisconsin",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Kidnappings and Missing Persons"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/2c4eac470eb91b3915807699ee4b5cf4"
+      },
+      {
+          "eyes": null,
+          "sex": "",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/seeking-info/john-jacoby",
+          "ncic": null,
+          "path": "/wanted/seeking-info/john-jacoby",
+          "locations": null,
+          "weight_min": null,
+          "place_of_birth": null,
+          "reward_min": 0,
+          "subjects": [
+              "Seeking Information"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "4e48fd4b-6216-44b0-8c99-e9e02d5cd36c",
+          "eyes_raw": null,
+          "height_max": null,
+          "nationality": null,
+          "age_range": null,
+          "height_min": null,
+          "aliases": null,
+          "reward_text": "The FBI is offering a reward of up to $50,000 for information leading to the arrest, prosecution, and conviction of the individual(s) responsible for the crimes listed below.",
+          "possible_countries": null,
+          "description": "Murder Victim\r\nWindsor, Colorado\r\nMay 18, 2015",
+          "caution": null,
+          "weight_max": null,
+          "legat_names": null,
+          "race": null,
+          "modified": "2016-09-21T13:37:43+00:00",
+          "publication": "2015-05-27T07:00:00",
+          "weight": null,
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/john-jacoby/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/john-jacoby/@@images/image",
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/seeking-info/john-jacoby/@@images/image/large"
+              }
+          ],
+          "remarks": "<p>John Jacoby was well known by locals and was often seen riding his bicycle around town. He worked as a part-time caretaker for the parks and recreation department and also as a bagger at King Soopers grocery.</p>",
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/seeking-info/john-jacoby/download.pdf"
+              }
+          ],
+          "field_offices": [
+              "denver"
+          ],
+          "coordinates": [],
+          "race_raw": null,
+          "hair_raw": null,
+          "complexion": null,
+          "build": null,
+          "person_classification": "Victim",
+          "dates_of_birth_used": null,
+          "details": "<p>On May 18, 2015, at approximately 10:15 a.m., 47-year-old John Jacoby was riding his bicycle (with a small trailer attached) on Weld County Road 15, north of the town of Windsor, Colorado, when he was shot two times by an unknown assailant about two miles north of Main Street. He died at the scene shortly thereafter.</p>\r\n<p> </p>\r\n<p>It has been determined that this incident is related to another shooting which occurred in nearby Fort Collins, Colorado, on April 22, 2015. In that incident, two rounds were fired at a female driver at approximately 11:15 p.m. near the intersection of Harmony Road and the southbound I-25 on-ramp. The victim survived the attack after sustaining a gunshot wound to the neck.</p>",
+          "warning_message": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": null,
+          "title": "JOHN JACOBY",
+          "occupations": null,
+          "@id": "https://api.fbi.gov/@wanted-person/4e48fd4b-6216-44b0-8c99-e9e02d5cd36c"
+      },
+      {
+          "dates_of_birth_used": [
+              "June 6, 1961"
+          ],
+          "images": [
+              {
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/kidnap/lori-ann-boffman/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/lori-ann-boffman/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/kidnap/lori-ann-boffman/@@images/image"
+              },
+              {
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/kidnap/lori-ann-boffman/boffman_l2.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/lori-ann-boffman/boffman_l2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/kidnap/lori-ann-boffman/boffman_l2.jpg"
+              }
+          ],
+          "details": "<p>Lori Boffman was last seen on August 5, 2006, at 6:30 p.m., when she left her home and took a drive in her vehicle. She did not take her purse or identification with her. Additionally, Lori was taking medication for diabetes. Her vehicle was found the next morning at 5:30 a.m. in the next town over from her home. She resided in Liberty Township, Ohio, and the vehicle was found in Youngstown, Ohio. The vehicle appeared to have been in an accident and was abandoned. Lori Boffman has not been seen or heard from since this incident.</p>",
+          "warning_message": null,
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "black",
+          "occupations": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "black",
+          "legat_names": null,
+          "modified": "2016-09-15T14:50:53+00:00",
+          "status": "na",
+          "publication": "2010-09-10T09:25:00",
+          "weight": "180 pounds (at time of disappearance)",
+          "caution": null,
+          "possible_states": [
+              "US-OH"
+          ],
+          "scars_and_marks": null,
+          "race_raw": "Black",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/kidnap/lori-ann-boffman/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "field_offices": [
+              "cleveland",
+              "dallas"
+          ],
+          "nationality": null,
+          "weight_min": 180,
+          "age_range": null,
+          "uid": "e3b085a4a4afa244f718df5dbe8f3106",
+          "eyes_raw": "Brown",
+          "height_max": 69,
+          "height_min": 69,
+          "aliases": null,
+          "reward_text": null,
+          "description": "August 5, 2006\r\nYoungstown, Ohio",
+          "title": "LORI ANN BOFFMAN",
+          "possible_countries": null,
+          "hair_raw": "Black",
+          "remarks": "<p>Lori Boffman wears her hair in dread locks. She wears glasses and has a scar on her abdomen. She may also go by the name of Lori Ann Stubbs.</p>",
+          "weight_max": 180,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/kidnap/lori-ann-boffman",
+          "ncic": null,
+          "eyes": "brown",
+          "sex": "Female",
+          "coordinates": [],
+          "path": "/wanted/kidnap/lori-ann-boffman",
+          "place_of_birth": "Youngstown, Ohio",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Kidnappings and Missing Persons"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/e3b085a4a4afa244f718df5dbe8f3106"
+      },
+      {
+          "dates_of_birth_used": [
+              "February 20, 1977"
+          ],
+          "images": [
+              {
+                  "caption": "Photograph taken in March of 1995",
+                  "large": "https://www.fbi.gov/wanted/kidnap/kristin-denise-smart/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/kristin-denise-smart/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/kidnap/kristin-denise-smart/@@images/image"
+              }
+          ],
+          "details": "<p>Kristin Denise Smart was last seen at approximately 2:00 a.m., May 25, 1996, as she was walking back to her dorm room on the California Polytechnic campus, San Luis Obispo, California from an off-campus party. Kristin was accompanied by a fellow student who stated that he left her a block from her Muir Hall dorm to go to his dorm. Kristin did not return to her room and has not contacted family or friends since that time. She did not have any identification, money, or extra clothing when she disappeared.</p>",
+          "warning_message": null,
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "white",
+          "occupations": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "blond",
+          "legat_names": null,
+          "modified": "2016-09-06T19:17:18+00:00",
+          "status": "na",
+          "publication": "2010-09-10T13:20:00",
+          "weight": "145 pounds",
+          "caution": null,
+          "possible_states": [
+              "US-CA"
+          ],
+          "scars_and_marks": null,
+          "race_raw": "White",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/kidnap/kristin-denise-smart/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "field_offices": [
+              "losangeles"
+          ],
+          "nationality": null,
+          "weight_min": 145,
+          "age_range": null,
+          "uid": "5c15918e2be404a5c2262105745fa35b",
+          "eyes_raw": "Brown",
+          "height_max": 73,
+          "height_min": 73,
+          "aliases": null,
+          "reward_text": null,
+          "description": "May 25, 1996\r\nCalifornia Polytechnic State University\r\nSan Luis Obispo, California",
+          "title": "KRISTIN DENISE SMART",
+          "possible_countries": null,
+          "hair_raw": "Dark Blonde",
+          "remarks": "<p>Smart was last seen wearing a grey half T-shirt, black surfing shorts, and red \"Puma\" athletic shoes. Her hair is straight and shoulder length.</p>",
+          "weight_max": 145,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/kidnap/kristin-denise-smart",
+          "ncic": null,
+          "eyes": "brown",
+          "sex": "Female",
+          "coordinates": [],
+          "path": "/wanted/kidnap/kristin-denise-smart",
+          "place_of_birth": null,
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Kidnappings and Missing Persons"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/5c15918e2be404a5c2262105745fa35b"
+      },
+      {
+          "eyes": null,
+          "sex": "",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/seeking-info/providing-material-support-1",
+          "ncic": null,
+          "path": "/wanted/seeking-info/providing-material-support-1",
+          "locations": null,
+          "weight_min": null,
+          "place_of_birth": null,
+          "reward_min": 0,
+          "subjects": [
+              "Seeking Information"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "5cf043c8407b26590370452515799a69",
+          "eyes_raw": null,
+          "height_max": null,
+          "nationality": null,
+          "age_range": null,
+          "height_min": null,
+          "aliases": null,
+          "reward_text": null,
+          "possible_countries": [
+              "SOM"
+          ],
+          "description": "",
+          "caution": null,
+          "weight_max": null,
+          "legat_names": null,
+          "race": null,
+          "modified": "2016-08-08T19:26:01+00:00",
+          "publication": "2010-10-08T02:30:00",
+          "weight": null,
+          "status": "na",
+          "possible_states": [
+              "US-MN"
+          ],
+          "scars_and_marks": null,
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/providing-material-support-1/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/providing-material-support-1/@@images/image",
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/seeking-info/providing-material-support-1/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/providing-material-support-1/abdikadir-ali-abdi/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/providing-material-support-1/abdikadir-ali-abdi",
+                  "caption": "Abdikadir Ali Abdi",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/providing-material-support-1/abdikadir-ali-abdi/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/providing-material-support-1/abdisalan-hussein-ali/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/providing-material-support-1/abdisalan-hussein-ali",
+                  "caption": "Abdisalan Hussein Ali",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/providing-material-support-1/abdisalan-hussein-ali/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/providing-material-support-1/cabdulaahi-ahmed-faarax/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/providing-material-support-1/cabdulaahi-ahmed-faarax",
+                  "caption": "Cabdulaahi Ahmed Faarax",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/providing-material-support-1/cabdulaahi-ahmed-faarax/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/providing-material-support-1/abdiweli-yassin-isse/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/providing-material-support-1/abdiweli-yassin-isse",
+                  "caption": "Abdiweli Yassin Isse",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/providing-material-support-1/abdiweli-yassin-isse/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/providing-material-support-1/ahmed-ali-omar/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/providing-material-support-1/ahmed-ali-omar",
+                  "caption": "Ahmed Ali Omar",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/providing-material-support-1/ahmed-ali-omar/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/providing-material-support-1/khalid-mohamud-abshir/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/providing-material-support-1/khalid-mohamud-abshir",
+                  "caption": "Khalid Mohamud Abshir",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/providing-material-support-1/khalid-mohamud-abshir/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/providing-material-support-1/mohamed-abdullahi-hassan/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/providing-material-support-1/mohamed-abdullahi-hassan",
+                  "caption": "Mohamed Abdullahi Hassan",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/providing-material-support-1/mohamed-abdullahi-hassan/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/providing-material-support-1/mustafa-ali-salat/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/providing-material-support-1/mustafa-ali-salat",
+                  "caption": "Mustafa Ali Salat",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/providing-material-support-1/mustafa-ali-salat/@@images/image/large"
+              }
+          ],
+          "remarks": null,
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/file-repository/providing-material-support-1.pdf"
+              }
+          ],
+          "field_offices": [
+              "minneapolis"
+          ],
+          "coordinates": [],
+          "race_raw": null,
+          "hair_raw": null,
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": null,
+          "details": "<p>These individuals are wanted for providing material support to the Somalia-based terrorist organization al-Shabaab.</p>",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "suspects": null,
+          "age_min": null,
+          "hair": null,
+          "title": "PROVIDING MATERIAL SUPPORT",
+          "occupations": null,
+          "@id": "https://api.fbi.gov/@wanted-person/5cf043c8407b26590370452515799a69"
+      },
+      {
+          "eyes": null,
+          "sex": "",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/seeking-info/murder-victims",
+          "ncic": null,
+          "path": "/wanted/seeking-info/murder-victims",
+          "locations": null,
+          "weight_min": null,
+          "place_of_birth": null,
+          "reward_min": 0,
+          "subjects": [
+              "Seeking Information"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "78a2658bcbd97adb00f60a47b139438d",
+          "eyes_raw": null,
+          "height_max": null,
+          "nationality": null,
+          "age_range": null,
+          "height_min": null,
+          "aliases": null,
+          "reward_text": "The FBI, the Jefferson Davis Parish District Attorney’s Office, and the Jefferson Davis Parish Sheriff’s Office are offering a reward of up to $85,000 for information leading to the arrest and conviction of the subject(s) responsible for these murders.",
+          "possible_countries": null,
+          "description": "",
+          "caution": null,
+          "weight_max": null,
+          "legat_names": null,
+          "race": null,
+          "modified": "2016-08-08T19:11:44+00:00",
+          "publication": "2010-10-07T05:20:00",
+          "weight": null,
+          "status": "na",
+          "possible_states": [
+              "US-LA"
+          ],
+          "scars_and_marks": null,
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/murder-victims/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/murder-victims/@@images/image",
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/seeking-info/murder-victims/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/murder-victims/loretta-lewis/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/murder-victims/loretta-lewis",
+                  "caption": " ",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/murder-victims/loretta-lewis/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/murder-victims/ernestine-patterson/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/murder-victims/ernestine-patterson",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/murder-victims/ernestine-patterson/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/murder-victims/kristen-lopez/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/murder-victims/kristen-lopez",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/murder-victims/kristen-lopez/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/murder-victims/laconia-brown/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/murder-victims/laconia-brown",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/murder-victims/laconia-brown/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/murder-victims/crystal-zeno/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/murder-victims/crystal-zeno",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/murder-victims/crystal-zeno/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/murder-victims/whitnei-dubois/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/murder-victims/whitnei-dubois",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/murder-victims/whitnei-dubois/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/murder-victims/brittney-gary/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/murder-victims/brittney-gary",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/murder-victims/brittney-gary/@@images/image/large"
+              }
+          ],
+          "remarks": null,
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/seeking-info/murder-victims/print-pdf"
+              }
+          ],
+          "field_offices": [
+              "neworleans"
+          ],
+          "coordinates": [],
+          "race_raw": null,
+          "hair_raw": null,
+          "complexion": null,
+          "build": null,
+          "person_classification": "Victim",
+          "dates_of_birth_used": null,
+          "details": "<p>A Multi-Agency Investigative Team led by the Jefferson Davis Parish Sheriff's Office located in Jennings, Louisiana, is seeking information regarding the murders of eight women; Loretta Lynn Chaisson Lewis, Ernestine Daniels Patterson, Kristen E. Gary Lopez, Whitnei Charlene Dubois, Laconia Shontell Brown, Crystal Shay Benoit Zeno, Brittney Gary and Necole Jean Guillory. The victims, who range in age from 17 to 30 years old, were found deceased in and around the Jennings, Louisiana area from May 2005 through August 2009.</p>",
+          "warning_message": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": null,
+          "title": "MURDER VICTIMS",
+          "occupations": null,
+          "@id": "https://api.fbi.gov/@wanted-person/78a2658bcbd97adb00f60a47b139438d"
+      },
+      {
+          "eyes": null,
+          "sex": "N/A",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/seeking-info/alexander-michel-odeh",
+          "ncic": null,
+          "path": "/wanted/seeking-info/alexander-michel-odeh",
+          "locations": null,
+          "weight_min": null,
+          "place_of_birth": null,
+          "reward_min": 1000000,
+          "subjects": [
+              "Seeking Information"
+          ],
+          "additional_information": null,
+          "reward_max": 4999999,
+          "languages": null,
+          "uid": "e3ffc96508ac392d4a6a6ac02cc1624a",
+          "eyes_raw": null,
+          "height_max": null,
+          "nationality": null,
+          "age_range": null,
+          "height_min": null,
+          "aliases": null,
+          "reward_text": "Information is being sought in connection with the bombing of the Office of the American-Arab Anti-Discrimination Committee and the murder of Alexander Michel Odeh.  Up to one million dollars will be paid for information leading to the arrest and conviction of the person or persons responsible for this murder.",
+          "possible_countries": null,
+          "description": "Domestic Bombing",
+          "caution": null,
+          "weight_max": null,
+          "legat_names": null,
+          "race": null,
+          "modified": "2016-08-08T17:32:11+00:00",
+          "publication": "2010-09-15T15:05:00",
+          "weight": null,
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/alexander-michel-odeh/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/alexander-michel-odeh/@@images/image",
+                  "caption": "Victim - Alexander Michel Odeh",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/alexander-michel-odeh/@@images/image/large"
+              }
+          ],
+          "remarks": null,
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/seeking-info/alexander-michel-odeh/download.pdf"
+              }
+          ],
+          "field_offices": [
+              "losangeles"
+          ],
+          "coordinates": [],
+          "race_raw": null,
+          "hair_raw": null,
+          "complexion": null,
+          "build": null,
+          "person_classification": "Victim",
+          "dates_of_birth_used": null,
+          "details": "<p>On October 11, 1985, Alexander Michel Odeh was killed when a bomb exploded at the Office of the American-Arab Anti-Discrimination Committee (ADC) at 1905 East 17th Street in Santa Ana, California. Odeh, who was the Western Regional Director of the ADC, was killed when he unlocked and opened the door of the ADC's office at approximately 9:00 a.m. In addition to killing Odeh, the bomb injured several other people and caused massive damage to the building.</p>",
+          "warning_message": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": null,
+          "title": "ALEXANDER MICHEL ODEH",
+          "occupations": null,
+          "@id": "https://api.fbi.gov/@wanted-person/e3ffc96508ac392d4a6a6ac02cc1624a"
+      },
+      {
+          "eyes": "brown",
+          "sex": "Male",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/seeking-info/bajram-asllani",
+          "ncic": "T920777787",
+          "path": "/wanted/seeking-info/bajram-asllani",
+          "locations": null,
+          "weight_min": null,
+          "place_of_birth": "Mitrovica, Kosovo",
+          "reward_min": 0,
+          "subjects": [
+              "Seeking Information"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "06120140-3707-461a-845b-42bcdc833f37",
+          "eyes_raw": "Brown",
+          "height_max": 67,
+          "nationality": "Albanian",
+          "age_range": null,
+          "height_min": 67,
+          "aliases": [
+              "Ebu Hatab",
+              "Bajram Aslani",
+              "Bajram Asslani Var Aslani",
+              "Bajram Asslani",
+              "Aslani Bajram",
+              "Bajram Aslami",
+              "Bajram Aslanni",
+              "Bajram Hajriz Asllani",
+              "Bayram Aslani"
+          ],
+          "reward_text": null,
+          "possible_countries": null,
+          "description": "Conspiracy to Provide Material Support or Resources to Terrorists (1 Count); Conspiracy to Kill, Kidnap, Maim, or Injure Persons or Damage Property in a Foreign Country (1 Count)",
+          "caution": "<p>Bajram Asllani is an alleged co-conspirator with a group of 8 individuals in the United States who were allegedly co-conspiring to engage in violent jihad, or holy war, and to raise money for mujihadeen, or warriors engaged in violent jihad. Seven of the 8 individuals involved in the conspiracy with Asllani were arrested in Raleigh, North Carolina, in July of 2009.</p>\r\n<p> </p>\r\n<p>On April 19, 2010, a federal arrest warrant was issued for Bajram Asllani in the United States District Court, Eastern District of North Carolina. Asllani was charged with conspiracy to provide material support or resources to terrorists (1 count); conspiracy to kill, kidnap, maim, or injure persons or damage property in a foreign country (1 count).</p>",
+          "weight_max": null,
+          "legat_names": null,
+          "race": null,
+          "modified": "2016-08-08T16:59:35+00:00",
+          "publication": "2010-08-04T21:45:00",
+          "weight": "Unknown (heavy-set build)",
+          "status": "na",
+          "possible_states": [
+              "US-NC"
+          ],
+          "scars_and_marks": "None known",
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/bajram-asllani/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/bajram-asllani/@@images/image",
+                  "caption": "Photograph taken in 2010",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/bajram-asllani/@@images/image/large"
+              }
+          ],
+          "remarks": null,
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/seeking-info/bajram-asllani/download.pdf"
+              }
+          ],
+          "field_offices": [
+              "charlotte"
+          ],
+          "coordinates": [],
+          "race_raw": null,
+          "hair_raw": "Dark Brown",
+          "complexion": "Medium",
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": [
+              "August 12, 1980",
+              "August 12, 1989",
+              "November 11, 1970",
+              "December 8, 1980"
+          ],
+          "details": null,
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "title": "BAJRAM ASLLANI",
+          "occupations": [
+              "Unknown"
+          ],
+          "@id": "https://api.fbi.gov/@wanted-person/06120140-3707-461a-845b-42bcdc833f37"
+      },
+      {
+          "eyes": "blue",
+          "sex": "Male",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-14",
+          "ncic": null,
+          "path": "/wanted/seeking-info/unknown-suspect-14",
+          "locations": null,
+          "weight_min": 175,
+          "place_of_birth": null,
+          "reward_min": 0,
+          "subjects": [
+              "Seeking Information"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "515af50c-bb2b-4f3d-86df-4f59d0d03b18",
+          "eyes_raw": "Blue",
+          "height_max": 68,
+          "nationality": null,
+          "age_range": null,
+          "height_min": 68,
+          "aliases": null,
+          "reward_text": null,
+          "possible_countries": null,
+          "description": "Abduction, Sexual Assault of a Minor",
+          "caution": "<p>The FBI and the Isle of Wight County Sheriff's Office are asking for the public's assistance in a case related to the stranger abduction and sexual assault of an 11-year-old girl in Isle of Wight County, Virginia, on October 2, 2013. The child was returned home but the suspect remains at large.</p>",
+          "weight_max": 175,
+          "legat_names": null,
+          "race": "white",
+          "modified": "2016-08-08T16:57:38+00:00",
+          "publication": "2014-09-25T07:00:00",
+          "weight": "Approximately 175 pounds",
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-14/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-14/@@images/image",
+                  "caption": "October 2013 sketch",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-14/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-14/isle-of-wight-2-glasses.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-14/isle-of-wight-2-glasses.jpg",
+                  "caption": "October 2013 sketch",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-14/isle-of-wight-2-glasses.jpg/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-14/isle-of-wight-car.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-14/isle-of-wight-car.jpg",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-14/isle-of-wight-car.jpg/@@images/image/large"
+              }
+          ],
+          "remarks": "<p>The unknown suspect has freckles covering his entire face and body, bushy blond eyebrows, large full lips, a wide nose, and slightly yellowed teeth. At the time of the abduction he wore a thin blond jawline beard without a mustache and sometimes wore round, brown eyeglasses. He also wore cut-off blue jean shorts, a tan t-shirt, and brown and blue tennis shoes. The suspect is described as having slow speech.</p>\r\n<p>The suspect drove a 1995 to 2001 silver Chevrolet Cavalier two-door vehicle (displayed above), bearing a Virginia inspection sticker. The vehicle had black/gray interior (not cloth), manual roll-down windows, automatic transmission, and a cracked dashboard with pieces missing. There were 3 homemade clay sculptures in the vehicle that appear to have been made by children. One sculpture was star-shaped and painted with black stripes, and the others were of unknown shapes and green and pink in color.</p>",
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-14/download.pdf"
+              }
+          ],
+          "field_offices": [
+              "norfolk"
+          ],
+          "coordinates": [],
+          "race_raw": "White",
+          "hair_raw": "Short, blond",
+          "complexion": null,
+          "build": "Medium",
+          "person_classification": "Main",
+          "dates_of_birth_used": null,
+          "details": null,
+          "warning_message": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "blond",
+          "title": "UNKNOWN SUSPECT",
+          "occupations": null,
+          "@id": "https://api.fbi.gov/@wanted-person/515af50c-bb2b-4f3d-86df-4f59d0d03b18"
+      },
+      {
+          "eyes": null,
+          "sex": "",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/seeking-info/unknown-individual",
+          "ncic": null,
+          "path": "/wanted/seeking-info/unknown-individual",
+          "locations": null,
+          "weight_min": null,
+          "place_of_birth": null,
+          "reward_min": 0,
+          "subjects": [
+              "Seeking Information"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "d0ffecc0-80c0-498e-824f-fef5672751f6",
+          "eyes_raw": null,
+          "height_max": null,
+          "nationality": null,
+          "age_range": null,
+          "height_min": null,
+          "aliases": null,
+          "reward_text": null,
+          "possible_countries": null,
+          "description": "",
+          "caution": null,
+          "weight_max": null,
+          "legat_names": null,
+          "race": null,
+          "modified": "2016-08-08T16:54:59+00:00",
+          "publication": "2014-10-06T07:00:00",
+          "weight": null,
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/unknown-individual/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/unknown-individual/@@images/image",
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/seeking-info/unknown-individual/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/unknown-individual/isisunsub2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/unknown-individual/isisunsub2.jpg",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/unknown-individual/isisunsub2.jpg/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/unknown-individual/isisunsub1.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/unknown-individual/isisunsub1.jpg",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/unknown-individual/isisunsub1.jpg/@@images/image/large"
+              }
+          ],
+          "remarks": null,
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/seeking-info/unknown-individual/download.pdf"
+              }
+          ],
+          "field_offices": null,
+          "coordinates": [],
+          "race_raw": null,
+          "hair_raw": null,
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": null,
+          "details": "<p>The FBI is seeking information about the identity of an English-speaking individual seen in a propaganda video released in September of 2014 by the group calling itself the Islamic State of Iraq and the Levant, or ISIL.</p>\r\n<p>In the video, a man whose face is obscured by a mask alternates seamlessly between English and Arabic in pro-ISIL pronouncements intended to appeal to a Western audience. Dressed in desert camouflage and wearing a shoulder holster, the masked man can be seen standing in front of purported prisoners as they dig their own graves and then later presiding over their executions. The man has what is believed to be a North American accent.</p>\r\n<p>The video was released on September 19, 2014. <a href=\"https://www.fbi.gov/news/stories/help-identify-individuals-traveling-overseas-for-combat\" data-linktype=\"internal\" data-urltype=\"_direct_\" data-val=\"ec7416421ba340cda04250e955f3e00a\">In releasing a segment and still photos from the video</a>, the FBI hopes someone might recognize the man through either his voice and/or appearance.</p>",
+          "warning_message": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": null,
+          "title": "UNKNOWN INDIVIDUAL",
+          "occupations": null,
+          "@id": "https://api.fbi.gov/@wanted-person/d0ffecc0-80c0-498e-824f-fef5672751f6"
+      },
+      {
+          "eyes": null,
+          "sex": "Male",
+          "age_max": 35,
+          "url": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-16",
+          "ncic": null,
+          "path": "/wanted/seeking-info/unknown-suspect-16",
+          "locations": null,
+          "weight_min": 150,
+          "place_of_birth": null,
+          "reward_min": 0,
+          "subjects": [
+              "Seeking Information"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "8d0176d6-8234-47fa-b780-87558c3db1a9",
+          "eyes_raw": null,
+          "height_max": 72,
+          "nationality": null,
+          "age_range": "20 to 35 years old",
+          "height_min": 66,
+          "aliases": null,
+          "reward_text": "The FBI is offering a reward of up to $15,000 for information that will lead to the identification, arrest, and conviction of the subject in this investigation.",
+          "possible_countries": null,
+          "description": "Armed Robberies\r\nNewport News; Hampton; Woodbridge; Arlington; Williamsburg; Fredericksburg; Mechanicsville; and Henrico County, Virginia",
+          "caution": null,
+          "weight_max": 200,
+          "legat_names": null,
+          "race": "black",
+          "modified": "2016-08-08T16:50:36+00:00",
+          "publication": "2014-12-10T07:00:00",
+          "weight": "150 to 200 pounds",
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-16/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-16/@@images/image",
+                  "caption": "Photograph taken July 15, 2014",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-16/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-16/cvs-7-26-2014-2.png/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-16/cvs-7-26-2014-2.png",
+                  "caption": "Photo 7/26/2014",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-16/cvs-7-26-2014-2.png/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-16/cvs-8-13-2014-3.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-16/cvs-8-13-2014-3.jpg",
+                  "caption": "Photo 8/13/2014",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-16/cvs-8-13-2014-3.jpg/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-16/rite-aid-11-17-2014-4.png/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-16/rite-aid-11-17-2014-4.png",
+                  "caption": "Photo 11/17/2014",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-16/rite-aid-11-17-2014-4.png/@@images/image/large"
+              }
+          ],
+          "remarks": "<p>During the robberies, the suspect always used a white cloth to cover his face. He also had some facial hair.</p>",
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-16/download.pdf"
+              }
+          ],
+          "field_offices": [
+              "richmond"
+          ],
+          "coordinates": [],
+          "race_raw": "Black",
+          "hair_raw": null,
+          "complexion": null,
+          "build": "Average",
+          "person_classification": "Main",
+          "dates_of_birth_used": null,
+          "details": "<p>The FBI requests the public’s assistance in identifying the individual responsible for the crimes listed below.</p>\r\n<p>On November 17, 2014, a Black male subject entered the Rite Aid on J. Clyde Morris Boulevard in Newport News, Virginia, and approached the pharmacy counter demanding “Oxy”. The subject was wearing a black zip-up sweat shirt, a white shirt, dark pants, black shoes and a white ball cap with a black logo and a flat bill.</p>\r\n<p>On October 26, 2014, a Black male subject entered the CVS on West Mercury Boulevard in Hampton, Virginia, and demanded Oxycodone pills in specific doses from the pharmacist while displaying a handgun in his pocket. The subject was wearing black pants, a gray short-sleeved shirt with a patch on the left sleeve, and a white baseball hat.</p>\r\n<p>On October 10, 2014, a Black male subject entered the CVS on Touchstone Circle in Woodbridge, Virginia, and demanded Oxycodone pills from the pharmacist while exposing a black handgun in his waistband. The subject was wearing a black sweater and a white and red hat.</p>\r\n<p>On October 10, 2014, a Black male subject entered the Rite Aid on South Joyce Street in Arlington, Virginia, and approached the pharmacist, while displaying a black handgun and asking where the Oxycodone pills were kept. The subject was wearing a black long-sleeved sweater with a small product logo on the rear neck area, dark blue jeans, dark sneakers with white trim and red laces, and a white and orange baseball hat.</p>\r\n<p>On September 16, 2014, a Black male subject entered the CVS on Richmond Road in Williamsburg, Virginia, and demanded the store’s supply of Oxycodone while displaying a handgun in his waistband. The subject was wearing a red shirt and a red and white hat.</p>\r\n<p>On August 13, 2014, a Black male subject entered the CVS on Jefferson Davis Highway in Fredericksburg, Virginia, and demanded the store’s supply of Oxycodone while implying he had a weapon. The subject forced his way behind the counter into the pharmacy's work area and acquired the pills. The subject attempted to acquire Percocet and Xanax without success, but did grab cough syrup on his way out. The subject was wearing a black short-sleeved t-shirt, khaki or tan knee-length shorts, black high-top sneakers, and a black baseball hat with the letter “B” on it and a large sticker on the brim.</p>\r\n<p>On July 26, 2014, a Black male subject entered the CVS on Charter Gate Drive in Mechanicsville, Virginia, approached the pharmacist and displayed a handgun in his waistband. The subject demanded all of the Oxycodone and forced his way behind the counter and systematically gathered Oxycodone and Percocet pills. The subject was wearing a gray and blue shirt, blue pants, dark tennis shoes, and a white ball cap with red lettering.</p>\r\n<p>On July 15, 2014, a Black male subject entered the CVS on Woodman Road in Henrico County, Virginia, and revealed to the pharmacist a black handgun in his waistband while demanding Oxycodone pills and cash from the register. The subject was wearing a yellow jacket and a baseball hat.</p>\r\n<p>In several of these robberies, the subject was observed leaving the premises in a light-colored, possibly white or silver, Dodge Nitro SUV.</p>",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "suspects": null,
+          "age_min": 20,
+          "hair": null,
+          "title": "UNKNOWN SUSPECT",
+          "occupations": null,
+          "@id": "https://api.fbi.gov/@wanted-person/8d0176d6-8234-47fa-b780-87558c3db1a9"
+      }
+  ],
+  "page": 43
+}

@@ -1,0 +1,1692 @@
+{
+  "total": 1003,
+  "items": [
+      {
+          "dates_of_birth_used": [
+              "August 24, 1972"
+          ],
+          "images": [
+              {
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/cyber/oleg-mikhaylovich-sotnikov/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/cyber/oleg-mikhaylovich-sotnikov/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cyber/oleg-mikhaylovich-sotnikov/@@images/image"
+              }
+          ],
+          "details": "<p>On October 3, 2018, a federal grand jury sitting in the Western District of Pennsylvania returned an indictment against <a data-linktype=\"external\" href=\"https://www.fbi.gov/wanted/cyber/gru-hacking-to-undermine-anti-doping-efforts\" data-val=\"https://www.fbi.gov/wanted/cyber/gru-hacking-to-undermine-anti-doping-efforts\" data-urltype=\"/view\">7 Russian individuals</a> for their alleged roles in hacking and related influence and disinformation operations targeting, among others, international anti-doping agencies, sporting federations, and anti-doping officials. The indictment charges Oleg Mikhaylovich Sotnikov, <a data-linktype=\"external\" href=\"https://www.fbi.gov/wanted/cyber/evgenii-mikhaylovich-serebriakov\" data-val=\"https://www.fbi.gov/wanted/cyber/evgenii-mikhaylovich-serebriakov\" data-urltype=\"/view\">Evgenii Mikhaylovich Serebriakov</a>, <a data-linktype=\"external\" href=\"https://www.fbi.gov/wanted/cyber/aleksei-sergeyevich-morenets\" data-val=\"https://www.fbi.gov/wanted/cyber/aleksei-sergeyevich-morenets\" data-urltype=\"/view\">Aleksei Sergeyevich Morenets</a>, <a data-linktype=\"external\" href=\"https://www.fbi.gov/wanted/cyber/ivan-sergeyevich-yermakov\" data-val=\"https://www.fbi.gov/wanted/cyber/ivan-sergeyevich-yermakov\" data-urltype=\"/view\">Ivan Sergeyevich Yermakov</a>, <a data-linktype=\"external\" href=\"https://www.fbi.gov/wanted/cyber/artem-andreyevich-malyshev\" data-val=\"https://www.fbi.gov/wanted/cyber/artem-andreyevich-malyshev\" data-urltype=\"/view\">Artem Andreyevich Malyshev</a>, <a data-linktype=\"external\" href=\"https://www.fbi.gov/wanted/cyber/dmitriy-sergeyevich-badin\" data-val=\"https://www.fbi.gov/wanted/cyber/dmitriy-sergeyevich-badin\" data-urltype=\"/view\">Dmitriy Sergeyevich Badin</a>, and <a data-linktype=\"external\" href=\"https://www.fbi.gov/wanted/cyber/alexey-valerevich-minin\" data-val=\"https://www.fbi.gov/wanted/cyber/alexey-valerevich-minin\" data-urltype=\"/view\">Alexey Valerevich Minin </a>with computer hacking activity spanning from 2014 through May of 2018, including the computer intrusions of the United States Anti-Doping Agency (USADA), the World Anti-Doping Agency (WADA), and other victim entities during the 2016 Summer Olympics and Paralympics and afterwards.  The indictment charges these defendants with conspiracy to commit computer fraud, conspiracy to commit wire fraud, wire fraud, aggravated identity theft, and conspiracy to commit money laundering. The United States District Court for the Western District of Pennsylvania in Pittsburgh, Pennsylvania, issued a federal arrest warrant for each of these defendants upon the grand jury’s return of the indictment.</p>\r\n<p> </p>",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS, AN INTERNATIONAL FLIGHT RISK, AND AN ESCAPE RISK",
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "white",
+          "occupations": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "legat_names": null,
+          "modified": "2018-10-30T16:54:53+00:00",
+          "status": "na",
+          "publication": "2018-10-02T14:19:00",
+          "weight": null,
+          "caution": null,
+          "possible_states": null,
+          "scars_and_marks": null,
+          "race_raw": "White",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/cyber/oleg-mikhaylovich-sotnikov/oleg-mikhaylovich-sotnikov-8-5x11.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/cyber/oleg-mikhaylovich-sotnikov/sotnikovrussian.pdf/@@download/file/sotnikovrussian.pdf",
+                  "name": "НА РУССКОМ"
+              }
+          ],
+          "field_offices": null,
+          "nationality": null,
+          "weight_min": null,
+          "age_range": null,
+          "uid": "15c201334f5944e7b960f28998f30c22",
+          "eyes_raw": "Blue",
+          "height_max": null,
+          "height_min": null,
+          "aliases": [
+              "Олег Михайлович Сотников"
+          ],
+          "reward_text": null,
+          "description": "Conspiracy to Commit Computer Fraud; Conspiracy to Commit Wire Fraud; Conspiracy to Commit Money Laundering",
+          "title": "OLEG MIKHAYLOVICH SOTNIKOV",
+          "possible_countries": null,
+          "hair_raw": "Brown/Gray",
+          "remarks": null,
+          "weight_max": null,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/cyber/oleg-mikhaylovich-sotnikov",
+          "ncic": null,
+          "eyes": "blue",
+          "sex": "Male",
+          "coordinates": [],
+          "path": "/wanted/cyber/oleg-mikhaylovich-sotnikov",
+          "place_of_birth": null,
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Cyber's Most Wanted"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/15c201334f5944e7b960f28998f30c22"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Cyber's Most Wanted"
+          ],
+          "languages": null,
+          "path": "/wanted/cyber/alexey-valerevich-minin",
+          "weight_min": null,
+          "details": "<p>On October 3, 2018, a federal grand jury sitting in the Western District of Pennsylvania returned an indictment against <a data-val=\"https://www.fbi.gov/wanted/cyber/gru-hacking-to-undermine-anti-doping-efforts\" href=\"https://www.fbi.gov/wanted/cyber/gru-hacking-to-undermine-anti-doping-efforts\" data-linktype=\"external\" data-urltype=\"/view\">7 Russian individuals</a> for their alleged roles in hacking and related influence and disinformation operations targeting, among others, international anti-doping agencies, sporting federations, and anti-doping officials. The indictment charges Alexey Valerevich Minin, <a data-val=\"https://www.fbi.gov/wanted/cyber/oleg-mikhaylovich-sotnikov\" href=\"https://www.fbi.gov/wanted/cyber/oleg-mikhaylovich-sotnikov\" data-linktype=\"external\" data-urltype=\"/view\">Oleg Mikhaylovich Sotnikov</a>, <a data-val=\"https://www.fbi.gov/wanted/cyber/evgenii-mikhaylovich-serebriakov\" href=\"https://www.fbi.gov/wanted/cyber/evgenii-mikhaylovich-serebriakov\" data-linktype=\"external\" data-urltype=\"/view\">Evgenii Mikhaylovich Serebriakov</a>, <a data-val=\"https://www.fbi.gov/wanted/cyber/aleksei-sergeyevich-morenets\" href=\"https://www.fbi.gov/wanted/cyber/aleksei-sergeyevich-morenets\" data-linktype=\"external\" data-urltype=\"/view\">Aleksei Sergeyevich Morenets</a>, <a data-val=\"https://www.fbi.gov/wanted/cyber/ivan-sergeyevich-yermakov\" href=\"https://www.fbi.gov/wanted/cyber/ivan-sergeyevich-yermakov\" data-linktype=\"external\" data-urltype=\"/view\">Ivan Sergeyevich Yermakov</a>, <a data-val=\"https://www.fbi.gov/wanted/cyber/artem-andreyevich-malyshev\" href=\"https://www.fbi.gov/wanted/cyber/artem-andreyevich-malyshev\" data-linktype=\"external\" data-urltype=\"/view\">Artem Andreyevich Malyshev</a>, and <a data-val=\"https://www.fbi.gov/wanted/cyber/dmitriy-sergeyevich-badin\" href=\"https://www.fbi.gov/wanted/cyber/dmitriy-sergeyevich-badin\" data-linktype=\"external\" data-urltype=\"/view\">Dmitriy Sergeyevich Badin </a>with computer hacking activity spanning from 2014 through May of 2018, including the computer intrusions of the United States Anti-Doping Agency (USADA), the World Anti-Doping Agency (WADA), and other victim entities during the 2016 Summer Olympics and Paralympics and afterwards.  The indictment charges these defendants with conspiracy to commit computer fraud, conspiracy to commit wire fraud, wire fraud, aggravated identity theft, and conspiracy to commit money laundering. The United States District Court for the Western District of Pennsylvania in Pittsburgh, Pennsylvania, issued a federal arrest warrant for each of these defendants upon the grand jury’s return of the indictment.</p>\r\n<p> </p>",
+          "status": "na",
+          "possible_states": null,
+          "eyes": "brown",
+          "hair": "brown",
+          "legat_names": null,
+          "eyes_raw": "Brown",
+          "field_offices": null,
+          "weight": null,
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": null,
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/cyber/alexey-valerevich-minin",
+          "nationality": null,
+          "uid": "8a0bbbce9a324f32b7fe1eff7cbe9be5",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS, AN INTERNATIONAL FLIGHT RISK, AND AN ESCAPE RISK",
+          "scars_and_marks": null,
+          "race": "white",
+          "hair_raw": "Brown",
+          "modified": "2018-10-30T16:53:40+00:00",
+          "title": "ALEXEY VALEREVICH MININ",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/cyber/alexey-valerevich-minin/@@images/image/large",
+                  "caption": null,
+                  "original": "https://www.fbi.gov/wanted/cyber/alexey-valerevich-minin/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/cyber/alexey-valerevich-minin/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": null,
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": null,
+          "reward_max": 0,
+          "ncic": null,
+          "aliases": [
+              "Алексей Валерьевич Минин"
+          ],
+          "height_max": null,
+          "dates_of_birth_used": [
+              "May 27, 1972"
+          ],
+          "height_min": null,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/cyber/alexey-valerevich-minin/alexey-valerevich-minin-8-5x11.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/cyber/alexey-valerevich-minin/mininrussian.pdf/@@download/file/mininrussian.pdf",
+                  "name": "НА РУССКОМ"
+              }
+          ],
+          "occupations": null,
+          "publication": "2018-10-02T15:43:00",
+          "description": "Conspiracy to Commit Computer Fraud; Conspiracy to Commit Wire Fraud; Conspiracy to Commit Money Laundering",
+          "race_raw": "White",
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": null,
+          "reward_min": 0,
+          "weight_max": null,
+          "sex": "Male",
+          "@id": "https://api.fbi.gov/@wanted-person/8a0bbbce9a324f32b7fe1eff7cbe9be5"
+      },
+      {
+          "eyes": "brown",
+          "sex": "Male",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/cyber/evgenii-mikhaylovich-serebriakov",
+          "ncic": null,
+          "path": "/wanted/cyber/evgenii-mikhaylovich-serebriakov",
+          "locations": null,
+          "weight_min": null,
+          "place_of_birth": null,
+          "reward_min": 0,
+          "subjects": [
+              "Cyber's Most Wanted"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "43aa63f14f4d4f1eb0db8687450f8818",
+          "eyes_raw": "Brown",
+          "height_max": null,
+          "nationality": "Russian",
+          "age_range": null,
+          "height_min": null,
+          "aliases": [
+              "Evgenii Mikhailovich Serebryakov",
+              "Yevgeniy Mikhailovich Serebriakov",
+              "Yevgeniy Mikhailovich Serebryakov",
+              "Yvgeniy Mikhailovich Serebriakov",
+              "Yvgeniy Mikhailovich Serebryakov",
+              "Zhenya",
+              "Евгений (Женя) Михайлович Серебряков"
+          ],
+          "reward_text": null,
+          "possible_countries": null,
+          "description": "Conspiracy to Commit Computer Fraud; Conspiracy to Commit Wire Fraud; Aggravated Identity Theft; Conspiracy to Commit Money Laundering",
+          "caution": null,
+          "weight_max": null,
+          "legat_names": null,
+          "race": "white",
+          "modified": "2018-10-30T16:52:44+00:00",
+          "publication": "2018-10-02T10:34:00",
+          "weight": null,
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/cyber/evgenii-mikhaylovich-serebriakov/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cyber/evgenii-mikhaylovich-serebriakov/@@images/image",
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/cyber/evgenii-mikhaylovich-serebriakov/@@images/image/large"
+              }
+          ],
+          "remarks": "<p>Serebriakov is alleged to have been a Russian military intelligence officer, assigned to Unit 26165.  Serebriakov was last known to be located in Moscow, Russia.</p>",
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/cyber/evgenii-mikhaylovich-serebriakov/evgenii-mikhaylovich-serebriakov-8-5x11.pdf"
+              },
+              {
+                  "name": "НА РУССКОМ",
+                  "url": "https://www.fbi.gov/wanted/cyber/evgenii-mikhaylovich-serebriakov/serebriakovrussian.pdf/@@download/file/serebriakovrussian.pdf"
+              }
+          ],
+          "field_offices": null,
+          "coordinates": [],
+          "race_raw": "White",
+          "hair_raw": "Brown",
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": [
+              "July 26, 1981"
+          ],
+          "details": "<p>On October 3, 2018, a federal grand jury sitting in the Western District of Pennsylvania returned an indictment against <a href=\"https://www.fbi.gov/wanted/cyber/gru-hacking-to-undermine-anti-doping-efforts\" data-val=\"https://www.fbi.gov/wanted/cyber/gru-hacking-to-undermine-anti-doping-efforts\" data-urltype=\"/view\" data-linktype=\"external\">7 Russian individuals </a>for their alleged roles in hacking and related influence and disinformation operations targeting, among others, international anti-doping agencies, sporting federations, and anti-doping officials. The indictment charges Evgenii Mikhaylovich Serebriakov, <a href=\"https://www.fbi.gov/wanted/cyber/aleksei-sergeyevich-morenets\" data-val=\"https://www.fbi.gov/wanted/cyber/aleksei-sergeyevich-morenets\" data-urltype=\"/view\" data-linktype=\"external\">Aleksei Sergeyevich Morenets</a>, <a href=\"https://www.fbi.gov/wanted/cyber/ivan-sergeyevich-yermakov\" data-val=\"https://www.fbi.gov/wanted/cyber/ivan-sergeyevich-yermakov\" data-urltype=\"/view\" data-linktype=\"external\">Ivan Sergeyevich Yermakov</a>, <a href=\"https://www.fbi.gov/wanted/cyber/artem-andreyevich-malyshev\" data-val=\"https://www.fbi.gov/wanted/cyber/artem-andreyevich-malyshev\" data-urltype=\"/view\" data-linktype=\"external\">Artem Andreyevich Malyshev</a>, <a href=\"https://www.fbi.gov/wanted/cyber/dmitriy-sergeyevich-badin\" data-val=\"https://www.fbi.gov/wanted/cyber/dmitriy-sergeyevich-badin\" data-urltype=\"/view\" data-linktype=\"external\">Dmitriy Sergeyevich Badin</a>, <a href=\"https://www.fbi.gov/wanted/cyber/oleg-mikhaylovich-sotnikov\" data-val=\"https://www.fbi.gov/wanted/cyber/oleg-mikhaylovich-sotnikov\" data-urltype=\"/view\" data-linktype=\"external\">Oleg Mikhaylovich Sotnikov</a>, and <a href=\"https://www.fbi.gov/wanted/cyber/alexey-valerevich-minin\" data-val=\"https://www.fbi.gov/wanted/cyber/alexey-valerevich-minin\" data-urltype=\"/view\" data-linktype=\"external\">Alexey Valerevich Minin</a> with computer hacking activity spanning from 2014 through May of 2018, including the computer intrusions of the United States Anti-Doping Agency (USADA), the World Anti-Doping Agency (WADA), and other victim entities during the 2016 Summer Olympics and Paralympics and afterwards.  The indictment charges these defendants with conspiracy to commit computer fraud, conspiracy to commit wire fraud, wire fraud, aggravated identity theft, and conspiracy to commit money laundering. The United States District Court for the Western District of Pennsylvania in Pittsburgh, Pennsylvania, issued a federal arrest warrant for each of these defendants upon the grand jury’s return of the indictment.</p>\r\n<p> </p>",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS, AN INTERNATIONAL FLIGHT RISK, AND AN ESCAPE RISK",
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "title": "EVGENII MIKHAYLOVICH SEREBRIAKOV",
+          "occupations": [
+              "Officer in the Russian Federation’s Main Intelligence Directorate of the General Staff (GRU)"
+          ],
+          "@id": "https://api.fbi.gov/@wanted-person/43aa63f14f4d4f1eb0db8687450f8818"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Cyber's Most Wanted"
+          ],
+          "languages": null,
+          "path": "/wanted/cyber/aleksei-sergeyevich-morenets",
+          "weight_min": null,
+          "details": "<p>On October 3, 2018, a federal grand jury sitting in the Western District of Pennsylvania returned an indictment against <a data-val=\"https://www.fbi.gov/wanted/cyber/gru-hacking-to-undermine-anti-doping-efforts\" href=\"https://www.fbi.gov/wanted/cyber/gru-hacking-to-undermine-anti-doping-efforts\" data-linktype=\"external\" data-urltype=\"/view\">7 Russian individuals</a> for their alleged roles in hacking and related influence and disinformation operations targeting, among others, international anti-doping agencies, sporting federations, and anti-doping officials. The indictment charges Aleksei Sergeyevich Morenets, <a data-val=\"https://www.fbi.gov/wanted/cyber/evgenii-mikhaylovich-serebriakov\" href=\"https://www.fbi.gov/wanted/cyber/evgenii-mikhaylovich-serebriakov\" data-linktype=\"external\" data-urltype=\"/view\">Evgenii Mikhaylovich Serebriakov</a>, <a data-val=\"https://www.fbi.gov/wanted/cyber/ivan-sergeyevich-yermakov\" href=\"https://www.fbi.gov/wanted/cyber/ivan-sergeyevich-yermakov\" data-linktype=\"external\" data-urltype=\"/view\">Ivan Sergeyevich Yermakov</a>, <a data-val=\"https://www.fbi.gov/wanted/cyber/artem-andreyevich-malyshev\" href=\"https://www.fbi.gov/wanted/cyber/artem-andreyevich-malyshev\" data-linktype=\"external\" data-urltype=\"/view\">Artem Andreyevich Malyshev</a>, <a data-val=\"https://www.fbi.gov/wanted/cyber/dmitriy-sergeyevich-badin\" href=\"https://www.fbi.gov/wanted/cyber/dmitriy-sergeyevich-badin\" data-linktype=\"external\" data-urltype=\"/view\">Dmitriy Sergeyevich Badin</a>, <a data-val=\"https://www.fbi.gov/wanted/cyber/oleg-mikhaylovich-sotnikov\" href=\"https://www.fbi.gov/wanted/cyber/oleg-mikhaylovich-sotnikov\" data-linktype=\"external\" data-urltype=\"/view\">Oleg Mikhaylovich Sotnikov</a>, and <a data-val=\"https://www.fbi.gov/wanted/cyber/alexey-valerevich-minin\" href=\"https://www.fbi.gov/wanted/cyber/alexey-valerevich-minin\" data-linktype=\"external\" data-urltype=\"/view\">Alexey Valerevich Minin </a>with computer hacking activity spanning from 2014 through May of 2018, including the computer intrusions of the United States Anti-Doping Agency (USADA), the World Anti-Doping Agency (WADA), and other victim entities during the 2016 Summer Olympics and Paralympics and afterwards.  The indictment charges these defendants with conspiracy to commit computer fraud, conspiracy to commit wire fraud, wire fraud, aggravated identity theft, and conspiracy to commit money laundering. The United States District Court for the Western District of Pennsylvania in Pittsburgh, Pennsylvania, issued a federal arrest warrant for each of these defendants upon the grand jury’s return of the indictment.</p>\r\n<p> </p>",
+          "status": "na",
+          "possible_states": null,
+          "eyes": "brown",
+          "hair": "brown",
+          "legat_names": null,
+          "eyes_raw": "Brown",
+          "field_offices": null,
+          "weight": null,
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": "<p>Morenets is alleged to have been a Russian military intelligence officer, assigned to Unit 26165.  Morenets was last known to be located in Moscow, Russia.</p>",
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/cyber/aleksei-sergeyevich-morenets",
+          "nationality": "Russian",
+          "uid": "3d41d106985e4b558604afbf7538125d",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS, AN INTERNATIONAL FLIGHT RISK, AND AN ESCAPE RISK",
+          "scars_and_marks": null,
+          "race": "white",
+          "hair_raw": "Brown",
+          "modified": "2018-10-30T16:51:47+00:00",
+          "title": "ALEKSEI SERGEYEVICH MORENETS",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/cyber/aleksei-sergeyevich-morenets/@@images/image/large",
+                  "caption": null,
+                  "original": "https://www.fbi.gov/wanted/cyber/aleksei-sergeyevich-morenets/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/cyber/aleksei-sergeyevich-morenets/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": null,
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": null,
+          "reward_max": 0,
+          "ncic": null,
+          "aliases": [
+              "Aleksey Sergeevich Morenets",
+              "Lexa",
+              "Алексей (Леха) Сергеевич Моренец"
+          ],
+          "height_max": null,
+          "dates_of_birth_used": [
+              "July 31, 1977"
+          ],
+          "height_min": null,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/cyber/aleksei-sergeyevich-morenets/aleksei-sergeyevich-morenets-8-5x11.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/cyber/aleksei-sergeyevich-morenets/morenetsrussian.pdf/@@download/file/morenetsrussian.pdf",
+                  "name": "НА РУССКОМ"
+              }
+          ],
+          "occupations": [
+              "Officer in the Russian Federation’s Main Intelligence Directorate of the General Staff (GRU)"
+          ],
+          "publication": "2018-10-02T09:10:00",
+          "description": "Conspiracy to Commit Computer Fraud; Conspiracy to Commit Wire Fraud; Aggravated Identity Theft; Conspiracy to Commit Money Laundering",
+          "race_raw": "White",
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": null,
+          "reward_min": 0,
+          "weight_max": null,
+          "sex": "Male",
+          "@id": "https://api.fbi.gov/@wanted-person/3d41d106985e4b558604afbf7538125d"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Cyber's Most Wanted"
+          ],
+          "languages": null,
+          "path": "/wanted/cyber/gru-hacking-to-undermine-anti-doping-efforts",
+          "weight_min": null,
+          "details": "<p>On October 3, 2018, a federal grand jury sitting in the Western District of Pennsylvania returned an indictment against 7 Russian individuals for their alleged roles in hacking and related influence and disinformation operations targeting, among others, international anti-doping agencies, sporting federations, and anti-doping officials. The indictment charges <a data-val=\"https://www.fbi.gov/wanted/cyber/dmitriy-sergeyevich-badin\" href=\"https://www.fbi.gov/wanted/cyber/dmitriy-sergeyevich-badin\" data-linktype=\"external\" data-urltype=\"/view\">Dmitriy Sergeyevich Badin</a>, <a data-val=\"https://www.fbi.gov/wanted/cyber/artem-andreyevich-malyshev\" href=\"https://www.fbi.gov/wanted/cyber/artem-andreyevich-malyshev\" data-linktype=\"external\" data-urltype=\"/view\">Artem Andreyevich Malyshev</a>, <a data-val=\"https://www.fbi.gov/wanted/cyber/alexey-valerevich-minin\" href=\"https://www.fbi.gov/wanted/cyber/alexey-valerevich-minin\" data-linktype=\"external\" data-urltype=\"/view\">Alexey Valerevich Minin</a>, <a data-val=\"https://www.fbi.gov/wanted/cyber/aleksei-sergeyevich-morenets\" href=\"https://www.fbi.gov/wanted/cyber/aleksei-sergeyevich-morenets\" data-linktype=\"external\" data-urltype=\"/view\">Aleksei Sergeyevich Morenets</a>, <a data-val=\"https://www.fbi.gov/wanted/cyber/evgenii-mikhaylovich-serebriakov\" href=\"https://www.fbi.gov/wanted/cyber/evgenii-mikhaylovich-serebriakov\" data-linktype=\"external\" data-urltype=\"/view\">Evgenii Mikhaylovich Serebriakov</a>, <a data-val=\"https://www.fbi.gov/wanted/cyber/oleg-mikhaylovich-sotnikov\" href=\"https://www.fbi.gov/wanted/cyber/oleg-mikhaylovich-sotnikov\" data-linktype=\"external\" data-urltype=\"/view\">Oleg Mikhaylovich Sotnikov</a>, and <a data-val=\"https://www.fbi.gov/wanted/cyber/ivan-sergeyevich-yermakov\" href=\"https://www.fbi.gov/wanted/cyber/ivan-sergeyevich-yermakov\" data-linktype=\"external\" data-urltype=\"/view\">Ivan Sergeyevich Yermakov</a>, with computer hacking activity spanning from 2014 through May of 2018, including the computer intrusions of the United States Anti-Doping Agency (USADA), the World Anti-Doping Agency (WADA), and other victim entities during the 2016 Summer Olympics and Paralympics and afterwards.  The indictment charges these defendants with conspiracy to commit computer fraud, conspiracy to commit wire fraud, wire fraud, aggravated identity theft, and conspiracy to commit money laundering. The United States District Court for the Western District of Pennsylvania in Pittsburgh, Pennsylvania, issued a federal arrest warrant for each of these defendants upon the grand jury’s return of the indictment.</p>\r\n<p> </p>",
+          "status": "na",
+          "possible_states": null,
+          "eyes": null,
+          "hair": null,
+          "legat_names": null,
+          "eyes_raw": null,
+          "field_offices": null,
+          "weight": null,
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": null,
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/cyber/gru-hacking-to-undermine-anti-doping-efforts",
+          "nationality": null,
+          "uid": "7b32f43d0c174669ba43b67aa62bebb5",
+          "warning_message": "THESE INDIVIDUALS SHOULD BE CONSIDERED ARMED AND DANGEROUS, AN INTERNATIONAL FLIGHT RISK, AND AN ESCAPE RISK",
+          "scars_and_marks": null,
+          "race": null,
+          "hair_raw": null,
+          "modified": "2018-10-30T16:50:48+00:00",
+          "title": "GRU HACKING TO UNDERMINE ANTI-DOPING EFFORTS",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/cyber/gru-hacking-to-undermine-anti-doping-efforts/@@images/image/large",
+                  "caption": null,
+                  "original": "https://www.fbi.gov/wanted/cyber/gru-hacking-to-undermine-anti-doping-efforts/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/cyber/gru-hacking-to-undermine-anti-doping-efforts/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/cyber/gru-hacking-to-undermine-anti-doping-efforts/badin.jpg/@@images/image/large",
+                  "caption": "Dmitriy Sergeyevich Badin",
+                  "original": "https://www.fbi.gov/wanted/cyber/gru-hacking-to-undermine-anti-doping-efforts/badin.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/cyber/gru-hacking-to-undermine-anti-doping-efforts/badin.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/cyber/gru-hacking-to-undermine-anti-doping-efforts/malyshev.jpg/@@images/image/large",
+                  "caption": "Artem Andreyevich Malyshev",
+                  "original": "https://www.fbi.gov/wanted/cyber/gru-hacking-to-undermine-anti-doping-efforts/malyshev.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/cyber/gru-hacking-to-undermine-anti-doping-efforts/malyshev.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/cyber/gru-hacking-to-undermine-anti-doping-efforts/minin1.jpg/@@images/image/large",
+                  "caption": "Alexey Valerevich Minin",
+                  "original": "https://www.fbi.gov/wanted/cyber/gru-hacking-to-undermine-anti-doping-efforts/minin1.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/cyber/gru-hacking-to-undermine-anti-doping-efforts/minin1.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/cyber/gru-hacking-to-undermine-anti-doping-efforts/morenets2.jpg/@@images/image/large",
+                  "caption": "Aleksei Sergeyevich Morenets",
+                  "original": "https://www.fbi.gov/wanted/cyber/gru-hacking-to-undermine-anti-doping-efforts/morenets2.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/cyber/gru-hacking-to-undermine-anti-doping-efforts/morenets2.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/cyber/gru-hacking-to-undermine-anti-doping-efforts/serebryakov.jpg/@@images/image/large",
+                  "caption": "Evgenii Mikhaylovich Serebriakov",
+                  "original": "https://www.fbi.gov/wanted/cyber/gru-hacking-to-undermine-anti-doping-efforts/serebryakov.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/cyber/gru-hacking-to-undermine-anti-doping-efforts/serebryakov.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/cyber/gru-hacking-to-undermine-anti-doping-efforts/sotnikov1.jpg/@@images/image/large",
+                  "caption": "Oleg Mikhaylovich Sotnikov",
+                  "original": "https://www.fbi.gov/wanted/cyber/gru-hacking-to-undermine-anti-doping-efforts/sotnikov1.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/cyber/gru-hacking-to-undermine-anti-doping-efforts/sotnikov1.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/cyber/gru-hacking-to-undermine-anti-doping-efforts/yermakov.jpg/@@images/image/large",
+                  "caption": "Ivan Sergeyevich Yermakov",
+                  "original": "https://www.fbi.gov/wanted/cyber/gru-hacking-to-undermine-anti-doping-efforts/yermakov.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/cyber/gru-hacking-to-undermine-anti-doping-efforts/yermakov.jpg/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": null,
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": null,
+          "reward_max": 0,
+          "ncic": null,
+          "aliases": null,
+          "height_max": null,
+          "dates_of_birth_used": null,
+          "height_min": null,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/cyber/gru-hacking-to-undermine-anti-doping-efforts/gru-hacking-collage-8-5x11.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/cyber/gru-hacking-to-undermine-anti-doping-efforts/gru-hacking-collage-8-5x11-russian.pdf/@@download/file/GRU-Hacking-collage-8.5x11 Russian.pdf",
+                  "name": "НА РУССКОМ"
+              }
+          ],
+          "occupations": null,
+          "publication": "2018-10-02T05:46:00",
+          "description": "CONSPIRACY TO COMMIT COMPUTER FRAUD; CONSPIRACY TO COMMIT WIRE FRAUD; WIRE FRAUD; AGGRAVATED IDENTITY THEFT; CONSPIRACY TO COMMIT MONEY LAUNDERING",
+          "race_raw": null,
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": null,
+          "reward_min": 0,
+          "weight_max": null,
+          "sex": null,
+          "@id": "https://api.fbi.gov/@wanted-person/7b32f43d0c174669ba43b67aa62bebb5"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Criminal Enterprise Investigations"
+          ],
+          "languages": null,
+          "path": "/wanted/cei/drug-charges-operation-virus-maker",
+          "weight_min": null,
+          "details": null,
+          "status": "na",
+          "possible_states": null,
+          "eyes": null,
+          "hair": null,
+          "legat_names": null,
+          "eyes_raw": null,
+          "field_offices": [
+              "albuquerque"
+          ],
+          "weight": null,
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": null,
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/cei/drug-charges-operation-virus-maker",
+          "nationality": null,
+          "uid": "00ce57d4-8518-4c69-9297-29aa03b6973e",
+          "warning_message": null,
+          "scars_and_marks": null,
+          "race": null,
+          "hair_raw": null,
+          "modified": "2018-10-26T16:16:19+00:00",
+          "title": "DRUG CHARGES: OPERATION VIRUS MAKER",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/cei/drug-charges-operation-virus-maker/@@images/image/large",
+                  "caption": null,
+                  "original": "https://www.fbi.gov/wanted/cei/drug-charges-operation-virus-maker/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/cei/drug-charges-operation-virus-maker/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/cei/drug-charges-operation-virus-maker/marco-antonio-guzman-zuniga.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/cei/drug-charges-operation-virus-maker/marco-antonio-guzman-zuniga.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/cei/drug-charges-operation-virus-maker/marco-antonio-guzman-zuniga.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/cei/drug-charges-operation-virus-maker/guillermo-castillo-rubio.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/cei/drug-charges-operation-virus-maker/guillermo-castillo-rubio.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/cei/drug-charges-operation-virus-maker/guillermo-castillo-rubio.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/cei/drug-charges-operation-virus-maker/guadalupe-a.-prieto.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/cei/drug-charges-operation-virus-maker/guadalupe-a.-prieto.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/cei/drug-charges-operation-virus-maker/guadalupe-a.-prieto.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/cei/drug-charges-operation-virus-maker/jorge-adrian-ortega-gallegos.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/cei/drug-charges-operation-virus-maker/jorge-adrian-ortega-gallegos.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/cei/drug-charges-operation-virus-maker/jorge-adrian-ortega-gallegos.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/cei/drug-charges-operation-virus-maker/elmy-hermosillo-trujillo.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/cei/drug-charges-operation-virus-maker/elmy-hermosillo-trujillo.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/cei/drug-charges-operation-virus-maker/elmy-hermosillo-trujillo.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/cei/drug-charges-operation-virus-maker/raul-corella-hernandez.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/cei/drug-charges-operation-virus-maker/raul-corella-hernandez.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/cei/drug-charges-operation-virus-maker/raul-corella-hernandez.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/cei/drug-charges-operation-virus-maker/jorge-olivas-nevarez.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/cei/drug-charges-operation-virus-maker/jorge-olivas-nevarez.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/cei/drug-charges-operation-virus-maker/jorge-olivas-nevarez.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/cei/drug-charges-operation-virus-maker/jesus-salas-aguayo.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/cei/drug-charges-operation-virus-maker/jesus-salas-aguayo.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/cei/drug-charges-operation-virus-maker/jesus-salas-aguayo.jpg/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": null,
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": "<p>These individuals were charged by the United States District Court for the District of New Mexico on July 23, 2015, with crimes related to international drug trafficking as part of Operation Virus Maker.</p>",
+          "reward_max": 0,
+          "ncic": null,
+          "aliases": null,
+          "height_max": null,
+          "dates_of_birth_used": null,
+          "height_min": null,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/file-repository/virus-maker-poster-revised-october-2018-1.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/cei/drug-charges-operation-virus-maker/virus-maker.pdf/@@download/file/Virus Maker.pdf",
+                  "name": "Virus Maker.pdf"
+              }
+          ],
+          "occupations": null,
+          "publication": "2016-01-21T07:00:00",
+          "description": "International Drug Trafficking",
+          "race_raw": null,
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": null,
+          "reward_min": 0,
+          "weight_max": null,
+          "sex": "",
+          "@id": "https://api.fbi.gov/@wanted-person/00ce57d4-8518-4c69-9297-29aa03b6973e"
+      },
+      {
+          "eyes": null,
+          "sex": "",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/seeking-info/officer-thomas-t.-wood",
+          "ncic": null,
+          "path": "/wanted/seeking-info/officer-thomas-t.-wood",
+          "locations": null,
+          "weight_min": null,
+          "place_of_birth": null,
+          "reward_min": 0,
+          "subjects": [
+              "Seeking Information"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "097b2351fb835fb04fb8156f2d738a52",
+          "eyes_raw": null,
+          "height_max": null,
+          "nationality": null,
+          "age_range": null,
+          "height_min": null,
+          "aliases": null,
+          "reward_text": null,
+          "possible_countries": null,
+          "description": "Murder Victim\r\nMaywood, Illinois\r\nOctober 23, 2006",
+          "caution": null,
+          "weight_max": null,
+          "legat_names": null,
+          "race": null,
+          "modified": "2018-10-25T11:16:53+00:00",
+          "publication": "2011-11-29T12:00:00",
+          "weight": null,
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/officer-thomas-t.-wood/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/officer-thomas-t.-wood/@@images/image",
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/seeking-info/officer-thomas-t.-wood/@@images/image/large"
+              }
+          ],
+          "remarks": null,
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/seeking-info/officer-thomas-t.-wood/download.pdf"
+              }
+          ],
+          "field_offices": [
+              "chicago"
+          ],
+          "coordinates": [],
+          "race_raw": null,
+          "hair_raw": null,
+          "complexion": null,
+          "build": null,
+          "person_classification": "Victim",
+          "dates_of_birth_used": null,
+          "details": "<p>On October 23, 2006, Maywood Police Officer Thomas T. Wood was sitting in his marked patrol SUV near the intersection of 6th Avenue and Erie Street in Maywood, Illinois, when he was shot multiple times in the chest and head by an unknown assailant. Wood subsequently died of his wounds. The weapon used was believed to be a .380 caliber pistol.</p>\r\n<p> </p>\r\n<p>Wood entered on duty with the Maywood Police Department on October 6, 1997. He was 37 years old at the time of his death, and is survived by his wife and five children.</p>",
+          "warning_message": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": null,
+          "title": "THOMAS T. WOOD",
+          "occupations": null,
+          "@id": "https://api.fbi.gov/@wanted-person/097b2351fb835fb04fb8156f2d738a52"
+      },
+      {
+          "eyes": "brown",
+          "sex": "Female",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/seeking-info/adrienne-celeste-salinas",
+          "ncic": null,
+          "path": "/wanted/seeking-info/adrienne-celeste-salinas",
+          "locations": null,
+          "weight_min": 100,
+          "place_of_birth": "Arizona",
+          "reward_min": 0,
+          "subjects": [
+              "Seeking Information"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "52edbfb5-9f95-40e3-8af5-d1038f2fce38",
+          "eyes_raw": "Brown",
+          "height_max": 65,
+          "nationality": null,
+          "age_range": null,
+          "height_min": 65,
+          "aliases": null,
+          "reward_text": "The FBI is offering a reward of up to $20,000 for information leading to the identification, arrest, and conviction of the person(s) responsible for the suspicious death of Adrienne Celeste Salinas.",
+          "possible_countries": null,
+          "description": "Suspicious Death\r\nTempe, Arizona\r\nJune 15, 2013",
+          "caution": null,
+          "weight_max": 110,
+          "legat_names": null,
+          "race": "hispanic",
+          "modified": "2018-10-18T10:47:30+00:00",
+          "publication": "2015-06-05T07:00:00",
+          "weight": "100 to 110 pounds",
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": "Salinas had a small tattoo of a tribal sun on her neck. She also had a lip piercing with a clear stone, and a four-inch scar on her back.",
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/adrienne-celeste-salinas/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/adrienne-celeste-salinas/@@images/image",
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/seeking-info/adrienne-celeste-salinas/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/adrienne-celeste-salinas/salinas-3.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/adrienne-celeste-salinas/salinas-3.jpg",
+                  "caption": "Photograph taken in 2013",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/adrienne-celeste-salinas/salinas-3.jpg/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/adrienne-celeste-salinas/salinas-tattoo.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/adrienne-celeste-salinas/salinas-tattoo.jpg",
+                  "caption": "Tribal sun tattoo",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/adrienne-celeste-salinas/salinas-tattoo.jpg/@@images/image/large"
+              }
+          ],
+          "remarks": "<p>Salinas drove a white, 2002 Mercury Sable (which has been recovered).</p>",
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/seeking-info/adrienne-celeste-salinas/salinas.pdf"
+              }
+          ],
+          "field_offices": [
+              "phoenix"
+          ],
+          "coordinates": [],
+          "race_raw": "White (Hispanic)",
+          "hair_raw": "Black",
+          "complexion": null,
+          "build": null,
+          "person_classification": "Victim",
+          "dates_of_birth_used": [
+              "November 5, 1993"
+          ],
+          "details": "<p>On June 14, 2013, Adrienne Celeste Salinas, a 19-year-old woman from Tempe, Arizona, attended a birthday party at her residence for a friend.</p>\r\n<p>In the early morning hours of June 15, 2013, Salinas left the party and then returned, speaking briefly with a roommate. At about 4:00 a.m., Salinas was seen leaving the party again. A few minutes later, her vehicle was involved in a single-car accident a short distance from her residence. Salinas returned to her apartment unseen, changed clothes, and called a cab.</p>\r\n<p>At around 5:00 a.m., Salinas sent a text message to her boyfriend stating she was going to his residence. Salinas then spoke with the cab driver, confirming that he was en route to pick her up at a convenience store in close proximity to her residence. Shortly thereafter the cab driver arrived and was unable to locate Salinas or reach her by phone.</p>\r\n<p>Subsequent attempts to contact Salinas' phone went directly to voice mail. Salinas was reported missing on June 16, 2013 (Father's Day), after she was unable to be located by family and friends.</p>\r\n<p>On August 6, 2013, two weeks after a substantial storm and flooding of the area, Salinas' remains were located in a desert wash basin behind a residence in Apache Junction, Arizona.</p>",
+          "warning_message": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "black",
+          "title": "ADRIENNE CELESTE SALINAS",
+          "occupations": null,
+          "@id": "https://api.fbi.gov/@wanted-person/52edbfb5-9f95-40e3-8af5-d1038f2fce38"
+      },
+      {
+          "dates_of_birth_used": null,
+          "images": [
+              {
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/vicap/missing-persons/william-gary-morris---nashville-tennessee/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/william-gary-morris---nashville-tennessee/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/vicap/missing-persons/william-gary-morris---nashville-tennessee/@@images/image"
+              }
+          ],
+          "details": "<p>William Morris was last seen by his mother on July 27, 2003, when he left the house to go to the store.  He never returned.  The investigation has placed the victim with other individuals at a nearby apartment complex where he may have been engaged in an altercation.  Foul play is suspected.</p>",
+          "warning_message": null,
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "black",
+          "occupations": null,
+          "suspects": null,
+          "age_min": 23,
+          "hair": "black",
+          "legat_names": null,
+          "modified": "2018-10-17T13:42:34+00:00",
+          "status": "na",
+          "publication": "2018-10-17T08:34:00",
+          "weight": "270 pounds",
+          "caution": null,
+          "possible_states": null,
+          "scars_and_marks": "Morris has a tattoo on his left arm (Jack in the Box \"Joke's Over), a raised circular scar on his right hand, and a raised scar on the back of his head.",
+          "race_raw": "Black",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/vicap/missing-persons/william-gary-morris---nashville-tennessee/morrisalert.pdf",
+                  "name": "English"
+              }
+          ],
+          "field_offices": null,
+          "nationality": null,
+          "weight_min": 270,
+          "age_range": "23 years old",
+          "uid": "6fcadebec86944769eff186ad5df7692",
+          "eyes_raw": "Brown",
+          "height_max": 71,
+          "height_min": 71,
+          "aliases": null,
+          "reward_text": null,
+          "description": "July 27, 2003\r\nNashville, Tennessee",
+          "title": "WILLIAM GARY MORRIS - NASHVILLE, TENNESSEE",
+          "possible_countries": null,
+          "hair_raw": "Black",
+          "remarks": "<p>Morris was last seen wearing a white t-shirt, khaki shorts, and black shoes.</p>",
+          "weight_max": 270,
+          "age_max": 23,
+          "url": "https://www.fbi.gov/wanted/vicap/missing-persons/william-gary-morris---nashville-tennessee",
+          "ncic": null,
+          "eyes": "brown",
+          "sex": "Male",
+          "coordinates": [],
+          "path": "/wanted/vicap/missing-persons/william-gary-morris---nashville-tennessee",
+          "place_of_birth": null,
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "ViCAP Missing Persons"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/6fcadebec86944769eff186ad5df7692"
+      },
+      {
+          "dates_of_birth_used": [
+              "May 19, 1982"
+          ],
+          "images": [
+              {
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/murders/edgardo-luis-perez/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/edgardo-luis-perez/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/edgardo-luis-perez/@@images/image"
+              }
+          ],
+          "details": null,
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "hispanic",
+          "occupations": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "black",
+          "legat_names": null,
+          "modified": "2018-10-12T16:48:54+00:00",
+          "status": "na",
+          "publication": "2011-06-02T11:25:00",
+          "weight": "140 to 160 pounds",
+          "caution": "<p>Edgardo Luis Perez is wanted for his alleged involvement in a murder, which occurred in Farmington Hills, Michigan. The victim was a 56-year-old male who Perez reportedly befriended at a health club. Within a few weeks, Perez had gained the victim's trust and was invited to his home. Reportedly, during a phone conversation on October 20, 2001, the victim told his roommate that he was going to spend the day with Perez. This was the last known contact with the victim. It is alleged that Perez may have befriended the victim with the intent of stealing his identification and money for the purpose of fleeing the country. Reportedly, Perez feared he was going to be incarcerated for a probation violation.</p>\r\n<p> </p>\r\n<p>On June 11, 2003, a state arrest warrant was issued by the District Court Judicial District Number 47, state of Michigan, county of Oakland, charging Edgardo Luis Perez with felony murder. Perez was charged with unlawful flight to avoid prosecution in a federal arrest warrant, which was issued by the United States District Court, Eastern District of Michigan.</p>",
+          "possible_states": [
+              "US-IN",
+              "US-MI"
+          ],
+          "scars_and_marks": null,
+          "race_raw": "White (Hispanic)",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/edgardo-luis-perez/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "field_offices": [
+              "detroit"
+          ],
+          "nationality": "American",
+          "weight_min": 140,
+          "age_range": null,
+          "uid": "085642e78cd1e548cb98ff21b0648b55",
+          "eyes_raw": "Brown",
+          "height_max": 66,
+          "height_min": 66,
+          "aliases": [
+              "Eddie Perez"
+          ],
+          "reward_text": null,
+          "description": "Unlawful Flight to Avoid Prosecution - Felony Murder",
+          "title": "EDGARDO LUIS PEREZ",
+          "possible_countries": [
+              "MEX",
+              "USA"
+          ],
+          "hair_raw": "Black",
+          "remarks": "<p>Perez has ties to Indiana, Michigan, Puerto Rico, and Tijuana, Mexico. Additionally, it was reported that he had a collection of books on how to be a fugitive, how to do money transactions over the Internet, and how to change identity and create fake identifications and documents.</p>",
+          "weight_max": 160,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/murders/edgardo-luis-perez",
+          "ncic": "W754567496",
+          "eyes": "brown",
+          "sex": "Male",
+          "coordinates": [],
+          "path": "/wanted/murders/edgardo-luis-perez",
+          "place_of_birth": "Detroit, Michigan",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Violent Crime - Murders"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/085642e78cd1e548cb98ff21b0648b55"
+      },
+      {
+          "dates_of_birth_used": [
+              "June 6, 1962",
+              "June 7, 1962",
+              "June 8, 1962",
+              "June 24, 1962",
+              "June 06, 1962",
+              "July 8, 1962",
+              "August 8, 1962 ",
+              "June 8, 1967"
+          ],
+          "images": [
+              {
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/additional/pedro-santamaria/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/additional/pedro-santamaria/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/additional/pedro-santamaria/@@images/image"
+              }
+          ],
+          "details": "<p>Pedro Santamaria is wanted for his alleged involvement in the robbery of a tractor-trailer carrying precious metals traveling from Miami, Florida, to Boston, Massachusetts, that occurred in Wilson County, North Carolina, on March 1, 2015.  Santamaria allegedly was a gunman during the robbery in which he allegedly bound and dragged victims into the woods during the robbery. On May 18, 2016, a federal arrest warrant was issued by the United States District Court for the Southern District of Florida after Santamaria was charged with conspiracy to commit Hobbs Act robbery and conspiracy to possess a firearm in furtherance of a crime of violence.</p>\r\n<p> </p>",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "black",
+          "occupations": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "black",
+          "legat_names": null,
+          "modified": "2018-10-04T10:48:52+00:00",
+          "status": "na",
+          "publication": "2018-09-26T13:34:00",
+          "weight": "180 pounds",
+          "caution": null,
+          "possible_states": [
+              "US-CA",
+              "US-FL",
+              "US-LA"
+          ],
+          "scars_and_marks": "Santamaria has a scar on his left forearm.",
+          "race_raw": "Black (Hispanic)",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/additional/pedro-santamaria/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "field_offices": [
+              "miami"
+          ],
+          "nationality": "Cuban",
+          "weight_min": 180,
+          "age_range": null,
+          "uid": "804a254d8f2444eebdf8bb276548392d",
+          "eyes_raw": "Brown",
+          "height_max": 67,
+          "height_min": 67,
+          "aliases": null,
+          "reward_text": "The FBI is offering a  reward of up to $10,000 for information leading to the arrest and conviction of Pedro Santamaria.",
+          "description": "Conspiracy to Commit Hobbs Act Robbery; Conspiracy to Possess a Firearm in Furtherance of a Crime of Violence",
+          "title": "PEDRO SANTAMARIA",
+          "possible_countries": null,
+          "hair_raw": "Black",
+          "remarks": "<p>Santamaria has ties to California, Florida, Louisiana, and Texas.  </p>",
+          "weight_max": 180,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/additional/pedro-santamaria",
+          "ncic": "W576294395",
+          "eyes": "brown",
+          "sex": "Male",
+          "coordinates": [],
+          "path": "/wanted/additional/pedro-santamaria",
+          "place_of_birth": "Cuba",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Additional Violent Crimes"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/804a254d8f2444eebdf8bb276548392d"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Seeking Information"
+          ],
+          "languages": null,
+          "path": "/wanted/seeking-info/trooper-johnny-rush-bowman",
+          "weight_min": null,
+          "details": "<p>The Federal Bureau of Investigation, along with the Virginia State Police, Manassas City Police Department, and the Office of the Commonwealth’s Attorney Prince William County, is seeking the public's assistance in identifying the unknown individual(s) responsible for the brutal murder of Virginia State Trooper Johnny Rush Bowman in Manassas, Virginia.</p>\r\n<p> </p>\r\n<p>On August 19, 1984, at approximately 4:15 a.m., Virginia State Trooper Johnny Rush Bowman was brutally attacked and stabbed 45 times by an unknown assailant(s) while off-duty at his home located near Patterson Place in Manassas, Virginia.</p>\r\n<p> </p>\r\n<p>Trooper Bowman, who was unarmed at the time, engaged in a struggle with the individual(s) that awakened his two-year-old daughter in the home.  Trooper Bowman later succumbed to his injuries.</p>\r\n<p> </p>\r\n<p> </p>",
+          "status": "na",
+          "possible_states": null,
+          "eyes": null,
+          "hair": null,
+          "legat_names": null,
+          "eyes_raw": null,
+          "field_offices": [
+              "washingtondc"
+          ],
+          "weight": null,
+          "age_min": null,
+          "build": null,
+          "person_classification": "Victim",
+          "remarks": null,
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/seeking-info/trooper-johnny-rush-bowman",
+          "nationality": null,
+          "uid": "f5f9901949ce411f962a046abac0793b",
+          "warning_message": null,
+          "scars_and_marks": null,
+          "race": null,
+          "hair_raw": null,
+          "modified": "2018-09-21T17:21:09+00:00",
+          "title": "TROOPER JOHNNY BOWMAN",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/trooper-johnny-rush-bowman/@@images/image/large",
+                  "caption": null,
+                  "original": "https://www.fbi.gov/wanted/seeking-info/trooper-johnny-rush-bowman/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/trooper-johnny-rush-bowman/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/trooper-johnny-rush-bowman/bowman2.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/trooper-johnny-rush-bowman/bowman2.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/trooper-johnny-rush-bowman/bowman2.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/trooper-johnny-rush-bowman/bowman1.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/trooper-johnny-rush-bowman/bowman1.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/trooper-johnny-rush-bowman/bowman1.jpg/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": "The FBI is offering a reward of up to $50,000 for information leading to the arrest and conviction of the person(s) responsible for the violent, cold case murder of Johnny Rush Bowman.",
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": null,
+          "reward_max": 0,
+          "ncic": null,
+          "aliases": null,
+          "height_max": null,
+          "dates_of_birth_used": null,
+          "height_min": null,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/seeking-info/trooper-johnny-rush-bowman/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "occupations": null,
+          "publication": "2018-08-28T06:20:00",
+          "description": "Murder Victim\r\nManassas, Virginia\r\nAugust 19, 1984",
+          "race_raw": null,
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": null,
+          "reward_min": 0,
+          "weight_max": null,
+          "sex": null,
+          "@id": "https://api.fbi.gov/@wanted-person/f5f9901949ce411f962a046abac0793b"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Known Bank Robbers"
+          ],
+          "languages": null,
+          "path": "/wanted/known-bank-robbers/waqar-ghumman",
+          "weight_min": 178,
+          "details": null,
+          "status": "na",
+          "possible_states": null,
+          "eyes": "brown",
+          "hair": "black",
+          "legat_names": null,
+          "eyes_raw": "Brown",
+          "field_offices": [
+              "buffalo"
+          ],
+          "weight": "178 pounds",
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": "<p>It is believed that Waqar Ghumman and Mohsin Zamir may be traveling together as they are long-time friends.  They may have traveled to Pakistan.  Ghumman has ties to Brooklyn, New York; New Jersey; Wyoming; Illinois; Kansas; and Pennsylvania.</p>",
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/known-bank-robbers/waqar-ghumman",
+          "nationality": "Pakistani",
+          "uid": "e094cbfa0c904b9b95de23927c3f4548",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS WITH VIOLENT TENDENCIES",
+          "scars_and_marks": null,
+          "race": null,
+          "hair_raw": "Black",
+          "modified": "2018-09-21T14:43:47+00:00",
+          "title": "WAQAR GHUMMAN",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/known-bank-robbers/waqar-ghumman/@@images/image/large",
+                  "caption": null,
+                  "original": "https://www.fbi.gov/wanted/known-bank-robbers/waqar-ghumman/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/known-bank-robbers/waqar-ghumman/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": "The FBI is offering a reward of up to $15,000 for information leading to the arrest of Waqar Ghumman.",
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": "<p>Waqar Ghumman and <a data-val=\"https://www.fbi.gov/wanted/known-bank-robbers/mohsin-zamir\" href=\"https://www.fbi.gov/wanted/known-bank-robbers/mohsin-zamir\" data-linktype=\"external\" data-urltype=\"/view\">Mohsin Zamir</a> are wanted for their alleged involvement in an armed bank robbery which occurred on January 8, 2016, in Tonawanda, New York. It is alleged that the two suspects entered the bank, aimed pistols at the customers and employees, and verbally issued threats. Ghumman allegedly jumped the counter and demanded that the teller drawers be opened and emptied into a bag. He also ordered the bank manager, at gunpoint, to open the vault. After receiving money from the vault, Ghumman and Zamir exited the bank. On February 14, 2017, federal arrest warrants were issued for both Ghumman and Zamir in the United States District Court, Western District of New York, Buffalo, New York, after they were both charged with bank robbery, entering a bank with intent to commit a larceny, and bank larceny.</p>",
+          "reward_max": 0,
+          "ncic": "W935417074",
+          "aliases": [
+              "Waqar Y. Ghumman",
+              "Waqar Younas Ghumman"
+          ],
+          "height_max": 69,
+          "dates_of_birth_used": [
+              "October 16, 1989"
+          ],
+          "height_min": 69,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/known-bank-robbers/waqar-ghumman/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/known-bank-robbers/waqar-ghumman/ghummanurdu.pdf/@@download/file/ghummanurdu.pdf",
+                  "name": "اردو میں"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/known-bank-robbers/waqar-ghumman/ghummanhindi.pdf/@@download/file/ghummanhindi.pdf",
+                  "name": "हिंदी में"
+              }
+          ],
+          "occupations": [
+              "Ghumman has worked as a Class A truck driver who would frequently travel to the West Coast."
+          ],
+          "publication": "2016-07-15T18:11:00",
+          "description": "Bank Robbery; Entering a Bank with Intent to Commit a Larceny; Bank Larceny",
+          "race_raw": null,
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": "Pakistan",
+          "reward_min": 0,
+          "weight_max": 178,
+          "sex": "Male",
+          "@id": "https://api.fbi.gov/@wanted-person/e094cbfa0c904b9b95de23927c3f4548"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Known Bank Robbers"
+          ],
+          "languages": null,
+          "path": "/wanted/known-bank-robbers/mohsin-zamir",
+          "weight_min": 190,
+          "details": null,
+          "status": "na",
+          "possible_states": null,
+          "eyes": "black",
+          "hair": "black",
+          "legat_names": null,
+          "eyes_raw": "Black",
+          "field_offices": [
+              "buffalo"
+          ],
+          "weight": "190 pounds",
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": "<p>It is believed that Mohsin Zamir and Waqar Ghumman may be traveling together as they are long-time friends. They may have traveled to Pakistan.  Zamir is known to be dedicated to physical fitness, has a membership at Planet Fitness, and works out wherever and whenever possible.  He has ties to Boston, Massachusetts; Brooklyn, New York; New Jersey; Wyoming; and Pennsylvania.</p>",
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/known-bank-robbers/mohsin-zamir",
+          "nationality": "Pakistani",
+          "uid": "4672857ef7ee4c5e9aa903e23a07a6aa",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS WITH VIOLENT TENDENCIES",
+          "scars_and_marks": null,
+          "race": null,
+          "hair_raw": "Black",
+          "modified": "2018-09-21T14:42:41+00:00",
+          "title": "MOHSIN ZAMIR",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/known-bank-robbers/mohsin-zamir/@@images/image/large",
+                  "caption": null,
+                  "original": "https://www.fbi.gov/wanted/known-bank-robbers/mohsin-zamir/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/known-bank-robbers/mohsin-zamir/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": "The FBI is offering a reward of up to $15,000 for information leading to the arrest of Mohsin Zamir.",
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": "<p>Mohsin Zamir and <a data-val=\"https://www.fbi.gov/wanted/known-bank-robbers/waqar-ghumman\" href=\"https://www.fbi.gov/wanted/known-bank-robbers/waqar-ghumman\" data-linktype=\"external\" data-urltype=\"/view\">Waqar Ghumman</a> are wanted for their alleged involvement in an armed bank robbery which occurred on January 8, 2016, in Tonawanda, New York. It is alleged that the two suspects entered the bank, aimed pistols at the customers and employees, and verbally issued threats. Ghumman allegedly jumped the counter and demanded that the teller drawers be opened and emptied into a bag. He also ordered the bank manager, at gunpoint, to open the vault. After receiving money from the vault, Zamir and Ghumman exited the bank. On February 14, 2017, federal arrest warrants were issued for both Zamir and Ghumman in the United States District Court, Western District of New York, Buffalo, New York, after they were both charged with bank robbery, entering a bank with intent to commit a larceny, and bank larceny.</p>",
+          "reward_max": 0,
+          "ncic": "W605411011",
+          "aliases": null,
+          "height_max": 69,
+          "dates_of_birth_used": [
+              "February 21, 1985"
+          ],
+          "height_min": 69,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/known-bank-robbers/mohsin-zamir/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/known-bank-robbers/mohsin-zamir/zamirurdu.pdf/@@download/file/zamirurdu.pdf",
+                  "name": "اردو میں"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/known-bank-robbers/mohsin-zamir/zamirhindi.pdf/@@download/file/zamirhindi.pdf",
+                  "name": "हिंदी में"
+              }
+          ],
+          "occupations": [
+              "In the past, Zamir has used modeling agencies for employment and has also been employed as an IT Specialist."
+          ],
+          "publication": "2016-07-15T16:14:00",
+          "description": "Bank Robbery; Entering a Bank with Intent to Commit a Larceny; Bank Larceny",
+          "race_raw": null,
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": "Pakistan",
+          "reward_min": 0,
+          "weight_max": 190,
+          "sex": "Male",
+          "@id": "https://api.fbi.gov/@wanted-person/4672857ef7ee4c5e9aa903e23a07a6aa"
+      },
+      {
+          "age_range": "27 at time of incident",
+          "subjects": [
+              "ViCAP Missing Persons"
+          ],
+          "languages": null,
+          "path": "/wanted/vicap/missing-persons/brian-shaffer",
+          "weight_min": 160,
+          "details": "<p>On April 1, 2006, Brian Randall Shaffer disappeared without an apparent reason. The last known contact was at 1:55 AM, when Shaffer was having drinks with friends at a local Ohio State University (OSU) bar in Columbus, Ohio. For additional information regarding this victim, refer to the National Missing and Unidentified Persons System (NamUs) missing person database, case report number MP#1709.</p>",
+          "status": "na",
+          "possible_states": [
+              "US-OH"
+          ],
+          "eyes": "hazel",
+          "hair": "brown",
+          "legat_names": null,
+          "eyes_raw": "Hazel",
+          "field_offices": null,
+          "weight": "160 to 165 pounds",
+          "age_min": 27,
+          "build": null,
+          "person_classification": "Victim",
+          "remarks": "<p>Shaffer plays guitar and is a medical student.</p>",
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/vicap/missing-persons/brian-shaffer",
+          "nationality": null,
+          "uid": "e8f2cdbb7df398760302c06e15ba016a",
+          "warning_message": null,
+          "scars_and_marks": "Shaffer has a Peal Jam tattoo on his upper right arm.  He has a dot on the iris of his left eye.",
+          "race": "white",
+          "hair_raw": "Brown",
+          "modified": "2018-09-11T15:26:01+00:00",
+          "title": "BRIAN RANDALL SHAFFER - COLUMBUS, OHIO",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/vicap/missing-persons/brian-shaffer/@@images/image/large",
+                  "caption": null,
+                  "original": "https://www.fbi.gov/wanted/vicap/missing-persons/brian-shaffer/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/brian-shaffer/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/vicap/missing-persons/brian-shaffer/shaffer-2.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/vicap/missing-persons/brian-shaffer/shaffer-2.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/brian-shaffer/shaffer-2.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/vicap/missing-persons/brian-shaffer/shaffer-3.jpeg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/vicap/missing-persons/brian-shaffer/shaffer-3.jpeg",
+                  "thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/brian-shaffer/shaffer-3.jpeg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/vicap/missing-persons/brian-shaffer/shaffer-tat.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/vicap/missing-persons/brian-shaffer/shaffer-tat.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/brian-shaffer/shaffer-tat.jpg/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": null,
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": null,
+          "reward_max": 0,
+          "ncic": null,
+          "aliases": null,
+          "height_max": 74,
+          "dates_of_birth_used": null,
+          "height_min": 74,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/vicap/missing-persons/brian-shaffer/shaffera-9-7-18.pdf",
+                  "name": "English"
+              }
+          ],
+          "occupations": null,
+          "publication": "2010-10-26T15:10:00",
+          "description": "Columbus, Ohio\r\nApril 1, 2006",
+          "race_raw": "White",
+          "age_max": 27,
+          "coordinates": [],
+          "place_of_birth": null,
+          "reward_min": 0,
+          "weight_max": 165,
+          "sex": "Male",
+          "@id": "https://api.fbi.gov/@wanted-person/e8f2cdbb7df398760302c06e15ba016a"
+      },
+      {
+          "dates_of_birth_used": [
+              "November 22, 1991"
+          ],
+          "images": [
+              {
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/kidnap/shanna-genelle-peoples/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/shanna-genelle-peoples/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/kidnap/shanna-genelle-peoples/@@images/image"
+              },
+              {
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/kidnap/shanna-genelle-peoples/peoples_s-2.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/shanna-genelle-peoples/peoples_s-2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/kidnap/shanna-genelle-peoples/peoples_s-2.jpg"
+              }
+          ],
+          "details": "<p>On September 8, 2011, (then) 19-year-old Shanna Peoples was last seen near her residence in Geneva, Alabama. At the time of her disappearance, Shanna lived about two blocks from her parents' residence. Shanna's daily routine consisted of her walking or riding her bicycle between her house and her parents' residence. Shanna also frequently rode her bicycle to a nearby store to purchase soda and candy. When Shanna was discovered missing, the front door of her residence was left open and the television was left on. Although there were no indications of a struggle in the home, those close to her indicate that Shanna was very routine about turning off the television and locking the door when she left home. Also, Shanna frequently spoke on her cellular phone which was turned off at approximately 4:00 p.m., on the day she went missing.  </p>",
+          "warning_message": "BI-POLAR AND MAY BE IN NEED OF MEDICATIONS",
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "white",
+          "occupations": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "legat_names": null,
+          "modified": "2018-09-06T12:28:47+00:00",
+          "status": "na",
+          "publication": "2016-11-29T09:59:00",
+          "weight": "120 pounds (At the time of her disappearance)",
+          "caution": null,
+          "possible_states": null,
+          "scars_and_marks": "Shanna has a birthmark on the inside of her leg above her knee.",
+          "race_raw": "White",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/kidnap/shanna-genelle-peoples/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "field_offices": [
+              "mobile"
+          ],
+          "nationality": null,
+          "weight_min": 120,
+          "age_range": null,
+          "uid": "4e48d7327efd44599f07d85c1a441efb",
+          "eyes_raw": "Brown",
+          "height_max": 72,
+          "height_min": 72,
+          "aliases": [
+              "Shanna McKee"
+          ],
+          "reward_text": null,
+          "description": "September 8, 2011\r\nGeneva, Alabama",
+          "title": "SHANNA GENELLE PEOPLES",
+          "possible_countries": null,
+          "hair_raw": "Brown",
+          "remarks": "<p>Shanna is mentally challenged and is described as having the maturity level of a 13-year-old girl. She takes prescription medications for a severe bi-polar disorder. </p>",
+          "weight_max": 120,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/kidnap/shanna-genelle-peoples",
+          "ncic": null,
+          "eyes": "brown",
+          "sex": "Female",
+          "coordinates": [],
+          "path": "/wanted/kidnap/shanna-genelle-peoples",
+          "place_of_birth": null,
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Kidnappings and Missing Persons"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/4e48d7327efd44599f07d85c1a441efb"
+      },
+      {
+          "eyes": "brown",
+          "sex": "Male",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/additional/jose-ramirez",
+          "ncic": "W254426436",
+          "path": "/wanted/additional/jose-ramirez",
+          "locations": null,
+          "weight_min": 170,
+          "place_of_birth": "Las Vegas, New Mexico",
+          "reward_min": 0,
+          "subjects": [
+              "Additional Violent Crimes"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": [
+              "English",
+              "Spanish"
+          ],
+          "uid": "07607b0d593e4c6a961bf4c782b6090b",
+          "eyes_raw": "Brown",
+          "height_max": 68,
+          "nationality": "American",
+          "age_range": null,
+          "height_min": 68,
+          "aliases": [
+              "Jose Ramirez-Perez",
+              "Jose Ramirez, Jr.",
+              "Jose Perez Ramirez"
+          ],
+          "reward_text": "The FBI is offering a reward of up to $1,000 for information leading to the arrest and conviction of Jose Ramirez.",
+          "possible_countries": null,
+          "description": "Kidnapping; Carjacking; Interference with Commerce by Threats or Violence (Hobbs Act); Conspiracy; Aiding and Abetting",
+          "caution": "<p>Jose Ramirez is wanted for his alleged involvement in a kidnapping that occurred in Placitas, New Mexico, on July 26, 2018. The victim was freed later the same day.</p>\r\n<p> </p>\r\n<p>A federal arrest warrant was issued in the United States District Court for the District of New Mexico, Albuquerque, New Mexico, on July 27, 2018, after Ramirez was charged with kidnapping, carjacking, interference with commerce by threats or violence (Hobbs Act), conspiracy, and aiding and abetting.</p>",
+          "weight_max": 170,
+          "legat_names": null,
+          "race": "hispanic",
+          "modified": "2018-09-06T12:12:54+00:00",
+          "publication": "2018-08-02T08:51:00",
+          "weight": "170 pounds",
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": "Ramirez has a tattoo on his right shoulder of a heart and wings.",
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/additional/jose-ramirez/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/additional/jose-ramirez/@@images/image",
+                  "caption": "Photograph taken in 2018",
+                  "large": "https://www.fbi.gov/wanted/additional/jose-ramirez/@@images/image/large"
+              }
+          ],
+          "remarks": "<p>Ramirez may wear glasses and speak with a stutter. He has previously resided in Albuquerque, New Mexico.</p>",
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/additional/jose-ramirez/download.pdf"
+              }
+          ],
+          "field_offices": [
+              "albuquerque"
+          ],
+          "coordinates": [],
+          "race_raw": "White (Hispanic)",
+          "hair_raw": "Black",
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": [
+              "December 2, 1978",
+              "October 2, 1978",
+              "November 17, 1978",
+              "February 15, 1979"
+          ],
+          "details": null,
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "suspects": null,
+          "age_min": null,
+          "hair": "black",
+          "title": "JOSE RAMIREZ",
+          "occupations": null,
+          "@id": "https://api.fbi.gov/@wanted-person/07607b0d593e4c6a961bf4c782b6090b"
+      },
+      {
+          "eyes": null,
+          "sex": null,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/seeking-info/homicide-investigation-buffalo",
+          "ncic": null,
+          "path": "/wanted/seeking-info/homicide-investigation-buffalo",
+          "locations": null,
+          "weight_min": null,
+          "place_of_birth": null,
+          "reward_min": 0,
+          "subjects": [
+              "Seeking Information"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "5de0a1dd0ce6429b8b0db2c47e2fa9c7",
+          "eyes_raw": null,
+          "height_max": null,
+          "nationality": null,
+          "age_range": null,
+          "height_min": null,
+          "aliases": null,
+          "reward_text": "The FBI is offering a reward of up to $25,000 for information leading to the arrest of the individual(s) responsible for the murders of Yvette and Kyrie Johnson.",
+          "possible_countries": null,
+          "description": "Buffalo, New York\r\nJuly 2, 2018",
+          "caution": null,
+          "weight_max": null,
+          "legat_names": null,
+          "race": null,
+          "modified": "2018-08-30T20:00:14+00:00",
+          "publication": "2018-08-21T14:15:00",
+          "weight": null,
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/homicide-investigation-buffalo/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/homicide-investigation-buffalo/@@images/image",
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/seeking-info/homicide-investigation-buffalo/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/homicide-investigation-buffalo/yvette1.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/homicide-investigation-buffalo/yvette1.jpg",
+                  "caption": "Yvette Johnson",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/homicide-investigation-buffalo/yvette1.jpg/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/homicide-investigation-buffalo/kyrie1.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/homicide-investigation-buffalo/kyrie1.jpg",
+                  "caption": "Kyrie Johnson",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/homicide-investigation-buffalo/kyrie1.jpg/@@images/image/large"
+              }
+          ],
+          "remarks": null,
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/seeking-info/homicide-investigation-buffalo/johnsonsweb1.pdf"
+              }
+          ],
+          "field_offices": [
+              "buffalo"
+          ],
+          "coordinates": [],
+          "race_raw": null,
+          "hair_raw": null,
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": null,
+          "details": "<p>On July 2, 2018, at approximately 12:30 a.m., 54-year-old Yvette Johnson and her 17-month-old grandson, Kyrie Johnson, were shot and killed in front of their home on Grape Street near the intersection of Best Street in Buffalo, New York. Two additional bystanders suffered leg wounds.</p>\r\n<p> </p>",
+          "warning_message": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": null,
+          "title": "HOMICIDE INVESTIGATION",
+          "occupations": null,
+          "@id": "https://api.fbi.gov/@wanted-person/5de0a1dd0ce6429b8b0db2c47e2fa9c7"
+      },
+      {
+          "eyes": null,
+          "sex": null,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/seeking-info/hate-crime",
+          "ncic": null,
+          "path": "/wanted/seeking-info/hate-crime",
+          "locations": null,
+          "weight_min": null,
+          "place_of_birth": null,
+          "reward_min": 0,
+          "subjects": [
+              "Seeking Information"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "64a9a58435df481ca2c6a3bd5067242f",
+          "eyes_raw": null,
+          "height_max": null,
+          "nationality": null,
+          "age_range": null,
+          "height_min": null,
+          "aliases": null,
+          "reward_text": "The FBI is offering a reward of up to $10,000 for information leading to the arrest of the person(s) responsible for the assault that took place on April 3, 2018.",
+          "possible_countries": null,
+          "description": "Kansas City, Missouri\r\nApril 3, 2018",
+          "caution": null,
+          "weight_max": null,
+          "legat_names": null,
+          "race": null,
+          "modified": "2018-08-22T16:14:36+00:00",
+          "publication": "2018-05-09T09:27:00",
+          "weight": null,
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/hate-crime/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/hate-crime/@@images/image",
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/seeking-info/hate-crime/@@images/image/large"
+              }
+          ],
+          "remarks": null,
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/seeking-info/hate-crime/download.pdf"
+              }
+          ],
+          "field_offices": [
+              "kansascity"
+          ],
+          "coordinates": [],
+          "race_raw": null,
+          "hair_raw": null,
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": null,
+          "details": "<p>The FBI Kansas City Field Office is seeking information regarding an assault which occurred on April 3, 2018, at the Metropolitan Community College, Penn Valley Campus, Kansas City, Missouri.  The victim, identified as a female Muslim student, was assaulted at approximately 3:15 p.m. by an unknown male suspect while departing the Humanities Building stairwell area.  Following class, the student was walking down the stairs when she heard an unknown male voice make a derogatory statement.  The student turned and was struck in the face, causing her to fall down the stairs.  The student reported the incident to the campus police and received medical attention. </p>\r\n<p> </p>\r\n<p> </p>\r\n<p> </p>",
+          "warning_message": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": null,
+          "title": "HATE CRIME INVESTIGATION",
+          "occupations": null,
+          "@id": "https://api.fbi.gov/@wanted-person/64a9a58435df481ca2c6a3bd5067242f"
+      },
+      {
+          "eyes": "brown",
+          "sex": "Female",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/seeking-info/alexandra-alex-anaya",
+          "ncic": null,
+          "path": "/wanted/seeking-info/alexandra-alex-anaya",
+          "locations": [
+              "Chicago"
+          ],
+          "weight_min": 125,
+          "place_of_birth": null,
+          "reward_min": 0,
+          "subjects": [
+              "Seeking Information"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "6655664b392a4fa6ab61864ffd37b239",
+          "eyes_raw": "Brown",
+          "height_max": 61,
+          "nationality": null,
+          "age_range": null,
+          "height_min": 61,
+          "aliases": null,
+          "reward_text": "The FBI is offering a reward of up to $10,000 for information leading to the identification, arrest, and conviction of the person or persons responsible for the disappearance and death of Alexandra (Alex) Anaya.",
+          "possible_countries": null,
+          "description": "Murder Victim\r\nHammond, Indiana \r\nAugust 13, 2005",
+          "caution": null,
+          "weight_max": 125,
+          "legat_names": null,
+          "race": "hispanic",
+          "modified": "2018-08-13T16:18:52+00:00",
+          "publication": "2016-08-16T14:20:00",
+          "weight": "125 pounds",
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/alexandra-alex-anaya/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/alexandra-alex-anaya/@@images/image",
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/seeking-info/alexandra-alex-anaya/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/alexandra-alex-anaya/anaya-necklace.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/alexandra-alex-anaya/anaya-necklace.jpg",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/alexandra-alex-anaya/anaya-necklace.jpg/@@images/image/large"
+              }
+          ],
+          "remarks": null,
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/seeking-info/alexandra-alex-anaya/download.pdf"
+              }
+          ],
+          "field_offices": [
+              "chicago"
+          ],
+          "coordinates": [],
+          "race_raw": "White (Hispanic)",
+          "hair_raw": "Brown",
+          "complexion": null,
+          "build": null,
+          "person_classification": "Victim",
+          "dates_of_birth_used": null,
+          "details": "<p>The Federal Bureau of Investigation (FBI) is seeking information from the public regarding the unsolved murder of 13-year-old Alexandra (Alex) Anaya.</p>\r\n<p>On August 13, 2005, Alex was reported missing from her Hammond, Indiana residence in the early morning hours. Three days later, Alex's torso was recovered floating in the Little Calumet River. Alex was wearing a gold chain with a round, religious medallion.</p>",
+          "warning_message": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "title": "ALEXANDRA (ALEX) ANAYA",
+          "occupations": null,
+          "@id": "https://api.fbi.gov/@wanted-person/6655664b392a4fa6ab61864ffd37b239"
+      }
+  ],
+  "page": 33
+}

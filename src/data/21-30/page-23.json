@@ -1,0 +1,1692 @@
+{
+  "total": 1003,
+  "items": [
+      {
+          "age_range": null,
+          "subjects": [
+              "Seeking Information"
+          ],
+          "languages": null,
+          "path": "/wanted/seeking-info/renton-church-display-defacement",
+          "weight_min": null,
+          "details": "<p>The FBI's Seattle Field Office, the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF) Seattle Field Division, and the Renton Police Department in Washington are asking for the public's assistance in identifying the person(s) responsible for acts of vandalism at the United Church of Renton. Anyone with information regarding these incidents is asked to contact law enforcement.</p>\r\n<p> </p>\r\n<p>On June 19, 2019, at approximately 2:30 a.m., an unknown individual (or individuals) used explosive devices to deface an outdoor display at the United Church of Renton in Renton, Washington. The display featured multi-colored doors, each painted with a different word from the phrase \"God's doors are open to all.\" It is believed that the subject(s) also wrote \"Leviticus 20:13\" on one of the doors.</p>\r\n<p> </p>\r\n<p> </p>\r\n<p>This display was previously vandalized during the evening hours of June 13, 2019, when parts of the display were knocked down. The display was also defaced with explosive devices at approximately 10:00 p.m. on June 16, 2019.</p>",
+          "status": "na",
+          "possible_states": null,
+          "eyes": null,
+          "hair": null,
+          "legat_names": null,
+          "eyes_raw": null,
+          "field_offices": [
+              "seattle"
+          ],
+          "weight": null,
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": null,
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/seeking-info/renton-church-display-defacement",
+          "nationality": null,
+          "uid": "20bc216b601347fe8a1638b992f71898",
+          "warning_message": null,
+          "scars_and_marks": null,
+          "race": null,
+          "hair_raw": null,
+          "modified": "2019-11-14T13:49:20+00:00",
+          "title": "RENTON CHURCH DISPLAY DEFACEMENT",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/renton-church-display-defacement/@@images/image/large",
+                  "caption": "Outdoor display at the United Church of Renton that was defaced by explosives",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/renton-church-display-defacement/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/renton-church-display-defacement/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": "The FBI is offering a reward of up to $5,000 for information leading to the identification, arrest, and conviction of the individual(s) responsible for defacing an outdoor display at the United Church of Renton in Renton, Washington, on June 19, 2019. Other reward money may be available.",
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": null,
+          "reward_max": 0,
+          "ncic": null,
+          "aliases": null,
+          "height_max": null,
+          "dates_of_birth_used": null,
+          "height_min": null,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/seeking-info/renton-church-display-defacement/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "occupations": null,
+          "publication": "2019-06-24T12:42:00",
+          "description": "Renton, Washington\r\nJune 2019",
+          "race_raw": null,
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": null,
+          "reward_min": 0,
+          "weight_max": null,
+          "sex": null,
+          "@id": "https://api.fbi.gov/@wanted-person/20bc216b601347fe8a1638b992f71898"
+      },
+      {
+          "eyes": null,
+          "sex": null,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/seeking-info/catholic-church-arsons",
+          "ncic": null,
+          "path": "/wanted/seeking-info/catholic-church-arsons",
+          "locations": null,
+          "weight_min": null,
+          "place_of_birth": null,
+          "reward_min": 0,
+          "subjects": [
+              "Seeking Information"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "fba202a35c724c9eb2fa7900ba78b8d1",
+          "eyes_raw": null,
+          "height_max": null,
+          "nationality": null,
+          "age_range": null,
+          "height_min": null,
+          "aliases": null,
+          "reward_text": "The FBI is offering a reward of up to $5,000  for information leading to the identification, arrest, and conviction of the individual(s) responsible for these crimes.  There may be additional rewards being offered by other local law enforcement agencies and private parties.",
+          "possible_countries": null,
+          "description": "Unknown Suspect(s)\r\nEl Paso, Texas\r\nMay 7, May 13, June 15, 2019",
+          "caution": null,
+          "weight_max": null,
+          "legat_names": null,
+          "race": null,
+          "modified": "2019-11-14T13:47:50+00:00",
+          "publication": "2019-07-25T12:56:00",
+          "weight": null,
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/catholic-church-arsons/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/catholic-church-arsons/@@images/image",
+                  "caption": "St. Jude",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/catholic-church-arsons/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/catholic-church-arsons/st-matthew-catholic-church-2.jpeg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/catholic-church-arsons/st-matthew-catholic-church-2.jpeg",
+                  "caption": "St. Matthew",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/catholic-church-arsons/st-matthew-catholic-church-2.jpeg/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/catholic-church-arsons/st-patrick-cathedral-3.jpeg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/catholic-church-arsons/st-patrick-cathedral-3.jpeg",
+                  "caption": "St. Patrick",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/catholic-church-arsons/st-patrick-cathedral-3.jpeg/@@images/image/large"
+              }
+          ],
+          "remarks": null,
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/seeking-info/catholic-church-arsons/download.pdf"
+              },
+              {
+                  "name": "EN ESPAÑOL",
+                  "url": "https://www.fbi.gov/wanted/seeking-info/catholic-church-arsons/el-paso-church-arsons-_spanish.pdf/@@download/file/El Paso Church Arsons _Spanish.pdf"
+              }
+          ],
+          "field_offices": [
+              "elpaso"
+          ],
+          "coordinates": [],
+          "race_raw": null,
+          "hair_raw": null,
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": null,
+          "details": "<p>The FBI’s El Paso Office; El Paso Fire Marshal’s Office; El Paso Police Department; and the Bureau of Alcohol, Tobacco, Firearms, and Explosives are seeking the public’s assistance in identifying the person(s) responsible for the May 7th, May 13th and June 15, 2019, arsons at St. Matthew Catholic Church, St. Patrick Cathedral, and St. Jude Catholic Church.</p>\r\n<p>The unknown perpetrator(s) of these crimes are believed to have used an incendiary device in an attempt to set fire to three Westside Catholic churches. Each church sustained damage caused from these devices. No one was injured.</p>",
+          "warning_message": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": null,
+          "title": "CATHOLIC CHURCH ARSONS",
+          "occupations": null,
+          "@id": "https://api.fbi.gov/@wanted-person/fba202a35c724c9eb2fa7900ba78b8d1"
+      },
+      {
+          "dates_of_birth_used": [
+              "January 30, 1971"
+          ],
+          "images": [
+              {
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/parental-kidnappings/jenniferlea-settle/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/parental-kidnappings/jenniferlea-settle/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/parental-kidnappings/jenniferlea-settle/@@images/image"
+              }
+          ],
+          "details": "<p>Jennifer Lea Settle is wanted in South Carolina for allegedly abducting her 11-year-old daughter McKenna Butcher. Law enforcement received information that, following a family court order, full custody of McKenna was given to her father. McKenna went missing from Taylors, South Carolina, on April 25, 2019. McKenna may be in the company of her mother Jennifer Settle.</p>\r\n<p>An arrest warrant was issued for Jennifer Lea Settle by the state of South Carolina after she was charged with custodial interference. On June 28, 2019, Settle was also charged with unlawful flight to avoid prosecution, and a federal warrant was issued by the United States District Court, District of South Carolina.</p>\r\n<p>McKenna Butcher is described as a White female, date of birth November 14, 2007, 4'8\" (at the time of her disappearance), 85 pounds (at the time of her disappearance), with light brown hair and blue eyes.</p>",
+          "warning_message": null,
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "white",
+          "occupations": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "legat_names": null,
+          "modified": "2019-11-14T13:37:40+00:00",
+          "status": "na",
+          "publication": "2019-08-13T08:16:00",
+          "weight": "110 pounds",
+          "caution": null,
+          "possible_states": null,
+          "scars_and_marks": null,
+          "race_raw": "White",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/parental-kidnappings/jenniferlea-settle/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "field_offices": [
+              "columbia"
+          ],
+          "nationality": null,
+          "weight_min": 110,
+          "age_range": null,
+          "uid": "c80b6cafc33d4e48a13547303c061993",
+          "eyes_raw": "Brown",
+          "height_max": 63,
+          "height_min": 63,
+          "aliases": null,
+          "reward_text": null,
+          "description": "Unlawful Flight to Avoid Prosecution - Custodial Interference",
+          "title": "JENNIFER LEA SETTLE",
+          "possible_countries": null,
+          "hair_raw": "Light Brown",
+          "remarks": null,
+          "weight_max": 110,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/parental-kidnappings/jenniferlea-settle",
+          "ncic": null,
+          "eyes": "brown",
+          "sex": "Female",
+          "coordinates": [],
+          "path": "/wanted/parental-kidnappings/jenniferlea-settle",
+          "place_of_birth": "Elkton, Maryland",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Parental Kidnapping"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/c80b6cafc33d4e48a13547303c061993"
+      },
+      {
+          "eyes": "brown",
+          "sex": "Male",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/cei/luis-a-garcia-lopez",
+          "ncic": "W976188535",
+          "path": "/wanted/cei/luis-a-garcia-lopez",
+          "locations": null,
+          "weight_min": 175,
+          "place_of_birth": "United States",
+          "reward_min": 0,
+          "subjects": [
+              "Criminal Enterprise Investigations"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": [
+              "Spanish"
+          ],
+          "uid": "53886675a6e54c2a9837078aba01dae6",
+          "eyes_raw": "Brown",
+          "height_max": 64,
+          "nationality": "United States",
+          "age_range": null,
+          "height_min": 64,
+          "aliases": [
+              "Gemelo",
+              "Los Gemelos",
+              "Luisito"
+          ],
+          "reward_text": null,
+          "possible_countries": null,
+          "description": "Possession of a Controlled Substance, Possession with Intent to Distribute Controlled Substances, and Possession of Firearm in Furtherance of Drug Trafficking",
+          "caution": "<p>On February 20, 2019, 75 subjects of the LAS FARC drug-trafficking organization were indicted for drug trafficking and firearms charges. From approximately 2007, members of LAS FARC have been allegedly involved in the large scale distribution of cocaine, crack cocaine, heroin, and marijuana in the Barrio Obrero area of San Juan, Puerto Rico. LAS FARC maintains control over their organization through the use of alleged violence. Luis A. Garcia-Lopez is a leader in the organization and is currently believed to be in the San Juan, Puerto Rico; New York, New York; or Kissimmee, Florida, areas. Luis A. Garcia-Lopez’s twin brother, Jose Luis Garcia-Lopez, is also wanted for his role in the LAS FARC organization.</p>\r\n<p>An arrest warrant was issued on February 20, 2019, by the United States District Court, Judicial District of Puerto Rico, after Garcia-Lopez was charged federally with possession of a controlled substance, possession with intent to distribute controlled substances, and possession of firearm in furtherance of drug trafficking.</p>",
+          "weight_max": 175,
+          "legat_names": null,
+          "race": "black",
+          "modified": "2019-11-14T13:33:14+00:00",
+          "publication": "2019-04-03T10:44:00",
+          "weight": "175 pounds",
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": "Garcia-Lopez has a scar on his face. He also has tattoos on both arms, his back and right leg.",
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/cei/luis-a-garcia-lopez/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cei/luis-a-garcia-lopez/@@images/image",
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/cei/luis-a-garcia-lopez/@@images/image/large"
+              }
+          ],
+          "remarks": null,
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/cei/luis-a-garcia-lopez/download.pdf"
+              }
+          ],
+          "field_offices": [
+              "sanjuan"
+          ],
+          "coordinates": [],
+          "race_raw": "Black (Hispanic)",
+          "hair_raw": "Brown",
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": [
+              "April 29, 1976"
+          ],
+          "details": null,
+          "warning_message": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "title": "LUIS A. GARCIA-LOPEZ",
+          "occupations": null,
+          "@id": "https://api.fbi.gov/@wanted-person/53886675a6e54c2a9837078aba01dae6"
+      },
+      {
+          "dates_of_birth_used": [
+              "December 14, 1991"
+          ],
+          "images": [
+              {
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/cei/elvin-o-cruz-verges/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/cei/elvin-o-cruz-verges/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cei/elvin-o-cruz-verges/@@images/image"
+              }
+          ],
+          "details": null,
+          "warning_message": null,
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "hispanic",
+          "occupations": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "legat_names": null,
+          "modified": "2019-11-14T13:27:04+00:00",
+          "status": "na",
+          "publication": "2019-04-03T08:42:00",
+          "weight": "145 pounds",
+          "caution": "<p>On February 20, 2019, 75 subjects of the LAS FARC drug-trafficking organization were indicted for drug trafficking and firearms charges. From approximately 2007, members of LAS FARC have been allegedly involved in the large scale distribution of cocaine, crack cocaine, heroin, and marijuana in the Barrio Obrero area of San Juan, Puerto Rico. LAS FARC maintains control over their organization through the use of alleged violence. Cruz-Verges owns and manages distribution areas for the organization and is currently believed to be in San Juan, Puerto Rico.</p>\r\n<p>An arrest warrant was issued on February 20, 2019, by the United States District Court, Judicial District of Puerto Rico, after Cruz-Verges was charged federally with possession of a controlled substance, possession with intent to distribute controlled substances, and possession of firearm in furtherance of drug trafficking.</p>",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "race_raw": "White (Hispanic)",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/cei/elvin-o-cruz-verges/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "field_offices": [
+              "sanjuan"
+          ],
+          "nationality": "Puerto Rican",
+          "weight_min": 145,
+          "age_range": null,
+          "uid": "e562e6787b8f4f67b038c647f87f5853",
+          "eyes_raw": "Black",
+          "height_max": 71,
+          "height_min": 71,
+          "aliases": [
+              "Mellao"
+          ],
+          "reward_text": null,
+          "description": "Possession of a Controlled Substance, Possession with Intent to Distribute Controlled Substances, and Possession of Firearm in Furtherance of Drug Trafficking",
+          "title": "ELVIN O. CRUZ-VERGES",
+          "possible_countries": null,
+          "hair_raw": "Brown",
+          "remarks": null,
+          "weight_max": 145,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/cei/elvin-o-cruz-verges",
+          "ncic": "W506207524",
+          "eyes": "black",
+          "sex": "Male",
+          "coordinates": [],
+          "path": "/wanted/cei/elvin-o-cruz-verges",
+          "place_of_birth": "Puerto Rico",
+          "reward_min": 0,
+          "locations": null,
+          "languages": [
+              "Spanish"
+          ],
+          "subjects": [
+              "Criminal Enterprise Investigations"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/e562e6787b8f4f67b038c647f87f5853"
+      },
+      {
+          "dates_of_birth_used": [
+              "February 10, 1982"
+          ],
+          "images": [
+              {
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/cei/sergio-rodriguez-rivera/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/cei/sergio-rodriguez-rivera/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cei/sergio-rodriguez-rivera/@@images/image"
+              }
+          ],
+          "details": null,
+          "warning_message": null,
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "hispanic",
+          "occupations": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "legat_names": null,
+          "modified": "2019-11-14T13:26:03+00:00",
+          "status": "na",
+          "publication": "2019-04-03T11:05:00",
+          "weight": "190 pounds",
+          "caution": "<p>On February 20, 2019, 75 subjects of the LAS FARC drug-trafficking organization were indicted for drug trafficking and firearms charges. From approximately 2007, members of LAS FARC have been allegedly involved in the large scale distribution of cocaine, crack cocaine, heroin, and marijuana in the Barrio Obrero area of San Juan, Puerto Rico. LAS FARC maintains control over their organization through the use of alleged violence. Rodriguez-Rivera owns and manages distribution areas for the organization and served as an alleged enforcer for the organization. Rodriguez-Rivera is currently believed to be in San Juan, Puerto Rico.</p>\r\n<p>An arrest warrant was issued on February 20, 2019, by the United States District Court, Judicial District of Puerto Rico, after Rodriguez-Rivera was charged federally with possession of a controlled substance, possession with intent to distribute controlled substances, and possession of firearm in furtherance of drug trafficking.</p>",
+          "possible_states": null,
+          "scars_and_marks": "Rodriguez-Rivera has a scar on his right forearm. He also has tattoos on his right forearm, left leg, left shoulder, and right shoulder.",
+          "race_raw": "White (Hispanic)",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/cei/sergio-rodriguez-rivera/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "field_offices": [
+              "sanjuan"
+          ],
+          "nationality": "Puerto Rican",
+          "weight_min": 190,
+          "age_range": null,
+          "uid": "5153487acf3445b6b1dc960e4046a7bf",
+          "eyes_raw": "Black",
+          "height_max": 66,
+          "height_min": 66,
+          "aliases": [
+              "Segis",
+              "Seji",
+              "Ceji",
+              "Segui"
+          ],
+          "reward_text": null,
+          "description": "Possession of a Controlled Substance, Possession with Intent to Distribute Controlled Substances, and Possession of Firearm in Furtherance of Drug Trafficking",
+          "title": "SEGISMAR RODRIGUEZ-RIVERA",
+          "possible_countries": null,
+          "hair_raw": "Brown",
+          "remarks": null,
+          "weight_max": 190,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/cei/sergio-rodriguez-rivera",
+          "ncic": "W316186947",
+          "eyes": "black",
+          "sex": "Male",
+          "coordinates": [],
+          "path": "/wanted/cei/sergio-rodriguez-rivera",
+          "place_of_birth": "Puerto Rico",
+          "reward_min": 0,
+          "locations": null,
+          "languages": [
+              "Spanish"
+          ],
+          "subjects": [
+              "Criminal Enterprise Investigations"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/5153487acf3445b6b1dc960e4046a7bf"
+      },
+      {
+          "eyes": "brown",
+          "sex": "Male",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/cei/jose-l-garcia-lopez",
+          "ncic": "W276155558",
+          "path": "/wanted/cei/jose-l-garcia-lopez",
+          "locations": null,
+          "weight_min": 175,
+          "place_of_birth": "United States",
+          "reward_min": 0,
+          "subjects": [
+              "Criminal Enterprise Investigations"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": [
+              "Spanish"
+          ],
+          "uid": "4ba611d75b2046aea8ab577d16d0b91c",
+          "eyes_raw": "Brown",
+          "height_max": 64,
+          "nationality": "United States",
+          "age_range": null,
+          "height_min": 64,
+          "aliases": [
+              "Gemelo",
+              "Los Gemelos"
+          ],
+          "reward_text": null,
+          "possible_countries": null,
+          "description": "Possession of a Controlled Substance, Possession with Intent to Distribute Controlled Substances, and Possession of Firearm in Furtherance of Drug Trafficking",
+          "caution": "<p>On February 20, 2019, 75 subjects of the LAS FARC drug-trafficking organization were indicted for drug trafficking and firearms charges. From approximately 2007, members of LAS FARC have been allegedly involved in the large scale distribution of cocaine, crack cocaine, heroin, and marijuana in the Barrio Obrero area of San Juan, Puerto Rico. LAS FARC maintains control over their organization through the use of alleged violence. Jose Luis Garcia-Lopez is a leader in the organization and is currently believed to be in the San Juan, Puerto Rico; New York, New York; or Kissimmee, Florida, areas. Jose Luis Garcia-Lopez’s twin brother, Luis A. Garcia-Lopez, is also wanted for his role in the LAS FARC organization.</p>\r\n<p>An arrest warrant was issued on February 20, 2019, by the United States District Court, Judicial District of Puerto Rico, after Garcia-Lopez was charged federally with possession of a controlled substance, possession with intent to distribute controlled substances, and possession of firearm in furtherance of drug trafficking.</p>",
+          "weight_max": 175,
+          "legat_names": null,
+          "race": "black",
+          "modified": "2019-11-14T13:25:00+00:00",
+          "publication": "2019-04-03T07:35:00",
+          "weight": "175 pounds",
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": "Garcia-Lopez has a scar on his face. He also has tattoos on both arms, his back and right leg.",
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/cei/jose-l-garcia-lopez/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cei/jose-l-garcia-lopez/@@images/image",
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/cei/jose-l-garcia-lopez/@@images/image/large"
+              }
+          ],
+          "remarks": null,
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/cei/jose-l-garcia-lopez/download.pdf"
+              }
+          ],
+          "field_offices": [
+              "sanjuan"
+          ],
+          "coordinates": [],
+          "race_raw": "Black (Hispanic)",
+          "hair_raw": "Brown",
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": [
+              "April 29, 1976"
+          ],
+          "details": null,
+          "warning_message": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "title": "JOSE LUIS GARCIA-LOPEZ",
+          "occupations": null,
+          "@id": "https://api.fbi.gov/@wanted-person/4ba611d75b2046aea8ab577d16d0b91c"
+      },
+      {
+          "eyes": "brown",
+          "sex": "Female",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/seeking-info/tammy-jo-alexander",
+          "ncic": null,
+          "path": "/wanted/seeking-info/tammy-jo-alexander",
+          "locations": null,
+          "weight_min": 115,
+          "place_of_birth": "Atlanta, Georgia",
+          "reward_min": 0,
+          "subjects": [
+              "Seeking Information"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "2be8ebf3-fb48-4d45-a891-8ba3cdd86907",
+          "eyes_raw": "Brown",
+          "height_max": 63,
+          "nationality": null,
+          "age_range": null,
+          "height_min": 63,
+          "aliases": null,
+          "reward_text": "The FBI is offering a reward of up to $20,000 for information leading to the arrest and conviction of the individual(s) responsible for the homicide of Tammy Jo Alexander.",
+          "possible_countries": null,
+          "description": "Murder Victim\r\nCaledonia, New York\r\nNovember 10, 1979",
+          "caution": null,
+          "weight_max": 115,
+          "legat_names": null,
+          "race": "white",
+          "modified": "2019-11-14T12:23:05+00:00",
+          "publication": "2015-02-09T07:00:00",
+          "weight": "115 pounds",
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/tammy-jo-alexander/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/tammy-jo-alexander/@@images/image",
+                  "caption": "Photograph taken circa 1978",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/tammy-jo-alexander/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/tammy-jo-alexander/alexanderjacket.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/tammy-jo-alexander/alexanderjacket.jpg",
+                  "caption": "Man’s jacket found on Alexander’s body",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/tammy-jo-alexander/alexanderjacket.jpg/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/tammy-jo-alexander/alexanderlocket.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/tammy-jo-alexander/alexanderlocket.jpg",
+                  "caption": "Two-piece locket keychain found on Alexander’s body",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/tammy-jo-alexander/alexanderlocket.jpg/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/tammy-jo-alexander/alexandernecklace.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/tammy-jo-alexander/alexandernecklace.jpg",
+                  "caption": "Necklace worn by Alexander and found on her body",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/tammy-jo-alexander/alexandernecklace.jpg/@@images/image/large"
+              }
+          ],
+          "remarks": "<p>Alexander was wearing the following items when she was found: tan corduroy jeans, a multi-colored plaid cotton/polyester shirt, blue knee socks, brown rippled-sole shoes, and a red nylon-lined man's windbreaker with black stripes down the arms and a collar label reading \"Auto Sports Products, Inc.\" She was wearing a silver necklace with three small turquoise stones, one resembling a bird. She also had with her a two-piece locket keychain with one piece in the shape of a heart with a key-shaped slot cut in it and an inscription reading \"He who holds the key can open my heart\" and the second piece being the key that fits into the slot in the heart.</p>",
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/seeking-info/tammy-jo-alexander/download.pdf"
+              }
+          ],
+          "field_offices": [
+              "buffalo"
+          ],
+          "coordinates": [],
+          "race_raw": "White",
+          "hair_raw": "Brown with frosted tips",
+          "complexion": null,
+          "build": null,
+          "person_classification": "Victim",
+          "dates_of_birth_used": [
+              "November 2, 1963"
+          ],
+          "details": "<p>On November 10, 1979, the body of an unidentified 16-year-old White female was located in a cornfield off of New York State Route 20 in Caledonia, New York. The girl had been murdered with a .38 caliber weapon. She had been shot once in the head, dragged into the cornfield from the road, and then shot again in the back.</p>\r\n<p>On January 26, 2015, law enforcement officials in Livingston County, New York, announced that the female had been identified, through the use of DNA, as Tammy Jo Alexander of Brookesville, Florida. Alexander had disappeared from her home in Florida in 1979. At the time, Alexander was known to run away from the area, sometimes hitchhiking with truckers, as she lived near a truck stop.</p>",
+          "warning_message": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "title": "TAMMY JO ALEXANDER",
+          "occupations": null,
+          "@id": "https://api.fbi.gov/@wanted-person/2be8ebf3-fb48-4d45-a891-8ba3cdd86907"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Additional Violent Crimes"
+          ],
+          "languages": null,
+          "path": "/wanted/additional/kofi-edwards",
+          "weight_min": 190,
+          "details": null,
+          "status": "na",
+          "possible_states": null,
+          "eyes": "brown",
+          "hair": "black",
+          "legat_names": null,
+          "eyes_raw": "Brown",
+          "field_offices": [
+              "newark"
+          ],
+          "weight": "190 pounds",
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": "<p>Edwards speaks with an accent indicative of Trinidad and Tobago.</p>",
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/additional/kofi-edwards",
+          "nationality": null,
+          "uid": "07b66ccc04474ae2ab377ab51d7f3fc0",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "scars_and_marks": null,
+          "race": "black",
+          "hair_raw": "Black",
+          "modified": "2019-10-31T11:30:36+00:00",
+          "title": "KOFI EDWARDS",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/additional/kofi-edwards/@@images/image/large",
+                  "caption": "Photograph taken in 2005",
+                  "original": "https://www.fbi.gov/wanted/additional/kofi-edwards/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/additional/kofi-edwards/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": "The FBI is offering a reward of up to $10,000 for information leading directly to the arrest of Kofi Edwards.",
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": "<p>Kofi Edwards is wanted for his alleged involvement in the armed robbery of a restaurant in Woodbridge, New Jersey.  On March 17, 2009, Edwards and others allegedly entered the establishment and, at gunpoint, tied up three individuals and robbed the establishment of a large sum of money.  On August 6, 2012, a federal arrest warrant was issued for Edwards in the United States District Court, District of New Jersey, Newark, New Jersey, after he was charged with Hobbs Act Armed Robbery and Use of a Firearm.</p>",
+          "reward_max": 0,
+          "ncic": "W308763861",
+          "aliases": [
+              "Richard Jackson",
+              "Kofi Touissaint",
+              "Koj Edward Touissaint",
+              "Koof Touissaint",
+              "Koof Toussaint",
+              "Kofi Toussaint"
+          ],
+          "height_max": 68,
+          "dates_of_birth_used": [
+              "March 23, 1973",
+              "March 29, 1973"
+          ],
+          "height_min": 66,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/additional/kofi-edwards/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "occupations": null,
+          "publication": "2017-01-10T08:57:00",
+          "description": "Hobbs Act; Armed Robbery; Use of a Firearm",
+          "race_raw": "Black",
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": "Trinidad and Tobago",
+          "reward_min": 0,
+          "weight_max": 190,
+          "sex": "Male",
+          "@id": "https://api.fbi.gov/@wanted-person/07b66ccc04474ae2ab377ab51d7f3fc0"
+      },
+      {
+          "dates_of_birth_used": [
+              "January 17, 1985",
+              "November 17, 1985"
+          ],
+          "images": [
+              {
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/murders/victor-alfonso-argueta/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/victor-alfonso-argueta/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/victor-alfonso-argueta/@@images/image"
+              },
+              {
+                  "caption": "Photograph taken in 2004",
+                  "large": "https://www.fbi.gov/wanted/murders/victor-alfonso-argueta/argueta_va2.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/victor-alfonso-argueta/argueta_va2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/victor-alfonso-argueta/argueta_va2.jpg"
+              },
+              {
+                  "caption": "Photograph of Argueta's Tattoo",
+                  "large": "https://www.fbi.gov/wanted/murders/victor-alfonso-argueta/argueta_vatat.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/victor-alfonso-argueta/argueta_vatat.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/victor-alfonso-argueta/argueta_vatat.jpg"
+              }
+          ],
+          "details": null,
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "hispanic",
+          "occupations": [
+              "Drywall Contractor"
+          ],
+          "suspects": null,
+          "age_min": null,
+          "hair": "black",
+          "legat_names": null,
+          "modified": "2019-10-30T14:27:48+00:00",
+          "status": "na",
+          "publication": "2010-08-31T08:25:00",
+          "weight": "160 pounds",
+          "caution": "<p>Victor Alfonso Argueta and <a data-linktype=\"external\" href=\"https://www.fbi.gov/wanted/murders/carlos-flores-garcia\" data-val=\"https://www.fbi.gov/wanted/murders/carlos-flores-garcia\" data-urltype=\"/view\">Carlos Flores Garcia</a> are wanted for their alleged involvement in a double murder in Baltimore County, Maryland. On January 8, 2006, the men, all members of the MS-13 street gang, were at a club in South Baltimore when they met the two male victims. It is believed the murders occurred because the suspects thought they saw one of the victims flash a rival gang sign. Law enforcement investigation revealed that the victims had no gang affiliation. When the two victims left the club, they were approached by the suspects and agreed to meet them behind a local school. The two male victims were then stabbed multiple times with knives and died.</p>\r\n<p> </p>\r\n<p>Argueta was charged in the District Court of Maryland for Baltimore County with accessory to commit first degree murder after the fact and conspiracy to act as an accessory to commit first degree murder after the fact on September 11, 2006. A federal arrest warrant has been issued for Argueta and he has been charged with unlawful flight to avoid prosecution.</p>",
+          "possible_states": [
+              "US-MD"
+          ],
+          "scars_and_marks": "Argueta has a tattoo of the letters \"MS\" written on his upper chest.",
+          "race_raw": "White (Hispanic)",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/victor-alfonso-argueta/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/victor-alfonso-argueta/arguetaspanish.pdf/@@download/file/arguetaspanish.pdf",
+                  "name": "EN ESPAÑOL"
+              }
+          ],
+          "field_offices": [
+              "baltimore"
+          ],
+          "nationality": "Salvadoran",
+          "weight_min": 160,
+          "age_range": null,
+          "uid": "2fc3b3ca839875637691c186c15a8d76",
+          "eyes_raw": "Brown",
+          "height_max": 65,
+          "height_min": 65,
+          "aliases": [
+              "\"Pelon\""
+          ],
+          "reward_text": null,
+          "description": "Unlawful Flight to Avoid Prosecution - Accessory to Commit First Degree Murder After the Fact, Conspiracy to Act as an Accessory to Commit First Degree Murder After the Fact",
+          "title": "VICTOR ALFONSO ARGUETA",
+          "possible_countries": [
+              "SLV"
+          ],
+          "hair_raw": "Black",
+          "remarks": "<p>Argueta has ties to El Salvador and may have traveled there.</p>",
+          "weight_max": 160,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/murders/victor-alfonso-argueta",
+          "ncic": "W680518368",
+          "eyes": "brown",
+          "sex": "Male",
+          "coordinates": [],
+          "path": "/wanted/murders/victor-alfonso-argueta",
+          "place_of_birth": "San Salvador, El Salvador",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Violent Crime - Murders"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/2fc3b3ca839875637691c186c15a8d76"
+      },
+      {
+          "dates_of_birth_used": [
+              "May 4, 1987"
+          ],
+          "images": [
+              {
+                  "caption": "Photograph taken in 2005",
+                  "large": "https://www.fbi.gov/wanted/murders/carlos-flores-garcia/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/carlos-flores-garcia/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/carlos-flores-garcia/@@images/image"
+              },
+              {
+                  "caption": "Photograph taken in 2005\r\n",
+                  "large": "https://www.fbi.gov/wanted/murders/carlos-flores-garcia/garcia_cf2.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/carlos-flores-garcia/garcia_cf2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/carlos-flores-garcia/garcia_cf2.jpg"
+              },
+              {
+                  "caption": "Photograph taken in 2005",
+                  "large": "https://www.fbi.gov/wanted/murders/carlos-flores-garcia/garcia_cf3.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/carlos-flores-garcia/garcia_cf3.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/carlos-flores-garcia/garcia_cf3.jpg"
+              },
+              {
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/murders/carlos-flores-garcia/garcia_cf4.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/carlos-flores-garcia/garcia_cf4.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/carlos-flores-garcia/garcia_cf4.jpg"
+              }
+          ],
+          "details": null,
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "hispanic",
+          "occupations": [
+              "Unknown"
+          ],
+          "suspects": null,
+          "age_min": null,
+          "hair": "black",
+          "legat_names": null,
+          "modified": "2019-10-30T14:26:24+00:00",
+          "status": "na",
+          "publication": "2010-08-31T08:25:00",
+          "weight": "140 pounds",
+          "caution": "<p>Carlos Flores Garcia and <a data-linktype=\"external\" href=\"https://www.fbi.gov/wanted/murders/victor-alfonso-argueta\" data-val=\"https://www.fbi.gov/wanted/murders/victor-alfonso-argueta\" data-urltype=\"/view\">Victor Alfonso Argueta </a>are wanted for their alleged involvement in a double murder in Baltimore County, Maryland. On January 8, 2006, the men, both members of the MS-13 street gang, were at a club in South Baltimore when they met the two male victims. It is believed the murders occurred because the suspects thought they saw one of the victims flash a rival gang sign. Law enforcement investigation revealed that the victims had no gang affiliation. When the two victims left the club, they were approached by the suspects and agreed to meet them behind a local school. The two male victims were then stabbed multiple times with knives and died.</p>\r\n<p>Garcia was charged in the District Court of Maryland for Baltimore County with two counts of first degree murder on September 11, 2006. A federal arrest warrant has been issued for Garcia and he has been charged with unlawful flight to avoid prosecution.</p>",
+          "possible_states": [
+              "US-DC",
+              "US-MD",
+              "US-TX"
+          ],
+          "scars_and_marks": "None known",
+          "race_raw": "White (Hispanic)",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/carlos-flores-garcia/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/carlos-flores-garcia/garciaspanish.pdf/@@download/file/garciaspanish.pdf",
+                  "name": "EN ESPAÑOL"
+              }
+          ],
+          "field_offices": [
+              "baltimore"
+          ],
+          "nationality": "Salvadoran",
+          "weight_min": 140,
+          "age_range": null,
+          "uid": "75a450e6b8617f55ce615bd47efaf022",
+          "eyes_raw": "Brown",
+          "height_max": 67,
+          "height_min": 67,
+          "aliases": [
+              "Malo Garcia",
+              "Maloro Garcia",
+              "Tony Garcia"
+          ],
+          "reward_text": null,
+          "description": "Unlawful Flight to Avoid Prosecution - First Degree Murder (Two Counts)",
+          "title": "CARLOS FLORES GARCIA",
+          "possible_countries": [
+              "SLV"
+          ],
+          "hair_raw": "Black",
+          "remarks": "<p>Garcia has ties to El Salvador and may have traveled there.</p>",
+          "weight_max": 140,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/murders/carlos-flores-garcia",
+          "ncic": "W440516828",
+          "eyes": "brown",
+          "sex": "Male",
+          "coordinates": [],
+          "path": "/wanted/murders/carlos-flores-garcia",
+          "place_of_birth": "El Salvador",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Violent Crime - Murders"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/75a450e6b8617f55ce615bd47efaf022"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Seeking Information"
+          ],
+          "languages": null,
+          "path": "/wanted/seeking-info/justin-travis-taylor",
+          "weight_min": null,
+          "details": "<p>The FBI is asking for the public’s assistance to identify potential victims of Justin Travis Taylor, 25, from Newport News, Virginia, who is currently in federal custody and charged with production of child pornography in the United States District Court for the Eastern District of Virginia.</p>\r\n<p>Taylor also goes by Justin Travis and soccerreferee2 on social media. He has worked as a soccer referee for various youth leagues and schools on the Virginia, Peninsula.</p>\r\n<p>According to detailed court documents, it is alleged that Taylor coerced a 13-year-old victim into sending him sexually explicit images by threatening to kill himself if she did not provide the images he demanded.</p>\r\n<p>Criminal charges are merely allegations. The defendant is presumed innocent until and unless proven guilty beyond a reasonable doubt in a court of law.</p>\r\n<p>Victims may be eligible for certain services and rights under federal law. The FBI is legally mandated to identify victims of federal crimes that it investigates and provide these victims with information, assistance services, and resources.</p>",
+          "status": "na",
+          "possible_states": null,
+          "eyes": null,
+          "hair": null,
+          "legat_names": null,
+          "eyes_raw": null,
+          "field_offices": [
+              "norfolk"
+          ],
+          "weight": null,
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": null,
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/seeking-info/justin-travis-taylor",
+          "nationality": null,
+          "uid": "dd95e06da8374b349cb90a5492b0ce72",
+          "warning_message": null,
+          "scars_and_marks": null,
+          "race": null,
+          "hair_raw": null,
+          "modified": "2019-10-11T00:45:05+00:00",
+          "title": "JUSTIN TRAVIS TAYLOR",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/justin-travis-taylor/@@images/image/large",
+                  "caption": null,
+                  "original": "https://www.fbi.gov/wanted/seeking-info/justin-travis-taylor/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/justin-travis-taylor/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": null,
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": null,
+          "reward_max": 0,
+          "ncic": null,
+          "aliases": null,
+          "height_max": null,
+          "dates_of_birth_used": null,
+          "height_min": null,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/seeking-info/justin-travis-taylor/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "occupations": null,
+          "publication": "2019-09-17T11:45:00",
+          "description": "SEEKING ADDITIONAL INFORMATION -- PRODUCTION OF CHILD PORNOGRAPHY INVESTIGATION",
+          "race_raw": null,
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": null,
+          "reward_min": 0,
+          "weight_max": null,
+          "sex": null,
+          "@id": "https://api.fbi.gov/@wanted-person/dd95e06da8374b349cb90a5492b0ce72"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Seeking Information"
+          ],
+          "languages": null,
+          "path": "/wanted/seeking-info/carnell-e-sledge-and-katherine-c-brown",
+          "weight_min": null,
+          "details": "<p>The FBI's Cleveland Field Office and the Cleveland Metroparks Police Department in Ohio are asking for the public's assistance in identifying the person or persons responsible for the deaths of two victims.</p>\r\n<p> </p>\r\n<p>On June 4, 2019, at approximately 5:00 p.m., longtime friends Carnell E. Sledge and Katherine C. Brown arrived at the Rocky River Reservation in Fairview Park, Ohio. Both met at a pull-off lot north of the Lorain Road bridge. Sledge and Brown were shot in the head while sitting on a bench alongside the river. Sledge was 40 years old at the time of his death, and Brown was 33 years old at the time of her death.</p>\r\n<p> </p>",
+          "status": "na",
+          "possible_states": null,
+          "eyes": null,
+          "hair": null,
+          "legat_names": null,
+          "eyes_raw": null,
+          "field_offices": [
+              "cleveland"
+          ],
+          "weight": null,
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": null,
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/seeking-info/carnell-e-sledge-and-katherine-c-brown",
+          "nationality": null,
+          "uid": "5a57f941293242e5b02b1d6069f19f8c",
+          "warning_message": null,
+          "scars_and_marks": null,
+          "race": null,
+          "hair_raw": null,
+          "modified": "2019-10-10T13:45:49+00:00",
+          "title": "CARNELL E. SLEDGE AND KATHERINE C. BROWN",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/carnell-e-sledge-and-katherine-c-brown/jpeg-carnell.jpg/@@images/image/large",
+                  "caption": "Carnell E. Sledge",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/carnell-e-sledge-and-katherine-c-brown/jpeg-carnell.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/carnell-e-sledge-and-katherine-c-brown/jpeg-carnell.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/carnell-e-sledge-and-katherine-c-brown/jpeg-kate.jpg/@@images/image/large",
+                  "caption": "Katherine C. Brown",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/carnell-e-sledge-and-katherine-c-brown/jpeg-kate.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/carnell-e-sledge-and-katherine-c-brown/jpeg-kate.jpg/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": "The FBI is offering a reward of up to $25,000 for information leading to the arrest and conviction of the person(s) responsible for the deaths of Carnell E. Sledge and Katherine C. Brown. Additional reward money may be available.",
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": null,
+          "reward_max": 0,
+          "ncic": null,
+          "aliases": null,
+          "height_max": null,
+          "dates_of_birth_used": null,
+          "height_min": null,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/seeking-info/carnell-e-sledge-and-katherine-c-brown/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "occupations": null,
+          "publication": "2019-10-09T08:38:00",
+          "description": "Murder Victims\r\nFairview Park, Ohio\r\nJune 4, 2019",
+          "race_raw": null,
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": null,
+          "reward_min": 0,
+          "weight_max": null,
+          "sex": null,
+          "@id": "https://api.fbi.gov/@wanted-person/5a57f941293242e5b02b1d6069f19f8c"
+      },
+      {
+          "age_range": "26 to 34 years old",
+          "subjects": [
+              "ViCAP Homicides and Sexual Assaults"
+          ],
+          "languages": null,
+          "path": "/wanted/vicap/homicides-and-sexual-assaults/unidentified-individual---flagstaff-arizona",
+          "weight_min": null,
+          "details": "<p>On August 14, 2016, the victim and her friend were in a parked vehicle in Flagstaff, Arizona. The two had been at this location, which was extremely dark, for a short time, waiting for a friend, before falling asleep in the vehicle. Their seats were reclined and the vehicle was off. Both had recently left from a bar and had been drinking that night. While asleep in the car, the victim was awoken to a knock on the driver door window. The subject at the window identified himself as a police officer and began questioning the two about a possible DUI. The suspect requested the victim’s license, registration and insurance. The victim was directed out of the vehicle and brought to the rear of her car. The victim was further questioned and \"frisked\" on the inside of her legs and breasts. The suspect told the victim that because the keys were in the ignition, she could face a DUI charge. The victim questioned the suspect as to his name and badge number but was told to stop asking or she would be handcuffed and arrested. The suspect directed the victim to come with him to his patrol vehicle to submit to a portable breath test. The suspect walked the victim to a nearby alley where he pushed her against a telephone pole. The suspect first digitally penetrated the victim and then sexually assaulted (penile) her. The victim cried out, which her friend heard, and then the friend called out for her and the suspect ran off. The suspect fled from the assault area on foot.</p>",
+          "status": "na",
+          "possible_states": null,
+          "eyes": null,
+          "hair": null,
+          "legat_names": null,
+          "eyes_raw": null,
+          "field_offices": null,
+          "weight": null,
+          "age_min": 26,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": "<p>The unidentified individual wore a \"police\" hat, and carried a \"Mag Light\"-style flashlight.</p>",
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/vicap/homicides-and-sexual-assaults/unidentified-individual---flagstaff-arizona",
+          "nationality": null,
+          "uid": "b5e7d23089834cf79709b9042400ca8e",
+          "warning_message": null,
+          "scars_and_marks": null,
+          "race": "white",
+          "hair_raw": null,
+          "modified": "2019-10-10T13:27:15+00:00",
+          "title": "UNIDENTIFIED INDIVIDUAL - FLAGSTAFF, ARIZONA",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/vicap/homicides-and-sexual-assaults/unidentified-individual---flagstaff-arizona/@@images/image/large",
+                  "caption": null,
+                  "original": "https://www.fbi.gov/wanted/vicap/homicides-and-sexual-assaults/unidentified-individual---flagstaff-arizona/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/vicap/homicides-and-sexual-assaults/unidentified-individual---flagstaff-arizona/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": null,
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": null,
+          "reward_max": 0,
+          "ncic": null,
+          "aliases": null,
+          "height_max": 71,
+          "dates_of_birth_used": null,
+          "height_min": 70,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/vicap/homicides-and-sexual-assaults/unidentified-individual---flagstaff-arizona/flagstaff-az-10-10-19.pdf",
+                  "name": "English"
+              }
+          ],
+          "occupations": null,
+          "publication": "2019-10-10T08:22:00",
+          "description": "Flagstaff, Arizona\r\nAugust 14, 2016",
+          "race_raw": "White",
+          "age_max": 34,
+          "coordinates": [],
+          "place_of_birth": null,
+          "reward_min": 0,
+          "weight_max": null,
+          "sex": "Male",
+          "@id": "https://api.fbi.gov/@wanted-person/b5e7d23089834cf79709b9042400ca8e"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Criminal Enterprise Investigations"
+          ],
+          "languages": null,
+          "path": "/wanted/cei/salome-flores-apodaca",
+          "weight_min": 180,
+          "details": null,
+          "status": "na",
+          "possible_states": null,
+          "eyes": "brown",
+          "hair": "brown",
+          "legat_names": null,
+          "eyes_raw": "Brown",
+          "field_offices": [
+              "washingtondc"
+          ],
+          "weight": "180 to 195 pounds",
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": "<p>Apodaca is believed to be living in Mexico. He is the uncle of <a data-val=\"https://www.fbi.gov/wanted/cei/fausto-isidro-meza-flores\" href=\"https://www.fbi.gov/wanted/cei/fausto-isidro-meza-flores\" data-urltype=\"/view\" data-linktype=\"external\">Fausto Isidro Meza-Flores</a>, also known as Chapo Isidro, who is the alleged leader of the Meza-Flores Transnational Criminal Organization (TCO), a major drug trafficking organization based in Sinaloa, Mexico. </p>",
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/cei/salome-flores-apodaca",
+          "nationality": "Mexican",
+          "uid": "712c3469993e4eb8ad706b65082b37ef",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS AND AN INTERNATIONAL FLIGHT RISK",
+          "scars_and_marks": null,
+          "race": "hispanic",
+          "hair_raw": "Brown/Gray on sides - Bald on top",
+          "modified": "2019-10-08T14:12:11+00:00",
+          "title": "SALOME FLORES APODACA",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/cei/salome-flores-apodaca/@@images/image/large",
+                  "caption": null,
+                  "original": "https://www.fbi.gov/wanted/cei/salome-flores-apodaca/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/cei/salome-flores-apodaca/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": "The FBI is offering a reward of up to $25,000 for information leading directly to the arrest of Salome Flores Apodaca.",
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": "<p>Salome Flores Apodaca is wanted for his alleged involvement in the Meza-Flores Transnational Criminal Organization (TCO), a major drug trafficking organization based in Sinaloa, Mexico.  The Meza-Flores TCO is allegedly responsible for the possession, distribution, and importation of large quantities of heroin, methamphetamine, cocaine and marijuana into the United States, and has predominately controlled drug distribution in parts of Sinaloa, southern Sonora, and Nayarit, Mexico.</p>\r\n<p> </p>\r\n<p>On May 2, 2012, a federal indictment was issued for Salome Flores Apodaca in the United States District Court for the District of Columbia after he was charged with Conspiracy to Distribute Five Kilograms or More of Cocaine, Fifty Grams or More of Methamphetamine, One Kilogram or More of Heroin, and One Thousand Kilograms or More of Marijuana for Importation into the United States; and Use of a Firearm.</p>\r\n<p> </p>",
+          "reward_max": 0,
+          "ncic": "W092560745",
+          "aliases": [
+              "Fino Flores Apodaca",
+              "Pelon Flores Apodaca",
+              "\"Pelon\"",
+              "\"Fino\""
+          ],
+          "height_max": 70,
+          "dates_of_birth_used": [
+              "October 23, 1962"
+          ],
+          "height_min": 69,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/cei/salome-flores-apodaca/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/cei/salome-flores-apodaca/apodacaspanish.pdf/@@download/file/apodacaspanish.pdf",
+                  "name": "EN ESPAÑOL"
+              }
+          ],
+          "occupations": null,
+          "publication": "2019-03-05T07:18:00",
+          "description": "Conspiracy to Distribute Five Kilograms or More of Cocaine, Fifty Grams or More of Methamphetamine, One Kilogram or More of Heroin, and One Thousand Kilograms or More of Marijuana for Importation into the United States; Use of a Firearm",
+          "race_raw": "White (Hispanic)",
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": "Sinaloa, Mexico",
+          "reward_min": 0,
+          "weight_max": 195,
+          "sex": "Male",
+          "@id": "https://api.fbi.gov/@wanted-person/712c3469993e4eb8ad706b65082b37ef"
+      },
+      {
+          "dates_of_birth_used": [
+              "February 17, 1974",
+              "February 17, 1971",
+              "February 17, 1972"
+          ],
+          "images": [
+              {
+                  "caption": "Photograph taken in 2010",
+                  "large": "https://www.fbi.gov/wanted/murders/hector-manuel-murcia-brizuela/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/hector-manuel-murcia-brizuela/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/hector-manuel-murcia-brizuela/@@images/image"
+              },
+              {
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/murders/hector-manuel-murcia-brizuela/brizuelaphoto2.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/hector-manuel-murcia-brizuela/brizuelaphoto2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/hector-manuel-murcia-brizuela/brizuelaphoto2.jpg"
+              },
+              {
+                  "caption": "Photograph taken in 1996",
+                  "large": "https://www.fbi.gov/wanted/murders/hector-manuel-murcia-brizuela/brizuela_hm2.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/hector-manuel-murcia-brizuela/brizuela_hm2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/hector-manuel-murcia-brizuela/brizuela_hm2.jpg"
+              }
+          ],
+          "details": null,
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "hispanic",
+          "occupations": [
+              "Unskilled General Laborer"
+          ],
+          "suspects": null,
+          "age_min": null,
+          "hair": "black",
+          "legat_names": null,
+          "modified": "2019-10-07T22:23:25+00:00",
+          "status": "na",
+          "publication": "2010-09-01T03:25:00",
+          "weight": "Approximately 200 pounds",
+          "caution": "<p>On July 1, 2006, a body was located under a roadway overpass in Baltimore County, Maryland. The body had multiple stab wounds and the death was ruled a homicide. The victim was later determined to be a Hispanic male with ties to Hector Manuel Murcia-Brizuela. An arrest warrant for Murcia-Brizuela was issued by the District Court of Maryland for Baltimore County on July 14, 2006. That same day, a federal warrant charging Murcia-Brizuela with unlawful flight to avoid prosecution was issued in the United States District Court for the District of Maryland.</p>\r\n<p> </p>",
+          "possible_states": null,
+          "scars_and_marks": "Murcia-Brizuela has a scar on his left elbow.",
+          "race_raw": "White (Hispanic)",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/hector-manuel-murcia-brizuela/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/hector-manuel-murcia-brizuela/brizuelaspanish2.pdf/@@download/file/brizuelaspanish2.pdf",
+                  "name": "EN ESPAÑOL"
+              }
+          ],
+          "field_offices": [
+              "baltimore"
+          ],
+          "nationality": "Honduran",
+          "weight_min": 200,
+          "age_range": null,
+          "uid": "38bc4bcee78d77c0d80e1377af36c971",
+          "eyes_raw": "Brown",
+          "height_max": 66,
+          "height_min": 66,
+          "aliases": [
+              "Edwin Addiel Santamaria",
+              "Alex Santamaria",
+              "Edwid Santamaria",
+              "Hector Santamaria",
+              "Marvin Rafael Yanez",
+              "Pedro Fernandez",
+              "Hector Manuel Murcia",
+              "Hector Manuel Brizuela",
+              "Hector Brizuela",
+              "Hector Murcia",
+              "Hector Murcia Brizuela"
+          ],
+          "reward_text": null,
+          "description": "Unlawful Flight to Avoid Prosecution - First Degree Murder",
+          "title": "HECTOR MANUEL MURCIA-BRIZUELA",
+          "possible_countries": null,
+          "hair_raw": "Black",
+          "remarks": "<p>Murcia-Brizuela has ties to Maryland, North Carolina, Mexico, and Honduras. He has been known to enter the United States illegally and may go by the name Edwin Addiel Santamaria.</p>",
+          "weight_max": 200,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/murders/hector-manuel-murcia-brizuela",
+          "ncic": "W880802376",
+          "eyes": "brown",
+          "sex": "Male",
+          "coordinates": [],
+          "path": "/wanted/murders/hector-manuel-murcia-brizuela",
+          "place_of_birth": "Choloma, Honduras",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Violent Crime - Murders"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/38bc4bcee78d77c0d80e1377af36c971"
+      },
+      {
+          "age_range": "23 (at time of disappearance)",
+          "subjects": [
+              "ViCAP Missing Persons"
+          ],
+          "languages": null,
+          "path": "/wanted/vicap/missing-persons/karen-denise-wells",
+          "weight_min": 120,
+          "details": "<p>Wells was driving cross-country from Haskell, OK to northern NJ to visit a friend. She secured a hotel room in Carlisle, PA and asked for directions to a nearby McDonald’s. Wells has not been seen since. Her rental car was recovered the next day in a wooded area near New Germantown, PA, approximately 35 miles north of her last known location.</p>",
+          "status": "na",
+          "possible_states": [
+              "US-PA"
+          ],
+          "eyes": "blue",
+          "hair": "blond",
+          "legat_names": null,
+          "eyes_raw": "Blue/Green",
+          "field_offices": null,
+          "weight": "120 pounds",
+          "age_min": 23,
+          "build": null,
+          "person_classification": "Victim",
+          "remarks": "<p>Wells was known to wear eyeglasses.</p>",
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/vicap/missing-persons/karen-denise-wells",
+          "nationality": null,
+          "uid": "9c94caa0fd758008d65b92fd96979975",
+          "warning_message": null,
+          "scars_and_marks": null,
+          "race": "white",
+          "hair_raw": "Blonde",
+          "modified": "2019-10-04T13:15:09+00:00",
+          "title": "KAREN DENISE WELLS - CARLISLE, PENNSYLVANIA",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/vicap/missing-persons/karen-denise-wells/@@images/image/large",
+                  "caption": null,
+                  "original": "https://www.fbi.gov/wanted/vicap/missing-persons/karen-denise-wells/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/karen-denise-wells/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": null,
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": null,
+          "reward_max": 0,
+          "ncic": null,
+          "aliases": null,
+          "height_max": 66,
+          "dates_of_birth_used": null,
+          "height_min": 66,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/vicap/missing-persons/karen-denise-wells/vicap_alert_karenwells_1989pa68_updated.pdf",
+                  "name": "English"
+              }
+          ],
+          "occupations": null,
+          "publication": "2010-10-26T12:25:00",
+          "description": "Carlisle, Pennsylvania\r\nApril 12, 1994",
+          "race_raw": "White",
+          "age_max": 23,
+          "coordinates": [],
+          "place_of_birth": null,
+          "reward_min": 0,
+          "weight_max": 120,
+          "sex": "Female",
+          "@id": "https://api.fbi.gov/@wanted-person/9c94caa0fd758008d65b92fd96979975"
+      },
+      {
+          "eyes": null,
+          "sex": null,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---commercial-robbery",
+          "ncic": null,
+          "path": "/wanted/seeking-info/unknown-suspects---commercial-robbery",
+          "locations": null,
+          "weight_min": null,
+          "place_of_birth": null,
+          "reward_min": 0,
+          "subjects": [
+              "Seeking Information"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "f16723485e974287b43a6731139f08d9",
+          "eyes_raw": null,
+          "height_max": null,
+          "nationality": null,
+          "age_range": null,
+          "height_min": null,
+          "aliases": null,
+          "reward_text": "The FBI is offering a reward of up to $10,000 for information leading to the arrest and conviction of these unknown suspects.",
+          "possible_countries": null,
+          "description": "Pensacola, Florida\r\nSeptember 24, 2019",
+          "caution": null,
+          "weight_max": null,
+          "legat_names": null,
+          "race": null,
+          "modified": "2019-10-03T13:28:48+00:00",
+          "publication": "2019-10-01T15:37:00",
+          "weight": null,
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---commercial-robbery/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---commercial-robbery/@@images/image",
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---commercial-robbery/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---commercial-robbery/foodmart-suspect-1-pic-2.png/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---commercial-robbery/foodmart-suspect-1-pic-2.png",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---commercial-robbery/foodmart-suspect-1-pic-2.png/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---commercial-robbery/foodmart-suspect-2-pic-1.png/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---commercial-robbery/foodmart-suspect-2-pic-1.png",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---commercial-robbery/foodmart-suspect-2-pic-1.png/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---commercial-robbery/foodmart-suspect-2-pic-2.png/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---commercial-robbery/foodmart-suspect-2-pic-2.png",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---commercial-robbery/foodmart-suspect-2-pic-2.png/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---commercial-robbery/foodmart-suspect-2-pic-3.png/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---commercial-robbery/foodmart-suspect-2-pic-3.png",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---commercial-robbery/foodmart-suspect-2-pic-3.png/@@images/image/large"
+              }
+          ],
+          "remarks": null,
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---commercial-robbery/download.pdf"
+              }
+          ],
+          "field_offices": [
+              "jacksonville"
+          ],
+          "coordinates": [],
+          "race_raw": null,
+          "hair_raw": null,
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": null,
+          "details": "<p>The FBI is seeking information regarding an armed robbery that occurred on September 24, 2019, at Beacon Food Mart, located at 5700 West Jackson Street, Pensacola, Florida.</p>\r\n<p>On September 24, 2019, at approximately 11:50 P.M., two individuals entered the Beacon Food Mart armed with handguns. The males spent several minutes inside the store during the robbery before leaving on foot. The first suspect wore a blue bandana hanging from the front of his pants. The second suspect wore a dark blue or black bandana hanging from his back pocket and wore black Nike Jordan shoes. One of the weapons used in the robbery may have been a Hi-Point sub compact handgun.</p>\r\n<p> </p>",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "suspects": null,
+          "age_min": null,
+          "hair": null,
+          "title": "UNKNOWN SUSPECTS - COMMERCIAL ROBBERY",
+          "occupations": null,
+          "@id": "https://api.fbi.gov/@wanted-person/f16723485e974287b43a6731139f08d9"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Kidnappings and Missing Persons"
+          ],
+          "languages": [
+              "English",
+              "Turkish",
+              "Spanish",
+              "Japanese",
+              "Persian (Farsi)"
+          ],
+          "path": "/wanted/kidnap/shayan-kazemi-1",
+          "weight_min": 90,
+          "details": "<p>Shayan Kazemi departed the United States from Los Angeles, California, on September 24, 2011. He arrived in Istanbul, Turkey, on September 24, 2011, and last made contact with his family by telephone on September 25, 2011, from the Istanbul Royal Hotel, Aksaray Caddesi No. 16, 34480 Laleli, Istanbul, Turkey. He has not been heard from since that time.</p>\r\n<p> </p>",
+          "status": "na",
+          "possible_states": null,
+          "eyes": "brown",
+          "hair": "brown",
+          "legat_names": [
+              "eurasia-2"
+          ],
+          "eyes_raw": "Brown",
+          "field_offices": [
+              "washingtondc"
+          ],
+          "weight": "90 kg (198 pounds)",
+          "age_min": null,
+          "build": "Medium",
+          "person_classification": "Victim",
+          "remarks": "<p>Kazemi was last seen wearing a blue, striped shirt and a gray suit and is known to wear a necklace with a gold cross. He has Type 2 Diabetes and takes medication to manage it. He is known to smoke cigarettes, at one point, approximately two packs a day.</p>",
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/kidnap/shayan-kazemi-1",
+          "nationality": "United States",
+          "uid": "952a0f45262b4a3a80f3d7839dda45fd",
+          "warning_message": null,
+          "scars_and_marks": "Kazemi has large brown moles on top of his left wrist and on his right temple.",
+          "race": null,
+          "hair_raw": "Brown with graying (short beard and mustache)",
+          "modified": "2019-10-02T15:48:25+00:00",
+          "title": "SHAYAN KAZEMI",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/kidnap/shayan-kazemi-1/@@images/image/large",
+                  "caption": "Photograph taken in 2009",
+                  "original": "https://www.fbi.gov/wanted/kidnap/shayan-kazemi-1/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/shayan-kazemi-1/@@images/image/thumb"
+              }
+          ],
+          "complexion": "Medium",
+          "reward_text": "The United States Government is offering a reward of up to $200,000 for information leading directly to the safe location, recovery, and return of Shayan Kazemi.",
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": null,
+          "reward_max": 0,
+          "ncic": null,
+          "aliases": [
+              "Shayn Kaviani",
+              "Asgar Kazemi",
+              "Askar Kazemi"
+          ],
+          "height_max": null,
+          "dates_of_birth_used": [
+              "March 22, 1959"
+          ],
+          "height_min": null,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/kidnap/shayan-kazemi-1/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/kidnap/shayan-kazemi-1/kazemirussian.pdf/@@download/file/kazemirussian.pdf",
+                  "name": "НА РУССКОМ"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/kidnap/shayan-kazemi-1/kazemiturkish2.pdf/@@download/file/kazemiturkish2.pdf",
+                  "name": "TÜRKÇE DE"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/kidnap/shayan-kazemi-1/kazemiarabic.pdf/@@download/file/kazemiarabic.pdf",
+                  "name": "باللغة العربية"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/kidnap/shayan-kazemi-1/kazemifarsi3.pdf/@@download/file/kazemifarsi3.pdf",
+                  "name": "به زبان فارسی"
+              }
+          ],
+          "occupations": [
+              "Television Broadcaster"
+          ],
+          "publication": "2012-11-06T07:00:00",
+          "description": "September 25, 2011\r\nIstanbul, Turkey",
+          "race_raw": null,
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": "Iran",
+          "reward_min": 0,
+          "weight_max": 198,
+          "sex": "Male",
+          "@id": "https://api.fbi.gov/@wanted-person/952a0f45262b4a3a80f3d7839dda45fd"
+      },
+      {
+          "dates_of_birth_used": [
+              "February 13, 2002"
+          ],
+          "images": [
+              {
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/kidnap/maleina-luhk/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/maleina-luhk/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/kidnap/maleina-luhk/@@images/image"
+              },
+              {
+                  "caption": "Photograph age progressed to 12 years",
+                  "large": "https://www.fbi.gov/wanted/kidnap/maleina-luhk/luhkmage.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/maleina-luhk/luhkmage.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/kidnap/maleina-luhk/luhkmage.jpg"
+              }
+          ],
+          "details": "<p>Maleina and <a data-urltype=\"/view\" href=\"https://www.fbi.gov/wanted/kidnap/faloma-luhk\" data-val=\"https://www.fbi.gov/wanted/kidnap/faloma-luhk\" data-linktype=\"external\">Faloma Luhk</a> were last seen at the bus stop near their home in the village of As Tao, Saipan, Northern Mariana Islands, on May 25, 2011. The sisters, age 9 and 10 at the time, were waiting for the school bus to arrive and have not been seen since that time.</p>",
+          "warning_message": null,
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "asian",
+          "occupations": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "legat_names": null,
+          "modified": "2019-10-01T13:58:18+00:00",
+          "status": "na",
+          "publication": "2014-10-14T07:00:00",
+          "weight": "65 pounds (at time of disappearance)",
+          "caution": null,
+          "possible_states": null,
+          "scars_and_marks": "Maleina has a birthmark on her left cheek.",
+          "race_raw": "Asian (Pacific Islander)",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/kidnap/maleina-luhk/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/kidnap/maleina-luhk/lukhmchinese.pdf/@@download/file/LukhMChinese.pdf",
+                  "name": "普通话"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/kidnap/maleina-luhk/lukhmkorean.pdf/@@download/file/LukhMKorean.pdf",
+                  "name": "한국어로"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/kidnap/maleina-luhk/lukhmjapanese.pdf/@@download/file/LukhMJapanese.pdf",
+                  "name": "日本語で"
+              }
+          ],
+          "field_offices": [
+              "honolulu"
+          ],
+          "nationality": "American",
+          "weight_min": 65,
+          "age_range": null,
+          "uid": "24127258-198b-479c-b6be-85e88bee539d",
+          "eyes_raw": "Brown",
+          "height_max": 48,
+          "height_min": 48,
+          "aliases": null,
+          "reward_text": "The FBI is offering a reward of up to $25,000 for information leading to the whereabouts of Maleina and Faloma Luhk.",
+          "description": "May 25, 2011\r\nSaipan, Northern Mariana Islands",
+          "title": "MALEINA LUHK",
+          "possible_countries": null,
+          "hair_raw": "Brown",
+          "remarks": "<p>Maleina was last seen wearing a white blouse and blue jeans.</p>",
+          "weight_max": 65,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/kidnap/maleina-luhk",
+          "ncic": null,
+          "eyes": "brown",
+          "sex": "Female",
+          "coordinates": [],
+          "path": "/wanted/kidnap/maleina-luhk",
+          "place_of_birth": "Saipan, Northern Mariana Islands",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Kidnappings and Missing Persons"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/24127258-198b-479c-b6be-85e88bee539d"
+      }
+  ],
+  "page": 23
+}

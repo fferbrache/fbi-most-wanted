@@ -1,0 +1,1884 @@
+{
+  "total": 1003,
+  "items": [
+      {
+          "eyes": null,
+          "sex": "Male",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/terrorinfo/abdullah-shair-khan",
+          "ncic": null,
+          "path": "/wanted/terrorinfo/abdullah-shair-khan",
+          "locations": null,
+          "weight_min": null,
+          "place_of_birth": null,
+          "reward_min": 0,
+          "subjects": [
+              "Seeking Information - Terrorism"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "979e47690e244deba3e2b9d926e5316f",
+          "eyes_raw": null,
+          "height_max": null,
+          "nationality": null,
+          "age_range": null,
+          "height_min": null,
+          "aliases": [
+              "Abdullah ShairKhan"
+          ],
+          "reward_text": null,
+          "possible_countries": null,
+          "description": "",
+          "caution": null,
+          "weight_max": null,
+          "legat_names": null,
+          "race": null,
+          "modified": "2019-01-25T19:37:52+00:00",
+          "publication": "2019-01-24T08:54:00",
+          "weight": null,
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/terrorinfo/abdullah-shair-khan/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/terrorinfo/abdullah-shair-khan/@@images/image",
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/terrorinfo/abdullah-shair-khan/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/terrorinfo/abdullah-shair-khan/shairkhan2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/terrorinfo/abdullah-shair-khan/shairkhan2.jpg",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/terrorinfo/abdullah-shair-khan/shairkhan2.jpg/@@images/image/large"
+              }
+          ],
+          "remarks": null,
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/terrorinfo/abdullah-shair-khan/download.pdf"
+              }
+          ],
+          "field_offices": [
+              "washingtondc"
+          ],
+          "coordinates": [],
+          "race_raw": null,
+          "hair_raw": null,
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": [
+              "July 15, 1995",
+              "January 1, 1982"
+          ],
+          "details": "<p>The FBI is seeking information regarding Abdullah Shair Khan in relation to an investigation into the Taliban and Haqqani Networks.  He is likely located in either Afghanistan or Pakistan.</p>",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "suspects": null,
+          "age_min": null,
+          "hair": null,
+          "title": "ABDULLAH SHAIR KHAN",
+          "occupations": null,
+          "@id": "https://api.fbi.gov/@wanted-person/979e47690e244deba3e2b9d926e5316f"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Parental Kidnapping"
+          ],
+          "languages": [
+              "English",
+              "Portuguese",
+              "Spanish"
+          ],
+          "path": "/wanted/parental-kidnappings/marcelle-guimaraes",
+          "weight_min": 120,
+          "details": null,
+          "status": "na",
+          "possible_states": null,
+          "eyes": "brown",
+          "hair": "brown",
+          "legat_names": null,
+          "eyes_raw": "Brown",
+          "field_offices": [
+              "houston"
+          ],
+          "weight": "120 pounds",
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": "<p>Marcelle da Rocha Guimaraes and Nicolas Scott Brann have been known to frequent the area of Salvador, Bahia, Brazil. Guimaraes has dual citizenship in both the United States and Brazil.  </p>\r\n<div id=\"selenium-highlight\"> </div>\r\n<div id=\"selenium-highlight\"> </div>",
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/parental-kidnappings/marcelle-guimaraes",
+          "nationality": "Brazilian",
+          "uid": "b22a20f86262476490512aaa16ff418c",
+          "warning_message": null,
+          "scars_and_marks": null,
+          "race": "white",
+          "hair_raw": "Brown",
+          "modified": "2018-12-20T12:01:39+00:00",
+          "title": "MARCELLE DA ROCHA GUIMARAES",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/parental-kidnappings/marcelle-guimaraes/@@images/image/large",
+                  "caption": null,
+                  "original": "https://www.fbi.gov/wanted/parental-kidnappings/marcelle-guimaraes/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/parental-kidnappings/marcelle-guimaraes/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/parental-kidnappings/marcelle-guimaraes/guimaraes_m-2.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/parental-kidnappings/marcelle-guimaraes/guimaraes_m-2.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/parental-kidnappings/marcelle-guimaraes/guimaraes_m-2.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/parental-kidnappings/marcelle-guimaraes/guimaraes_m3-2012.jpg/@@images/image/large",
+                  "caption": "Photo taken in 2012",
+                  "original": "https://www.fbi.gov/wanted/parental-kidnappings/marcelle-guimaraes/guimaraes_m3-2012.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/parental-kidnappings/marcelle-guimaraes/guimaraes_m3-2012.jpg/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": null,
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": "<p>In 2013, Marcelle da Rocha Guimaraes, in violation of United States court order, allegedly took her son Nicolas Scott Brann from the United States and traveled to Brazil. Both mother and son have not returned to the United States.  </p>\r\n<p> </p>\r\n<p>In May 2018, Guimaraes' co-conspirators were convicted of international parental kidnapping for their involvement in this matter. On March 23, 2017, an arrest warrant for Guimaraes was issued in the United States District Court, Southern District of Texas. In February 2018, Guimaraes was indicted by a Federal Grand Jury for international parental kidnapping and conspiracy.</p>\r\n<div id=\"selenium-highlight\"> </div>\r\n<div id=\"selenium-highlight\"> </div>",
+          "reward_max": 0,
+          "ncic": "W260605826",
+          "aliases": null,
+          "height_max": 66,
+          "dates_of_birth_used": [
+              "April 10, 1978"
+          ],
+          "height_min": 66,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/parental-kidnappings/marcelle-guimaraes/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/parental-kidnappings/marcelle-guimaraes/guimaraes_marcelle-portuguese.pdf/@@download/file/Guimaraes_marcelle Portuguese.pdf",
+                  "name": "PORTUGUÊS"
+              }
+          ],
+          "occupations": null,
+          "publication": "2018-06-05T14:42:00",
+          "description": "International Parental Kidnapping and Conspiracy",
+          "race_raw": "White",
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": "Brazil",
+          "reward_min": 0,
+          "weight_max": 120,
+          "sex": "Female",
+          "@id": "https://api.fbi.gov/@wanted-person/b22a20f86262476490512aaa16ff418c"
+      },
+      {
+          "eyes": null,
+          "sex": "Female",
+          "age_max": 45,
+          "url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe-30",
+          "ncic": null,
+          "path": "/wanted/vicap/unidentified-persons/jane-doe-30",
+          "locations": null,
+          "weight_min": null,
+          "place_of_birth": null,
+          "reward_min": 0,
+          "subjects": [
+              "ViCAP Unidentified Persons"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "707e821fda8312b97a0bf0a6a11198bd",
+          "eyes_raw": "Unknown",
+          "height_max": 66,
+          "nationality": null,
+          "age_range": "30 to 45 years old",
+          "height_min": 65,
+          "aliases": null,
+          "reward_text": null,
+          "possible_countries": null,
+          "description": "LaVergne, Tennessee\r\nNovember 14, 2007",
+          "caution": null,
+          "weight_max": null,
+          "legat_names": null,
+          "race": "black",
+          "modified": "2018-12-14T15:36:28+00:00",
+          "publication": "2012-04-03T11:00:00",
+          "weight": "Undetermined",
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe-30/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe-30/@@images/image",
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe-30/@@images/image/large"
+              }
+          ],
+          "remarks": "<p>An Avon \"Loveable Pets Stretch Bracelet\" with pictures of cats on it (made in 2003), a bracelet with ceramic beads and a dark cord, and a gold-plated ring with light blue and amber-colored stones were found with the remains.</p>",
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe-30/lavergne-tn-12-1-18.pdf"
+              }
+          ],
+          "field_offices": null,
+          "coordinates": [],
+          "race_raw": "Black (may be mixed descent - Black/White)",
+          "hair_raw": "Brown, short",
+          "complexion": null,
+          "build": null,
+          "person_classification": "Victim",
+          "dates_of_birth_used": null,
+          "details": "<p>On November 14, 2007, the unidentified skeletal remains of a Black female were discovered in a remote wooded area in LaVergne, Tennessee. It is estimated the victim had been deceased since the spring or summer of 2007. No clothing was located in the area of these unidentified human remains; however, jewelry was found. The victim had some dental work completed on her teeth. For additional information regarding this victim, refer to the National Missing and Unidentified Persons System (NamUS) unidentified persons database, case report number UP#5281.</p>",
+          "warning_message": null,
+          "suspects": null,
+          "age_min": 30,
+          "hair": "brown",
+          "title": "JANE DOE - LAVERGNE, TENNESSEE",
+          "occupations": null,
+          "@id": "https://api.fbi.gov/@wanted-person/707e821fda8312b97a0bf0a6a11198bd"
+      },
+      {
+          "dates_of_birth_used": [
+              "June 15, 1977"
+          ],
+          "images": [
+              {
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/kidnap/jennifer-lynn-marcum/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/jennifer-lynn-marcum/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/kidnap/jennifer-lynn-marcum/@@images/image"
+              },
+              {
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/kidnap/jennifer-lynn-marcum/marcum_jl2.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/jennifer-lynn-marcum/marcum_jl2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/kidnap/jennifer-lynn-marcum/marcum_jl2.jpg"
+              },
+              {
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/kidnap/jennifer-lynn-marcum/marcum_jl3.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/jennifer-lynn-marcum/marcum_jl3.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/kidnap/jennifer-lynn-marcum/marcum_jl3.jpg"
+              }
+          ],
+          "details": "<p>On approximately February 16, 2003, Jennifer Lynn Marcum disappeared from the Denver International Airport, Denver, Colorado. She has not been seen since that time.</p>",
+          "warning_message": null,
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "white",
+          "occupations": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "legat_names": null,
+          "modified": "2018-12-13T12:09:13+00:00",
+          "status": "na",
+          "publication": "2010-09-13T11:25:00",
+          "weight": "115 pounds",
+          "caution": null,
+          "possible_states": [
+              "US-CO"
+          ],
+          "scars_and_marks": null,
+          "race_raw": "White",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/kidnap/jennifer-lynn-marcum/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "field_offices": [
+              "denver"
+          ],
+          "nationality": null,
+          "weight_min": 115,
+          "age_range": null,
+          "uid": "fae1a09d2658378bb4f369d329239c3c",
+          "eyes_raw": "Blue",
+          "height_max": 66,
+          "height_min": 66,
+          "aliases": null,
+          "reward_text": null,
+          "description": "February 16, 2003\r\nDenver, Colorado",
+          "title": "JENNIFER LYNN MARCUM",
+          "possible_countries": null,
+          "hair_raw": "Brown",
+          "remarks": "<p>Marcum has pierced ears.</p>",
+          "weight_max": 115,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/kidnap/jennifer-lynn-marcum",
+          "ncic": null,
+          "eyes": "blue",
+          "sex": "Female",
+          "coordinates": [],
+          "path": "/wanted/kidnap/jennifer-lynn-marcum",
+          "place_of_birth": "Colorado",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Kidnappings and Missing Persons"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/fae1a09d2658378bb4f369d329239c3c"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Additional Violent Crimes"
+          ],
+          "languages": null,
+          "path": "/wanted/additional/charles-c-jones",
+          "weight_min": 180,
+          "details": null,
+          "status": "na",
+          "possible_states": null,
+          "eyes": "brown",
+          "hair": "black",
+          "legat_names": null,
+          "eyes_raw": "Brown",
+          "field_offices": [
+              "chicago"
+          ],
+          "weight": "180 pounds",
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": null,
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/additional/charles-c-jones",
+          "nationality": "American",
+          "uid": "64cd2584930e49278a2951b71e12717e",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "scars_and_marks": "Jones has tattoos on the top of both hands and forearms and the bottom of both forearms.",
+          "race": "black",
+          "hair_raw": "Black",
+          "modified": "2018-12-06T13:54:34+00:00",
+          "title": "CHARLES C. JONES",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/additional/charles-c-jones/@@images/image/large",
+                  "caption": "Photograph taken in 2014",
+                  "original": "https://www.fbi.gov/wanted/additional/charles-c-jones/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/additional/charles-c-jones/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/additional/charles-c-jones/charles-jones-august-2011_tattoos-2.jpg/@@images/image/large",
+                  "caption": "Tattoos on the top of both hands and forearms",
+                  "original": "https://www.fbi.gov/wanted/additional/charles-c-jones/charles-jones-august-2011_tattoos-2.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/additional/charles-c-jones/charles-jones-august-2011_tattoos-2.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/additional/charles-c-jones/charles-jones-august-2011_tattoos.jpg/@@images/image/large",
+                  "caption": "Tattoos on the bottom of both forearms",
+                  "original": "https://www.fbi.gov/wanted/additional/charles-c-jones/charles-jones-august-2011_tattoos.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/additional/charles-c-jones/charles-jones-august-2011_tattoos.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/additional/charles-c-jones/charles-jones_2011-2.jpg/@@images/image/large",
+                  "caption": "Photo taken in 2011",
+                  "original": "https://www.fbi.gov/wanted/additional/charles-c-jones/charles-jones_2011-2.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/additional/charles-c-jones/charles-jones_2011-2.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/additional/charles-c-jones/charles-jones_2011-3.jpg/@@images/image/large",
+                  "caption": "Photo taken in 2011",
+                  "original": "https://www.fbi.gov/wanted/additional/charles-c-jones/charles-jones_2011-3.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/additional/charles-c-jones/charles-jones_2011-3.jpg/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": "The FBI is offering a reward of up to $10,000 for information leading to the arrest of Charles C. Jones.",
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": "<p>From 2009 to 2011, Charles C. Jones allegedly conspired to and carried out armed robberies of victims and jewelry stores in the states of Illinois and Ohio. On July 22, 2016, the United States District Court for the Northern District of Illinois, Eastern Division, issued an arrest warrant for Jones after charging him with Interference with Commerce by Threat or Violence.</p>",
+          "reward_max": 0,
+          "ncic": "W626596593",
+          "aliases": [
+              "\"CeCe,\" \"CC\""
+          ],
+          "height_max": 68,
+          "dates_of_birth_used": [
+              "November 16, 1983"
+          ],
+          "height_min": 68,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/additional/charles-c-jones/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "occupations": null,
+          "publication": "2018-11-27T07:54:00",
+          "description": "Interference with Commerce by Threat or Violence",
+          "race_raw": "Black",
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": null,
+          "reward_min": 0,
+          "weight_max": 180,
+          "sex": "Male",
+          "@id": "https://api.fbi.gov/@wanted-person/64cd2584930e49278a2951b71e12717e"
+      },
+      {
+          "dates_of_birth_used": [
+              "January 2, 2000"
+          ],
+          "images": [
+              {
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/kidnap/enrique-rios/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/enrique-rios/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/kidnap/enrique-rios/@@images/image"
+              },
+              {
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/kidnap/enrique-rios/riose2.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/enrique-rios/riose2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/kidnap/enrique-rios/riose2.jpg"
+              },
+              {
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/kidnap/enrique-rios/riose4.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/enrique-rios/riose4.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/kidnap/enrique-rios/riose4.jpg"
+              },
+              {
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/kidnap/enrique-rios/riose3.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/enrique-rios/riose3.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/kidnap/enrique-rios/riose3.jpg"
+              }
+          ],
+          "details": "<p>Enrique Rios, a Hispanic male from Esparto, California, was reported missing by his mother on Wednesday, October 19, 2016. He was last seen at 9 p.m. on Sunday, October 16, 2016, in his family’s home.</p>\r\n<p> </p>\r\n<p>According to court documents, one juvenile and three adults were charged with the following alleged crimes: murder, accessory to a felony, kidnapping, and enhancements for use of a deadly weapon, committing multiple murders, and committing a murder during the commission of a kidnapping after the disappearance of Enrique Rios and <a data-urltype=\"/view\" href=\"https://www.fbi.gov/wanted/kidnap/elijah-moore\" data-linktype=\"external\" data-val=\"https://www.fbi.gov/wanted/kidnap/elijah-moore\">Elijah Moore</a>.</p>\r\n<p> </p>\r\n<p>On September 14, 2018, the Yolo County District Attorney’s Office announced an individual pleaded no contest to second degree murder. On November 13, 2018, the Yolo County District Attorney’s Office announced one individual was found guilty of one count of first degree murder, one count of second degree murder, and one count of kidnapping.</p>\r\n<p> </p>",
+          "warning_message": null,
+          "build": null,
+          "person_classification": "Victim",
+          "complexion": null,
+          "race": "hispanic",
+          "occupations": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "legat_names": null,
+          "modified": "2018-11-30T20:39:04+00:00",
+          "status": "na",
+          "publication": "2017-01-27T13:40:00",
+          "weight": "140 pounds",
+          "caution": null,
+          "possible_states": null,
+          "scars_and_marks": null,
+          "race_raw": "White (Hispanic)",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/kidnap/enrique-rios/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "field_offices": [
+              "sacramento"
+          ],
+          "nationality": null,
+          "weight_min": 140,
+          "age_range": null,
+          "uid": "ddd560252b3642dca15f0d68126c93f6",
+          "eyes_raw": "Brown",
+          "height_max": 67,
+          "height_min": 67,
+          "aliases": null,
+          "reward_text": "The FBI is offering a reward of up to $5,000 for information leading to the location of Enrique Rios.",
+          "description": "October 16, 2016\r\nEsparto, California",
+          "title": "ENRIQUE RIOS",
+          "possible_countries": null,
+          "hair_raw": "Brown",
+          "remarks": null,
+          "weight_max": 140,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/kidnap/enrique-rios",
+          "ncic": null,
+          "eyes": "brown",
+          "sex": "Male",
+          "coordinates": [],
+          "path": "/wanted/kidnap/enrique-rios",
+          "place_of_birth": null,
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Kidnappings and Missing Persons"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/ddd560252b3642dca15f0d68126c93f6"
+      },
+      {
+          "dates_of_birth_used": [
+              "November 3, 1999"
+          ],
+          "images": [
+              {
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/kidnap/elijah-moore/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/elijah-moore/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/kidnap/elijah-moore/@@images/image"
+              },
+              {
+                  "caption": "Moore in what he wore when he went missing.",
+                  "large": "https://www.fbi.gov/wanted/kidnap/elijah-moore/mooree2.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/elijah-moore/mooree2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/kidnap/elijah-moore/mooree2.jpg"
+              }
+          ],
+          "details": "<p>Elijah Moore, a Black male from Woodland, California, was reported missing by his mother on Monday, November 6, 2016.  Elijah was last seen on Friday, November 4, 2016.  He attended school and later cashed a check at California Check Cashing located at 115 Main Street in Woodland.</p>\r\n<p> </p>\r\n<p>According to court documents, one juvenile and three adults were charged with the following alleged crimes: murder, accessory to a felony, kidnapping, and enhancements for use of a deadly weapon, committing multiple murders, and committing a murder during the commission of a kidnapping after the disappearance of Elijah Moore and <a data-linktype=\"external\" href=\"https://www.fbi.gov/wanted/kidnap/enrique-rios\" data-val=\"https://www.fbi.gov/wanted/kidnap/enrique-rios\" data-urltype=\"/view\">Enrique Rios</a>.</p>\r\n<p> </p>\r\n<p>On September 14, 2018, the Yolo County District Attorney’s Office announced an individual pleaded no contest to second degree murder. On November 13, 2018, the Yolo County District Attorney’s Office announced one individual was found guilty of one count of first degree murder, one count of second degree murder, and one count of kidnapping.</p>\r\n<p> </p>",
+          "warning_message": null,
+          "build": null,
+          "person_classification": "Victim",
+          "complexion": null,
+          "race": "black",
+          "occupations": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "black",
+          "legat_names": null,
+          "modified": "2018-11-30T20:38:11+00:00",
+          "status": "na",
+          "publication": "2017-01-27T14:43:00",
+          "weight": "200 pounds",
+          "caution": null,
+          "possible_states": null,
+          "scars_and_marks": "Moore has a burn scar on his left hand.",
+          "race_raw": "Black",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/kidnap/elijah-moore/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "field_offices": [
+              "sacramento"
+          ],
+          "nationality": null,
+          "weight_min": 200,
+          "age_range": null,
+          "uid": "978c58c4ce654423b276696486e8bc73",
+          "eyes_raw": "Brown",
+          "height_max": 71,
+          "height_min": 71,
+          "aliases": null,
+          "reward_text": "The FBI is offering a reward of up to $5,000 for information leading to the location of Elijah Moore.",
+          "description": "November 4, 2016\r\nWoodland, California",
+          "title": "ELIJAH MOORE",
+          "possible_countries": null,
+          "hair_raw": "Black",
+          "remarks": "<p>On the day of his disappearance, Moore was last seen wearing a black, hooded sweatshirt; a yellow shirt; khaki pants; and tan work boots. He also carried a green backpack.</p>",
+          "weight_max": 200,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/kidnap/elijah-moore",
+          "ncic": null,
+          "eyes": "brown",
+          "sex": "Male",
+          "coordinates": [],
+          "path": "/wanted/kidnap/elijah-moore",
+          "place_of_birth": null,
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Kidnappings and Missing Persons"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/978c58c4ce654423b276696486e8bc73"
+      },
+      {
+          "eyes": null,
+          "sex": null,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/cyber/samsam-subjects",
+          "ncic": null,
+          "path": "/wanted/cyber/samsam-subjects",
+          "locations": null,
+          "weight_min": null,
+          "place_of_birth": null,
+          "reward_min": 0,
+          "subjects": [
+              "Cyber's Most Wanted"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "a9638000cd0749b4bd63670b8887fc48",
+          "eyes_raw": null,
+          "height_max": null,
+          "nationality": null,
+          "age_range": null,
+          "height_min": null,
+          "aliases": null,
+          "reward_text": null,
+          "possible_countries": null,
+          "description": "Conspiracy to Commit Fraud and Related Activity in Connection with Computers; Conspiracy to Commit Wire Fraud; Intentional Damage to a Protected Computer; Transmitting a Demand in Relation to Damaging a Protected Computer",
+          "caution": null,
+          "weight_max": null,
+          "legat_names": null,
+          "race": null,
+          "modified": "2018-11-28T17:44:36+00:00",
+          "publication": "2018-11-26T09:20:00",
+          "weight": null,
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/cyber/samsam-subjects/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cyber/samsam-subjects/@@images/image",
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/cyber/samsam-subjects/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/cyber/samsam-subjects/mansouri.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cyber/samsam-subjects/mansouri.jpg",
+                  "caption": "Mohammad Mehdi Shah Mansouri",
+                  "large": "https://www.fbi.gov/wanted/cyber/samsam-subjects/mansouri.jpg/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/cyber/samsam-subjects/silhouette.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cyber/samsam-subjects/silhouette.jpg",
+                  "caption": "Faramarz Shahi Savandi",
+                  "large": "https://www.fbi.gov/wanted/cyber/samsam-subjects/silhouette.jpg/@@images/image/large"
+              }
+          ],
+          "remarks": "<p>Mohammad Mehdi Shah Mansouri is an Iranian male with a date of birth of September 24, 1991.  He has brown hair and brown eyes and was born in Qom, Iran.</p>\r\n<p>Faramarz Shahi Savandi is an Iranian male who was born in Shiraz, Iran, on September 16, 1984.</p>\r\n<p>Both men are known to speak Farsi and reside in Tehran, Iran.</p>",
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/cyber/samsam-subjects/samsam-subjects-fbi-wanted-8-5x11.pdf"
+              },
+              {
+                  "name": "به زبان فارسی",
+                  "url": "https://www.fbi.gov/wanted/cyber/samsam-subjects/samsamfarsi.pdf/@@download/file/samsamfarsi.pdf"
+              }
+          ],
+          "field_offices": [
+              "newark"
+          ],
+          "coordinates": [],
+          "race_raw": null,
+          "hair_raw": null,
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": null,
+          "details": "<p>Mohammad Mehdi Shah Mansouri and Faramarz Shahi Savandi are wanted for allegedly launching SamSam ransom ware, aka MSIL/Samas.A attacks, which encrypted hundreds of computer networks in the United States and other countries.  Since December of 2015, Shah Mansouri and Shahi Savandi have received over $6 million in ransom payments from victims across several sectors, including critical infrastructure, healthcare, transportation, and state/local governments.</p>\r\n<p> </p>\r\n<p>On November 26, 2018, a federal grand jury sitting in the United States District Court for the District of New Jersey, Newark, New Jersey, indicted Shah Mansouri and Shahi Savandi on charges of conspiracy to commit fraud and related activity in connection with computers, conspiracy to commit wire fraud, intentional damage to a protected computer, and transmitting a demand in relation to damaging a protected computer.  The District of New Jersey issued a federal arrest warrant for both men.</p>\r\n<p> </p>",
+          "warning_message": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": null,
+          "title": "SAMSAM SUBJECTS",
+          "occupations": null,
+          "@id": "https://api.fbi.gov/@wanted-person/a9638000cd0749b4bd63670b8887fc48"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Counterintelligence"
+          ],
+          "languages": null,
+          "path": "/wanted/counterintelligence/tan-wee-beng",
+          "weight_min": 157,
+          "details": null,
+          "status": "na",
+          "possible_states": null,
+          "eyes": "brown",
+          "hair": "black",
+          "legat_names": null,
+          "eyes_raw": "Brown",
+          "field_offices": [
+              "newyork"
+          ],
+          "weight": "Approximately 157 pounds",
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": "<p>Tan Wee Beng is known to live in Singapore.</p>",
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/counterintelligence/tan-wee-beng",
+          "nationality": "Singaporean",
+          "uid": "1ef7b9c988984e4aa6d87a8557fbbf1f",
+          "warning_message": null,
+          "scars_and_marks": null,
+          "race": "asian",
+          "hair_raw": "Black",
+          "modified": "2018-11-20T19:19:24+00:00",
+          "title": "TAN WEE BENG",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/counterintelligence/tan-wee-beng/@@images/image/large",
+                  "caption": null,
+                  "original": "https://www.fbi.gov/wanted/counterintelligence/tan-wee-beng/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/counterintelligence/tan-wee-beng/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": null,
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": "<p>Tan Wee Beng is wanted for allegedly conspiring to violate the International Emergency Economic Powers Act (IEEPA) by doing business with North Korean proliferation entities.  Tan Wee Beng is the director and major shareholder of Wee Tiong (S) Pte Ltd, a Singapore-based commodities trading company.  Over several years, dating back to at least 2011, Tan Wee Beng and others in his company allegedly fulfilled millions of dollars in commodities contracts for North Korea.  To do so, Tan Wee Beng allegedly made a concerted effort to launder money through the United States and Singaporean financial systems by concealing payment origins and structuring transactions to avoid regulator scrutiny.  In some cases, when wire payments were rejected, Tan Wee Beng and Wee Tiong (S) Pte Ltd orchestrated payment in bulk cash, often hand-delivered by North Koreans.  Over this period, Tan Wee Beng and his co-conspirators also allegedly knew of and took efforts to evade financial sanctions.  On August 29, 2018, a federal arrest warrant was issued for Tan Wee Beng in the United States District Court, Southern District of New York, New York, New York, after he was charged with conspiracy to violate the IEEPA, bank fraud, conspiracy to commit bank fraud, money laundering, conspiracy to commit money laundering, and conspiracy to defraud the United States.</p>\r\n<p>.</p>",
+          "reward_max": 0,
+          "ncic": "W004707803",
+          "aliases": [
+              "\"WB\"",
+              "Wee Beng Tan",
+              "Marcus Tan",
+              "Weebeng Tan"
+          ],
+          "height_max": 68,
+          "dates_of_birth_used": [
+              "February 14, 1977"
+          ],
+          "height_min": 68,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/counterintelligence/tan-wee-beng/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/counterintelligence/tan-wee-beng/tanweebengchinese.pdf/@@download/file/TanWeeBengChinese.pdf",
+                  "name": "普通话"
+              }
+          ],
+          "occupations": [
+              "Commodities Broker"
+          ],
+          "publication": "2018-10-23T09:19:00",
+          "description": "Conspiracy to Violate the International Emergency Economic Powers Act (IEEPA); Bank Fraud; Conspiracy to Commit Bank Fraud; Money Laundering; Conspiracy to Commit Money Laundering; Conspiracy to Defraud the United States",
+          "race_raw": "Asian",
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": null,
+          "reward_min": 0,
+          "weight_max": 157,
+          "sex": "Male",
+          "@id": "https://api.fbi.gov/@wanted-person/1ef7b9c988984e4aa6d87a8557fbbf1f"
+      },
+      {
+          "dates_of_birth_used": [
+              "February 27, 1959"
+          ],
+          "images": [
+              {
+                  "caption": "Photograph taken in 1983",
+                  "large": "https://www.fbi.gov/wanted/murders/thayne-alan-smika/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/thayne-alan-smika/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/thayne-alan-smika/@@images/image"
+              },
+              {
+                  "caption": "Drawing age progressed to 52 years old ",
+                  "large": "https://www.fbi.gov/wanted/murders/thayne-alan-smika/smika_t-1-plain.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/thayne-alan-smika/smika_t-1-plain.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/thayne-alan-smika/smika_t-1-plain.jpg"
+              },
+              {
+                  "caption": "Drawing enhanced, age progressed to 52 years old",
+                  "large": "https://www.fbi.gov/wanted/murders/thayne-alan-smika/smika_t-5-all-xtras.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/thayne-alan-smika/smika_t-5-all-xtras.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/thayne-alan-smika/smika_t-5-all-xtras.jpg"
+              }
+          ],
+          "details": null,
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "build": "Sinewy (thin)",
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "white",
+          "occupations": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "legat_names": null,
+          "modified": "2018-11-16T21:14:06+00:00",
+          "status": "na",
+          "publication": "2014-07-09T07:00:00",
+          "weight": "140 pounds",
+          "caution": "<p>Thayne Alan Smika is wanted for a murder which occurred on August 1, 1983. On that day, police officers responded to an incident at an apartment complex in Boulder, Colorado. A male victim was found in his apartment, lying on the living room floor, with a gunshot wound to his head. The victim was identified as Smika's roommate. In October 1986, in Beverly Hills, California, Smika's car was found empty and abandoned with a stolen license plate.</p>\r\n<p> </p>\r\n<p>On December 2, 2010, a state arrest warrant was issued for Smika by the County District Court, Boulder County, Colorado, for first degree murder. Additionally, on December 13, 2010, a federal arrest warrant was issued by the United States District Court, District of Colorado, after Smika was charged federally with unlawful flight to avoid prosecution.</p>",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "race_raw": "White",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/thayne-alan-smika/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/thayne-alan-smika/thayne-alan-smika-en-espanol.pdf/@@download/file/Thayne Alan Smika EN ESPAÑOL.pdf",
+                  "name": "EN ESPAÑOL"
+              }
+          ],
+          "field_offices": [
+              "denver"
+          ],
+          "nationality": "American",
+          "weight_min": 140,
+          "age_range": null,
+          "uid": "79538f13-5340-4c9d-b40f-19a311817d85",
+          "eyes_raw": "Hazel",
+          "height_max": 71,
+          "height_min": 71,
+          "aliases": [
+              "Jungle Mike",
+              "Thaymes Micah"
+          ],
+          "reward_text": "The FBI is offering a reward of up to $10,000 for information leading to the arrest and conviction of Thayne Alan Smika.",
+          "description": "Unlawful Flight to Avoid Prosecution - First Degree Murder",
+          "title": "THAYNE ALAN SMIKA",
+          "possible_countries": null,
+          "hair_raw": "Brown (sun-bleached to golden)",
+          "remarks": "<p>As seen in the drawings displayed above, Smika may be clean shaven, he may have a beard or moustache, and may wear glasses. Smika does not have a valid United States passport. And, through investigation, it was revealed that Smika may have lived in the town of Yelapa, Mexico, for many years prior to 2007. Additionally, Smika may be residing in California.</p>",
+          "weight_max": 140,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/murders/thayne-alan-smika",
+          "ncic": "W581758596",
+          "eyes": "hazel",
+          "sex": "Male",
+          "coordinates": [],
+          "path": "/wanted/murders/thayne-alan-smika",
+          "place_of_birth": "North Dakota",
+          "reward_min": 0,
+          "locations": null,
+          "languages": [
+              "Spanish",
+              "English"
+          ],
+          "subjects": [
+              "Violent Crime - Murders"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/79538f13-5340-4c9d-b40f-19a311817d85"
+      },
+      {
+          "dates_of_birth_used": [
+              "December 31, 1969"
+          ],
+          "images": [
+              {
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/murders/jorge-rueda-landeros/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/jorge-rueda-landeros/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/jorge-rueda-landeros/@@images/image"
+              },
+              {
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/murders/jorge-rueda-landeros/landeros2.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/jorge-rueda-landeros/landeros2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/jorge-rueda-landeros/landeros2.jpg"
+              }
+          ],
+          "details": null,
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "hispanic",
+          "occupations": [
+              "Teacher of Spanish and Yoga"
+          ],
+          "suspects": null,
+          "age_min": null,
+          "hair": "black",
+          "legat_names": null,
+          "modified": "2018-11-16T21:07:54+00:00",
+          "status": "na",
+          "publication": "2014-08-26T07:00:00",
+          "weight": "200 pounds",
+          "caution": "<p>Jorge Rueda Landeros is wanted for his alleged involvement in the murder of a woman in Bethesda, Maryland, on October 25, 2010. She was found deceased in the basement of her home, which also looked like it had been burglarized. Landeros allegedly had both a personal and financial relationship with the victim, an accounting professor at a local university. On April 16, 2011, a local arrest warrant was issued in the Montgomery County District Court, Rockville, Maryland, after Landeros was charged with first degree murder. A federal arrest warrant was issued on June 2, 2011, in the United States District Court, District of Maryland, Greenbelt, Maryland, after Landeros was charged with unlawful flight to avoid prosecution.</p>",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "race_raw": "White (Hispanic)",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/jorge-rueda-landeros/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/jorge-rueda-landeros/jorge-rueda-landeros-en-espanol.pdf/@@download/file/Jorge Rueda Landeros  EN ESPAÑOL.pdf",
+                  "name": "EN ESPAÑOL"
+              }
+          ],
+          "field_offices": [
+              "baltimore"
+          ],
+          "nationality": "Mexican",
+          "weight_min": 200,
+          "age_range": null,
+          "uid": "8816e2f7-5bb6-4501-a119-249523877890",
+          "eyes_raw": "Brown",
+          "height_max": 72,
+          "height_min": 72,
+          "aliases": [
+              "Landeros Jorge Rueda"
+          ],
+          "reward_text": null,
+          "description": "Unlawful Flight to Avoid Prosecution - First Degree Murder",
+          "title": "JORGE RUEDA LANDEROS",
+          "possible_countries": null,
+          "hair_raw": "Black",
+          "remarks": "<p>Landeros is a dual citizen of both Mexico and the United States. He is known to have fled to Mexico after the murder and may still be living there or in Central America. Landeros speaks both Spanish and English.</p>",
+          "weight_max": 200,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/murders/jorge-rueda-landeros",
+          "ncic": "W052812716",
+          "eyes": "brown",
+          "sex": "Male",
+          "coordinates": [],
+          "path": "/wanted/murders/jorge-rueda-landeros",
+          "place_of_birth": "Juarez, Chihuahua, Mexico",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Violent Crime - Murders"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/8816e2f7-5bb6-4501-a119-249523877890"
+      },
+      {
+          "dates_of_birth_used": [
+              "December 24, 1984"
+          ],
+          "images": [
+              {
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/murders/jose-juan-chacon-morales/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/jose-juan-chacon-morales/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/jose-juan-chacon-morales/@@images/image"
+              }
+          ],
+          "details": null,
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND EXTREMELY DANGEROUS",
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "hispanic",
+          "occupations": [
+              "Unknown"
+          ],
+          "suspects": null,
+          "age_min": null,
+          "hair": "black",
+          "legat_names": null,
+          "modified": "2018-11-16T21:06:58+00:00",
+          "status": "na",
+          "publication": "2013-08-16T07:00:00",
+          "weight": "170 pounds",
+          "caution": "<p>Jose Juan Chacon-Morales, a.k.a. “Camello,” is wanted for his role in the July 23, 2009, murder of United States Border Patrol Agent Robert W. Rosas, Jr., in Campo, California, a short distance from the United States/Mexico International Border.</p>\r\n<p> </p>\r\n<p>Chacon-Morales, a Mexican national, is one of five men charged in the murder and the only one still outstanding. Chacon-Morales’ four co-conspirators were all taken into custody in Mexico, transferred to the United States, and all four have pled guilty.</p>\r\n<p> </p>\r\n<p>Chacon-Morales was allegedly the boss of the group on the night of the murder and remained as an armed lookout at the fence in Mexico while some of his co-conspirators entered the United States where they robbed and murdered Agent Rosas.</p>\r\n<p> </p>\r\n<p>Chacon-Morales has been charged federally with the following crimes: conspiracy; robbery of personal property of the United States; unlawful confinement of a federal officer resulting in death; murder of a federal officer committed in perpetration of a robbery and unlawful confinement; use and carrying of a firearm during the commission of a crime of violence; and aiding and abetting.</p>\r\n<p> </p>\r\n<p>A federal arrest warrant was issued by the United States District Court, Southern District of California, on May 11, 2010.</p>",
+          "possible_states": null,
+          "scars_and_marks": "Chacon-Morales has a scar on his left hand and tattoos on his back, chest, and left shoulder.",
+          "race_raw": "White (Hispanic)",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/jose-juan-chacon-morales/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/jose-juan-chacon-morales/jose-juan-chacon-morales-en-espanol.pdf/@@download/file/José Juan Chacón Morales EN ESPAÑOL.pdf",
+                  "name": "EN ESPAÑOL"
+              }
+          ],
+          "field_offices": [
+              "sandiego"
+          ],
+          "nationality": "Mexican",
+          "weight_min": 170,
+          "age_range": null,
+          "uid": "3b484f7f-5458-4137-a274-2569d84e153e",
+          "eyes_raw": "Brown",
+          "height_max": 69,
+          "height_min": 69,
+          "aliases": [
+              "\"Camello\"",
+              "\"El Primo\"",
+              "Guillermo Ramirez-Dorantes"
+          ],
+          "reward_text": "The FBI is offering a reward of up to $100,000 for information leading to the arrest or location of Chacon-Morales.",
+          "description": "Conspiracy; Robbery of Personal Property of the United States; Unlawful Confinement of a Federal Officer Resulting in Death; Murder of a Federal Officer Committed in Perpetration of a Robbery and Unlawful Confinement; Use and Carrying of a Firearm During the Commission of a Crime of Violence; Aiding and Abetting",
+          "title": "JOSE JUAN CHACON-MORALES",
+          "possible_countries": null,
+          "hair_raw": "Black",
+          "remarks": "<p>Chacon-Morales is believed to be in Mexico and has ties to the Mexican states of Baja California Sur/Baja California Norte, Sonora, and Sinaloa.</p>",
+          "weight_max": 170,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/murders/jose-juan-chacon-morales",
+          "ncic": "W741030109",
+          "eyes": "brown",
+          "sex": "Male",
+          "coordinates": [],
+          "path": "/wanted/murders/jose-juan-chacon-morales",
+          "place_of_birth": "Mexico",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Violent Crime - Murders"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/3b484f7f-5458-4137-a274-2569d84e153e"
+      },
+      {
+          "dates_of_birth_used": [
+              "June 24, 1973",
+              "November 23, 1974"
+          ],
+          "images": [
+              {
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/murders/juan-laureano-arvizu-1/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/juan-laureano-arvizu-1/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/juan-laureano-arvizu-1/@@images/image"
+              },
+              {
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/murders/juan-laureano-arvizu-1/arvizu_juan-2.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/juan-laureano-arvizu-1/arvizu_juan-2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/juan-laureano-arvizu-1/arvizu_juan-2.jpg"
+              }
+          ],
+          "details": "<p>Juan Laureano-Arvizu, aka Chaquetin, is being sought in San Diego for a series of violent crimes. Chaquetin was an alleged member of a drug cartel enforcement crew known as Los Palillos. This gang originally operated under the Arellano Felix Organization (AFO), a drug-trafficking organization in Tijuana, Mexico. It is reported that after leadership in the AFO was arrested, members of the Los Palillos fled to the United States and continued to operate as an independent gang, with an established drug distribution headquartered in San Diego County. This gang was suspected of kidnapping, torturing, and murdering nine people in San Diego County. And, between 2004-2007, Chaquetin allegedly participated in the abductions and murders.</p>\r\n<p> </p>\r\n<p>On August 26, 2009, an arrest warrant was issued for Laureano-Arvizu, by the Superior Court of California, County of San Diego. He was charged with the following crimes: murder; attempted murder of a police officer; kidnapping for ransom; robbery; attempted kidnapping; shooting at an inhabited occupied structure; attempted robbery; and conspiracy to commit kidnapping for ransom. A federal arrest warrant was issued on December 3, 2014, by the United States District Court, Southern District of California, after Laureano-Arvizu was charged with unlawful flight to avoid prosecution.</p>",
+          "warning_message": null,
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "hispanic",
+          "occupations": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "legat_names": null,
+          "modified": "2018-11-16T21:05:46+00:00",
+          "status": "na",
+          "publication": "2015-03-27T07:00:00",
+          "weight": "150 pounds",
+          "caution": null,
+          "possible_states": null,
+          "scars_and_marks": "Laureano-Arvizu has acne scars on his face.",
+          "race_raw": "White (Hispanic)",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/juan-laureano-arvizu-1/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/juan-laureano-arvizu-1/juan-laureano-arvizu-en-espanol.pdf/@@download/file/Juan Laureano Arvizu EN ESPAÑOL.pdf",
+                  "name": "EN ESPAÑOL"
+              }
+          ],
+          "field_offices": [
+              "sandiego"
+          ],
+          "nationality": "Mexican",
+          "weight_min": 150,
+          "age_range": null,
+          "uid": "0b174c32-0bf4-4cd1-8bff-e6fcf667d9e6",
+          "eyes_raw": "Brown",
+          "height_max": 68,
+          "height_min": 68,
+          "aliases": [
+              "Miguel Angel Castro-Aguayo",
+              "Jorge Esparza",
+              "Chaquetin",
+              "Flaco",
+              "Juan Arvizu-Laureano",
+              "Juan Laureano Arvizu",
+              "Miguel Esparza",
+              "Chaque"
+          ],
+          "reward_text": "The FBI is offering a reward of up to $50,000 for information leading to the arrest and conviction of Juan Laureano-Arvizu.",
+          "description": "Unlawful Flight to Avoid Prosecution - Murder; Attempted Murder of a Police Officer; Kidnapping for Ransom; Robbery; Attempted Kidnapping; Shooting at an Inhabited Occupied Structure; Attempted Robbery; Conspiracy to Commit Kidnapping",
+          "title": "JUAN LAUREANO-ARVIZU",
+          "possible_countries": null,
+          "hair_raw": "Brown",
+          "remarks": null,
+          "weight_max": 150,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/murders/juan-laureano-arvizu-1",
+          "ncic": "W443221107",
+          "eyes": "brown",
+          "sex": "Male",
+          "coordinates": [],
+          "path": "/wanted/murders/juan-laureano-arvizu-1",
+          "place_of_birth": "Mexico",
+          "reward_min": 0,
+          "locations": null,
+          "languages": [
+              "Laureano-Arvizu speaks English and Spanish."
+          ],
+          "subjects": [
+              "Violent Crime - Murders"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/0b174c32-0bf4-4cd1-8bff-e6fcf667d9e6"
+      },
+      {
+          "dates_of_birth_used": [
+              "April 7, 1984",
+              "March 26, 1986"
+          ],
+          "images": [
+              {
+                  "caption": "Photograph taken in April of 2007",
+                  "large": "https://www.fbi.gov/wanted/murders/santino-mario-garcia/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/santino-mario-garcia/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/santino-mario-garcia/@@images/image"
+              },
+              {
+                  "caption": "Photograph taken in November of 2006",
+                  "large": "https://www.fbi.gov/wanted/murders/santino-mario-garcia/garcia06.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/santino-mario-garcia/garcia06.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/santino-mario-garcia/garcia06.jpg"
+              },
+              {
+                  "caption": "Tattoos on back of head",
+                  "large": "https://www.fbi.gov/wanted/murders/santino-mario-garcia/garciatat1.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/santino-mario-garcia/garciatat1.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/santino-mario-garcia/garciatat1.jpg"
+              },
+              {
+                  "caption": "Tattoos and scar on chest",
+                  "large": "https://www.fbi.gov/wanted/murders/santino-mario-garcia/garciatat2.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/santino-mario-garcia/garciatat2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/santino-mario-garcia/garciatat2.jpg"
+              },
+              {
+                  "caption": "Tattoos on right arm",
+                  "large": "https://www.fbi.gov/wanted/murders/santino-mario-garcia/garciatat4.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/santino-mario-garcia/garciatat4.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/santino-mario-garcia/garciatat4.jpg"
+              },
+              {
+                  "caption": "Tattoo on left arm",
+                  "large": "https://www.fbi.gov/wanted/murders/santino-mario-garcia/garciatat3.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/santino-mario-garcia/garciatat3.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/santino-mario-garcia/garciatat3.jpg"
+              }
+          ],
+          "details": null,
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "hispanic",
+          "occupations": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "black",
+          "legat_names": null,
+          "modified": "2018-11-16T21:04:11+00:00",
+          "status": "na",
+          "publication": "2012-08-17T07:00:00",
+          "weight": "140 pounds",
+          "caution": "<p>Santino Mario Garcia is wanted in Sacramento County, California, for his alleged involvement in the shooting death of a man during a game of dominoes on August 26, 2007. An arrest warrant was issued for Garcia by the California Superior Court, County of Sacramento, on August 27, 2007, after he was charged with homicide. A federal arrest warrant was issued by the United States District Court, Eastern District of California, Sacramento, California, on November 27, 2007, after Garcia was charged with unlawful flight to avoid prosecution.</p>",
+          "possible_states": null,
+          "scars_and_marks": "Garcia has the following tattoos: \"Norte DPH\" on the back of his head; \"4\" on his right tricep; \"Raquel\" on his right shoulder; \"1\" on his left tricep;  and \"Daddy's little girls\" and the names \"Cecilia, Esperanza, Erica\" on his chest.  He also has a scar on the right side of his chest.",
+          "race_raw": "White (Hispanic)",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/santino-mario-garcia/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/santino-mario-garcia/santino-mario-garcia-en-espanol.pdf/@@download/file/Santino Mario García EN ESPAÑOL.pdf",
+                  "name": "EN ESPAÑOL"
+              }
+          ],
+          "field_offices": [
+              "sacramento"
+          ],
+          "nationality": "American",
+          "weight_min": 140,
+          "age_range": null,
+          "uid": "3b3c5b47-9aad-4606-b200-f6a8c355d501",
+          "eyes_raw": "Brown",
+          "height_max": 68,
+          "height_min": 68,
+          "aliases": [
+              "Estevon Carlos Ortega",
+              "Santino Garcia",
+              "Tino Garcia",
+              "\"Tino\""
+          ],
+          "reward_text": "The FBI is offering a reward of up to $20,000 for information leading directly to the arrest of Santino Mario Garcia.",
+          "description": "Unlawful Flight to Avoid Prosecution - Homicide",
+          "title": "SANTINO MARIO GARCIA",
+          "possible_countries": null,
+          "hair_raw": "Black",
+          "remarks": "<p>Garcia is a validated Del Paso Heights Norteno gang member. He has ties to Mexico and may be living there, although he is not known to speak Spanish.</p>",
+          "weight_max": 140,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/murders/santino-mario-garcia",
+          "ncic": "W113476003",
+          "eyes": "brown",
+          "sex": "Male",
+          "coordinates": [],
+          "path": "/wanted/murders/santino-mario-garcia",
+          "place_of_birth": "Sacramento, California",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Violent Crime - Murders"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/3b3c5b47-9aad-4606-b200-f6a8c355d501"
+      },
+      {
+          "dates_of_birth_used": [
+              "November 8, 1963",
+              "October 16, 1961"
+          ],
+          "images": [
+              {
+                  "caption": "Photograph taken in 1986",
+                  "large": "https://www.fbi.gov/wanted/murders/wilfredo-rodriguez/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/wilfredo-rodriguez/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/wilfredo-rodriguez/@@images/image"
+              },
+              {
+                  "caption": "Photograph taken in 1984",
+                  "large": "https://www.fbi.gov/wanted/murders/wilfredo-rodriguez/rodriguez1a.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/wilfredo-rodriguez/rodriguez1a.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/wilfredo-rodriguez/rodriguez1a.jpg"
+              },
+              {
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/murders/wilfredo-rodriguez/rodriguez1c.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/wilfredo-rodriguez/rodriguez1c.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/wilfredo-rodriguez/rodriguez1c.jpg"
+              }
+          ],
+          "details": null,
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "hispanic",
+          "occupations": [
+              "Furniture Refinisher",
+              "Laborer"
+          ],
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "legat_names": null,
+          "modified": "2018-11-16T21:02:58+00:00",
+          "status": "na",
+          "publication": "2016-10-26T09:13:00",
+          "weight": "130 pounds",
+          "caution": "<p>Wilfredo Rodriguez is wanted for his involvement in the murder of a male relative.  On June 7, 1983, Rodriguez allegedly stabbed the man seventeen times in Irvington, New Jersey, after the two had an argument.  Rodriguez was subsequently arrested for this crime, stood trial, was found guilty of murder, and was sentenced to life in prison.  Rodriguez was released on bail pending appeal of his conviction but, when the appeal was denied, Rodriguez failed to surrender for confinement.  A bench warrant was issued for his arrest on October 6, 1987, in Essex County by the Superior Court of New Jersey.  On May 5, 1988, a federal arrest warrant for Rodriguez was issued by the United States District Court, District of New Jersey, Newark, New Jersey, after he was charged with unlawful flight to avoid prosecution.</p>",
+          "possible_states": null,
+          "scars_and_marks": "Rodriguez has a tattoo on his upper right arm.",
+          "race_raw": "White (Hispanic)",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/wilfredo-rodriguez/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/wilfredo-rodriguez/wilfredo-rodriguez-en-espanol.pdf/@@download/file/Wilfredo Rodríguez EN ESPAÑOL.pdf",
+                  "name": "EN ESPAÑOL"
+              }
+          ],
+          "field_offices": [
+              "newark"
+          ],
+          "nationality": null,
+          "weight_min": 130,
+          "age_range": null,
+          "uid": "4172fdcd15e64912970fec538cf5ee7c",
+          "eyes_raw": "Brown",
+          "height_max": 68,
+          "height_min": 68,
+          "aliases": [
+              "Wilfredo Rodriquez",
+              "Rodriguez Santana",
+              "Wilfredo Rodriguez Santana",
+              "Chari Wilfredo",
+              "Roberto Ortiz"
+          ],
+          "reward_text": null,
+          "description": "Unlawful Flight to Avoid Prosecution - Murder, Fourth Degree Unlawful Possession of a Weapon, Third Degree Possession of a Weapon for an Unlawful Purpose, Third Degree Hindering Apprehension",
+          "title": "WILFREDO RODRIGUEZ",
+          "possible_countries": null,
+          "hair_raw": "Dark Brown",
+          "remarks": "<p>Rodriguez is known to have a violent temper and has been known to possess a knife in the past.  He has ties to Mexico, Puerto Rico, and California.</p>",
+          "weight_max": 130,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/murders/wilfredo-rodriguez",
+          "ncic": "W483956759",
+          "eyes": "brown",
+          "sex": "Male",
+          "coordinates": [],
+          "path": "/wanted/murders/wilfredo-rodriguez",
+          "place_of_birth": "Lajas, Puerto Rico",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Violent Crime - Murders"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/4172fdcd15e64912970fec538cf5ee7c"
+      },
+      {
+          "dates_of_birth_used": [
+              "October 5, 1954",
+              "November 10, 1954"
+          ],
+          "images": [
+              {
+                  "caption": "Photograph taken in 1988",
+                  "large": "https://www.fbi.gov/wanted/murders/placido-molina/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/placido-molina/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/placido-molina/@@images/image"
+              }
+          ],
+          "details": null,
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "hispanic",
+          "occupations": [
+              "Unknown"
+          ],
+          "suspects": null,
+          "age_min": null,
+          "hair": "black",
+          "legat_names": null,
+          "modified": "2018-11-16T20:27:50+00:00",
+          "status": "na",
+          "publication": "2010-09-01T02:25:00",
+          "weight": "215 pounds",
+          "caution": "<p>On July 21, 1988, Placido Molina allegedly entered an East Los Angeles bar and shot a man twice in the head, killing him instantly. A state arrest warrant was issued in Los Angeles, California, on July 21, 1988, after Molina was charged with murder. He was charged federally with unlawful flight to avoid prosecution, and an arrest warrant was issued by the United States District Court, Central District of California, on January 25, 1989.</p>",
+          "possible_states": [
+              "US-CA"
+          ],
+          "scars_and_marks": "Molina has a scar on his left hand.",
+          "race_raw": "White (Hispanic)",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/placido-molina/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/placido-molina/placido-molina-en-espanol.pdf/@@download/file/Placido Molina EN ESPAÑOL.pdf",
+                  "name": "EN ESPAÑOL"
+              }
+          ],
+          "field_offices": [
+              "losangeles"
+          ],
+          "nationality": "Mexican",
+          "weight_min": 215,
+          "age_range": null,
+          "uid": "0e5cc53fdf8ca461b1197a01763a3fb9",
+          "eyes_raw": "Brown",
+          "height_max": 68,
+          "height_min": 68,
+          "aliases": [
+              "Placido Molina Colchado",
+              "Plasido Molina",
+              "Plasido Molina-Colchado",
+              "Roberto Molina"
+          ],
+          "reward_text": "The FBI is offering a reward for information leading to the arrest of Placido Molina.",
+          "description": "Unlawful Flight to Avoid Prosecution - Murder",
+          "title": "PLACIDO MOLINA",
+          "possible_countries": [
+              "MEX",
+              "USA"
+          ],
+          "hair_raw": "Black",
+          "remarks": null,
+          "weight_max": 215,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/murders/placido-molina",
+          "ncic": "W315963960",
+          "eyes": "brown",
+          "sex": "Male",
+          "coordinates": [],
+          "path": "/wanted/murders/placido-molina",
+          "place_of_birth": "Mexico",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Violent Crime - Murders"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/0e5cc53fdf8ca461b1197a01763a3fb9"
+      },
+      {
+          "dates_of_birth_used": [
+              "October 9, 1988",
+              "October 9, 1987"
+          ],
+          "images": [
+              {
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/murders/jose-eduardo-rojo-rivera/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/jose-eduardo-rojo-rivera/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/jose-eduardo-rojo-rivera/@@images/image"
+              }
+          ],
+          "details": null,
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "hispanic",
+          "occupations": [
+              "Unknown"
+          ],
+          "suspects": null,
+          "age_min": null,
+          "hair": "black",
+          "legat_names": null,
+          "modified": "2018-11-16T19:49:16+00:00",
+          "status": "na",
+          "publication": "2010-09-01T06:10:00",
+          "weight": "160 pounds",
+          "caution": "<p>Jose Eduardo Rojo-Rivera is wanted for his alleged involvement in the murder of a man in Sacramento, California. On June 24, 2006, law enforcement authorities found the victim with a small caliber gunshot wound to his head. Rojo-Rivera was charged with one count of murder in a warrant issued by the Sacramento Police Department on July 3, 2006. A federal arrest warrant was issued on July 18, 2006, in the United States District Court, Eastern District of California, Sacramento, California, after Rojo-Rivera was charged with unlawful flight to avoid prosecution.</p>",
+          "possible_states": [
+              "US-CA"
+          ],
+          "scars_and_marks": "None known",
+          "race_raw": "White (Hispanic)",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/jose-eduardo-rojo-rivera/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/jose-eduardo-rojo-rivera/jose-eduardo-rojo-rivera-en-espanol.pdf/@@download/file/José Eduardo Rojo Rivera EN ESPAÑOL.pdf",
+                  "name": "EN ESPAÑOL"
+              }
+          ],
+          "field_offices": [
+              "sacramento"
+          ],
+          "nationality": "Mexican",
+          "weight_min": 160,
+          "age_range": null,
+          "uid": "1c75c36f5815db2767a4001b623fc5b7",
+          "eyes_raw": "Brown",
+          "height_max": 69,
+          "height_min": 69,
+          "aliases": [
+              "\"Gordo\""
+          ],
+          "reward_text": null,
+          "description": "Unlawful Flight to Avoid Prosecution - Murder",
+          "title": "JOSE EDUARDO ROJO-RIVERA",
+          "possible_countries": [
+              "MEX",
+              "USA"
+          ],
+          "hair_raw": "Black",
+          "remarks": "<p>Rojo-Rivera has ties to Mexico and may be living there. At the time of the crime, he may have been in the United States illegally.</p>",
+          "weight_max": 160,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/murders/jose-eduardo-rojo-rivera",
+          "ncic": "W570797595",
+          "eyes": "brown",
+          "sex": "Male",
+          "coordinates": [],
+          "path": "/wanted/murders/jose-eduardo-rojo-rivera",
+          "place_of_birth": "Mexico",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Violent Crime - Murders"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/1c75c36f5815db2767a4001b623fc5b7"
+      },
+      {
+          "dates_of_birth_used": [
+              "August 9, 1982",
+              "August 7, 1982",
+              "August 8, 1980",
+              "January 15, 1982"
+          ],
+          "images": [
+              {
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/murders/hugo-daniel-santos/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/hugo-daniel-santos/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/hugo-daniel-santos/@@images/image"
+              }
+          ],
+          "details": null,
+          "warning_message": "SHOULD BE CONSIDERED AN ESCAPE RISK",
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "hispanic",
+          "occupations": [
+              "Construction Worker and Scaffolding Management"
+          ],
+          "suspects": null,
+          "age_min": null,
+          "hair": "black",
+          "legat_names": null,
+          "modified": "2018-11-16T19:47:48+00:00",
+          "status": "na",
+          "publication": "2010-09-01T01:00:00",
+          "weight": "180 pounds",
+          "caution": "<p>Hugo Daniel Santos is wanted for his alleged involvement in the murder of a man in Baltimore County, Maryland. It is alleged that Santos and the victim had an argument in a car, after which Santos shot the victim and pushed him out of the car onto the roadway. The victim's body was found on December 28, 2008. On December 30, 2008, the Baltimore County Police Department obtained an arrest warrant for Santos after he was charged with first degree murder and handgun violation. This warrant was issued from the District Court of Maryland for Baltimore County. On January 5, 2009, a federal arrest warrant was obtained from the United States District Court, Baltimore, Maryland, and Santos was charged with unlawful flight to avoid prosecution.</p>",
+          "possible_states": [
+              "US-MD"
+          ],
+          "scars_and_marks": "None known",
+          "race_raw": "White (Hispanic)",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/hugo-daniel-santos/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/hugo-daniel-santos/hugo-daniel-santos-en-espanol.pdf/@@download/file/Hugo Daniel Santos EN ESPAÑOL.pdf",
+                  "name": "EN ESPAÑOL"
+              }
+          ],
+          "field_offices": [
+              "baltimore"
+          ],
+          "nationality": "Honduran",
+          "weight_min": 180,
+          "age_range": null,
+          "uid": "cfdf01c247bdc078dead0e4edf974772",
+          "eyes_raw": "Brown",
+          "height_max": 65,
+          "height_min": 65,
+          "aliases": [
+              "Danelo Hugo Santos",
+              "Hugo Danelo Santos",
+              "Hugo D. Santos",
+              "Daniel Santos",
+              "Orellana Santos",
+              "Hugo Danilo Santos"
+          ],
+          "reward_text": null,
+          "description": "Unlawful Flight to Avoid Prosecution - First Degree Murder, Handgun Violation",
+          "title": "HUGO DANIEL SANTOS",
+          "possible_countries": [
+              "HND",
+              "USA"
+          ],
+          "hair_raw": "Black",
+          "remarks": "<p>Santos may travel to Honduras.</p>",
+          "weight_max": 180,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/murders/hugo-daniel-santos",
+          "ncic": "W045728131",
+          "eyes": "brown",
+          "sex": "Male",
+          "coordinates": [],
+          "path": "/wanted/murders/hugo-daniel-santos",
+          "place_of_birth": "Honduras",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Violent Crime - Murders"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/cfdf01c247bdc078dead0e4edf974772"
+      },
+      {
+          "dates_of_birth_used": [
+              "September 13, 1953"
+          ],
+          "images": [
+              {
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/murders/juan-dios-garza/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/juan-dios-garza/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/juan-dios-garza/@@images/image"
+              },
+              {
+                  "caption": "Photograph taken in 1979",
+                  "large": "https://www.fbi.gov/wanted/murders/juan-dios-garza/garza-3.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/juan-dios-garza/garza-3.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/juan-dios-garza/garza-3.jpg"
+              },
+              {
+                  "caption": "Image age progressed to 64 years old",
+                  "large": "https://www.fbi.gov/wanted/murders/juan-dios-garza/garzaap1.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/juan-dios-garza/garzaap1.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/juan-dios-garza/garzaap1.jpg"
+              },
+              {
+                  "caption": "Image age progressed to 64 years old",
+                  "large": "https://www.fbi.gov/wanted/murders/juan-dios-garza/garzaap4.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/juan-dios-garza/garzaap4.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/juan-dios-garza/garzaap4.jpg"
+              },
+              {
+                  "caption": "Image age progressed to 64 years old",
+                  "large": "https://www.fbi.gov/wanted/murders/juan-dios-garza/garzaap2.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/juan-dios-garza/garzaap2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/juan-dios-garza/garzaap2.jpg"
+              },
+              {
+                  "caption": "Image age progressed to 64 years old",
+                  "large": "https://www.fbi.gov/wanted/murders/juan-dios-garza/garzaap3.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/juan-dios-garza/garzaap3.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/juan-dios-garza/garzaap3.jpg"
+              },
+              {
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/murders/juan-dios-garza/garza-1.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/juan-dios-garza/garza-1.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/juan-dios-garza/garza-1.jpg"
+              }
+          ],
+          "details": null,
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "hispanic",
+          "occupations": [
+              "Migrant Farm Worker"
+          ],
+          "suspects": null,
+          "age_min": null,
+          "hair": "black",
+          "legat_names": null,
+          "modified": "2018-11-16T19:46:51+00:00",
+          "status": "na",
+          "publication": "2017-09-26T13:34:00",
+          "weight": "170 to 200 pounds",
+          "caution": "<p>Juan Dios Garza is wanted for his alleged involvement in the murder of a man in Belle Glade, Florida. On October 21, 1984, Garza allegedly shot and killed a male victim, then shot and wounded the victim's brother.</p>\r\n<p> </p>\r\n<p>Garza was charged with second degree murder and attempted second degree murder by the Circuit Court of the Fifteenth Judicial Court, Criminal Division, in and for Palm Beach County, State of Florida, and a state warrant was issued for his arrest on October 24, 1984. A federal arrest warrant was issued by the United States District Court, Southern District of Florida, Miami, Florida, on January 2, 1985, after Garza was charged federally with unlawful flight to avoid prosecution.</p>",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "race_raw": "White (Hispanic)",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/juan-dios-garza/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/juan-dios-garza/juan-dios-garza-en-espanol.pdf/@@download/file/Juan Dios Garza EN ESPAÑOL.pdf",
+                  "name": "EN ESPAÑOL"
+              }
+          ],
+          "field_offices": [
+              "miami"
+          ],
+          "nationality": null,
+          "weight_min": 170,
+          "age_range": null,
+          "uid": "2a6c741aea004b929e3870db6b609cca",
+          "eyes_raw": "Brown",
+          "height_max": 72,
+          "height_min": 67,
+          "aliases": [
+              "Juan Sauceda Garza",
+              "Juan Sauzeda Garza",
+              "Juan DeDios Garza",
+              "Juan S. Garza",
+              "Juan Dios Garza-Sauceda"
+          ],
+          "reward_text": null,
+          "description": "Unlawful Flight to Avoid Prosecution - Second Degree Murder, Attempted Second Degree Murder",
+          "title": "JUAN DIOS GARZA",
+          "possible_countries": null,
+          "hair_raw": "Black",
+          "remarks": "<p>Garza has ties to (and may travel to) Belle Glade, Florida; McAllen, Texas; Mercedes, Texas; Brownsville, Texas; and Matamoros, Mexico.</p>",
+          "weight_max": 200,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/murders/juan-dios-garza",
+          "ncic": "W579982129",
+          "eyes": "brown",
+          "sex": "Male",
+          "coordinates": [],
+          "path": "/wanted/murders/juan-dios-garza",
+          "place_of_birth": "Mexico",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Violent Crime - Murders"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/2a6c741aea004b929e3870db6b609cca"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Violent Crime - Murders"
+          ],
+          "languages": [
+              "English",
+              "French",
+              "Italian",
+              "Serbo-Croatian",
+              "Spanish"
+          ],
+          "path": "/wanted/murders/william-bradford-bishop-jr",
+          "weight_min": 180,
+          "details": null,
+          "status": "na",
+          "possible_states": null,
+          "eyes": "brown",
+          "hair": "brown",
+          "legat_names": null,
+          "eyes_raw": "Brown",
+          "field_offices": [
+              "baltimore"
+          ],
+          "weight": "180 pounds (in 1976)",
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": "<p>Bishop was, and may still be, an avid outdoorsman, camper, and hiker. He had extensive camping experience in Africa. He also enjoyed canoeing, fishing, swimming, jogging, tennis, skiing and riding motorcycles. Bishop enjoyed working out several times a week. He was also a licensed amateur pilot who learned to fly in Botswana, Africa.</p>\r\n<p> </p>\r\n<p>Bishop has an American Studies degree from Yale University and a Master's Degree in Italian from Middlebury College in Vermont. He was known to read extensively and may have kept a diary or journal. A longtime insomniac, Bishop reportedly had been under psychiatric care in the past and had used medication for depression. He drank scotch and wine and enjoyed eating peanuts and spicy food.</p>\r\n<p> </p>\r\n<p>Bishop was described as intense and self-absorbed, prone to violent outbursts, and preferred a neat and orderly environment.</p>",
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/murders/william-bradford-bishop-jr",
+          "nationality": "American",
+          "uid": "5d4f4b84f75c4ab8909f79ff859bffd0",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND EXTREMELY DANGEROUS, WITH SUICIDAL TENDENCIES",
+          "scars_and_marks": "Bishop has a six-inch vertical surgical scar on his lower back.",
+          "race": "white",
+          "hair_raw": "Brown (in 1976)",
+          "modified": "2018-11-16T19:45:13+00:00",
+          "title": "WILLIAM BRADFORD BISHOP, JR.",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/murders/william-bradford-bishop-jr/@@images/image/large",
+                  "caption": "Bust age-progressed to age 77",
+                  "original": "https://www.fbi.gov/wanted/murders/william-bradford-bishop-jr/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/murders/william-bradford-bishop-jr/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/murders/william-bradford-bishop-jr/bishop_wirerims_goatee.jpg/@@images/image/large",
+                  "caption": "Bust age-progressed to age 77",
+                  "original": "https://www.fbi.gov/wanted/murders/william-bradford-bishop-jr/bishop_wirerims_goatee.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/murders/william-bradford-bishop-jr/bishop_wirerims_goatee.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/murders/william-bradford-bishop-jr/bishop-long-hair-a.jpg/@@images/image/large",
+                  "caption": "Photograph taken circa 1970-1975",
+                  "original": "https://www.fbi.gov/wanted/murders/william-bradford-bishop-jr/bishop-long-hair-a.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/murders/william-bradford-bishop-jr/bishop-long-hair-a.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/murders/william-bradford-bishop-jr/bishop-3.jpg/@@images/image/large",
+                  "caption": "Photograph taken circa 1970-1975",
+                  "original": "https://www.fbi.gov/wanted/murders/william-bradford-bishop-jr/bishop-3.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/murders/william-bradford-bishop-jr/bishop-3.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/murders/william-bradford-bishop-jr/bishop-1.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/murders/william-bradford-bishop-jr/bishop-1.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/murders/william-bradford-bishop-jr/bishop-1.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/murders/william-bradford-bishop-jr/bishop-2.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/murders/william-bradford-bishop-jr/bishop-2.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/murders/william-bradford-bishop-jr/bishop-2.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/murders/william-bradford-bishop-jr/bishop-age-progressed-2.jpg/@@images/image/large",
+                  "caption": "Photograph age-enhanced to age 77",
+                  "original": "https://www.fbi.gov/wanted/murders/william-bradford-bishop-jr/bishop-age-progressed-2.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/murders/william-bradford-bishop-jr/bishop-age-progressed-2.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/murders/william-bradford-bishop-jr/bishop-age-progressed-1.jpg/@@images/image/large",
+                  "caption": "Photograph age-enhanced to age 77",
+                  "original": "https://www.fbi.gov/wanted/murders/william-bradford-bishop-jr/bishop-age-progressed-1.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/murders/william-bradford-bishop-jr/bishop-age-progressed-1.jpg/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": null,
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": "<p>William Bradford Bishop, Jr. is wanted for allegedly bludgeoning to death his wife (age 37), mother (age 68), and three sons (ages 5, 10 and 14) in Bethesda, Maryland, on March 1, 1976. He then allegedly transported their bodies to Columbia, North Carolina, where he buried the bodies in a shallow grave and lit them on fire.  In March of 1976, Bishop was charged locally with murder by the Montgomery County Sheriff's Office in Rockville, Maryland, and then charged federally with unlawful flight to avoid prosecution.</p>",
+          "reward_max": 0,
+          "ncic": "W904681473",
+          "aliases": [
+              "Brad Bishop",
+              "Bradford Bishop",
+              "Bradford Bishop, Jr.",
+              "W. Bradford Bishop",
+              "W. Bradford Bishop, Jr.",
+              "William Bradford Bishop",
+              "William Bradford Bishopp"
+          ],
+          "height_max": null,
+          "dates_of_birth_used": [
+              "August 1, 1936"
+          ],
+          "height_min": null,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/william-bradford-bishop-jr/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/william-bradford-bishop-jr/bishopwantedfrench.pdf/@@download/file/bishopwantedfrench.pdf",
+                  "name": "EN FRANÇAIS"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/william-bradford-bishop-jr/bishopwanteditalian.pdf/@@download/file/bishopwanteditalian.pdf",
+                  "name": "IN ITALIANO"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/william-bradford-bishop-jr/william-bradford-bishop-jr-en-espanol.pdf/@@download/file/William Bradford Bishop, Jr. EN ESPAÑOL.pdf",
+                  "name": "EN ESPAÑOL"
+              }
+          ],
+          "occupations": [
+              "United States Government Foreign Service Officer (in 1976)"
+          ],
+          "publication": "2014-02-26T07:00:00",
+          "description": "Unlawful Flight to Avoid Prosecution - Murder With a Blunt Instrument",
+          "race_raw": "White",
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": "Pasadena, California",
+          "reward_min": 0,
+          "weight_max": 1976,
+          "sex": "Male",
+          "@id": "https://api.fbi.gov/@wanted-person/5d4f4b84f75c4ab8909f79ff859bffd0"
+      }
+  ],
+  "page": 29
+}

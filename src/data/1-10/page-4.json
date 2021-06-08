@@ -1,0 +1,1639 @@
+{
+  "total": 1003,
+  "items": [
+      {
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/seeking-info/medardo-gutierrez-lopez/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/seeking-info/medardo-gutierrez-lopez/gutierrez-lopez_spanish_4-19-2021-1.pdf/@@download/file/Gutierrez-Lopez_Spanish_4-19-2021-1.pdf",
+                  "name": "EN ESPAÑOL"
+              }
+          ],
+          "age_range": null,
+          "uid": "9459a4a1ae564f75a6747866f02bf118",
+          "weight": null,
+          "occupations": null,
+          "field_offices": [
+              "albuquerque"
+          ],
+          "locations": null,
+          "reward_text": null,
+          "hair": null,
+          "ncic": null,
+          "dates_of_birth_used": [
+              "June 8, 1989"
+          ],
+          "caution": null,
+          "nationality": "Mexican",
+          "age_min": null,
+          "age_max": null,
+          "scars_and_marks": null,
+          "subjects": [
+              "Seeking Information",
+              "Indian Country"
+          ],
+          "aliases": null,
+          "race_raw": "White (Hispanic)",
+          "suspects": null,
+          "publication": "2021-04-14T12:24:00",
+          "title": "MEDARDO GUTIERREZ-LOPEZ",
+          "coordinates": [],
+          "hair_raw": null,
+          "languages": null,
+          "complexion": null,
+          "build": null,
+          "details": "<p>The Federal Bureau of Investigation's Albuquerque Field Office is asking for the public's assistance in identifying the circumstances surrounding the death of Medardo Gutierrez-Lopez, a citizen of Mexico. <br /> <br />On July 6, 2020, Gutierrez-Lopez was found deceased near the frontage road north of Interstate 40 and east of Exit 33 in Fort Wingate, New Mexico, on the Navajo Nation. The cause of death is undetermined.</p>",
+          "status": "na",
+          "legat_names": null,
+          "eyes": null,
+          "person_classification": "Main",
+          "description": "Unknown Cause of Death\r\nFort Wingate, New Mexico\r\nJuly 6, 2020",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/medardo-gutierrez-lopez/@@images/image/large",
+                  "caption": "Photograph taken in 2019",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/medardo-gutierrez-lopez/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/medardo-gutierrez-lopez/@@images/image"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/medardo-gutierrez-lopez/lopez-2.png/@@images/image/large",
+                  "caption": "Photograph taken in 2018",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/medardo-gutierrez-lopez/lopez-2.png/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/medardo-gutierrez-lopez/lopez-2.png"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/medardo-gutierrez-lopez/lopez-3.png/@@images/image/large",
+                  "caption": "Photograph taken in 2019",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/medardo-gutierrez-lopez/lopez-3.png/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/medardo-gutierrez-lopez/lopez-3.png"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/medardo-gutierrez-lopez/lopez-4.png/@@images/image/large",
+                  "caption": "",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/medardo-gutierrez-lopez/lopez-4.png/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/medardo-gutierrez-lopez/lopez-4.png"
+              }
+          ],
+          "possible_countries": null,
+          "weight_min": null,
+          "additional_information": null,
+          "remarks": null,
+          "path": "/wanted/seeking-info/medardo-gutierrez-lopez",
+          "sex": "Male",
+          "eyes_raw": null,
+          "weight_max": null,
+          "reward_min": 0,
+          "url": "https://www.fbi.gov/wanted/seeking-info/medardo-gutierrez-lopez",
+          "possible_states": null,
+          "modified": "2021-04-26T14:22:45+00:00",
+          "reward_max": 0,
+          "race": "hispanic",
+          "height_max": null,
+          "place_of_birth": "Oaxaca, Mexico",
+          "height_min": null,
+          "warning_message": null,
+          "@id": "https://api.fbi.gov/@wanted-person/9459a4a1ae564f75a6747866f02bf118"
+      },
+      {
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/kidnap/khadijah-rose-britton/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "age_range": null,
+          "uid": "526a99e838eb48b581bde31de9130dbd",
+          "weight": "159 pounds",
+          "occupations": null,
+          "field_offices": [
+              "sanfrancisco"
+          ],
+          "locations": null,
+          "reward_text": "The FBI is offering a reward of up to $10,000 for information leading to the arrest and conviction of the subject(s) related to the disappearance of Khadijah Rose Britton.",
+          "hair": "brown",
+          "ncic": null,
+          "dates_of_birth_used": [
+              "April 22, 1994"
+          ],
+          "caution": null,
+          "nationality": null,
+          "age_min": null,
+          "age_max": null,
+          "scars_and_marks": null,
+          "subjects": [
+              "Kidnappings and Missing Persons",
+              "Indian Country"
+          ],
+          "aliases": null,
+          "race_raw": "Native American",
+          "suspects": null,
+          "publication": "2021-02-02T07:09:00",
+          "title": "KHADIJAH ROSE BRITTON",
+          "coordinates": [],
+          "hair_raw": "Brown",
+          "languages": null,
+          "complexion": null,
+          "build": null,
+          "details": "<p>The Federal Bureau of Investigation (FBI) and the Mendocino County Sheriff's Department in California are seeking any information from the public that may help to locate Khadijah Rose Britton.  She was last seen at a residence in Covelo, California, on Friday, February 8, 2018, while being forced into a car at gunpoint by her ex-boyfriend.</p>\r\n<p> </p>",
+          "status": "na",
+          "legat_names": null,
+          "eyes": "brown",
+          "person_classification": "Victim",
+          "description": "February 8, 2018\r\nCovelo, California",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/kidnap/khadijah-rose-britton/@@images/image/large",
+                  "caption": null,
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/khadijah-rose-britton/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/kidnap/khadijah-rose-britton/@@images/image"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/kidnap/khadijah-rose-britton/britton2.jpg/@@images/image/large",
+                  "caption": "",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/khadijah-rose-britton/britton2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/kidnap/khadijah-rose-britton/britton2.jpg"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/kidnap/khadijah-rose-britton/britton3.jpg/@@images/image/large",
+                  "caption": "",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/khadijah-rose-britton/britton3.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/kidnap/khadijah-rose-britton/britton3.jpg"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/kidnap/khadijah-rose-britton/britton4.jpg/@@images/image/large",
+                  "caption": "",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/khadijah-rose-britton/britton4.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/kidnap/khadijah-rose-britton/britton4.jpg"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/kidnap/khadijah-rose-britton/britton5.jpg/@@images/image/large",
+                  "caption": "",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/khadijah-rose-britton/britton5.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/kidnap/khadijah-rose-britton/britton5.jpg"
+              }
+          ],
+          "possible_countries": null,
+          "weight_min": 159,
+          "additional_information": null,
+          "remarks": null,
+          "path": "/wanted/kidnap/khadijah-rose-britton",
+          "sex": "Female",
+          "eyes_raw": "Brown",
+          "weight_max": 159,
+          "reward_min": 0,
+          "url": "https://www.fbi.gov/wanted/kidnap/khadijah-rose-britton",
+          "possible_states": null,
+          "modified": "2021-04-22T21:27:21+00:00",
+          "reward_max": 0,
+          "race": "native",
+          "height_max": 68,
+          "place_of_birth": null,
+          "height_min": 68,
+          "warning_message": null,
+          "@id": "https://api.fbi.gov/@wanted-person/526a99e838eb48b581bde31de9130dbd"
+      },
+      {
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/additional/anthony-erik-hebron/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "age_range": null,
+          "uid": "037dd180076147c0a80db2c99a3a10fe",
+          "weight": "130 pounds",
+          "occupations": null,
+          "field_offices": [
+              "baltimore",
+              "washingtondc"
+          ],
+          "locations": null,
+          "reward_text": "The FBI is offering a reward of up to $5,000 for information leading to the arrest and conviction of Anthony Erik Hebron.",
+          "hair": "black",
+          "ncic": "W503348735",
+          "dates_of_birth_used": [
+              "January 15, 1993"
+          ],
+          "caution": "<p>Anthony Erik Hebron is wanted for his alleged involvement in the conspiracy to kidnap at gunpoint an individual he and others had met at the MGM Grand Hotel &amp; Casino in National Harbor, Maryland, on February 3, 2021.  It is alleged that the victim was kidnapped at gunpoint, driven to Washington, D.C., beaten, and threatened in order to obtain information regarding the code to the safe in his hotel room.  During the abduction, the suspects allegedly stole property from the victim, including his hotel key, watch, wallet, identification, and phone.  In addition, the suspects allegedly took cash, poker chips, drugs, an Xbox, a backpack, and a suitcase from the victim’s hotel room.  The kidnappers also allegedly pointed a gun at the victim, placed a gun in the victim’s mouth, hit the victim in the face and head with a gun, and threatened to kill the victim’s family members if the victim contacted law enforcement.  The victim was safely recovered.  On March 30, 2021, a federal arrest warrant was issued for Hebron in the United States District Court, District of Maryland, Greenbelt, Maryland, after he was charged with conspiracy to commit kidnapping.</p>\r\n<p> </p>\r\n<p>This investigation was conducted by the FBI Washington Field Office’s DC Safe Streets Task Force, which is composed of FBI agents, along with detectives from the Washington Metropolitan Police Department and the Prince George’s County Police Department. The Task Force works in partnership with other federal agencies, including the United States Park Police, Bureau of Alcohol Tobacco and Firearms, Drug Enforcement Administration, Homeland Security Investigations, and U.S. Marshals Service, and is charged with investigating and bringing prosecution against the most egregious violent street gangs and crews operating in the National Capital Region. Investigative assistance in this matter was provided by the FBI Baltimore Field Office.</p>\r\n<p> </p>",
+          "nationality": "American",
+          "age_min": null,
+          "age_max": null,
+          "scars_and_marks": null,
+          "subjects": [
+              "Additional Violent Crimes"
+          ],
+          "aliases": [
+              "\"Pain\""
+          ],
+          "race_raw": "Black",
+          "suspects": null,
+          "publication": "2021-04-01T10:31:00",
+          "title": "ANTHONY ERIK HEBRON",
+          "coordinates": [],
+          "hair_raw": "Black",
+          "languages": null,
+          "complexion": null,
+          "build": null,
+          "details": null,
+          "status": "captured",
+          "legat_names": null,
+          "eyes": "brown",
+          "person_classification": "Main",
+          "description": "Conspiracy to Commit Kidnapping",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/additional/anthony-erik-hebron/@@images/image/large",
+                  "caption": null,
+                  "thumb": "https://www.fbi.gov/wanted/additional/anthony-erik-hebron/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/additional/anthony-erik-hebron/@@images/image"
+              }
+          ],
+          "possible_countries": null,
+          "weight_min": 130,
+          "additional_information": null,
+          "remarks": "<p>Hebron's last known address was in Washington, D.C.</p>",
+          "path": "/wanted/additional/anthony-erik-hebron",
+          "sex": "Male",
+          "eyes_raw": "Brown",
+          "weight_max": 130,
+          "reward_min": 0,
+          "url": "https://www.fbi.gov/wanted/additional/anthony-erik-hebron",
+          "possible_states": null,
+          "modified": "2021-04-22T21:21:29+00:00",
+          "reward_max": 0,
+          "race": "black",
+          "height_max": 67,
+          "place_of_birth": "Washington, District of Columbia",
+          "height_min": 67,
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "@id": "https://api.fbi.gov/@wanted-person/037dd180076147c0a80db2c99a3a10fe"
+      },
+      {
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/kidnap/tammy-mahoney/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "age_range": null,
+          "uid": "d19b00b9c46245a5aeb36817b908956a",
+          "weight": "130 pounds",
+          "occupations": null,
+          "field_offices": [
+              "albany"
+          ],
+          "locations": null,
+          "reward_text": "The FBI is offering a reward of up to $20,000 for information leading to the recovery of the body of Tammy Mahoney and/or the arrest and prosecution of those responsible for her death/disappearance.",
+          "hair": "brown",
+          "ncic": null,
+          "dates_of_birth_used": [
+              "August 29, 1961"
+          ],
+          "caution": null,
+          "nationality": null,
+          "age_min": null,
+          "age_max": null,
+          "scars_and_marks": null,
+          "subjects": [
+              "Kidnappings and Missing Persons",
+              "Indian Country"
+          ],
+          "aliases": null,
+          "race_raw": "White",
+          "suspects": null,
+          "publication": "2019-02-26T12:43:00",
+          "title": "TAMMY MAHONEY",
+          "coordinates": [],
+          "hair_raw": "Brown, Shoulder Length",
+          "languages": null,
+          "complexion": null,
+          "build": null,
+          "details": "<p>Tammy Mahoney was last seen on May 8, 1981, hitch-hiking on Route 46 in Oneida, Madison County, New York, near the Oneida Indian Nation Territory.  She was 19-years-old at the time of her disappearance and has not been seen since.</p>\r\n<p> </p>",
+          "status": "na",
+          "legat_names": null,
+          "eyes": "green",
+          "person_classification": "Victim",
+          "description": "Oneida, New York\r\nMay 8, 1981",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/kidnap/tammy-mahoney/@@images/image/large",
+                  "caption": null,
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/tammy-mahoney/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/kidnap/tammy-mahoney/@@images/image"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/kidnap/tammy-mahoney/mahoney2a.jpg/@@images/image/large",
+                  "caption": "",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/tammy-mahoney/mahoney2a.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/kidnap/tammy-mahoney/mahoney2a.jpg"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/kidnap/tammy-mahoney/mahoney3a.jpg/@@images/image/large",
+                  "caption": "",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/tammy-mahoney/mahoney3a.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/kidnap/tammy-mahoney/mahoney3a.jpg"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/kidnap/tammy-mahoney/mahoney4a.jpg/@@images/image/large",
+                  "caption": "",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/tammy-mahoney/mahoney4a.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/kidnap/tammy-mahoney/mahoney4a.jpg"
+              }
+          ],
+          "possible_countries": null,
+          "weight_min": 130,
+          "additional_information": null,
+          "remarks": null,
+          "path": "/wanted/kidnap/tammy-mahoney",
+          "sex": "Female",
+          "eyes_raw": "Green",
+          "weight_max": 130,
+          "reward_min": 0,
+          "url": "https://www.fbi.gov/wanted/kidnap/tammy-mahoney",
+          "possible_states": null,
+          "modified": "2021-04-22T19:56:30+00:00",
+          "reward_max": 0,
+          "race": "white",
+          "height_max": 63,
+          "place_of_birth": null,
+          "height_min": 63,
+          "warning_message": null,
+          "@id": "https://api.fbi.gov/@wanted-person/d19b00b9c46245a5aeb36817b908956a"
+      },
+      {
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/seeking-info/gunner-johnson-bailey/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "age_range": null,
+          "uid": "76ed29d2b658411f8dbdadcbe005312e",
+          "weight": null,
+          "occupations": null,
+          "field_offices": [
+              "portland"
+          ],
+          "locations": null,
+          "reward_text": "The FBI is offering a reward of up to $10,000 for information leading to the identification, arrest, and conviction of the person or people responsible for the death of Gunner Johnson Bailey.",
+          "hair": null,
+          "ncic": null,
+          "dates_of_birth_used": null,
+          "caution": null,
+          "nationality": null,
+          "age_min": null,
+          "age_max": null,
+          "scars_and_marks": null,
+          "subjects": [
+              "Seeking Information",
+              "Indian Country"
+          ],
+          "aliases": null,
+          "race_raw": null,
+          "suspects": null,
+          "publication": "2020-09-28T12:48:00",
+          "title": "GUNNER JOHNSON BAILEY",
+          "coordinates": [],
+          "hair_raw": null,
+          "languages": null,
+          "complexion": null,
+          "build": null,
+          "details": "<p>On March 17, 2019, a passerby noticed the body of Gunner Johnson Bailey about 50 feet off Tenino Road on the Warm Springs Indian Reservation in Oregon.  Bailey, age 31 at the time of his death, had been shot.  The Federal Bureau of Investigation's Portland Field Office is asking for the public's assistance in identifying the circumstances surrounding his death. </p>\r\n<p> </p>",
+          "status": "na",
+          "legat_names": null,
+          "eyes": null,
+          "person_classification": "Victim",
+          "description": "Homicide Victim\r\nWarm Springs Indian Reservation, Oregon\r\nMarch 17, 2019",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/gunner-johnson-bailey/@@images/image/large",
+                  "caption": null,
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/gunner-johnson-bailey/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/gunner-johnson-bailey/@@images/image"
+              }
+          ],
+          "possible_countries": null,
+          "weight_min": null,
+          "additional_information": null,
+          "remarks": null,
+          "path": "/wanted/seeking-info/gunner-johnson-bailey",
+          "sex": null,
+          "eyes_raw": null,
+          "weight_max": null,
+          "reward_min": 0,
+          "url": "https://www.fbi.gov/wanted/seeking-info/gunner-johnson-bailey",
+          "possible_states": null,
+          "modified": "2021-04-22T19:42:28+00:00",
+          "reward_max": 0,
+          "race": null,
+          "height_max": null,
+          "place_of_birth": null,
+          "height_min": null,
+          "warning_message": null,
+          "@id": "https://api.fbi.gov/@wanted-person/76ed29d2b658411f8dbdadcbe005312e"
+      },
+      {
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/kidnap/robert-craig-ehlert/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/kidnap/robert-craig-ehlert/elhert-spanish-4-22-2021.pdf/@@download/file/Elhert Spanish 4-22-2021.pdf",
+                  "name": "EN ESPAÑOL"
+              }
+          ],
+          "age_range": null,
+          "uid": "4c1eb3132d364884be9252f0091088d6",
+          "weight": "180 to 200 pounds",
+          "occupations": [
+              "Retired - Finance"
+          ],
+          "field_offices": [
+              "miami"
+          ],
+          "locations": null,
+          "reward_text": null,
+          "hair": "brown",
+          "ncic": null,
+          "dates_of_birth_used": [
+              "February 16, 1942"
+          ],
+          "caution": null,
+          "nationality": null,
+          "age_min": null,
+          "age_max": null,
+          "scars_and_marks": null,
+          "subjects": [
+              "Missing Persons"
+          ],
+          "aliases": null,
+          "race_raw": "White",
+          "suspects": null,
+          "publication": "2021-04-07T14:30:00",
+          "title": "ROBERT CRAIG EHLERT",
+          "coordinates": [],
+          "hair_raw": "Brown and gray",
+          "languages": null,
+          "complexion": null,
+          "build": null,
+          "details": "<p>In June of 2013, Robert “Bob” Ehlert went missing in Panama. Ehlert was living in Panama at the time and was planning on sailing on his yacht around the world. He disappeared before the trip and has not been seen or heard from since.</p>",
+          "status": "na",
+          "legat_names": null,
+          "eyes": "green",
+          "person_classification": "Main",
+          "description": "June 2013\r\nPanama",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/kidnap/robert-craig-ehlert/@@images/image/large",
+                  "caption": "Photograph taken in 2013",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/robert-craig-ehlert/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/kidnap/robert-craig-ehlert/@@images/image"
+              }
+          ],
+          "possible_countries": null,
+          "weight_min": 180,
+          "additional_information": null,
+          "remarks": "<p>Ehlert is commonly known by his nickname \"Bob\" and has previously resided in Harris, Minnesota.</p>",
+          "path": "/wanted/kidnap/robert-craig-ehlert",
+          "sex": "Male",
+          "eyes_raw": "Green",
+          "weight_max": 200,
+          "reward_min": 0,
+          "url": "https://www.fbi.gov/wanted/kidnap/robert-craig-ehlert",
+          "possible_states": null,
+          "modified": "2021-04-22T15:19:51+00:00",
+          "reward_max": 0,
+          "race": "white",
+          "height_max": 70,
+          "place_of_birth": "Minnesota",
+          "height_min": 70,
+          "warning_message": null,
+          "@id": "https://api.fbi.gov/@wanted-person/4c1eb3132d364884be9252f0091088d6"
+      },
+      {
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/seeking-info/tammy-haas/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "age_range": null,
+          "uid": "138cf24d36ba4c14bb56fa1522e9d30c",
+          "weight": "120 pounds",
+          "occupations": null,
+          "field_offices": [
+              "minneapolis"
+          ],
+          "locations": null,
+          "reward_text": "The FBI is offering a reward of up to $15,000 for information uncovering exactly how Tamara Ann Haas died.",
+          "hair": "blond",
+          "ncic": null,
+          "dates_of_birth_used": [
+              "April 13, 1973"
+          ],
+          "caution": null,
+          "nationality": null,
+          "age_min": null,
+          "age_max": null,
+          "scars_and_marks": null,
+          "subjects": [
+              "Seeking Information"
+          ],
+          "aliases": [
+              "\"Tammy\""
+          ],
+          "race_raw": "White",
+          "suspects": null,
+          "publication": "2021-02-16T08:31:00",
+          "title": "TAMARA ANN HAAS",
+          "coordinates": [],
+          "hair_raw": "Blonde",
+          "languages": null,
+          "complexion": null,
+          "build": null,
+          "details": "<p>The FBI's Minneapolis Field Office is asking for the public's assistance in helping law enforcement piece together the events that led to Tamara Ann Haas' death.</p>\r\n<p>Haas, who resided in Yankton, South Dakota, attended a party in Crofton, Nebraska, on September 17, 1992. She did not return home that night. Several days later, Haas' body was found in a ditch near the location of the party.</p>\r\n<p>An autopsy revealed Haas' death was caused by hyperflexation of her neck. Haas was 19 years old at the time of her death.</p>",
+          "status": "na",
+          "legat_names": null,
+          "eyes": "brown",
+          "person_classification": "Main",
+          "description": "Unexplained Death\r\nCrofton, Nebraska\r\nSeptember 17, 1992",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/tammy-haas/@@images/image/large",
+                  "caption": "Photograph taken in 1990",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/tammy-haas/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/tammy-haas/@@images/image"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/tammy-haas/123_1002.jpeg/@@images/image/large",
+                  "caption": "Photograph taken in 1990",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/tammy-haas/123_1002.jpeg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/tammy-haas/123_1002.jpeg"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/tammy-haas/tammy-and-brothers.jpg/@@images/image/large",
+                  "caption": "",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/tammy-haas/tammy-and-brothers.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/tammy-haas/tammy-and-brothers.jpg"
+              }
+          ],
+          "possible_countries": null,
+          "weight_min": 120,
+          "additional_information": null,
+          "remarks": null,
+          "path": "/wanted/seeking-info/tammy-haas",
+          "sex": "Female",
+          "eyes_raw": "Brown",
+          "weight_max": 120,
+          "reward_min": 0,
+          "url": "https://www.fbi.gov/wanted/seeking-info/tammy-haas",
+          "possible_states": null,
+          "modified": "2021-04-22T12:28:10+00:00",
+          "reward_max": 0,
+          "race": "white",
+          "height_max": 64,
+          "place_of_birth": null,
+          "height_min": 64,
+          "warning_message": null,
+          "@id": "https://api.fbi.gov/@wanted-person/138cf24d36ba4c14bb56fa1522e9d30c"
+      },
+      {
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/counterintelligence/kwek-kee-seng/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "age_range": null,
+          "uid": "e20c819d53be494cb1157bf141382099",
+          "weight": "Approximately 150 pounds",
+          "occupations": null,
+          "field_offices": [
+              "newyork"
+          ],
+          "locations": null,
+          "reward_text": null,
+          "hair": "black",
+          "ncic": null,
+          "dates_of_birth_used": [
+              "November 19, 1959"
+          ],
+          "caution": "<p>Kwek Kee Seng is wanted for allegedly conspiring to violate the International Emergency Economic Powers Act (IEEPA) by doing business with, and providing sanctioned services to, North Korea, enabling their nuclear proliferation programs.  Kwek Kee Seng is a Singaporean national and director and shareholder of Swanseas Port Services (S) Pte Ltd, a Singapore-based shipping agency and terminal operations company.  Over several years, dating back to early 2019, Kwek Kee Seng allegedly facilitated and directed numerous petroleum oil shipments to North Korea and ship-to-ship transfers of petroleum oil to North Korean vessels, providing a critical resource for North Korean-based companies and for the North Korean government.  To do so, Kwek Kee Seng allegedly entered into several contractual agreements with other foreign actors, and conspired in a collaborative effort to launder money through the United States financial system by funneling U.S. dollars through front companies to conceal payment origins, and structuring transactions to avoid scrutiny and evade sanctions.  Additionally, in an effort to conceal the illicit activity, the North Korean shipping scheme violated several international maritime safety guidelines.  On April 23, 2021, a federal arrest warrant was issued for Kwek Kee Seng in the United States District Court, Southern District of New York, New York, New York, after he was charged with Conspiracy to Violate the International Emergency Economic Powers Act and Conspiracy to Commit International Money Laundering.</p>\r\n<p> </p>",
+          "nationality": "Singaporean",
+          "age_min": null,
+          "age_max": null,
+          "scars_and_marks": null,
+          "subjects": [
+              "Counterintelligence"
+          ],
+          "aliases": null,
+          "race_raw": "Asian",
+          "suspects": null,
+          "publication": "2021-04-08T09:12:00",
+          "title": "KWEK KEE SENG",
+          "coordinates": [],
+          "hair_raw": "Black",
+          "languages": null,
+          "complexion": null,
+          "build": null,
+          "details": null,
+          "status": "na",
+          "legat_names": null,
+          "eyes": "brown",
+          "person_classification": "Main",
+          "description": "Conspiracy to Violate the International Emergency Economic Powers Act; Conspiracy to Commit International Money Laundering",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/counterintelligence/kwek-kee-seng/@@images/image/large",
+                  "caption": null,
+                  "thumb": "https://www.fbi.gov/wanted/counterintelligence/kwek-kee-seng/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/counterintelligence/kwek-kee-seng/@@images/image"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/counterintelligence/kwek-kee-seng/kwekseng2.jpg/@@images/image/large",
+                  "caption": "",
+                  "thumb": "https://www.fbi.gov/wanted/counterintelligence/kwek-kee-seng/kwekseng2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/counterintelligence/kwek-kee-seng/kwekseng2.jpg"
+              }
+          ],
+          "possible_countries": null,
+          "weight_min": 150,
+          "additional_information": null,
+          "remarks": null,
+          "path": "/wanted/counterintelligence/kwek-kee-seng",
+          "sex": "Male",
+          "eyes_raw": "Brown",
+          "weight_max": 150,
+          "reward_min": 0,
+          "url": "https://www.fbi.gov/wanted/counterintelligence/kwek-kee-seng",
+          "possible_states": null,
+          "modified": "2021-04-21T18:39:17+00:00",
+          "reward_max": 0,
+          "race": "asian",
+          "height_max": 66,
+          "place_of_birth": "Singapore",
+          "height_min": 66,
+          "warning_message": null,
+          "@id": "https://api.fbi.gov/@wanted-person/e20c819d53be494cb1157bf141382099"
+      },
+      {
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/seeking-info/manassas-mall-shooting/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "age_range": null,
+          "uid": "902d88d5245d401d8b36e61b646e46df",
+          "weight": null,
+          "occupations": null,
+          "field_offices": [
+              "washingtondc"
+          ],
+          "locations": null,
+          "reward_text": "The FBI is offering a reward of up to $5,000 for information leading to the identification, arrest, and conviction of the individual(s) responsible for the murder of Jahmar Latravern Graves.",
+          "hair": null,
+          "ncic": null,
+          "dates_of_birth_used": null,
+          "caution": null,
+          "nationality": null,
+          "age_min": null,
+          "age_max": null,
+          "scars_and_marks": null,
+          "subjects": [
+              "Seeking Information"
+          ],
+          "aliases": null,
+          "race_raw": null,
+          "suspects": null,
+          "publication": "2021-04-20T12:51:00",
+          "title": "MANASSAS MALL SHOOTING",
+          "coordinates": [],
+          "hair_raw": null,
+          "languages": null,
+          "complexion": null,
+          "build": null,
+          "details": "<p>The FBI's Northern Virginia Safe Streets Violent Crimes Task Force is assisting the Prince William Police Department in Virginia with its investigation into the murder of Jahmar Latravern Graves.  Graves, 34, from Baltimore, Maryland, was killed, and a 22-year-old victim was wounded, in a shooting that occurred at approximately 11:15 p.m. on April 2, 2021, during an altercation in the parking lot outside the Manassas Mall in Manassas, Virginia.  </p>\r\n<p> <br />Investigators are asking for the public’s assistance in identifying two male suspects and one female suspect, as well as anyone else involved in the shooting. Surveillance video can be found at <a data-urltype=\"/view\" data-val=\"https://www.youtube.com/watch?v=85pgWyULEmE\" href=\"https://www.youtube.com/watch?v=85pgWyULEmE\" data-linktype=\"external\">https://youtu.be/85pgWyULEmE</a>.</p>\r\n<p> </p>",
+          "status": "na",
+          "legat_names": null,
+          "eyes": null,
+          "person_classification": "Main",
+          "description": "Manassas, Virginia\r\nApril 2, 2021",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/manassas-mall-shooting/@@images/image/large",
+                  "caption": null,
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/manassas-mall-shooting/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/manassas-mall-shooting/@@images/image"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/manassas-mall-shooting/wfomallshooting2.jpg/@@images/image/large",
+                  "caption": "",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/manassas-mall-shooting/wfomallshooting2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/manassas-mall-shooting/wfomallshooting2.jpg"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/manassas-mall-shooting/wfomallshooting3.jpg/@@images/image/large",
+                  "caption": "",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/manassas-mall-shooting/wfomallshooting3.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/manassas-mall-shooting/wfomallshooting3.jpg"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/manassas-mall-shooting/wfomallshooting4.jpg/@@images/image/large",
+                  "caption": "",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/manassas-mall-shooting/wfomallshooting4.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/manassas-mall-shooting/wfomallshooting4.jpg"
+              }
+          ],
+          "possible_countries": null,
+          "weight_min": null,
+          "additional_information": null,
+          "remarks": null,
+          "path": "/wanted/seeking-info/manassas-mall-shooting",
+          "sex": null,
+          "eyes_raw": null,
+          "weight_max": null,
+          "reward_min": 0,
+          "url": "https://www.fbi.gov/wanted/seeking-info/manassas-mall-shooting",
+          "possible_states": null,
+          "modified": "2021-04-20T19:32:38+00:00",
+          "reward_max": 0,
+          "race": null,
+          "height_max": null,
+          "place_of_birth": null,
+          "height_min": null,
+          "warning_message": null,
+          "@id": "https://api.fbi.gov/@wanted-person/902d88d5245d401d8b36e61b646e46df"
+      },
+      {
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/law-enforcement-assistance/justin-smith/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "age_range": null,
+          "uid": "c8dd3e4221784278ae34ba01f8069665",
+          "weight": "160 to 180 pounds",
+          "occupations": null,
+          "field_offices": [
+              "philadelphia"
+          ],
+          "locations": null,
+          "reward_text": "The FBI is offering a monetary reward for information leading directly to the arrest of Justin Smith.",
+          "hair": "black",
+          "ncic": null,
+          "dates_of_birth_used": [
+              "December 1, 1997"
+          ],
+          "caution": "<p>The FBI's Philadelphia Violent Crimes Task Force is assisting the Philadelphia Police Department in Pennsylvania with the search for Justin Smith.  Smith is wanted for murder in the death of his pregnant 21-year-old girlfriend, who disappeared on March 30, 2021, and whose body was found on April 5, 2021.  Smith is alleged to have shot the woman in the head multiple times, causing her death and the death of her unborn child.</p>\r\n<p> </p>\r\n<p>On April 9, 2021, Smith was charged with murder and related offenses in the 1st Judicial District in Philadelphia County, Pennsylvania, and a state warrant was issued for his arrest.</p>\r\n<p> </p>",
+          "nationality": "American",
+          "age_min": null,
+          "age_max": null,
+          "scars_and_marks": null,
+          "subjects": [
+              "Law Enforcement Assistance"
+          ],
+          "aliases": null,
+          "race_raw": "Black",
+          "suspects": null,
+          "publication": "2021-04-19T13:17:00",
+          "title": "JUSTIN SMITH",
+          "coordinates": [],
+          "hair_raw": "Black",
+          "languages": null,
+          "complexion": null,
+          "build": null,
+          "details": null,
+          "status": "na",
+          "legat_names": null,
+          "eyes": "brown",
+          "person_classification": "Main",
+          "description": "Murder; First Degree Murder - Unborn Child; Arson; Firearms Violations; Abuse of Corpse; Tamper with Evidence; Criminal Conspiracy",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/law-enforcement-assistance/justin-smith/@@images/image/large",
+                  "caption": "Photograph taken in 2019",
+                  "thumb": "https://www.fbi.gov/wanted/law-enforcement-assistance/justin-smith/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/law-enforcement-assistance/justin-smith/@@images/image"
+              }
+          ],
+          "possible_countries": null,
+          "weight_min": 160,
+          "additional_information": null,
+          "remarks": "<p>Smith is known to have connections to Greensboro, North Carolina, and New Castle, Delaware.  He has also been seen in the Little Haiti neighborhood of Miami, Florida, and in Atlanta, Georgia. </p>",
+          "path": "/wanted/law-enforcement-assistance/justin-smith",
+          "sex": "Male",
+          "eyes_raw": "Brown",
+          "weight_max": 180,
+          "reward_min": 0,
+          "url": "https://www.fbi.gov/wanted/law-enforcement-assistance/justin-smith",
+          "possible_states": null,
+          "modified": "2021-04-19T18:45:58+00:00",
+          "reward_max": 0,
+          "race": "black",
+          "height_max": 68,
+          "place_of_birth": "Greensboro, North Carolina",
+          "height_min": 68,
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "@id": "https://api.fbi.gov/@wanted-person/c8dd3e4221784278ae34ba01f8069665"
+      },
+      {
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/seeking-info/sabotage-of-communications-towers/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "age_range": null,
+          "uid": "7f4b72a03eae4e298578f87a0651913d",
+          "weight": null,
+          "occupations": null,
+          "field_offices": [
+              "dallas"
+          ],
+          "locations": null,
+          "reward_text": "The FBI is offering a reward of up to $5,000 for information leading to the identification, arrest and conviction of the individual(s) responsible for this crime.",
+          "hair": null,
+          "ncic": null,
+          "dates_of_birth_used": null,
+          "caution": null,
+          "nationality": null,
+          "age_min": null,
+          "age_max": null,
+          "scars_and_marks": null,
+          "subjects": [
+              "Seeking Information"
+          ],
+          "aliases": null,
+          "race_raw": null,
+          "suspects": null,
+          "publication": "2021-03-16T14:36:00",
+          "title": "SABOTAGE OF COMMUNICATIONS TOWERS",
+          "coordinates": [],
+          "hair_raw": null,
+          "languages": null,
+          "complexion": null,
+          "build": null,
+          "details": "<p>In the pre-dawn hours of Friday, December 18, 2020, an unknown person or persons seriously damaged two communication towers in Wichita Falls, Texas, by cutting several of the wires that support the structures. One 500-foot-tall tower collapsed to the ground at its location in the 3700 block of Arena Road. The second tower at Seymour Highway did not collapse, but the damage required evacuation of a nearby business. Investigators believe that if the 1,200-foot-tall tower had collapsed on the business or highway, serious bodily injuries and fatalities could have resulted.</p>",
+          "status": "na",
+          "legat_names": null,
+          "eyes": null,
+          "person_classification": "Main",
+          "description": "Wichita Falls, Texas\r\nDecember 18, 2020",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/sabotage-of-communications-towers/@@images/image/large",
+                  "caption": null,
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/sabotage-of-communications-towers/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/sabotage-of-communications-towers/@@images/image"
+              }
+          ],
+          "possible_countries": null,
+          "weight_min": null,
+          "additional_information": null,
+          "remarks": null,
+          "path": "/wanted/seeking-info/sabotage-of-communications-towers",
+          "sex": null,
+          "eyes_raw": null,
+          "weight_max": null,
+          "reward_min": 0,
+          "url": "https://www.fbi.gov/wanted/seeking-info/sabotage-of-communications-towers",
+          "possible_states": null,
+          "modified": "2021-04-19T15:35:50+00:00",
+          "reward_max": 0,
+          "race": null,
+          "height_max": null,
+          "place_of_birth": null,
+          "height_min": null,
+          "warning_message": null,
+          "@id": "https://api.fbi.gov/@wanted-person/7f4b72a03eae4e298578f87a0651913d"
+      },
+      {
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/seeking-info/bank-burglary---minneapolis/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "age_range": null,
+          "uid": "d82c238e8e2947cf86ae01e95a8d6a85",
+          "weight": null,
+          "occupations": null,
+          "field_offices": [
+              "minneapolis"
+          ],
+          "locations": null,
+          "reward_text": "Reward money may be available.",
+          "hair": null,
+          "ncic": null,
+          "dates_of_birth_used": null,
+          "caution": null,
+          "nationality": null,
+          "age_min": null,
+          "age_max": null,
+          "scars_and_marks": null,
+          "subjects": [
+              "Seeking Information"
+          ],
+          "aliases": null,
+          "race_raw": null,
+          "suspects": null,
+          "publication": "2021-04-16T10:29:00",
+          "title": "BANK BURGLARY - MINNEAPOLIS",
+          "coordinates": [],
+          "hair_raw": null,
+          "languages": null,
+          "complexion": null,
+          "build": null,
+          "details": "<p>The Federal Bureau of Investigation's Minneapolis Field Office is seeking the public's assistance in identifying the individuals responsible for a bank burglary that occurred the night of Sunday, April 11, 2021, at the Wells Fargo Bank located at 8460 Zane Avenue in Brooklyn Park, Minnesota.</p>",
+          "status": "na",
+          "legat_names": null,
+          "eyes": null,
+          "person_classification": "Main",
+          "description": "Brooklyn Park, Minnesota\r\nApril 11, 2021",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/bank-burglary---minneapolis/@@images/image/large",
+                  "caption": null,
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/bank-burglary---minneapolis/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/bank-burglary---minneapolis/@@images/image"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/bank-burglary---minneapolis/mp-br-2.png/@@images/image/large",
+                  "caption": "",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/bank-burglary---minneapolis/mp-br-2.png/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/bank-burglary---minneapolis/mp-br-2.png"
+              }
+          ],
+          "possible_countries": null,
+          "weight_min": null,
+          "additional_information": null,
+          "remarks": null,
+          "path": "/wanted/seeking-info/bank-burglary---minneapolis",
+          "sex": null,
+          "eyes_raw": null,
+          "weight_max": null,
+          "reward_min": 0,
+          "url": "https://www.fbi.gov/wanted/seeking-info/bank-burglary---minneapolis",
+          "possible_states": null,
+          "modified": "2021-04-16T16:55:13+00:00",
+          "reward_max": 0,
+          "race": null,
+          "height_max": null,
+          "place_of_birth": null,
+          "height_min": null,
+          "warning_message": null,
+          "@id": "https://api.fbi.gov/@wanted-person/d82c238e8e2947cf86ae01e95a8d6a85"
+      },
+      {
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/vicap/homicides-and-sexual-assaults/unknown-suspect---long-beach-california/vicap-alert-2021-04-09.pdf",
+                  "name": "English"
+              }
+          ],
+          "age_range": "Late 40s to early 50s",
+          "uid": "4ce12b102fc4485da75a95b1e1de2f47",
+          "weight": "170 to 180 pounds",
+          "occupations": null,
+          "field_offices": null,
+          "locations": null,
+          "reward_text": null,
+          "hair": null,
+          "ncic": null,
+          "dates_of_birth_used": null,
+          "caution": null,
+          "nationality": null,
+          "age_min": 40,
+          "age_max": 50,
+          "scars_and_marks": null,
+          "subjects": [
+              "ViCAP Homicides and Sexual Assaults"
+          ],
+          "aliases": null,
+          "race_raw": "White or White (Hispanic)",
+          "suspects": null,
+          "publication": "2021-04-16T10:55:00",
+          "title": "UNKNOWN SUSPECT - LONG BEACH, CALIFORNIA",
+          "coordinates": [],
+          "hair_raw": null,
+          "languages": null,
+          "complexion": null,
+          "build": "Medium",
+          "details": "<p>On Saturday, July 21, 2018, at approximately 4:20 p.m., the body of Frederick Taft, a 57-year-old Black male, was discovered inside the men's restroom on the west side of the Pan American Park in Long Beach, California. Taft had been attending a family picnic at the park. He had been shot multiple times in the torso, back, and head.</p>\r\n<p>The suspect was described as a White or White (Hispanic) male in his late 40s to early 50s. Multiple witnesses observed the unknown suspect fleeing the men's restroom immediately after the gunshots were heard, concealing what appeared to be a rifle-type firearm.</p>\r\n<p>Taft's homicide is still unsolved. Anyone with information is urged to contact the Long Beach Police Department.</p>",
+          "status": "na",
+          "legat_names": null,
+          "eyes": null,
+          "person_classification": "Main",
+          "description": "Homicide\r\nJuly 21, 2018\r\nLong Beach, California",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/vicap/homicides-and-sexual-assaults/unknown-suspect---long-beach-california/@@images/image/large",
+                  "caption": null,
+                  "thumb": "https://www.fbi.gov/wanted/vicap/homicides-and-sexual-assaults/unknown-suspect---long-beach-california/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/vicap/homicides-and-sexual-assaults/unknown-suspect---long-beach-california/@@images/image"
+              }
+          ],
+          "possible_countries": null,
+          "weight_min": 170,
+          "additional_information": null,
+          "remarks": "<p>The unknown suspect wore a long-sleeved, button-down, white linen shirt, khaki-colored cargo shots, and a soft, cotton-style fishing hat. He had a round chin and face.</p>",
+          "path": "/wanted/vicap/homicides-and-sexual-assaults/unknown-suspect---long-beach-california",
+          "sex": "Male",
+          "eyes_raw": null,
+          "weight_max": 180,
+          "reward_min": 0,
+          "url": "https://www.fbi.gov/wanted/vicap/homicides-and-sexual-assaults/unknown-suspect---long-beach-california",
+          "possible_states": null,
+          "modified": "2021-04-16T16:07:47+00:00",
+          "reward_max": 0,
+          "race": "hispanic",
+          "height_max": 70,
+          "place_of_birth": null,
+          "height_min": 67,
+          "warning_message": null,
+          "@id": "https://api.fbi.gov/@wanted-person/4ce12b102fc4485da75a95b1e1de2f47"
+      },
+      {
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/seeking-info/zachariah-juwaun-shorty/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/seeking-info/zachariah-juwaun-shorty/shorty-navajo-3-2-2021.pdf/@@download/file/Shorty Navajo 3-2-2021.pdf",
+                  "name": "DINÉ BIZAAD K’EHGO"
+              }
+          ],
+          "age_range": null,
+          "uid": "f042ad53ce1c4b68ab820440a9529c67",
+          "weight": "130 pounds",
+          "occupations": null,
+          "field_offices": [
+              "albuquerque"
+          ],
+          "locations": null,
+          "reward_text": "The FBI is offering a reward of up to $5,000 for information leading to the identification, arrest, and conviction of the individual(s) responsible for the death of Zachariah Juwaun Shorty.",
+          "hair": "black",
+          "ncic": null,
+          "dates_of_birth_used": [
+              "May 5, 1997"
+          ],
+          "caution": null,
+          "nationality": null,
+          "age_min": null,
+          "age_max": null,
+          "scars_and_marks": "Shorty has the following tattoos: the words \"Indian Outlaw\" on his left arm, the word \"Numb\" on his left hand, and the word \"Blessed\" on his right arm.",
+          "subjects": [
+              "Seeking Information",
+              "Indian Country",
+              "Navajo"
+          ],
+          "aliases": null,
+          "race_raw": "Native American",
+          "suspects": null,
+          "publication": "2021-02-05T08:51:00",
+          "title": "ZACHARIAH JUWAUN SHORTY",
+          "coordinates": [],
+          "hair_raw": "Black",
+          "languages": null,
+          "complexion": null,
+          "build": null,
+          "details": "<p>The Federal Bureau of Investigation's Albuquerque Field Office is asking for the public's assistance in identifying the person(s) responsible for the homicide of Zachariah Juwaun Shorty.</p>\r\n<p> </p>\r\n<p>On July 25, 2020, Shorty was found deceased on a dirt pathway in a field in Nenahnezad, New Mexico, on the Navajo Nation. The cause of death was gunshot wounds.</p>\r\n<p> </p>\r\n<p>He was last seen on July 21, 2020, in the area of the Journey Inn in Farmington, New Mexico.</p>",
+          "status": "na",
+          "legat_names": null,
+          "eyes": "brown",
+          "person_classification": "Main",
+          "description": "Homicide Victim\r\nNenahnezad, New Mexico\r\nJuly 25, 2020",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/zachariah-juwaun-shorty/@@images/image/large",
+                  "caption": "Photograph taken in 2019",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/zachariah-juwaun-shorty/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/zachariah-juwaun-shorty/@@images/image"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/zachariah-juwaun-shorty/3.png/@@images/image/large",
+                  "caption": "",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/zachariah-juwaun-shorty/3.png/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/zachariah-juwaun-shorty/3.png"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/zachariah-juwaun-shorty/4.jpg/@@images/image/large",
+                  "caption": "",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/zachariah-juwaun-shorty/4.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/zachariah-juwaun-shorty/4.jpg"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/zachariah-juwaun-shorty/1.jpg/@@images/image/large",
+                  "caption": "",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/zachariah-juwaun-shorty/1.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/zachariah-juwaun-shorty/1.jpg"
+              }
+          ],
+          "possible_countries": null,
+          "weight_min": 130,
+          "additional_information": null,
+          "remarks": "<p>Shorty lived in Kirtland, New Mexico.</p>",
+          "path": "/wanted/seeking-info/zachariah-juwaun-shorty",
+          "sex": "Male",
+          "eyes_raw": "Brown",
+          "weight_max": 130,
+          "reward_min": 0,
+          "url": "https://www.fbi.gov/wanted/seeking-info/zachariah-juwaun-shorty",
+          "possible_states": null,
+          "modified": "2021-04-16T13:38:09+00:00",
+          "reward_max": 0,
+          "race": "native",
+          "height_max": 65,
+          "place_of_birth": null,
+          "height_min": 65,
+          "warning_message": null,
+          "@id": "https://api.fbi.gov/@wanted-person/f042ad53ce1c4b68ab820440a9529c67"
+      },
+      {
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/seeking-info/donnie-wade-barney/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/seeking-info/donnie-wade-barney/barney-navajo-12-4-2020.pdf/@@download/file/Barney Navajo 12-4-2020.pdf",
+                  "name": "DINÉ BIZAAD K’EHGO"
+              }
+          ],
+          "age_range": null,
+          "uid": "464b182870d54a15999b68117bda9912",
+          "weight": "180 pounds",
+          "occupations": null,
+          "field_offices": [
+              "albuquerque"
+          ],
+          "locations": null,
+          "reward_text": "The FBI is offering a reward of up to $1,000 for information leading to the arrest and conviction of the person or persons responsible for the death of Donnie Wade Barney.",
+          "hair": "black",
+          "ncic": null,
+          "dates_of_birth_used": [
+              "October 25, 1984"
+          ],
+          "caution": null,
+          "nationality": null,
+          "age_min": null,
+          "age_max": null,
+          "scars_and_marks": null,
+          "subjects": [
+              "Seeking Information",
+              "Indian Country",
+              "Navajo"
+          ],
+          "aliases": null,
+          "race_raw": "Native American",
+          "suspects": null,
+          "publication": "2018-08-01T13:12:00",
+          "title": "DONNIE WADE BARNEY",
+          "coordinates": [],
+          "hair_raw": "Black",
+          "languages": null,
+          "complexion": null,
+          "build": null,
+          "details": "<p>The Federal Bureau of Investigation's Albuquerque Field Office is asking for the public's assistance in identifying the person(s) responsible for the homicide of Donnie Wade Barney.</p>\r\n<p> </p>\r\n<p>On August 19, 2017, Barney's body was discovered inside a hogan - a traditional Navajo hut of logs and earth - on Shadow Farm Road in Rehoboth, New Mexico. An autopsy indicated Barney died from stab wounds to his torso.</p>",
+          "status": "na",
+          "legat_names": null,
+          "eyes": "brown",
+          "person_classification": "Victim",
+          "description": "Homicide Victim\r\nRehoboth, New Mexico\r\nAugust 19, 2017",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/donnie-wade-barney/@@images/image/large",
+                  "caption": "Photograph taken in 2016",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/donnie-wade-barney/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/donnie-wade-barney/@@images/image"
+              }
+          ],
+          "possible_countries": null,
+          "weight_min": 180,
+          "additional_information": null,
+          "remarks": null,
+          "path": "/wanted/seeking-info/donnie-wade-barney",
+          "sex": "Male",
+          "eyes_raw": "Brown",
+          "weight_max": 180,
+          "reward_min": 0,
+          "url": "https://www.fbi.gov/wanted/seeking-info/donnie-wade-barney",
+          "possible_states": null,
+          "modified": "2021-04-16T13:05:41+00:00",
+          "reward_max": 0,
+          "race": "native",
+          "height_max": 70,
+          "place_of_birth": null,
+          "height_min": 70,
+          "warning_message": null,
+          "@id": "https://api.fbi.gov/@wanted-person/464b182870d54a15999b68117bda9912"
+      },
+      {
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/seeking-info/alvin-yazzie-jr/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/seeking-info/alvin-yazzie-jr/yazzie-navajo-12-8-2020.pdf/@@download/file/Yazzie Navajo 12-8-2020.pdf",
+                  "name": "DINÉ BIZAAD K’EHGO"
+              }
+          ],
+          "age_range": null,
+          "uid": "9ffda1b300c4486fb6bdf25d4d57de0f",
+          "weight": "280 pounds",
+          "occupations": null,
+          "field_offices": [
+              "albuquerque"
+          ],
+          "locations": null,
+          "reward_text": "The FBI is offering a reward of up to $1,000 for information leading to the arrest and conviction of the person(s) responsible for the death of Alvin Yazzie, Jr.",
+          "hair": "black",
+          "ncic": null,
+          "dates_of_birth_used": [
+              "July 4, 1967"
+          ],
+          "caution": null,
+          "nationality": null,
+          "age_min": null,
+          "age_max": null,
+          "scars_and_marks": null,
+          "subjects": [
+              "Seeking Information",
+              "Indian Country",
+              "Navajo"
+          ],
+          "aliases": null,
+          "race_raw": "Native American",
+          "suspects": null,
+          "publication": "2018-12-19T10:04:00",
+          "title": "ALVIN YAZZIE, JR.",
+          "coordinates": [],
+          "hair_raw": "Black",
+          "languages": null,
+          "complexion": null,
+          "build": null,
+          "details": "<p>The Federal Bureau of Investigation's Albuquerque Field Office is asking for the public's assistance in identifying the person(s) responsible for the homicide of Alvin Yazzie, Jr.</p>\r\n<p> </p>\r\n<p>On July 15, 2017, Yazzie's body was discovered approximately three miles north of the Chapter House in Sanostee, New Mexico. An autopsy indicated Yazzie had suffered multiple blunt and sharp force injuries to his head.</p>\r\n<p> </p>\r\n<p>Yazzie was last seen in the company of an unidentified Native American man with whom he had a fight in a nearby residence. The man followed Yazzie outside and down a dirt road.</p>",
+          "status": "na",
+          "legat_names": null,
+          "eyes": "brown",
+          "person_classification": "Main",
+          "description": "Homicide Victim\r\nSanostee, New Mexico\r\nJuly 15, 2017",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/alvin-yazzie-jr/@@images/image/large",
+                  "caption": null,
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/alvin-yazzie-jr/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/alvin-yazzie-jr/@@images/image"
+              }
+          ],
+          "possible_countries": null,
+          "weight_min": 280,
+          "additional_information": null,
+          "remarks": null,
+          "path": "/wanted/seeking-info/alvin-yazzie-jr",
+          "sex": "Male",
+          "eyes_raw": "Brown",
+          "weight_max": 280,
+          "reward_min": 0,
+          "url": "https://www.fbi.gov/wanted/seeking-info/alvin-yazzie-jr",
+          "possible_states": null,
+          "modified": "2021-04-16T13:04:58+00:00",
+          "reward_max": 0,
+          "race": "native",
+          "height_max": 69,
+          "place_of_birth": null,
+          "height_min": 69,
+          "warning_message": null,
+          "@id": "https://api.fbi.gov/@wanted-person/9ffda1b300c4486fb6bdf25d4d57de0f"
+      },
+      {
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/seeking-info/tyrone-tytis-tallman/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/seeking-info/tyrone-tytis-tallman/tallman-navajo-12-8-2020.pdf/@@download/file/Tallman Navajo 12-8-2020.pdf",
+                  "name": "DINÉ BIZAAD K’EHGO"
+              }
+          ],
+          "age_range": null,
+          "uid": "21b3d93cf21645cfb7eca37862dfa57c",
+          "weight": "158 pounds",
+          "occupations": null,
+          "field_offices": [
+              "albuquerque"
+          ],
+          "locations": null,
+          "reward_text": "The FBI is offering a reward of up to $1,000 for information leading to the arrest and conviction of the person(s) responsible for the death of Tyrone Tytis Tallman.",
+          "hair": "black",
+          "ncic": null,
+          "dates_of_birth_used": [
+              "October 21, 1974"
+          ],
+          "caution": null,
+          "nationality": null,
+          "age_min": null,
+          "age_max": null,
+          "scars_and_marks": null,
+          "subjects": [
+              "Seeking Information",
+              "Indian Country",
+              "Navajo"
+          ],
+          "aliases": null,
+          "race_raw": "Native American",
+          "suspects": null,
+          "publication": "2018-08-17T08:36:00",
+          "title": "TYRONE TYTIS TALLMAN",
+          "coordinates": [],
+          "hair_raw": "Black",
+          "languages": null,
+          "complexion": null,
+          "build": null,
+          "details": "<p>The Federal Bureau of Investigation's Albuquerque Field Office is asking for the public's assistance in identifying the person(s) responsible for the homicide of Tyrone Tytis Tallman.</p>\r\n<p> </p>\r\n<p>On July 17, 2018, Tallman's body was discovered in a canal in Nenahnezad, New Mexico. A preliminary autopsy indicated Tallman had suffered multiple stab wounds, broken bones, and trauma to his skull.</p>\r\n<p> </p>\r\n<p>It is believed that Tallman was last seen alive on July 9, 2018.</p>",
+          "status": "na",
+          "legat_names": null,
+          "eyes": "brown",
+          "person_classification": "Victim",
+          "description": "Homicide Victim\r\nNenahnezad, New Mexico\r\nJuly 17, 2018",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/tyrone-tytis-tallman/@@images/image/large",
+                  "caption": "Photograph taken in 2016",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/tyrone-tytis-tallman/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/tyrone-tytis-tallman/@@images/image"
+              }
+          ],
+          "possible_countries": null,
+          "weight_min": 158,
+          "additional_information": null,
+          "remarks": "<p>Tallman was found wearing pants, socks with \"Girls Rule\" embroidered on them, and shoes.</p>",
+          "path": "/wanted/seeking-info/tyrone-tytis-tallman",
+          "sex": "Male",
+          "eyes_raw": "Brown",
+          "weight_max": 158,
+          "reward_min": 0,
+          "url": "https://www.fbi.gov/wanted/seeking-info/tyrone-tytis-tallman",
+          "possible_states": null,
+          "modified": "2021-04-16T13:04:31+00:00",
+          "reward_max": 0,
+          "race": "native",
+          "height_max": 68,
+          "place_of_birth": null,
+          "height_min": 68,
+          "warning_message": null,
+          "@id": "https://api.fbi.gov/@wanted-person/21b3d93cf21645cfb7eca37862dfa57c"
+      },
+      {
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/kidnap/laverda-sorrell/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/kidnap/laverda-sorrell/sorrell-navajo-6-25-2020.pdf/@@download/file/Sorrell Navajo 6-25-2020.pdf",
+                  "name": "DINÉ BIZAAD K’EHGO"
+              }
+          ],
+          "age_range": null,
+          "uid": "4c60ddafa619433f81b9e964eca57cef",
+          "weight": "110 pounds",
+          "occupations": null,
+          "field_offices": [
+              "albuquerque"
+          ],
+          "locations": null,
+          "reward_text": "The FBI is offering a reward of up to $10,000 for information leading to the identification, arrest, and conviction of the person(s) responsible for the disappearance of Laverda Sorrell.",
+          "hair": "black",
+          "ncic": null,
+          "dates_of_birth_used": [
+              "November 26, 1957"
+          ],
+          "caution": null,
+          "nationality": null,
+          "age_min": null,
+          "age_max": null,
+          "scars_and_marks": null,
+          "subjects": [
+              "Kidnappings and Missing Persons",
+              "Indian Country",
+              "Navajo"
+          ],
+          "aliases": null,
+          "race_raw": "Native American",
+          "suspects": null,
+          "publication": "2019-08-06T10:04:00",
+          "title": "LAVERDA SORRELL",
+          "coordinates": [],
+          "hair_raw": "Black",
+          "languages": null,
+          "complexion": null,
+          "build": null,
+          "details": "<p>The Federal Bureau of Investigation's Albuquerque Field Office is asking for the public's assistance in determining the whereabouts of Laverda Sorrell.</p>\r\n<p> </p>\r\n<p>Sorrell's husband reported his wife had been missing since July 4, 2002, when he dropped her off at an office in Fort Defiance, Arizona. A family member reported her missing to the Navajo Police, Window Rock District, on July 8, 2002.</p>",
+          "status": "na",
+          "legat_names": null,
+          "eyes": "brown",
+          "person_classification": "Main",
+          "description": "July 4, 2002\r\nFort Defiance, Arizona",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/kidnap/laverda-sorrell/@@images/image/large",
+                  "caption": "Photograph taken in 2001",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/laverda-sorrell/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/kidnap/laverda-sorrell/@@images/image"
+              }
+          ],
+          "possible_countries": null,
+          "weight_min": 110,
+          "additional_information": null,
+          "remarks": "<p>Sorrell wears glasses. She previously resided in Navajo, New Mexico.</p>",
+          "path": "/wanted/kidnap/laverda-sorrell",
+          "sex": "Female",
+          "eyes_raw": "Brown",
+          "weight_max": 110,
+          "reward_min": 0,
+          "url": "https://www.fbi.gov/wanted/kidnap/laverda-sorrell",
+          "possible_states": null,
+          "modified": "2021-04-16T13:04:00+00:00",
+          "reward_max": 0,
+          "race": "native",
+          "height_max": 61,
+          "place_of_birth": null,
+          "height_min": 61,
+          "warning_message": null,
+          "@id": "https://api.fbi.gov/@wanted-person/4c60ddafa619433f81b9e964eca57cef"
+      },
+      {
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/seeking-info/keith-travis-nastacio/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/seeking-info/keith-travis-nastacio/travis-navajo-12-16-2020.pdf/@@download/file/Travis Navajo 12-16-2020.pdf",
+                  "name": "DINÉ BIZAAD K’EHGO"
+              }
+          ],
+          "age_range": null,
+          "uid": "be56b23cd0714908b80a398051725c04",
+          "weight": null,
+          "occupations": null,
+          "field_offices": [
+              "albuquerque"
+          ],
+          "locations": null,
+          "reward_text": "The FBI is offering a reward of up to $5,000 for information leading to the arrest and conviction of the person(s) responsible for the death of Keith Travis Nastacio.",
+          "hair": null,
+          "ncic": null,
+          "dates_of_birth_used": null,
+          "caution": null,
+          "nationality": null,
+          "age_min": null,
+          "age_max": null,
+          "scars_and_marks": null,
+          "subjects": [
+              "Seeking Information",
+              "Indian Country",
+              "Navajo"
+          ],
+          "aliases": null,
+          "race_raw": null,
+          "suspects": null,
+          "publication": "2019-10-23T13:30:00",
+          "title": "KEITH TRAVIS NASTACIO",
+          "coordinates": [],
+          "hair_raw": null,
+          "languages": null,
+          "complexion": null,
+          "build": null,
+          "details": "<p>The Federal Bureau of Investigation's Albuquerque Field Office and the Navajo Nation Division of Public Safety in New Mexico are asking for the public's assistance in identifying the person(s) responsible for the homicide of Keith Travis Nastacio .</p>\r\n<p> </p>\r\n<p>On July 15, 2019, Nastacio's body was found in the trunk of a light-colored Dodge Avenger SXT that was discovered on fire off of Pipeline Road, in an isolated area north of Church Rock, New Mexico, on the Navajo Nation reservation. Nastacio, of Zuni, New Mexico, was 51 years old at the time of his death.</p>",
+          "status": "na",
+          "legat_names": null,
+          "eyes": null,
+          "person_classification": "Main",
+          "description": "Homicide Victim\r\nChurch Rock, New Mexico\r\nJuly 15, 2019",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/keith-travis-nastacio/@@images/image/large",
+                  "caption": null,
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/keith-travis-nastacio/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/keith-travis-nastacio/@@images/image"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/keith-travis-nastacio/car.png/@@images/image/large",
+                  "caption": "Photograph of the light-colored Dodge Avenger SXT before the incident",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/keith-travis-nastacio/car.png/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/keith-travis-nastacio/car.png"
+              }
+          ],
+          "possible_countries": null,
+          "weight_min": null,
+          "additional_information": null,
+          "remarks": null,
+          "path": "/wanted/seeking-info/keith-travis-nastacio",
+          "sex": null,
+          "eyes_raw": null,
+          "weight_max": null,
+          "reward_min": 0,
+          "url": "https://www.fbi.gov/wanted/seeking-info/keith-travis-nastacio",
+          "possible_states": null,
+          "modified": "2021-04-16T13:03:36+00:00",
+          "reward_max": 0,
+          "race": null,
+          "height_max": null,
+          "place_of_birth": null,
+          "height_min": null,
+          "warning_message": null,
+          "@id": "https://api.fbi.gov/@wanted-person/be56b23cd0714908b80a398051725c04"
+      },
+      {
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/seeking-info/james-naswood/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/seeking-info/james-naswood/naswood-navajo-5-13-2020.pdf/@@download/file/Naswood Navajo 5-13-2020.pdf",
+                  "name": "DINÉ BIZAAD K’EHGO"
+              }
+          ],
+          "age_range": null,
+          "uid": "2f52516f67084dd9b855cf6b9d9155a5",
+          "weight": null,
+          "occupations": null,
+          "field_offices": [
+              "albuquerque"
+          ],
+          "locations": null,
+          "reward_text": "The FBI is offering a reward of up to $5,000 for information leading to the identification, arrest, and conviction of the individual(s) responsible for the death of James Naswood.",
+          "hair": null,
+          "ncic": null,
+          "dates_of_birth_used": [
+              "February 28, 1971"
+          ],
+          "caution": null,
+          "nationality": null,
+          "age_min": null,
+          "age_max": null,
+          "scars_and_marks": null,
+          "subjects": [
+              "Seeking Information",
+              "Indian Country",
+              "Navajo"
+          ],
+          "aliases": null,
+          "race_raw": "Native American",
+          "suspects": null,
+          "publication": "2020-02-24T11:02:00",
+          "title": "JAMES NASWOOD",
+          "coordinates": [],
+          "hair_raw": null,
+          "languages": null,
+          "complexion": null,
+          "build": null,
+          "details": "<p>The Federal Bureau of Investigation's Albuquerque Field Office is asking for the public's assistance in identifying the person(s) responsible for the homicide of James Naswood.</p>\r\n<p> </p>\r\n<p>On November 8, 2019, at approximately 3:30 p.m., Naswood was found deceased in the front passenger seat of a red Pontiac Grand Am on New Mexico Highway 602 between mile markers 19 and 20 in Red Rock, New Mexico, on the Navajo Nation.  He was last seen at approximately 11:00 a.m. on November 7, 2019.</p>\r\n<p> </p>",
+          "status": "na",
+          "legat_names": null,
+          "eyes": null,
+          "person_classification": "Victim",
+          "description": "Homicide Victim\r\nRed Rock, New Mexico\r\nNovember 7-8, 2019",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/james-naswood/@@images/image/large",
+                  "caption": "Photograph taken in July 2019",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/james-naswood/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/james-naswood/@@images/image"
+              }
+          ],
+          "possible_countries": null,
+          "weight_min": null,
+          "additional_information": null,
+          "remarks": null,
+          "path": "/wanted/seeking-info/james-naswood",
+          "sex": "Male",
+          "eyes_raw": null,
+          "weight_max": null,
+          "reward_min": 0,
+          "url": "https://www.fbi.gov/wanted/seeking-info/james-naswood",
+          "possible_states": null,
+          "modified": "2021-04-16T13:02:43+00:00",
+          "reward_max": 0,
+          "race": "native",
+          "height_max": null,
+          "place_of_birth": null,
+          "height_min": null,
+          "warning_message": null,
+          "@id": "https://api.fbi.gov/@wanted-person/2f52516f67084dd9b855cf6b9d9155a5"
+      }
+  ],
+  "page": 4
+}

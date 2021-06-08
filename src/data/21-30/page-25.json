@@ -1,0 +1,1816 @@
+{
+  "total": 1003,
+  "items": [
+      {
+          "eyes": "brown",
+          "sex": "Male",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/murders/joel-emiliano-carranza",
+          "ncic": "W431705219",
+          "path": "/wanted/murders/joel-emiliano-carranza",
+          "locations": null,
+          "weight_min": 200,
+          "place_of_birth": "California",
+          "reward_min": 0,
+          "subjects": [
+              "Violent Crime - Murders"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "28729dd533ef4c74a5da1da21f4d17d8",
+          "eyes_raw": "Brown",
+          "height_max": 66,
+          "nationality": "American",
+          "age_range": null,
+          "height_min": 66,
+          "aliases": [
+              "Miguel Angel (Last Name Unknown)",
+              "Joel E. Carranza",
+              "Joel Carranza",
+              "Jose Angel Ochoa",
+              "Miguel Ochoa"
+          ],
+          "reward_text": "The FBI is offering a reward of up to $5,000 for information leading to the arrest of Joel Emiliano Carranza.",
+          "possible_countries": null,
+          "description": "Unlawful Flight to Avoid Prosecution - Murder",
+          "caution": "<p>Joel Emiliano Carranza is wanted for his alleged involvement in the attack of two men.  On January 1, 1999, Carranza and three accomplices allegedly jumped out of a van and attacked the two men as they were walking along a street in Campbell, California.  The attack allegedly stemmed from an altercation between one of the men who were walking and one of Carranza's relatives which occurred nearly a year earlier.  During the attack, one of the men suffered multiple stab wounds to the chest, one of which penetrated his heart and he was pronounced dead at the scene.  The other victim survived the attack.</p>\r\n<p> </p>\r\n<p>A local arrest warrant was issued for Carranza on January 6, 1999, by the Superior Court of the State of California, County of Santa Clara, Juvenile Court, wherein he was charged with murder.   A federal arrest warrant was issued for Carranza on April 14, 1999, in the United States District Court, Northern District of California, San Jose, California, wherein he was charged with unlawful flight to avoid prosecution.</p>",
+          "weight_max": 200,
+          "legat_names": null,
+          "race": "hispanic",
+          "modified": "2019-07-19T10:55:11+00:00",
+          "publication": "2018-05-21T09:47:00",
+          "weight": "200 pounds",
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": "Carranza has several tattoos on his upper right bicep of the words \"Miguel Angel\", with praying hands under the words, a small cross with a glowing halo around it under the hands, and the words \"Daddy's Boy\" under the cross.  Carranza also has a noticeable widow's peak on his hairline.",
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/murders/joel-emiliano-carranza/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/joel-emiliano-carranza/@@images/image",
+                  "caption": "Photograph taken in 2006",
+                  "large": "https://www.fbi.gov/wanted/murders/joel-emiliano-carranza/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/murders/joel-emiliano-carranza/carranza2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/joel-emiliano-carranza/carranza2.jpg",
+                  "caption": "Photograph taken in 1999",
+                  "large": "https://www.fbi.gov/wanted/murders/joel-emiliano-carranza/carranza2.jpg/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/murders/joel-emiliano-carranza/carranzadad.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/joel-emiliano-carranza/carranzadad.jpg",
+                  "caption": "Carranza's father, Emiliano, at age 58.  He is not a fugitive from the law.",
+                  "large": "https://www.fbi.gov/wanted/murders/joel-emiliano-carranza/carranzadad.jpg/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/murders/joel-emiliano-carranza/carranza3.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/joel-emiliano-carranza/carranza3.jpg",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/murders/joel-emiliano-carranza/carranza3.jpg/@@images/image/large"
+              }
+          ],
+          "remarks": "<p>Carranza is thought to be in Mexico, possible in either the Aguascalientes, Aguascalientes, or Morelia, Michoacán, areas.  He is thought to be married with at least one child, possibly a daughter. </p>\r\n<p>Carranza may be seen with his father, Emiliano Carranza, age 58, whose photograph is featured above to the far right.  Emiliano Carranza is not a fugitive from the law.</p>",
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/murders/joel-emiliano-carranza/download.pdf"
+              },
+              {
+                  "name": "EN ESPAÑOL",
+                  "url": "https://www.fbi.gov/wanted/murders/joel-emiliano-carranza/joel-emiliano-carranza-en-espanol.pdf/@@download/file/Joel Emiliano Carranza EN ESPAÑOL.pdf"
+              }
+          ],
+          "field_offices": [
+              "sanfrancisco"
+          ],
+          "coordinates": [],
+          "race_raw": "White (Hispanic)",
+          "hair_raw": "Brown",
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": [
+              "September 21, 1981 (True)",
+              "October 19, 1970",
+              "December 21, 1972"
+          ],
+          "details": null,
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS AND AN ESCAPE RISK",
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "title": "JOEL EMILIANO CARRANZA",
+          "occupations": null,
+          "@id": "https://api.fbi.gov/@wanted-person/28729dd533ef4c74a5da1da21f4d17d8"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Seeking Information"
+          ],
+          "languages": null,
+          "path": "/wanted/seeking-info/unknown-suspect-2-2",
+          "weight_min": null,
+          "details": "<p>The FBI's Salt Lake City Field Office, the U.S. Department of Health and Human Services, the U.S. Social Security Administration, and the United States Postal Inspection Service are seeking assistance from the public in identifying an individual believed to be involved in healthcare fraud.</p>\r\n<p> </p>\r\n<p>The unknown suspect and a <a data-val=\"https://www.fbi.gov/wanted/seeking-info/unknown-suspect-1-1\" href=\"https://www.fbi.gov/wanted/seeking-info/unknown-suspect-1-1\" data-linktype=\"external\" data-urltype=\"/view\">male accomplice</a> are alleged to have stolen the identities of at least 19 medical professionals from across the United States. The suspects have then allegedly used these identities to submit fraudulent claims to Medicare for high-end surgeries. These claims have been paid electronically into more than 30 bank accounts that were opened using false or stolen identities. The unknown suspects allegedly use these accounts to launder the money from one account to another, then obtain the fraudulent funds through ATM withdrawals.</p>\r\n<p> </p>\r\n<p>All of the ATM withdrawals have taken place within Broward and Miami-Dade counties in Florida.</p>",
+          "status": "na",
+          "possible_states": null,
+          "eyes": null,
+          "hair": null,
+          "legat_names": null,
+          "eyes_raw": null,
+          "field_offices": [
+              "saltlakecity"
+          ],
+          "weight": null,
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": null,
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-2-2",
+          "nationality": null,
+          "uid": "9d5e89a993a04b4a9dfcc61d7c36b789",
+          "warning_message": null,
+          "scars_and_marks": null,
+          "race": null,
+          "hair_raw": null,
+          "modified": "2019-07-18T14:59:56+00:00",
+          "title": "UNKNOWN SUSPECT",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-2-2/@@images/image/large",
+                  "caption": "Photograph taken in March 2019",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-2-2/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-2-2/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-2-2/slcfemale2.png/@@images/image/large",
+                  "caption": "Photograph taken in May 2019",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-2-2/slcfemale2.png",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-2-2/slcfemale2.png/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-2-2/slcfemale3.png/@@images/image/large",
+                  "caption": "Photograph taken in May 2019",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-2-2/slcfemale3.png",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-2-2/slcfemale3.png/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-2-2/slcfemale4.png/@@images/image/large",
+                  "caption": "Photograph taken in March 2019",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-2-2/slcfemale4.png",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-2-2/slcfemale4.png/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-2-2/slcfemale5.png/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-2-2/slcfemale5.png",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-2-2/slcfemale5.png/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-2-2/female-1-11-6-2018.png/@@images/image/large",
+                  "caption": "Photograph taken in November 2018",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-2-2/female-1-11-6-2018.png",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-2-2/female-1-11-6-2018.png/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-2-2/female-1-10-4-2018.png/@@images/image/large",
+                  "caption": "Photograph taken in October 2018",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-2-2/female-1-10-4-2018.png",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-2-2/female-1-10-4-2018.png/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-2-2/female-1-12-04-2018.png/@@images/image/large",
+                  "caption": "Photograph taken in December 2018",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-2-2/female-1-12-04-2018.png",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-2-2/female-1-12-04-2018.png/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-2-2/female-1-10-20-2018.png/@@images/image/large",
+                  "caption": "Photograph taken in October 2018",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-2-2/female-1-10-20-2018.png",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-2-2/female-1-10-20-2018.png/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": "The FBI is offering a reward of up to $2,500 for information leading directly to the identification and arrest of this unknown suspect.",
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": null,
+          "reward_max": 0,
+          "ncic": null,
+          "aliases": null,
+          "height_max": null,
+          "dates_of_birth_used": null,
+          "height_min": null,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-2-2/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "occupations": null,
+          "publication": "2019-01-28T13:29:00",
+          "description": "Healthcare Fraud; Identity Theft",
+          "race_raw": null,
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": null,
+          "reward_min": 0,
+          "weight_max": null,
+          "sex": null,
+          "@id": "https://api.fbi.gov/@wanted-person/9d5e89a993a04b4a9dfcc61d7c36b789"
+      },
+      {
+          "eyes": "brown",
+          "sex": "Male",
+          "age_max": 55,
+          "url": "https://www.fbi.gov/wanted/seeking-info/unknown-subject",
+          "ncic": null,
+          "path": "/wanted/seeking-info/unknown-subject",
+          "locations": null,
+          "weight_min": 130,
+          "place_of_birth": null,
+          "reward_min": 0,
+          "subjects": [
+              "Seeking Information"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "bbd683f0-5408-4e1e-a717-1913332a1bc3",
+          "eyes_raw": "Brown",
+          "height_max": 66,
+          "nationality": null,
+          "age_range": "Approximately 40 to 55 years old (at the time of the attacks)",
+          "height_min": 62,
+          "aliases": null,
+          "reward_text": "The FBI is offering a reward of up to $25,000 for information leading to the identity, arrest and prosecution of the person responsible for this series of sexual assaults.",
+          "possible_countries": null,
+          "description": "Serial Sexual Assault\r\nLos Angeles, California",
+          "caution": null,
+          "weight_max": 170,
+          "legat_names": null,
+          "race": "hispanic",
+          "modified": "2019-07-16T16:37:26+00:00",
+          "publication": "2013-06-27T07:00:00",
+          "weight": "Approximately 130 to 170 pounds",
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": "The unknown suspect has been described as having a tattoo of one or two teardrops under his left or right eye.  The teardrop tattoo(s) may have been removed.",
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/unknown-subject/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/unknown-subject/@@images/image",
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/seeking-info/unknown-subject/@@images/image/large"
+              }
+          ],
+          "remarks": "<p>The unknown suspect may have a mustache and a light complexion. He has worn a dark, hooded sweatshirt and a green bandana, black baseball cap or dark-colored beanie to cover his head. The unknown suspect has carried a handgun or a knife.</p>",
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/seeking-info/unknown-subject/download.pdf"
+              }
+          ],
+          "field_offices": [
+              "losangeles"
+          ],
+          "coordinates": [],
+          "race_raw": "White (Hispanic)",
+          "hair_raw": "Brown",
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": null,
+          "details": "<p>The Los Angeles Police Department and the Federal Bureau of Investigation are asking for the public's assistance in identifying an individual responsible for a series of sexual assaults in the Los Angeles, California, area.</p>\r\n<p>Between 1996 and 2012, there have been 32 similar reports of sexual assault in Los Angeles, California. These incidents have occurred in the 77th, Southwest, Newton, Wilshire, Rampart, and Southeast areas of the city. It is believed that the same suspect is responsible for all of these incidents, as well as three additional incidents being investigated by the Los Angeles County Sheriff's Department.</p>\r\n<p>The suspect typically approaches women who are alone and on their way to school or work, or are waiting at a bus stop, between the hours of 5:15 AM and 8:00 AM. The suspect converses with the victim, then threatens to kill the victim with a handgun or a knife. The suspect then forces the victim from the sidewalk to a secondary location, where he sexually assaults her.</p>",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "suspects": null,
+          "age_min": 40,
+          "hair": "brown",
+          "title": "UNKNOWN SUSPECT",
+          "occupations": null,
+          "@id": "https://api.fbi.gov/@wanted-person/bbd683f0-5408-4e1e-a717-1913332a1bc3"
+      },
+      {
+          "eyes": null,
+          "sex": null,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/seeking-info/markiya-dickson",
+          "ncic": null,
+          "path": "/wanted/seeking-info/markiya-dickson",
+          "locations": null,
+          "weight_min": null,
+          "place_of_birth": null,
+          "reward_min": 0,
+          "subjects": [
+              "Seeking Information"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "fd644d318f5e4196a2f534578420b63c",
+          "eyes_raw": null,
+          "height_max": null,
+          "nationality": null,
+          "age_range": null,
+          "height_min": null,
+          "aliases": null,
+          "reward_text": "The FBI is offering a reward of up to $20,000 for information that leads to the arrest and conviction of the individual(s) responsible for the shooting that resulted in the death of Markiya Dickson and injuries to two others.",
+          "possible_countries": null,
+          "description": "Shooting Victim\r\nRichmond, Virginia\r\nMay 26, 2019",
+          "caution": null,
+          "weight_max": null,
+          "legat_names": null,
+          "race": null,
+          "modified": "2019-07-11T17:19:41+00:00",
+          "publication": "2019-06-26T12:23:00",
+          "weight": null,
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/markiya-dickson/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/markiya-dickson/@@images/image",
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/seeking-info/markiya-dickson/@@images/image/large"
+              }
+          ],
+          "remarks": null,
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/seeking-info/markiya-dickson/download.pdf"
+              }
+          ],
+          "field_offices": [
+              "richmond"
+          ],
+          "coordinates": [],
+          "race_raw": null,
+          "hair_raw": null,
+          "complexion": null,
+          "build": null,
+          "person_classification": "Victim",
+          "dates_of_birth_used": null,
+          "details": "<p>During the evening hours of May 26, 2019, officers with the City of Richmond Police Department responded to a report of a shooting at Fonticello/Carter Jones Park located in the 2700 block of Bainbridge Street in Richmond, Virginia. Officers arrived and discovered that three individuals had been shot and were already being transported to the hospital. One of the victims, nine-year-old Markiya Dickson, died as a result of her injuries sustained during the shooting; the other two victims were treated for their injuries and have survived.</p>\r\n<p>On the evening of the shooting there were individuals playing on the ballfields, children playing on the playground, and families having cookouts were present when the gunfire erupted.</p>\r\n<p>The FBI Richmond Central Virginia Violent Crimes Task Force is committed to assisting the Richmond Police Department in its efforts by bringing to justice those responsible for Markiya’s death.</p>",
+          "warning_message": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": null,
+          "title": "MARKIYA DICKSON",
+          "occupations": null,
+          "@id": "https://api.fbi.gov/@wanted-person/fd644d318f5e4196a2f534578420b63c"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Kidnappings and Missing Persons"
+          ],
+          "languages": null,
+          "path": "/wanted/kidnap/erica-nicole-hunt",
+          "weight_min": 150,
+          "details": "<p>Erica Nicole Hunt was last seen on July 4, 2016, near a relative's house in Opelousas, Louisiana. Her roommate reported her missing on July 5, 2016, and she has not been seen or heard from since.</p>",
+          "status": "na",
+          "possible_states": null,
+          "eyes": "brown",
+          "hair": "brown",
+          "legat_names": null,
+          "eyes_raw": "Brown",
+          "field_offices": [
+              "neworleans"
+          ],
+          "weight": "150 to 167 pounds",
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": "<p>Hunt is known to smoke cigarettes and marijuana.</p>",
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/kidnap/erica-nicole-hunt",
+          "nationality": null,
+          "uid": "77de68a804434f748a01a0e5d31911ad",
+          "warning_message": null,
+          "scars_and_marks": "Hunt has the following tattoos: the word \"Nicole\" on her lower back; the word \"Breionna\" on her right wrist; and a tattoo of a Care Bear with a star on her left shoulder.",
+          "race": "black",
+          "hair_raw": "Brown",
+          "modified": "2019-07-05T11:26:17+00:00",
+          "title": "ERICA NICOLE HUNT",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/kidnap/erica-nicole-hunt/@@images/image/large",
+                  "caption": null,
+                  "original": "https://www.fbi.gov/wanted/kidnap/erica-nicole-hunt/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/erica-nicole-hunt/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/kidnap/erica-nicole-hunt/hunt2.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/kidnap/erica-nicole-hunt/hunt2.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/erica-nicole-hunt/hunt2.jpg/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": null,
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": null,
+          "reward_max": 0,
+          "ncic": null,
+          "aliases": null,
+          "height_max": 64,
+          "dates_of_birth_used": [
+              "August 14, 1995"
+          ],
+          "height_min": 62,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/kidnap/erica-nicole-hunt/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "occupations": null,
+          "publication": "2017-12-19T13:27:00",
+          "description": "July 4, 2016\r\nOpelousas, Louisiana",
+          "race_raw": "Black",
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": "Louisiana",
+          "reward_min": 0,
+          "weight_max": 167,
+          "sex": "Female",
+          "@id": "https://api.fbi.gov/@wanted-person/77de68a804434f748a01a0e5d31911ad"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Criminal Enterprise Investigations"
+          ],
+          "languages": null,
+          "path": "/wanted/cei/rico-taylor",
+          "weight_min": 150,
+          "details": null,
+          "status": "na",
+          "possible_states": null,
+          "eyes": "brown",
+          "hair": "black",
+          "legat_names": null,
+          "eyes_raw": "Brown",
+          "field_offices": [
+              "pittsburgh"
+          ],
+          "weight": "150 pounds",
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": null,
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/cei/rico-taylor",
+          "nationality": "American",
+          "uid": "f43911137234477e8b5875e108d88027",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "scars_and_marks": null,
+          "race": "black",
+          "hair_raw": "Black",
+          "modified": "2019-07-01T15:09:30+00:00",
+          "title": "RICO TAYLOR",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/cei/rico-taylor/@@images/image/large",
+                  "caption": null,
+                  "original": "https://www.fbi.gov/wanted/cei/rico-taylor/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/cei/rico-taylor/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": null,
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": "<p>Rico Taylor is wanted for his alleged involvement with narcotics trafficking in southwestern Pennsylvania from January of 2018 through June of 2019.  A federal arrest warrant was issued for Taylor in the United States District Court, Western District of Pennsylvania, Pittsburgh, Pennsylvania, on June 18, 2019, after he was charged with conspiracy to distribute and possess with intent to distribute schedule I and II controlled substances from in and around January 2018 through in and around 2019.</p>\r\n<p> </p>",
+          "reward_max": 0,
+          "ncic": "W667092591",
+          "aliases": null,
+          "height_max": 70,
+          "dates_of_birth_used": [
+              "February 11, 1985"
+          ],
+          "height_min": 70,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/cei/rico-taylor/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "occupations": null,
+          "publication": "2019-06-27T11:08:00",
+          "description": "Conspiracy to Distribute and Possess with Intent to Distribute Schedule I and II Controlled Substances From In and Around January 2018 Through In and Around 2019",
+          "race_raw": "Black",
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": "Pennsylvania",
+          "reward_min": 0,
+          "weight_max": 150,
+          "sex": "Male",
+          "@id": "https://api.fbi.gov/@wanted-person/f43911137234477e8b5875e108d88027"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Kidnappings and Missing Persons"
+          ],
+          "languages": null,
+          "path": "/wanted/kidnap/sunny-sramek",
+          "weight_min": 183,
+          "details": "<p>On April 20, 2019, Sunny Sramek left from Trenton, Nebraska, with a male individual, allegedly for a trip to Omaha, Nebraska, but has not been heard from since. Sramek was last seen wearing denim shorts and a black tank top and also had in her possession a pair of jeans and a hoodie. Sramek was last seen in a 2004 white Ford Explorer bearing Iowa license plate HGJ341.</p>",
+          "status": "na",
+          "possible_states": null,
+          "eyes": "blue",
+          "hair": "brown",
+          "legat_names": null,
+          "eyes_raw": "Blue",
+          "field_offices": [
+              "omaha"
+          ],
+          "weight": "183 pounds (At the time of her disappearance)",
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": "<p>Sramek has a tattoo on her left shoulder of a feather with the letters \"FLY\". She also has a tattoo on her right ankle of a tribal sun in red ink. Sramek has multiple scars on her body to include a rectangular scar on the back of her right shoulder; a small square-shaped scar in the middle of her upper forehead; scarring on one of her ankles and shin from a bike pedal; scars from the chicken pox on her face; a scar on her left hand at the bottom of her thumb and forefinger; and cuts on her arm.</p>",
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/kidnap/sunny-sramek",
+          "nationality": null,
+          "uid": "c65cdb487d45435a9f49a726294d2d6c",
+          "warning_message": null,
+          "scars_and_marks": null,
+          "race": "white",
+          "hair_raw": "Brown",
+          "modified": "2019-06-27T10:35:36+00:00",
+          "title": "SUNNY SRAMEK",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/kidnap/sunny-sramek/@@images/image/large",
+                  "caption": null,
+                  "original": "https://www.fbi.gov/wanted/kidnap/sunny-sramek/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/sunny-sramek/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/kidnap/sunny-sramek/sramek_-2.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/kidnap/sunny-sramek/sramek_-2.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/sunny-sramek/sramek_-2.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/kidnap/sunny-sramek/sramek-_3.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/kidnap/sunny-sramek/sramek-_3.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/sunny-sramek/sramek-_3.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/kidnap/sunny-sramek/sramek_s-4.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/kidnap/sunny-sramek/sramek_s-4.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/sunny-sramek/sramek_s-4.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/kidnap/sunny-sramek/sramek_s-5.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/kidnap/sunny-sramek/sramek_s-5.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/sunny-sramek/sramek_s-5.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/kidnap/sunny-sramek/sramek_s-6.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/kidnap/sunny-sramek/sramek_s-6.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/sunny-sramek/sramek_s-6.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/kidnap/sunny-sramek/sramek_s-7.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/kidnap/sunny-sramek/sramek_s-7.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/sunny-sramek/sramek_s-7.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/kidnap/sunny-sramek/sramek_s-8.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/kidnap/sunny-sramek/sramek_s-8.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/sunny-sramek/sramek_s-8.jpg/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": null,
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": null,
+          "reward_max": 0,
+          "ncic": null,
+          "aliases": null,
+          "height_max": 67,
+          "dates_of_birth_used": [
+              "February 23, 2001"
+          ],
+          "height_min": 67,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/kidnap/sunny-sramek/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "occupations": null,
+          "publication": "2019-06-14T08:16:00",
+          "description": "April 20, 2019\r\nTrenton, Nebraska",
+          "race_raw": "White",
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": "McCook, Nebraska",
+          "reward_min": 0,
+          "weight_max": 183,
+          "sex": "Female",
+          "@id": "https://api.fbi.gov/@wanted-person/c65cdb487d45435a9f49a726294d2d6c"
+      },
+      {
+          "eyes": "brown",
+          "sex": "Male",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/law-enforcement-assistance/jamaine-harrington",
+          "ncic": null,
+          "path": "/wanted/law-enforcement-assistance/jamaine-harrington",
+          "locations": null,
+          "weight_min": 140,
+          "place_of_birth": "February 1, 1983",
+          "reward_min": 0,
+          "subjects": [
+              "Law Enforcement Assistance"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "bfc0b90e1aa34db792e8b94fc37ea8b8",
+          "eyes_raw": "Brown",
+          "height_max": 66,
+          "nationality": null,
+          "age_range": null,
+          "height_min": 66,
+          "aliases": null,
+          "reward_text": null,
+          "possible_countries": null,
+          "description": "Murder, Attempted Murder (Three Counts)",
+          "caution": "<p>The FBI's Los Angeles Field Office is assisting the Los Angeles Police Department in California with their search for Jamaine Harrington.</p>\r\n<p> </p>\r\n<p>Harrington is wanted for his alleged involvement in the murder of a man, and the attempted murder of two other men, on December 13, 2015. At approximately 2:20 a.m., Harrington was allegedly involved in a verbal argument with a group of males during a party in front of a hotel in Los Angeles. The argument allegedly escalated into a fight. After the fight ended, Harrington allegedly pulled out a handgun and began shooting at the victims. Three male victims were shot in front of the hotel and were later transported to local hospitals, where one victim died from his injuries.</p>\r\n<p> </p>\r\n<p>On December 22, 2015, Harrington was charged with murder and three counts of attempted murder by the Superior Court of California, County of Los Angeles, and a state warrant was issued for his arrest.</p>",
+          "weight_max": 140,
+          "legat_names": null,
+          "race": "black",
+          "modified": "2019-06-23T16:01:55+00:00",
+          "publication": "2019-02-12T09:44:00",
+          "weight": "140 pounds",
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/law-enforcement-assistance/jamaine-harrington/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/law-enforcement-assistance/jamaine-harrington/@@images/image",
+                  "caption": "Photograph taken in 2014",
+                  "large": "https://www.fbi.gov/wanted/law-enforcement-assistance/jamaine-harrington/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/law-enforcement-assistance/jamaine-harrington/harrington9.png/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/law-enforcement-assistance/jamaine-harrington/harrington9.png",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/law-enforcement-assistance/jamaine-harrington/harrington9.png/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/law-enforcement-assistance/jamaine-harrington/harrington12.png/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/law-enforcement-assistance/jamaine-harrington/harrington12.png",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/law-enforcement-assistance/jamaine-harrington/harrington12.png/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/law-enforcement-assistance/jamaine-harrington/harrington3.png/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/law-enforcement-assistance/jamaine-harrington/harrington3.png",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/law-enforcement-assistance/jamaine-harrington/harrington3.png/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/law-enforcement-assistance/jamaine-harrington/harrington11.png/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/law-enforcement-assistance/jamaine-harrington/harrington11.png",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/law-enforcement-assistance/jamaine-harrington/harrington11.png/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/law-enforcement-assistance/jamaine-harrington/harrington10.png/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/law-enforcement-assistance/jamaine-harrington/harrington10.png",
+                  "caption": "Photograph taken in 2014",
+                  "large": "https://www.fbi.gov/wanted/law-enforcement-assistance/jamaine-harrington/harrington10.png/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/law-enforcement-assistance/jamaine-harrington/harrington6.png/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/law-enforcement-assistance/jamaine-harrington/harrington6.png",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/law-enforcement-assistance/jamaine-harrington/harrington6.png/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/law-enforcement-assistance/jamaine-harrington/harrington7.png/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/law-enforcement-assistance/jamaine-harrington/harrington7.png",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/law-enforcement-assistance/jamaine-harrington/harrington7.png/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/law-enforcement-assistance/jamaine-harrington/harrington1.png/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/law-enforcement-assistance/jamaine-harrington/harrington1.png",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/law-enforcement-assistance/jamaine-harrington/harrington1.png/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/law-enforcement-assistance/jamaine-harrington/harrington2.png/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/law-enforcement-assistance/jamaine-harrington/harrington2.png",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/law-enforcement-assistance/jamaine-harrington/harrington2.png/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/law-enforcement-assistance/jamaine-harrington/harrington4.png/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/law-enforcement-assistance/jamaine-harrington/harrington4.png",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/law-enforcement-assistance/jamaine-harrington/harrington4.png/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/law-enforcement-assistance/jamaine-harrington/harrington5.png/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/law-enforcement-assistance/jamaine-harrington/harrington5.png",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/law-enforcement-assistance/jamaine-harrington/harrington5.png/@@images/image/large"
+              }
+          ],
+          "remarks": "<p>Harrington is known to have worn his hair in cornrows. He may also have a black mustache.</p>\r\n<p> </p>\r\n<p>Harrington has previously resided in Los Angeles, California. He likes Chevrolet Camaros and may be a member of a car club.</p>",
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/law-enforcement-assistance/jamaine-harrington/download.pdf"
+              }
+          ],
+          "field_offices": [
+              "losangeles"
+          ],
+          "coordinates": [],
+          "race_raw": "Black",
+          "hair_raw": "Black",
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": null,
+          "details": null,
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "suspects": null,
+          "age_min": null,
+          "hair": "black",
+          "title": "JAMAINE HARRINGTON",
+          "occupations": [
+              "Auto Mechanic"
+          ],
+          "@id": "https://api.fbi.gov/@wanted-person/bfc0b90e1aa34db792e8b94fc37ea8b8"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Criminal Enterprise Investigations"
+          ],
+          "languages": null,
+          "path": "/wanted/cei/delbert-pate",
+          "weight_min": 150,
+          "details": null,
+          "status": "na",
+          "possible_states": null,
+          "eyes": "brown",
+          "hair": "black",
+          "legat_names": null,
+          "eyes_raw": "Brown",
+          "field_offices": [
+              "pittsburgh"
+          ],
+          "weight": "150 to 175 pounds",
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": null,
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/cei/delbert-pate",
+          "nationality": "American",
+          "uid": "9a95d67449c44af9b06c808fa73eacb6",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "scars_and_marks": null,
+          "race": "black",
+          "hair_raw": "Black",
+          "modified": "2019-06-19T18:36:03+00:00",
+          "title": "DELBERT PATE",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/cei/delbert-pate/@@images/image/large",
+                  "caption": null,
+                  "original": "https://www.fbi.gov/wanted/cei/delbert-pate/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/cei/delbert-pate/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": null,
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": "<p>Delbert Pate is wanted for his alleged involvement with narcotics trafficking in southwestern Pennsylvania from between August of 2018 and May of 2019.  A federal arrest warrant was issued for Pate in the United States District Court, Western District of Pennsylvania, on June 5, 2019, after he was charged with conspiracy to distribute and possess with intent to distribute 100 grams or more of a mixture and substance containing a detectable amount of heroin, and conspiracy to distribute and possess with intent to distribute 280 grams or more of a mixture and substance containing a detectable amount of cocaine base in the form commonly known as crack.</p>\r\n<p> </p>",
+          "reward_max": 0,
+          "ncic": "W256988299",
+          "aliases": [
+              "\"Melo\"",
+              "\"Mel\""
+          ],
+          "height_max": 70,
+          "dates_of_birth_used": [
+              "June 15, 1992"
+          ],
+          "height_min": 70,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/cei/delbert-pate/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "occupations": null,
+          "publication": "2019-06-19T13:30:00",
+          "description": "Conspiracy to Distribute and Possess with Intent to Distribute 100 Grams or More of a Mixture and Substance Containing a Detectable Amount of Heroin; Conspiracy to Distribute and Possess with Intent to Distribute 280 Grams or More of a Mixture and Substance Containing a Detectable Amount of Cocaine Base in the Form Commonly Known as Crack",
+          "race_raw": "Black",
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": "Pennsylvania",
+          "reward_min": 0,
+          "weight_max": 175,
+          "sex": "Male",
+          "@id": "https://api.fbi.gov/@wanted-person/9a95d67449c44af9b06c808fa73eacb6"
+      },
+      {
+          "eyes": "brown",
+          "sex": "Male",
+          "age_max": 28,
+          "url": "https://www.fbi.gov/wanted/seeking-info/ali-hawa-jamal",
+          "ncic": null,
+          "path": "/wanted/seeking-info/ali-hawa-jamal",
+          "locations": null,
+          "weight_min": 160,
+          "place_of_birth": null,
+          "reward_min": 0,
+          "subjects": [
+              "Seeking Information"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "b5bb926ccb9a4c8e8add9b74296ccec0",
+          "eyes_raw": "Light brown",
+          "height_max": 69,
+          "nationality": null,
+          "age_range": "Approximately 25 to 28 years old (at the time of the bombing)",
+          "height_min": 69,
+          "aliases": [
+              "Jamal Lya",
+              "Lya Jamal"
+          ],
+          "reward_text": null,
+          "possible_countries": null,
+          "description": "Bombing of Alas Chiricanas Airlines Flight 00901\r\nJuly 19, 1994\r\nPanama",
+          "caution": null,
+          "weight_max": 160,
+          "legat_names": null,
+          "race": null,
+          "modified": "2019-06-19T15:02:19+00:00",
+          "publication": "2017-10-10T14:10:00",
+          "weight": "Approximately 160 pounds",
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/ali-hawa-jamal/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/ali-hawa-jamal/@@images/image",
+                  "caption": "Composite sketch created in 1994",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/ali-hawa-jamal/@@images/image/large"
+              }
+          ],
+          "remarks": "<p>Jamal appeared to be a Middle Eastern male and was described as possibly having thick eyebrows and short sideburns. He wore black or dark green pants and a short-sleeved shirt with a dark pattern.</p>\r\n<p> </p>\r\n<p>Jamal was known to have traveled to Lebanon, Venezuela, Colombia, and Panama.</p>\r\n<p> </p>\r\n<p>He did not speak English or Spanish, but may have spoken Arabic. He used hand signals or wrote notes to communicate instructions.</p>",
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/seeking-info/ali-hawa-jamal/download.pdf"
+              },
+              {
+                  "name": "EN ESPAÑOL",
+                  "url": "https://www.fbi.gov/wanted/seeking-info/ali-hawa-jamal/ali-hawa-jamal-en-espanol.pdf/@@download/file/Ali Hawa Jamal EN ESPAÑOL.pdf"
+              }
+          ],
+          "field_offices": [
+              "miami"
+          ],
+          "coordinates": [],
+          "race_raw": null,
+          "hair_raw": "Black",
+          "complexion": "White",
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": null,
+          "details": "<p>Information is being sought in connection with the bombing of Alas Chiricanas Airlines Flight 00901 on July 19, 1994. At approximately 4:30 p.m. Central Daylight Time (CDT), Flight 00901 departed from France Field, Colón, Panama, with a destination of Panama City, Panama.The flight exploded shortly after takeoff, killing all 21 people on board. Authorities are seeking information that may pertain to possible suspect(s) and the crime that occurred aboard this flight.</p>\r\n<p> </p>\r\n<p>All deceased passengers and crew in the Flight 00901 crash were claimed, except one. The body has possibly been identified as Ali Hawa Jamal. He is suspected of carrying the bomb aboard the aircraft.</p>\r\n<p> </p>\r\n<p>The incident took place a day after a Muslim fundamentalist terrorist group allegedly bombed the Argentine-Israeli Mutual Association in Buenos Aires, Argentina, killing 42 people. This group is also suspected of involvement in the Flight 00901 bombing. It is suspected that additional parties may have assisted Jamal in the bombing.</p>",
+          "warning_message": null,
+          "suspects": null,
+          "age_min": 25,
+          "hair": "black",
+          "title": "ALI HAWA JAMAL - DECEASED",
+          "occupations": null,
+          "@id": "https://api.fbi.gov/@wanted-person/b5bb926ccb9a4c8e8add9b74296ccec0"
+      },
+      {
+          "eyes": "blue",
+          "sex": "Male",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/wcc/joseph-wayne-mccool",
+          "ncic": "W253072313",
+          "path": "/wanted/wcc/joseph-wayne-mccool",
+          "locations": null,
+          "weight_min": 230,
+          "place_of_birth": "Myrtle Point, Oregon",
+          "reward_min": 0,
+          "subjects": [
+              "White-Collar Crime"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "b63a225c332e5d10f123206e1e1cbff2",
+          "eyes_raw": "Blue",
+          "height_max": 74,
+          "nationality": "American",
+          "age_range": null,
+          "height_min": 74,
+          "aliases": [
+              "Joe McCool",
+              "Joe Wayne McCool"
+          ],
+          "reward_text": "The FBI is offering a reward of up to $10,000 for information leading to the arrest of Joseph Wayne McCool.",
+          "possible_countries": [
+              "PHL",
+              "USA"
+          ],
+          "description": "Conspiracy to Commit Wire Fraud; Wire Fraud",
+          "caution": "<p>Joseph Wayne McCool is being sought for his alleged involvement in a ponzi scheme that was based out of Mesa, Arizona. Sometime before February, 2004, McCool allegedly conspired with two other individuals, who have since been arrested, to operate The Brixon Group, Ltd., which fraudulently solicited millions of dollars from the public. McCool solicited and induced members of the public to invest approximately $10 million in Brixon by making fraudulent and misleading representations concerning how the money would be used, the rates of return, the security of the investments, and their own qualifications to conduct such investments.</p>\r\n<p> </p>\r\n<p>Reportedly, McCool promised investors that their money would be invested in European investment programs and used as reserves for high-yield insurance company portfolio investments. Investors were told that Brixon would generate returns of 10 percent per month. Investors were also falsely promised that they could not lose their principal investment because the principal was insured by the State Bar of California. Furthermore, McCool was represented to investors as a banking expert who successfully managed a large private trust in Europe before operating Brixon.</p>\r\n<p> </p>\r\n<p>Additionally, McCool reportedly failed to disclose to investors that he did not invest money for the benefit of the investors; instead, he allegedly converted a substantial portion of the invested money for personal use and used new funds received by Brixon to make payments to earlier investors. Additionally, investors' money was never insured against loss. When Brixon failed to make promised payments to investors, McCool responded by telling investors that the money was tied up in Europe due to the United States Patriot Act and various international banking problems.</p>\r\n<p> </p>\r\n<p>On May 11, 2006, a federal arrest warrant was issued by the United States District Court for the Southern District of California after McCool was charged with conspiracy to commit wire fraud and wire fraud. </p>",
+          "weight_max": 230,
+          "legat_names": null,
+          "race": "white",
+          "modified": "2019-06-18T20:41:42+00:00",
+          "publication": "2010-08-13T14:25:00",
+          "weight": "230 pounds",
+          "status": "na",
+          "possible_states": [
+              "US-AZ",
+              "US-CA",
+              "US-OR"
+          ],
+          "scars_and_marks": "McCool has a scar on his right knee and right wrist.",
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/wcc/joseph-wayne-mccool/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/wcc/joseph-wayne-mccool/@@images/image",
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/wcc/joseph-wayne-mccool/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/wcc/joseph-wayne-mccool/mccool_jw2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/wcc/joseph-wayne-mccool/mccool_jw2.jpg",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/wcc/joseph-wayne-mccool/mccool_jw2.jpg/@@images/image/large"
+              }
+          ],
+          "remarks": "<p>McCool may be residing in the Philippines.</p>",
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/wcc/joseph-wayne-mccool/download.pdf"
+              },
+              {
+                  "name": "Tagalog",
+                  "url": "https://www.fbi.gov/wanted/wcc/joseph-wayne-mccool/mccool-tagalog-rev-6-12-18.pdf/@@download/file/McCool  Tagalog rev 6 12 18.pdf"
+              }
+          ],
+          "field_offices": [
+              "sandiego"
+          ],
+          "coordinates": [],
+          "race_raw": "White",
+          "hair_raw": "Gray",
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": [
+              "October 3, 1947"
+          ],
+          "details": null,
+          "warning_message": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "gray",
+          "title": "JOSEPH WAYNE McCOOL",
+          "occupations": [
+              "Unknown"
+          ],
+          "@id": "https://api.fbi.gov/@wanted-person/b63a225c332e5d10f123206e1e1cbff2"
+      },
+      {
+          "eyes": "blue",
+          "sex": "Female",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/kidnap/sarah-burton",
+          "ncic": null,
+          "path": "/wanted/kidnap/sarah-burton",
+          "locations": null,
+          "weight_min": 170,
+          "place_of_birth": "Joplin, Missouri",
+          "reward_min": 0,
+          "subjects": [
+              "Kidnappings and Missing Persons"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "1a24b9475f744770882a2688ad71ff8a",
+          "eyes_raw": "Blue",
+          "height_max": 67,
+          "nationality": null,
+          "age_range": null,
+          "height_min": 67,
+          "aliases": null,
+          "reward_text": "The FBI is offering a reward of up to $5,000 for information leading to the arrest and conviction of the individual(s) responsible for the disappearance of Sarah Burton.",
+          "possible_countries": null,
+          "description": "July 16, 2018\r\nJoplin, Missouri",
+          "caution": null,
+          "weight_max": 170,
+          "legat_names": null,
+          "race": "white",
+          "modified": "2019-06-18T11:19:31+00:00",
+          "publication": "2019-05-29T06:38:00",
+          "weight": "170 pounds (at the time of her disappearance)",
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/sarah-burton/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/kidnap/sarah-burton/@@images/image",
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/kidnap/sarah-burton/@@images/image/large"
+              }
+          ],
+          "remarks": null,
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/kidnap/sarah-burton/download.pdf"
+              }
+          ],
+          "field_offices": [
+              "kansascity"
+          ],
+          "coordinates": [],
+          "race_raw": "White",
+          "hair_raw": "Light brown",
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": [
+              "February 22, 1990"
+          ],
+          "details": "<p>Sarah Burton, age 29 (at the time of her disappearance), was last seen on July 16, 2018, in the vicinity of 10th Street and Rex Avenue in Joplin, Missouri. Sarah was reported missing on July 20, 2018, by her mother. There have been no reported sightings and/or contacts from Sarah since her disappearance.</p>\r\n<p>The FBI Kansas City Division is assisting the Joplin Police Department with the Department’s on-going investigation into Sarah’s disappearance.</p>",
+          "warning_message": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "title": "SARAH BURTON",
+          "occupations": null,
+          "@id": "https://api.fbi.gov/@wanted-person/1a24b9475f744770882a2688ad71ff8a"
+      },
+      {
+          "eyes": null,
+          "sex": null,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/seeking-info/double-homicide-investigation",
+          "ncic": null,
+          "path": "/wanted/seeking-info/double-homicide-investigation",
+          "locations": null,
+          "weight_min": null,
+          "place_of_birth": null,
+          "reward_min": 0,
+          "subjects": [
+              "Seeking Information"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "9708083cfe3842d3b43f8be1abe5053e",
+          "eyes_raw": null,
+          "height_max": null,
+          "nationality": null,
+          "age_range": null,
+          "height_min": null,
+          "aliases": null,
+          "reward_text": "The FBI is offering a reward of up to $20,000 for information leading to the person(s) responsible for the cold case murders of Duong and America Nguyen.",
+          "possible_countries": null,
+          "description": "Bealeton, Virginia\r\nNovember 8, 2018",
+          "caution": null,
+          "weight_max": null,
+          "legat_names": null,
+          "race": null,
+          "modified": "2019-06-17T22:10:45+00:00",
+          "publication": "2019-05-20T14:45:00",
+          "weight": null,
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/double-homicide-investigation/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/double-homicide-investigation/@@images/image",
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/seeking-info/double-homicide-investigation/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/double-homicide-investigation/nguyend.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/double-homicide-investigation/nguyend.jpg",
+                  "caption": "Duong Nguyen",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/double-homicide-investigation/nguyend.jpg/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/double-homicide-investigation/nguyena.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/double-homicide-investigation/nguyena.jpg",
+                  "caption": "America Nguyen",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/double-homicide-investigation/nguyena.jpg/@@images/image/large"
+              }
+          ],
+          "remarks": null,
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/seeking-info/double-homicide-investigation/nguyen-homicide-seeking2.pdf"
+              }
+          ],
+          "field_offices": [
+              "washingtondc"
+          ],
+          "coordinates": [],
+          "race_raw": null,
+          "hair_raw": null,
+          "complexion": null,
+          "build": null,
+          "person_classification": "Victim",
+          "dates_of_birth_used": null,
+          "details": "<p>The Federal Bureau of Investigation, along with Fauquier County Sheriff’s Office, is seeking the public's assistance in identifying the unknown individual(s) responsible for the murder of Duong Nguyen and his son, America Nguyen, in Bealeton, Virginia.</p>\r\n<p> </p>\r\n<p>Sometime between the evening of November 7, 2018, and the morning of November 8, 2018, Duong, age 61, and America, age 22, were shot in the middle of the night by an unknown assailant(s) while in their home located in Bealeton, Virginia. The Nguyens were unarmed.  Anyone who may have traveled the Rt. 28, Catlett Road, corridor in Fauquier County to Prince William County, on the evening of November 7, 2018, or the early morning of November 8, 2018, is asked to contact the FBI if you remember anything or anyone suspicious during your commute.</p>\r\n<p> </p>",
+          "warning_message": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": null,
+          "title": "DOUBLE HOMICIDE INVESTIGATION",
+          "occupations": null,
+          "@id": "https://api.fbi.gov/@wanted-person/9708083cfe3842d3b43f8be1abe5053e"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Kidnappings and Missing Persons"
+          ],
+          "languages": null,
+          "path": "/wanted/kidnap/margaret-ellen-fox",
+          "weight_min": 105,
+          "details": "<p>Margaret Ellen Fox was last seen on June 24, 1974, after travelling by bus to meet with a man who called himself \"John Marshall\" and had advertised for a babysitting job.  Margaret was planning to go by bus to Mill and Main Streets in Mount Holly, New Jersey, to have an interview with this man about babysitting his young son.  The man's phone number was later traced to a pay phone in a local supermarket.  Margaret was seen getting on the bus in Burlington, New Jersey, at approximately 8:40 a.m. en route to Mt. Holly, but she has never been heard from again.</p>\r\n<p> </p>",
+          "status": "na",
+          "possible_states": null,
+          "eyes": "blue",
+          "hair": "brown",
+          "legat_names": null,
+          "eyes_raw": "Blue",
+          "field_offices": [
+              "newark"
+          ],
+          "weight": "105 pounds (at time of disappearance)",
+          "age_min": null,
+          "build": null,
+          "person_classification": "Victim",
+          "remarks": "<p>At the time of her disappearance, two of Margaret's top front right teeth were missing and she wore eyeglasses.  She was last seen wearing jeans with a yellow patch on the knee, a blue blouse, a white and black checkered jacket, and brown sandals with a heel strap.  She was also wearing a gold necklace with flowers and a blue stone, and a gold charm bracelet with a blue stone.  Margaret was carrying an eyeglass case with a Huckleberry Hound design on it.</p>",
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/kidnap/margaret-ellen-fox",
+          "nationality": null,
+          "uid": "5b9f9e6ffd3a44e1815a404b254f2a43",
+          "warning_message": null,
+          "scars_and_marks": null,
+          "race": "white",
+          "hair_raw": "Brown",
+          "modified": "2019-06-12T13:37:03+00:00",
+          "title": "MARGARET ELLEN FOX",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/kidnap/margaret-ellen-fox/@@images/image/large",
+                  "caption": "Photograph taken circa 1974",
+                  "original": "https://www.fbi.gov/wanted/kidnap/margaret-ellen-fox/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/margaret-ellen-fox/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/kidnap/margaret-ellen-fox/fox1974.jpg/@@images/image/large",
+                  "caption": "Photograph taken circa 1974",
+                  "original": "https://www.fbi.gov/wanted/kidnap/margaret-ellen-fox/fox1974.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/margaret-ellen-fox/fox1974.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/kidnap/margaret-ellen-fox/foxage49.jpg/@@images/image/large",
+                  "caption": "Photograph age progressed to age 49",
+                  "original": "https://www.fbi.gov/wanted/kidnap/margaret-ellen-fox/foxage49.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/margaret-ellen-fox/foxage49.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/kidnap/margaret-ellen-fox/foxage56.jpg/@@images/image/large",
+                  "caption": "Photograph age progressed to age 56",
+                  "original": "https://www.fbi.gov/wanted/kidnap/margaret-ellen-fox/foxage56.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/margaret-ellen-fox/foxage56.jpg/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": "The FBI is offering a reward of up to $25,000 for information leading to the arrest and/or conviction of the subject(s) responsible for the disappearance of Margaret Ellen Fox.",
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": null,
+          "reward_max": 0,
+          "ncic": null,
+          "aliases": null,
+          "height_max": 62,
+          "dates_of_birth_used": [
+              "February 4, 1960"
+          ],
+          "height_min": 62,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/kidnap/margaret-ellen-fox/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "occupations": null,
+          "publication": "2019-05-30T08:30:00",
+          "description": "June 24, 1974\r\nBurlington, New Jersey",
+          "race_raw": "White",
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": null,
+          "reward_min": 0,
+          "weight_max": 105,
+          "sex": "Female",
+          "@id": "https://api.fbi.gov/@wanted-person/5b9f9e6ffd3a44e1815a404b254f2a43"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "White-Collar Crime"
+          ],
+          "languages": [
+              "English",
+              "Nigerian Pidgin"
+          ],
+          "path": "/wanted/wcc/osondu-victor-igwilo",
+          "weight_min": 150,
+          "details": null,
+          "status": "na",
+          "possible_states": null,
+          "eyes": null,
+          "hair": "bald",
+          "legat_names": null,
+          "eyes_raw": null,
+          "field_offices": [
+              "houston"
+          ],
+          "weight": "150 pounds",
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": null,
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/wcc/osondu-victor-igwilo",
+          "nationality": "Nigerian",
+          "uid": "218b01a7f7444401990f58d3e279cd86",
+          "warning_message": null,
+          "scars_and_marks": null,
+          "race": "black",
+          "hair_raw": "May be bald and may have a greying beard",
+          "modified": "2019-06-12T12:09:51+00:00",
+          "title": "OSONDU VICTOR IGWILO",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/wcc/osondu-victor-igwilo/@@images/image/large",
+                  "caption": null,
+                  "original": "https://www.fbi.gov/wanted/wcc/osondu-victor-igwilo/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/wcc/osondu-victor-igwilo/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": null,
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": "<p>From about November 2014 to December 2016, Osondu Victor Igwilo was allegedly the leader of a criminal network that perpetrated an advance-fee scheme around the world, and laundered the proceeds through U.S.-based bank accounts. The scheme involved promising victims investment funding, supposedly being offered by a commercial bank, and supposedly sponsored by the U.S. Government, in exchange of paying various advance fees. Using fake email accounts and stolen identities of bank employees and U.S. government officials, Igwilo and his co-conspirators found victims over the Internet, and allegedly deceived them into believing the investment opportunities were authentic. To further boost victims' belief in the legitimacy of the investment, Igwilo allegedly recruited U.S. citizens to impersonate bank officials during in-person meetings with the victims.</p>\r\n<p>Igwilo perpetrated approximately a 100 million dollar fraud scheme defrauding multiple U.S. financial institutions. Igwilo furthered his crime by targeting international victims that would be vulnerable to his criminal scheme.</p>\r\n<p>On December 21, 2016, a criminal complaint was filed in the United States District Court, Southern District of Texas, Houston, Texas, charging Igwilo with wire fraud conspiracy, money laundering, and aggravated identity theft.</p>",
+          "reward_max": 0,
+          "ncic": "W930344451",
+          "aliases": [
+              "\"OSO\"",
+              "\"Victor O\""
+          ],
+          "height_max": 72,
+          "dates_of_birth_used": [
+              "November 20, 1969",
+              "November 29, 1969"
+          ],
+          "height_min": 72,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/wcc/osondu-victor-igwilo/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "occupations": null,
+          "publication": "2018-12-21T09:04:00",
+          "description": "Wire Fraud Conspiracy, Money Laundering, and Aggravated Identity Theft",
+          "race_raw": "Black",
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": "Nigeria",
+          "reward_min": 0,
+          "weight_max": 150,
+          "sex": "Male",
+          "@id": "https://api.fbi.gov/@wanted-person/218b01a7f7444401990f58d3e279cd86"
+      },
+      {
+          "eyes": null,
+          "sex": null,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/seeking-info/sasikala-and-anish-narra",
+          "ncic": null,
+          "path": "/wanted/seeking-info/sasikala-and-anish-narra",
+          "locations": null,
+          "weight_min": null,
+          "place_of_birth": null,
+          "reward_min": 0,
+          "subjects": [
+              "Seeking Information"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "43054a7a80414d3fbbbae7968935b748",
+          "eyes_raw": null,
+          "height_max": null,
+          "nationality": null,
+          "age_range": null,
+          "height_min": null,
+          "aliases": null,
+          "reward_text": "The FBI is offering a reward of up to $25,000 for information leading to the identification and arrest of the individual(s) responsible for the murder of Sasikala and Anish Narra.",
+          "possible_countries": null,
+          "description": "Murder Victims\r\nMaple Shade, New Jersey\r\nMarch 23, 2017",
+          "caution": null,
+          "weight_max": null,
+          "legat_names": null,
+          "race": null,
+          "modified": "2019-06-07T13:43:27+00:00",
+          "publication": "2019-06-05T09:30:00",
+          "weight": null,
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/sasikala-and-anish-narra/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/sasikala-and-anish-narra/@@images/image",
+                  "caption": "Sasikala Narra",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/sasikala-and-anish-narra/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/sasikala-and-anish-narra/narraa.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/sasikala-and-anish-narra/narraa.jpg",
+                  "caption": "Anish Narra",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/sasikala-and-anish-narra/narraa.jpg/@@images/image/large"
+              }
+          ],
+          "remarks": null,
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/seeking-info/sasikala-and-anish-narra/download.pdf"
+              }
+          ],
+          "field_offices": [
+              "newark"
+          ],
+          "coordinates": [],
+          "race_raw": null,
+          "hair_raw": null,
+          "complexion": null,
+          "build": null,
+          "person_classification": "Victim",
+          "dates_of_birth_used": null,
+          "details": "<p>At approximately 9:00 p.m. on March 23, 2017, Sasikala Narra and her six-year-old son, Anish, were found violently murdered in their apartment at the Fox Meadow Apartments in Maple Shade, New Jersey.  They had last been seen at approximately 7:00 p.m. that day when Sasikala picked up Anish at his school.</p>\r\n<p> </p>",
+          "warning_message": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": null,
+          "title": "SASIKALA AND ANISH NARRA",
+          "occupations": null,
+          "@id": "https://api.fbi.gov/@wanted-person/43054a7a80414d3fbbbae7968935b748"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Ten Most Wanted Fugitives"
+          ],
+          "languages": null,
+          "path": "/wanted/topten/arnoldo-jimenez",
+          "weight_min": 200,
+          "details": null,
+          "status": "na",
+          "possible_states": null,
+          "eyes": "brown",
+          "hair": "black",
+          "legat_names": null,
+          "eyes_raw": "Brown",
+          "field_offices": [
+              "chicago"
+          ],
+          "weight": "200 to 225 pounds",
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": "<p>Jimenez may have fled to Durango, Mexico, specifically in the area of Santiago Papasquiaro. He may also frequent Reynosa, Tamaulipas, Mexico. He has previously resided in Chicago, Illinois.</p>",
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/topten/arnoldo-jimenez",
+          "nationality": "American",
+          "uid": "960400943f3b4846a1835da26d58b885",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "scars_and_marks": null,
+          "race": "hispanic",
+          "hair_raw": "Black",
+          "modified": "2019-06-06T10:58:08+00:00",
+          "title": "ARNOLDO JIMENEZ",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/topten/arnoldo-jimenez/@@images/image/large",
+                  "caption": "Photograph taken in 2011",
+                  "original": "https://www.fbi.gov/wanted/topten/arnoldo-jimenez/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/topten/arnoldo-jimenez/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/topten/arnoldo-jimenez/jimenezb.png/@@images/image/large",
+                  "caption": "Photograph taken in 2011",
+                  "original": "https://www.fbi.gov/wanted/topten/arnoldo-jimenez/jimenezb.png",
+                  "thumb": "https://www.fbi.gov/wanted/topten/arnoldo-jimenez/jimenezb.png/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/topten/arnoldo-jimenez/jimenez2006.png/@@images/image/large",
+                  "caption": "Photograph taken in 2006",
+                  "original": "https://www.fbi.gov/wanted/topten/arnoldo-jimenez/jimenez2006.png",
+                  "thumb": "https://www.fbi.gov/wanted/topten/arnoldo-jimenez/jimenez2006.png/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/topten/arnoldo-jimenez/jimenez2011.png/@@images/image/large",
+                  "caption": "Photograph taken in 2011",
+                  "original": "https://www.fbi.gov/wanted/topten/arnoldo-jimenez/jimenez2011.png",
+                  "thumb": "https://www.fbi.gov/wanted/topten/arnoldo-jimenez/jimenez2011.png/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/topten/arnoldo-jimenez/jiminez2.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/topten/arnoldo-jimenez/jiminez2.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/topten/arnoldo-jimenez/jiminez2.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/topten/arnoldo-jimenez/jiminez3.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/topten/arnoldo-jimenez/jiminez3.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/topten/arnoldo-jimenez/jiminez3.jpg/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": "The FBI is offering a reward of up to $100,000 for information leading to the arrest of Arnoldo Jimenez.",
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": "<p>Arnoldo Jimenez is wanted for allegedly killing his wife on May 12, 2012, the day after their wedding. He allegedly stabbed his wife to death in his black, four-door, 2006 Maserati, then allegedly dragged her body into the bathroom tub of her apartment in Burbank, Illinois. Jimenez was charged with first degree murder by the Circuit Court of Cook County, Illinois, and a state warrant was issued for his arrest on May 15, 2012. A federal arrest warrant was issued by the United States District Court, Northern District of Illinois, Eastern Division, on May 17, 2012, after Jimenez was charged federally with unlawful flight to avoid prosecution.</p>",
+          "reward_max": 0,
+          "ncic": null,
+          "aliases": [
+              "Arnoldo Gimenez",
+              "Arnoldo Rochel Jimenez"
+          ],
+          "height_max": 72,
+          "dates_of_birth_used": [
+              "February 19, 1982"
+          ],
+          "height_min": 72,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/topten/arnoldo-jimenez/jimenez-english-clean.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/topten/arnoldo-jimenez/jimenez-spanish-web.pdf/@@download/file/Jimenez Spanish Web.pdf",
+                  "name": "EN ESPAÑOL"
+              }
+          ],
+          "occupations": null,
+          "publication": "2012-05-25T11:00:00",
+          "description": "Unlawful Flight to Avoid Prosecution - First Degree Murder",
+          "race_raw": "White (Hispanic)",
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": "Texas",
+          "reward_min": 0,
+          "weight_max": 225,
+          "sex": "Male",
+          "@id": "https://api.fbi.gov/@wanted-person/960400943f3b4846a1835da26d58b885"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Ten Most Wanted Fugitive"
+          ],
+          "languages": null,
+          "path": "/wanted/topten/eugene-palmer",
+          "weight_min": 220,
+          "details": null,
+          "status": "na",
+          "possible_states": null,
+          "eyes": "brown",
+          "hair": "gray",
+          "legat_names": null,
+          "eyes_raw": "Brown",
+          "field_offices": [
+              "newyork"
+          ],
+          "weight": "220 pounds",
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": "<p>Palmer is known to be interested in auto racing and is a car enthusiast.  He is also an experienced hunter and outdoorsman.</p>",
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/topten/eugene-palmer",
+          "nationality": "American",
+          "uid": "408423346d6f46a9a30d7d1801791f9a",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "scars_and_marks": "Palmer's left thumb is deformed.",
+          "race": "white",
+          "hair_raw": "Gray - Balding",
+          "modified": "2019-06-06T10:56:54+00:00",
+          "title": "EUGENE PALMER",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/topten/eugene-palmer/@@images/image/large",
+                  "caption": null,
+                  "original": "https://www.fbi.gov/wanted/topten/eugene-palmer/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/topten/eugene-palmer/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/topten/eugene-palmer/palmer1.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/topten/eugene-palmer/palmer1.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/topten/eugene-palmer/palmer1.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/topten/eugene-palmer/palmer3.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/topten/eugene-palmer/palmer3.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/topten/eugene-palmer/palmer3.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/topten/eugene-palmer/palmer4.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/topten/eugene-palmer/palmer4.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/topten/eugene-palmer/palmer4.jpg/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": "The FBI is offering a reward of up to $100,000 for information leading to the arrest and conviction of Eugene Palmer.",
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": "<p>Eugene Palmer is wanted for allegedly shooting and killing his daughter-in-law on September 24, 2012, in Stony Point, New York.  After a local arrest warrant was issued for Palmer in Rockland County and he was charged with murder, a federal arrest warrant was issued on June 10, 2013, by the United States Court for the Southern District of New York after Palmer was charged with unlawful flight to avoid prosecution. </p>\r\n<p> </p>",
+          "reward_max": 0,
+          "ncic": null,
+          "aliases": [
+              "Eugene K. Palmer",
+              "Eugene Kenneth Palmer",
+              "Eugene Kevin Palmer"
+          ],
+          "height_max": 70,
+          "dates_of_birth_used": [
+              "April 4, 1939"
+          ],
+          "height_min": 70,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/topten/eugene-palmer/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "occupations": null,
+          "publication": "2018-11-26T13:05:00",
+          "description": "Unlawful Flight to Avoid Prosecution - Murder",
+          "race_raw": "White",
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": "New York",
+          "reward_min": 0,
+          "weight_max": 220,
+          "sex": "Male",
+          "@id": "https://api.fbi.gov/@wanted-person/408423346d6f46a9a30d7d1801791f9a"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Violent Crime - Murders"
+          ],
+          "languages": null,
+          "path": "/wanted/murders/dennis-m-cunningham",
+          "weight_min": 200,
+          "details": null,
+          "status": "na",
+          "possible_states": null,
+          "eyes": "brown",
+          "hair": "black",
+          "legat_names": null,
+          "eyes_raw": "Brown",
+          "field_offices": [
+              "newark"
+          ],
+          "weight": "200 to 220 pounds",
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": "<p>Cunningham has ties to Irvington and Newark, New Jersey, and Easton, Pennsylvania.</p>",
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/murders/dennis-m-cunningham",
+          "nationality": "American",
+          "uid": "39ee4223ec05483488efa2d05d812cc2",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "scars_and_marks": "Cunningham has a tattoo on his left arm and a scar on his left forearm.",
+          "race": "black",
+          "hair_raw": "Black (May be Bald)",
+          "modified": "2019-05-30T11:05:17+00:00",
+          "title": "DENNIS M. CUNNINGHAM",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/murders/dennis-m-cunningham/@@images/image/large",
+                  "caption": null,
+                  "original": "https://www.fbi.gov/wanted/murders/dennis-m-cunningham/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/murders/dennis-m-cunningham/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/murders/dennis-m-cunningham/cunningham2.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/murders/dennis-m-cunningham/cunningham2.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/murders/dennis-m-cunningham/cunningham2.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/murders/dennis-m-cunningham/cunningham.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/murders/dennis-m-cunningham/cunningham.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/murders/dennis-m-cunningham/cunningham.jpg/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": null,
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": "<p>Dennis M. Cunningham, a convicted felon, is wanted for his alleged involvement in the shooting death of a man in Irvington, New Jersey, on May 12, 2017.  Cunningham was charged with murder, unlawful possession of a firearm by a convicted felon, and robbery by the State of New Jersey on June 15, 2017, and a warrant was issued for his arrest.  On September 8, 2017, a federal arrest warrant was issued for Cunningham in the United States District Court, District of New Jersey, Essex County, New Jersey, after he was charged with unlawful flight to avoid prosecution.</p>\r\n<p> </p>",
+          "reward_max": 0,
+          "ncic": "W161921223",
+          "aliases": [
+              "Dennis Brown",
+              "Dennie Cunningham",
+              "Muhammad Cunningham",
+              "Dennis Muhammad",
+              "Dennis M. Thomas"
+          ],
+          "height_max": 74,
+          "dates_of_birth_used": [
+              "September 15, 1969"
+          ],
+          "height_min": 74,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/dennis-m-cunningham/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "occupations": null,
+          "publication": "2019-05-13T13:01:00",
+          "description": "Unlawful Flight to Avoid Prosecution - Murder, Unlawful Possession of a Firearm by a Convicted Felon, Robbery",
+          "race_raw": "Black",
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": "New Jersey",
+          "reward_min": 0,
+          "weight_max": 220,
+          "sex": "Male",
+          "@id": "https://api.fbi.gov/@wanted-person/39ee4223ec05483488efa2d05d812cc2"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Violent Crime - Murders"
+          ],
+          "languages": null,
+          "path": "/wanted/murders/octaviano-juarez-corro",
+          "weight_min": 180,
+          "details": null,
+          "status": "na",
+          "possible_states": null,
+          "eyes": "brown",
+          "hair": "black",
+          "legat_names": null,
+          "eyes_raw": "Brown",
+          "field_offices": [
+              "milwaukee"
+          ],
+          "weight": "180 to 200 pounds",
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": null,
+          "possible_countries": [
+              "MEX"
+          ],
+          "url": "https://www.fbi.gov/wanted/murders/octaviano-juarez-corro",
+          "nationality": "Mexican",
+          "uid": "a183976b7de24bc9b3ce168d0935065e",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "scars_and_marks": null,
+          "race": "white",
+          "hair_raw": "Black",
+          "modified": "2019-05-28T15:00:49+00:00",
+          "title": "OCTAVIANO JUAREZ-CORRO",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/murders/octaviano-juarez-corro/@@images/image/large",
+                  "caption": null,
+                  "original": "https://www.fbi.gov/wanted/murders/octaviano-juarez-corro/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/murders/octaviano-juarez-corro/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/murders/octaviano-juarez-corro/octavianojuarezcorro_ageprogression.jpg/@@images/image/large",
+                  "caption": "age-progressed photo",
+                  "original": "https://www.fbi.gov/wanted/murders/octaviano-juarez-corro/octavianojuarezcorro_ageprogression.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/murders/octaviano-juarez-corro/octavianojuarezcorro_ageprogression.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/murders/octaviano-juarez-corro/octavianojuarezcorro_ageprogression_shaved.jpg/@@images/image/large",
+                  "caption": "age-progressed photo",
+                  "original": "https://www.fbi.gov/wanted/murders/octaviano-juarez-corro/octavianojuarezcorro_ageprogression_shaved.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/murders/octaviano-juarez-corro/octavianojuarezcorro_ageprogression_shaved.jpg/@@images/image/thumb"
+              }
+          ],
+          "complexion": "Medium",
+          "reward_text": "The FBI is offering a reward of up to $10,000 for information leading to the arrest of Octaviano Juarez-Corro.",
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": "<p>The FBI is seeking information regarding the whereabouts of Octaviano Juarez-Corro. Juarez-Corro is wanted for his alleged involvement in the murder of two individuals and attempted murder of three individuals. On May 29, 2006, Juarez-Corro allegedly shot and killed two individuals and wounded three others at a picnic in Milwaukee, Wisconsin.</p>\r\n<p>On June 1, 2006, the Milwaukee County Circuit Court issued a felony warrant for Juarez-Corro for two counts of Intentional homicide first degree, and three counts of attempted intentional homicide, first degree. On June 2, 2006, a federal arrest warrant was issued for Juarez-Corro by the United States District Court for the Eastern District of Wisconsin, after Juarez-Corro was charged federally with unlawful flight to avoid prosecution.</p>",
+          "reward_max": 0,
+          "ncic": "W714269259",
+          "aliases": [
+              "Octaviano Corro",
+              "Octaviano Juarez Corro",
+              "Octavio Juarez"
+          ],
+          "height_max": 67,
+          "dates_of_birth_used": [
+              "December 22, 1973"
+          ],
+          "height_min": 65,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/octaviano-juarez-corro/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "occupations": null,
+          "publication": "2018-07-23T07:17:00",
+          "description": "Unlawful Flight to Avoid Prosecution - First Degree Intentional Homicide (Two Counts), First Degree Attempted Intentional Homicide (Three Counts).",
+          "race_raw": "White",
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": "Mexico",
+          "reward_min": 0,
+          "weight_max": 200,
+          "sex": "Male",
+          "@id": "https://api.fbi.gov/@wanted-person/a183976b7de24bc9b3ce168d0935065e"
+      }
+  ],
+  "page": 25
+}

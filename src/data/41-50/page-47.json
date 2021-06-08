@@ -1,0 +1,1729 @@
+{
+  "total": 1003,
+  "items": [
+      {
+          "age_range": null,
+          "subjects": [
+              "Counterintelligence"
+          ],
+          "languages": null,
+          "path": "/wanted/counterintelligence/dmitry-vladimirovich-shegurov",
+          "weight_min": 180,
+          "details": null,
+          "status": "na",
+          "possible_states": null,
+          "eyes": "brown",
+          "hair": "brown",
+          "legat_names": null,
+          "eyes_raw": "Brown",
+          "field_offices": [
+              "houston"
+          ],
+          "weight": "Approximately 180 pounds",
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": null,
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/counterintelligence/dmitry-vladimirovich-shegurov",
+          "nationality": null,
+          "uid": "e506c9d2-d162-49bd-af5d-8f52bf4b2323",
+          "warning_message": null,
+          "scars_and_marks": null,
+          "race": "white",
+          "hair_raw": "Brown",
+          "modified": "2016-08-02T13:04:43+00:00",
+          "title": "DMITRY VLADIMIROVICH SHEGUROV",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/counterintelligence/dmitry-vladimirovich-shegurov/@@images/image/large",
+                  "caption": null,
+                  "original": "https://www.fbi.gov/wanted/counterintelligence/dmitry-vladimirovich-shegurov/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/counterintelligence/dmitry-vladimirovich-shegurov/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/counterintelligence/dmitry-vladimirovich-shegurov/dimitry-2.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/counterintelligence/dmitry-vladimirovich-shegurov/dimitry-2.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/counterintelligence/dmitry-vladimirovich-shegurov/dimitry-2.jpg/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": null,
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": "<p>Dmitry Shegurov and his co-conspirators, Sergey Klinov, and Yury Savin, are wanted for their involvement in several white collar crimes. All were involved in business with ARC Electronics, a Russian procurement company. Dmitry Shegurov, Sergey Klinov, and Yury Savin were indicted for violating the International Emergency Economic Powers Act (IEEPA), conspiring to violate IEEPA, conspiring to violate the Arms Export Control Act (AECA), and committing wire fraud from October 1, 2008 to September 28, 2012. Subjects in the U.S. were allegedly exporting controlled dual use technology from U.S. companies to Dmitry Shegurov, Sergey Klinov, and Yury Savin, in Russia. The Russian subjects reportedly wired funds back to the U.S. through third countries in order to disguise its origin and association to the Russian military and intelligence agencies as the final end users.</p>\r\n<p> </p>\r\n<p>On September 28, 2012, the United States District Court, Eastern District of New York, indicted Dmitry Shegurov, Sergey Klinov, and Yury Savin for violating the above-listed offenses. Additionally, Shegurov and Klinov were also charged with obstruction of justice.</p>",
+          "reward_max": 0,
+          "ncic": "W806228251",
+          "aliases": null,
+          "height_max": 69,
+          "dates_of_birth_used": [
+              "May 31, 1983"
+          ],
+          "height_min": 69,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/counterintelligence/dmitry-vladimirovich-shegurov/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "occupations": [
+              "Shegurov is an executive of Arsenal, a subsidiary of APEX."
+          ],
+          "publication": "2015-07-17T07:00:00",
+          "description": "International Emergency Economic Powers Act (IEEPA); Conspiracy to Commit IEEPA; Conspiracy to Commit Arms Export Control Act (AECA); and Commit Wire Fraud; Obstruction of Justice",
+          "race_raw": "White",
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": null,
+          "reward_min": 0,
+          "weight_max": 180,
+          "sex": "Male",
+          "@id": "https://api.fbi.gov/@wanted-person/e506c9d2-d162-49bd-af5d-8f52bf4b2323"
+      },
+      {
+          "eyes": "brown",
+          "sex": "Male",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/wcc/yousef-kurdy",
+          "ncic": "W564321853",
+          "path": "/wanted/wcc/yousef-kurdy",
+          "locations": null,
+          "weight_min": 170,
+          "place_of_birth": "Allepo, Syria",
+          "reward_min": 0,
+          "subjects": [
+              "White-Collar Crime"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "fabd733e-6f85-48a1-b954-7c91e23b626e",
+          "eyes_raw": "Brown",
+          "height_max": 68,
+          "nationality": "Syrian",
+          "age_range": null,
+          "height_min": 68,
+          "aliases": [
+              "Yousef M. Kurdy"
+          ],
+          "reward_text": null,
+          "possible_countries": null,
+          "description": "Health Care Fraud; Aggravated Identity Theft; Receipt of Kickbacks for Patient Referrals; Income Tax Evasion; Aiding and Abetting; and Criminal Forfeiture",
+          "caution": "<p>Yousef Kurdy is wanted for allegedly submitting claims for more than 35,000 office visits with Medicare and Medi-Cal patients, submitting hundreds of fraudulent claims when office visits never took place, billing for treating patients during times when he was not present, and failing to pay federal taxes for three years.</p>\r\n<p> </p>\r\n<p>On January 26, 2012, a federal arrest warrant was issued for Kurdy by the United States District Court, Southern District of California, after he was charged with health care fraud; aggravated identity theft; receipt of kickbacks for patient referrals; income tax evasion; aiding and abetting; and criminal forfeiture. Kurdy was scheduled to self-surrender on January 30, 2012, but he failed to appear on that date. Kurdy fled the country and may be in Syria or Lebanon.</p>",
+          "weight_max": 170,
+          "legat_names": null,
+          "race": "white",
+          "modified": "2016-08-02T12:52:10+00:00",
+          "publication": "2014-10-24T07:00:00",
+          "weight": "170 pounds",
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/wcc/yousef-kurdy/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/wcc/yousef-kurdy/@@images/image",
+                  "caption": "Photograph taken in April 2006",
+                  "large": "https://www.fbi.gov/wanted/wcc/yousef-kurdy/@@images/image/large"
+              }
+          ],
+          "remarks": null,
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/wcc/yousef-kurdy/download.pdf"
+              }
+          ],
+          "field_offices": [
+              "sandiego"
+          ],
+          "coordinates": [],
+          "race_raw": "White",
+          "hair_raw": "Black",
+          "complexion": null,
+          "build": "Stocky",
+          "person_classification": "Main",
+          "dates_of_birth_used": [
+              "March 8, 1948"
+          ],
+          "details": null,
+          "warning_message": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "black",
+          "title": "YOUSEF KURDY",
+          "occupations": null,
+          "@id": "https://api.fbi.gov/@wanted-person/fabd733e-6f85-48a1-b954-7c91e23b626e"
+      },
+      {
+          "dates_of_birth_used": [
+              "July 1, 1982",
+              "April 2, 1985"
+          ],
+          "images": [
+              {
+                  "caption": "Photograph taken in 2005",
+                  "large": "https://www.fbi.gov/wanted/murders/juan-a.-gomez/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/juan-a.-gomez/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/juan-a.-gomez/@@images/image"
+              }
+          ],
+          "details": null,
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "hispanic",
+          "occupations": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "black",
+          "legat_names": null,
+          "modified": "2016-08-02T12:16:56+00:00",
+          "status": "na",
+          "publication": "2011-05-24T15:05:00",
+          "weight": "160 pounds",
+          "caution": "<p>Juan A. Gomez is wanted for his alleged involvement in the shooting of two individuals. On July 30, 2006, Gomez, a confirmed illegal alien/migrant worker, confronted two other male illegal immigrants in Pemberton, New Jersey, and shot them both in the head with a revolver. One man died instantly and the other remains in a vegetative state. A state warrant was issued for Gomez's arrest after he was charged with murder in Burlington County, New Jersey. A federal arrest warrant was issued on August 9, 2006, by the United States District Court, District of New Jersey, Trenton, New Jersey, and Gomez was charged with unlawful flight to avoid prosecution.</p>",
+          "possible_states": null,
+          "scars_and_marks": "Gomez has a tattoo of \"Juan Gomez\" or \"Juan G\" somewhere on his body.  He wears earrings in both of his ears.",
+          "race_raw": "White (Hispanic)",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/juan-a.-gomez/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "field_offices": [
+              "newark"
+          ],
+          "nationality": "Mexican",
+          "weight_min": 160,
+          "age_range": null,
+          "uid": "cba781e7e67945b3793e282e9ca7d0b3",
+          "eyes_raw": "Brown",
+          "height_max": 63,
+          "height_min": 61,
+          "aliases": [
+              "Juan M. Martinez",
+              "Juan Martinez",
+              "William Perez",
+              "Juan Manuel Martinez-Cuevas",
+              "Tiene Senen Gomez Rivera"
+          ],
+          "reward_text": null,
+          "description": "Unlawful Flight to Avoid Prosecution - Murder (First Degree), Criminal Attempted Murder (First Degree), Aggravated Assault (Second and Third Degree), Possession of a Weapon for Unlawful Purpose (Firearm), Unlawful Possession of a Weapon (Handgun)",
+          "title": "JUAN A. GOMEZ",
+          "possible_countries": null,
+          "hair_raw": "Black",
+          "remarks": "<p>Gomez has ties to the Yakima and Sunnyside, Washington, areas.</p>",
+          "weight_max": 160,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/murders/juan-a.-gomez",
+          "ncic": "W580905978",
+          "eyes": "brown",
+          "sex": "Male",
+          "coordinates": [],
+          "path": "/wanted/murders/juan-a.-gomez",
+          "place_of_birth": "Mexico",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Violent Crime - Murders"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/cba781e7e67945b3793e282e9ca7d0b3"
+      },
+      {
+          "dates_of_birth_used": [
+              "1963"
+          ],
+          "images": [
+              {
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/wanted_terrorists/hasan-izz-al-din/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/wanted_terrorists/hasan-izz-al-din/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/wanted_terrorists/hasan-izz-al-din/@@images/image"
+              }
+          ],
+          "details": null,
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "build": "Slender",
+          "person_classification": "Main",
+          "complexion": null,
+          "race": null,
+          "occupations": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "black",
+          "legat_names": null,
+          "modified": "2016-08-01T19:04:23+00:00",
+          "status": "na",
+          "publication": "2010-07-27T10:00:00",
+          "weight": "145 to 150 pounds",
+          "caution": "<p>Hasan Izz-Al-Din was indicted for his role in planning and participating in the June 14, 1985, hijacking of a commercial airliner which resulted in the assault on various passengers and crew members, and the murder of one United States citizen.</p>",
+          "possible_states": null,
+          "scars_and_marks": "None known",
+          "race_raw": null,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/wanted_terrorists/hasan-izz-al-din/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "field_offices": [
+              "washingtondc"
+          ],
+          "nationality": "Lebanese",
+          "weight_min": 145,
+          "age_range": null,
+          "uid": "eb8ce6b4848d05f3a2ba0e768954c9cd",
+          "eyes_raw": "Black",
+          "height_max": 71,
+          "height_min": 69,
+          "aliases": [
+              "Ahmed Garbaya",
+              "Samir Salwwan",
+              "Sa-id"
+          ],
+          "reward_text": "The Rewards For Justice Program, United States Department of State, is offering a reward of up to $5 million for information leading directly to the apprehension or conviction of Hasan Izz-Al-Din.",
+          "description": "Conspiracy to Commit Aircraft Piracy, to Commit Hostage Taking, to Commit Air Piracy Resulting in Murder, to Interfere With a Flight Crew, to Place a Destructive Device Aboard an Aircraft, to Have Explosive Devices About the Person on an Aircraft, and to Assault Passengers and Crew; Air Piracy Resulting in Murder; Air Piracy; Hostage Taking; Interference With Flight Crew; and Placing Explosives Aboard Aircraft; Placing Destructive Devices Aboard Aircraft; Assault Aboard Aircraft With Intent to Hijack With a Dangerous Weapon and Resulting in Serious Bodily Injury; Aiding and Abetting",
+          "title": "HASAN IZZ-AL-DIN",
+          "possible_countries": [
+              "LBN",
+              "USA"
+          ],
+          "hair_raw": "Black",
+          "remarks": "<p>Izz-Al-Din is an alleged member of the terrorist organization, Lebanese Hizballah. He is thought to be in Lebanon.</p>",
+          "weight_max": 150,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/wanted_terrorists/hasan-izz-al-din",
+          "ncic": null,
+          "eyes": "black",
+          "sex": "Male",
+          "coordinates": [],
+          "path": "/wanted/wanted_terrorists/hasan-izz-al-din",
+          "place_of_birth": "Lebanon",
+          "reward_min": 1000000,
+          "locations": null,
+          "languages": [
+              "Arabic"
+          ],
+          "subjects": [
+              "Most Wanted Terrorists"
+          ],
+          "additional_information": null,
+          "reward_max": 4999999,
+          "@id": "https://api.fbi.gov/@wanted-person/eb8ce6b4848d05f3a2ba0e768954c9cd"
+      },
+      {
+          "eyes": "brown",
+          "sex": "Male",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/wcc/carlos-benitez",
+          "ncic": "W344452842",
+          "path": "/wanted/wcc/carlos-benitez",
+          "locations": null,
+          "weight_min": 180,
+          "place_of_birth": "Cuba",
+          "reward_min": 0,
+          "subjects": [
+              "White-Collar Crime"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "e3fea65939bd6028912b2e93baafac6c",
+          "eyes_raw": "Brown",
+          "height_max": 69,
+          "nationality": "Cuban",
+          "age_range": null,
+          "height_min": 69,
+          "aliases": [
+              "Carlos M. Benitez Gonzalez",
+              "Carlos M. Benitez",
+              "Carlos Manuel Benitez Gonzalez"
+          ],
+          "reward_text": null,
+          "possible_countries": [
+              "CRI",
+              "CUB",
+              "DOM",
+              "NIC",
+              "USA"
+          ],
+          "description": "Conspiracy to Defraud the United States, to Cause the Submission of False Claims, and to Pay Health Care Kickbacks; Conspiracy to Commit Health Care Fraud; Submission of False Claims; Money Laundering Conspiracy; Money Laundering",
+          "caution": "<p>Carlos Benitez, <a href=\"https://www.fbi.gov/wanted/wcc/luis-benitez\" data-val=\"https://www.fbi.gov/wanted/wcc/luis-benitez\" data-urltype=\"/view\" data-linktype=\"external\">Luis Benitez </a>and <a href=\"https://www.fbi.gov/wanted/wcc/jose-benitez\" data-val=\"https://www.fbi.gov/wanted/wcc/jose-benitez\" data-urltype=\"/view\" data-linktype=\"external\">Jose Benitez</a> are wanted for their alleged involvement in a multi-million dollar scheme to defraud Medicare in the Miami-Dade area of Florida. It is alleged that from 2001 through 2004, the Benitez brothers, using straw owners to disguise their own involvement, owned and directed eleven medical clinics that purportedly provided HIV infusion treatment to infected Medicare beneficiaries. However, the medication that was alleged to have been given to the patients was medically unnecessary and often never given to the patients. The patients received kickbacks for their Medicare information. The Benitez brothers then allegedly opened sham companies to launder millions of dollars coming into the clinics from Medicare.</p>\r\n<p> </p>\r\n<p>On May 22, 2008, the Benitez brothers were indicted by a Federal Grand Jury for the United States District Court, Southern District of Florida, for conspiracy to defraud the United States, to cause the submission of false claims, and to pay health care kickbacks; conspiracy to commit health care fraud; submission of false claims; money laundering conspiracy; and money laundering. That same day, federal warrants were issued for their arrests.</p>",
+          "weight_max": 180,
+          "legat_names": null,
+          "race": "hispanic",
+          "modified": "2016-07-26T00:51:29+00:00",
+          "publication": "2010-08-17T15:40:00",
+          "weight": "180 pounds",
+          "status": "na",
+          "possible_states": [
+              "US-FL"
+          ],
+          "scars_and_marks": "None known",
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/wcc/carlos-benitez/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/wcc/carlos-benitez/@@images/image",
+                  "caption": "Photograph taken in 2005",
+                  "large": "https://www.fbi.gov/wanted/wcc/carlos-benitez/@@images/image/large"
+              }
+          ],
+          "remarks": "<p>Carlos Benitez may have traveled to Costa Rica, Cuba, the Dominican Republic and Nicaragua.</p>",
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/wcc/carlos-benitez/download.pdf"
+              }
+          ],
+          "field_offices": [
+              "miami"
+          ],
+          "coordinates": [],
+          "race_raw": "White (Hispanic)",
+          "hair_raw": "Black",
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": [
+              "August 3, 1961"
+          ],
+          "details": null,
+          "warning_message": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "black",
+          "title": "CARLOS BENITEZ",
+          "occupations": [
+              "Businessman"
+          ],
+          "@id": "https://api.fbi.gov/@wanted-person/e3fea65939bd6028912b2e93baafac6c"
+      },
+      {
+          "eyes": "brown",
+          "sex": "Male",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/wcc/jose-benitez",
+          "ncic": "W514486351",
+          "path": "/wanted/wcc/jose-benitez",
+          "locations": null,
+          "weight_min": 155,
+          "place_of_birth": "Cuba",
+          "reward_min": 0,
+          "subjects": [
+              "White-Collar Crime"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "4e956bd7292c3a844aea29c79833f975",
+          "eyes_raw": "Brown",
+          "height_max": 71,
+          "nationality": "Cuban",
+          "age_range": null,
+          "height_min": 71,
+          "aliases": [
+              "Jose Manuel Benitez",
+              "Jose Manuel Gonzalez",
+              "Jose Manuel Benitez Gonzalez"
+          ],
+          "reward_text": null,
+          "possible_countries": [
+              "CUB",
+              "DMA",
+              "DOM",
+              "NIC",
+              "USA"
+          ],
+          "description": "Conspiracy to Defraud the United States, to Cause the Submission of False Claims, and to Pay Health Care Kickbacks; Conspiracy to Commit Health Care Fraud; Submission of False Claims; Money Laundering Conspiracy; Money Laundering",
+          "caution": "<p>Jose Benitez, <a href=\"https://www.fbi.gov/wanted/wcc/carlos-benitez\" data-val=\"https://www.fbi.gov/wanted/wcc/carlos-benitez\" data-urltype=\"/view\" data-linktype=\"external\">Carlos Benitez</a>, and <a href=\"https://www.fbi.gov/wanted/wcc/luis-benitez\" data-val=\"https://www.fbi.gov/wanted/wcc/luis-benitez\" data-urltype=\"/view\" data-linktype=\"external\">Luis Benitez</a> are wanted for their alleged involvement in a multi-million dollar scheme to defraud Medicare in the Miami-Dade area of Florida. It is alleged that from 2001 through 2004, the Benitez brothers, using straw owners to disguise their own involvement, owned and directed eleven medical clinics that purportedly provided HIV infusion treatment to infected Medicare beneficiaries. However, the medication that was alleged to have been given to the patients was medically unnecessary and often never given to the patients. The patients received kickbacks for their Medicare information. The Benitez brothers then allegedly opened sham companies to launder millions of dollars coming into the clinics from Medicare.</p>\r\n<p> </p>\r\n<p>On May 22, 2008, the Benitez brothers were indicted by a Federal Grand Jury for the United States District Court, Southern District of Florida, for conspiracy to defraud the United States, to cause the submission of false claims, and to pay health care kickbacks; conspiracy to commit health care fraud; submission of false claims; money laundering conspiracy; and money laundering. That same day, federal warrants were issued for their arrests.</p>",
+          "weight_max": 155,
+          "legat_names": null,
+          "race": "hispanic",
+          "modified": "2016-07-26T00:48:22+00:00",
+          "publication": "2010-08-17T15:50:00",
+          "weight": "155 pounds",
+          "status": "na",
+          "possible_states": [
+              "US-FL"
+          ],
+          "scars_and_marks": "None known",
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/wcc/jose-benitez/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/wcc/jose-benitez/@@images/image",
+                  "caption": "Photograph taken in 2007",
+                  "large": "https://www.fbi.gov/wanted/wcc/jose-benitez/@@images/image/large"
+              }
+          ],
+          "remarks": "<p>Jose Benitez may have travelled to Cuba, the Dominican Republic, and Nicaragua.</p>",
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/wcc/jose-benitez/download.pdf"
+              }
+          ],
+          "field_offices": [
+              "miami"
+          ],
+          "coordinates": [],
+          "race_raw": "White (Hispanic)",
+          "hair_raw": "Black",
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": [
+              "February 29, 1964"
+          ],
+          "details": null,
+          "warning_message": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "black",
+          "title": "JOSE BENITEZ",
+          "occupations": [
+              "Businessman"
+          ],
+          "@id": "https://api.fbi.gov/@wanted-person/4e956bd7292c3a844aea29c79833f975"
+      },
+      {
+          "eyes": "brown",
+          "sex": "Male",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/wcc/luis-benitez",
+          "ncic": "W484468798",
+          "path": "/wanted/wcc/luis-benitez",
+          "locations": null,
+          "weight_min": 180,
+          "place_of_birth": "Cuba",
+          "reward_min": 0,
+          "subjects": [
+              "White-Collar Crime"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "574e3cf3531d3fe1c7903a75a023209a",
+          "eyes_raw": "Brown",
+          "height_max": 71,
+          "nationality": "Cuban",
+          "age_range": null,
+          "height_min": 71,
+          "aliases": [
+              "Luis Enrique Gonzalez",
+              "Luis E. Benitez",
+              "Luis Enrique Benitez Gonzalez"
+          ],
+          "reward_text": null,
+          "possible_countries": [
+              "CUB",
+              "DOM",
+              "NIC",
+              "USA"
+          ],
+          "description": "Conspiracy to Defraud the United States, to Cause the Submission of False Claims, and to Pay Health Care Kickbacks; Conspiracy to Commit Health Care Fraud; Submission of False Claims; Money Laundering Conspiracy; Money Laundering",
+          "caution": "<p>Luis Benitez, <a href=\"https://www.fbi.gov/wanted/wcc/carlos-benitez\" data-val=\"https://www.fbi.gov/wanted/wcc/carlos-benitez\" data-urltype=\"/view\" data-linktype=\"external\">Carlos Benitez</a>, and <a href=\"https://www.fbi.gov/wanted/wcc/jose-benitez\" data-val=\"https://www.fbi.gov/wanted/wcc/jose-benitez\" data-urltype=\"/view\" data-linktype=\"external\">Jose Benitez </a>are wanted for their alleged involvement in a multi-million dollar scheme to defraud Medicare in the Miami-Dade area of Florida. It is alleged that from 2001 through 2004, the Benitez brothers, using straw owners to disguise their own involvement, owned and directed eleven medical clinics that purportedly provided HIV infusion treatment to infected Medicare beneficiaries. However, the medication that was alleged to have been given to the patients was medically unnecessary and often never given to the patients. The patients received kickbacks for their Medicare information. The Benitez brothers then allegedly opened sham companies to launder millions of dollars coming into the clinics from Medicare.</p>\r\n<p> </p>\r\n<p>On May 22, 2008, the Benitez brothers were indicted by a Federal Grand Jury for the United States District Court, Southern District of Florida, for conspiracy to defraud the United States, to cause the submission of false claims, and to pay health care kickbacks; conspiracy to commit health care fraud; submission of false claims; money laundering conspiracy; and money laundering. That same day, federal warrants were issued for their arrests.</p>",
+          "weight_max": 180,
+          "legat_names": null,
+          "race": "hispanic",
+          "modified": "2016-07-26T00:19:14+00:00",
+          "publication": "2010-08-12T19:35:00",
+          "weight": "180 pounds",
+          "status": "na",
+          "possible_states": [
+              "US-FL"
+          ],
+          "scars_and_marks": "None known",
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/wcc/luis-benitez/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/wcc/luis-benitez/@@images/image",
+                  "caption": "Photograph taken in 2005",
+                  "large": "https://www.fbi.gov/wanted/wcc/luis-benitez/@@images/image/large"
+              }
+          ],
+          "remarks": "<p>Luis Benitez injured his leg and walks with a limp. He may travel to Cuba, the Dominican Republic and Nicaragua.</p>",
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/wcc/luis-benitez/download.pdf"
+              }
+          ],
+          "field_offices": [
+              "miami"
+          ],
+          "coordinates": [],
+          "race_raw": "White (Hispanic)",
+          "hair_raw": "Black",
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": [
+              "June 6, 1966"
+          ],
+          "details": null,
+          "warning_message": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "black",
+          "title": "LUIS BENITEZ",
+          "occupations": [
+              "Businessman"
+          ],
+          "@id": "https://api.fbi.gov/@wanted-person/574e3cf3531d3fe1c7903a75a023209a"
+      },
+      {
+          "eyes": "brown",
+          "sex": "Male",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/wcc/jorge-iglesias-vazquez",
+          "ncic": "W225178837",
+          "path": "/wanted/wcc/jorge-iglesias-vazquez",
+          "locations": null,
+          "weight_min": 180,
+          "place_of_birth": "Cuba",
+          "reward_min": 0,
+          "subjects": [
+              "White-Collar Crime"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "757fb3f8-9c36-443c-9577-3fe2443f1cbe",
+          "eyes_raw": "Brown",
+          "height_max": 68,
+          "nationality": "Cuban",
+          "age_range": null,
+          "height_min": 68,
+          "aliases": [
+              "Jorge Iglesias-Vazquez",
+              "Jorge Iglesias Vazquez",
+              "Jorge Islesias Vazquez"
+          ],
+          "reward_text": null,
+          "possible_countries": null,
+          "description": "Health Care Fraud",
+          "caution": "<p>Jorge Iglesias is wanted for his alleged involvement in a scheme to defraud Medicare out of more than one million dollars in Puerto Rico.  Iglesias was the owner and resident agent of Affordable Medical Services Group, which was a durable medical equipment (DME) company authorized to do business in Puerto Rico, with its business office located in Carolina, Puerto Rico. DMEs are medically necessary and prescribed by medical doctors or other qualified health care providers. They are designed for repeated use and for medical purposes, such as prosthetic limbs.</p>\r\n<p> </p>\r\n<p>Affordable Medical Services Group was in business from August of 2007 until February of 2008. During that time, the company received approximately $1.1 million in Medicare reimbursements for DMEs that were not medically necessary. It is alleged that Iglesias controlled the business activities of the company, including the submission of DME claims to Medicare. Iglesias also had signature authority on the Affordable Medical Services Group bank account where all Medicare deposits were made. From 2007 to 2008, Iglesias allegedly submitted 354 fraudulent claims to Medicare for prosthetic limbs.</p>\r\n<p> </p>\r\n<p>On September 24, 2008, a federal arrest warrant was issued for Iglesias by the United States District Court, District of Puerto Rico, after he was indicted federally for health care fraud-related crimes.</p>",
+          "weight_max": 180,
+          "legat_names": null,
+          "race": "hispanic",
+          "modified": "2016-07-26T00:07:54+00:00",
+          "publication": "2013-02-20T07:00:00",
+          "weight": "180 pounds",
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/wcc/jorge-iglesias-vazquez/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/wcc/jorge-iglesias-vazquez/@@images/image",
+                  "caption": "Photograph taken in 2004",
+                  "large": "https://www.fbi.gov/wanted/wcc/jorge-iglesias-vazquez/@@images/image/large"
+              }
+          ],
+          "remarks": null,
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/wcc/jorge-iglesias-vazquez/download.pdf"
+              }
+          ],
+          "field_offices": [
+              "sanjuan"
+          ],
+          "coordinates": [],
+          "race_raw": "White (Hispanic)",
+          "hair_raw": "Brown",
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": [
+              "November 25, 1961"
+          ],
+          "details": null,
+          "warning_message": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "title": "JORGE IGLESIAS",
+          "occupations": null,
+          "@id": "https://api.fbi.gov/@wanted-person/757fb3f8-9c36-443c-9577-3fe2443f1cbe"
+      },
+      {
+          "eyes": "brown",
+          "sex": "Male",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/wcc/carlos-ramos",
+          "ncic": "W845198295",
+          "path": "/wanted/wcc/carlos-ramos",
+          "locations": null,
+          "weight_min": 140,
+          "place_of_birth": "Cuba",
+          "reward_min": 0,
+          "subjects": [
+              "White-Collar Crime"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "f149ddba-72d9-4b19-8d3b-5692503d1c4e",
+          "eyes_raw": "Brown",
+          "height_max": 69,
+          "nationality": "Cuban",
+          "age_range": null,
+          "height_min": 69,
+          "aliases": [
+              "Carlos Ramos-Herrera"
+          ],
+          "reward_text": null,
+          "possible_countries": null,
+          "description": "Health Care Fraud",
+          "caution": "<p>Carlos Ramos is wanted for his alleged involvement in a scheme to defraud Medicare out of more than one million dollars in Puerto Rico.  Ramos was the owner and resident agent of I Plus I Medical Supply, which was a durable medical equipment (DME) company authorized to do business in Puerto Rico, with its business office located in Rio Piedras, Puerto Rico. DMEs are medically necessary and prescribed by medical doctors or other qualified health care providers. They are designed for repeated use and for medical purposes, such as prosthetic limbs.</p>\r\n<p> </p>\r\n<p>I Plus I Medical Supply was in business from September of 2007 until February of 2008. During that time, the company received approximately $1.2 million in Medicare reimbursements for DMEs that were not medically necessary. It is alleged that Ramos controlled the business activities of the company, including the submission of DME claims to Medicare. Ramos also had signature authority on the I Plus I Medical Supply bank account where all Medicare deposits were made. From 2007 to 2008, Ramos allegedly submitted 232 fraudulent claims to Medicare for prosthetic limbs.</p>\r\n<p> </p>\r\n<p>On September 24, 2008, a federal arrest warrant was issued for Ramos by the United States District Court, District of Puerto Rico, after he was indicted federally for health care fraud-related crimes.</p>",
+          "weight_max": 140,
+          "legat_names": null,
+          "race": "hispanic",
+          "modified": "2016-07-26T00:03:43+00:00",
+          "publication": "2013-02-20T07:00:00",
+          "weight": "140 pounds",
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": "Ramos has a scar on his knee.",
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/wcc/carlos-ramos/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/wcc/carlos-ramos/@@images/image",
+                  "caption": "Photograph taken in 2005",
+                  "large": "https://www.fbi.gov/wanted/wcc/carlos-ramos/@@images/image/large"
+              }
+          ],
+          "remarks": null,
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/wcc/carlos-ramos/download.pdf"
+              }
+          ],
+          "field_offices": [
+              "sanjuan"
+          ],
+          "coordinates": [],
+          "race_raw": "White (Hispanic)",
+          "hair_raw": "Black",
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": [
+              "January 1, 1969"
+          ],
+          "details": null,
+          "warning_message": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "black",
+          "title": "CARLOS RAMOS",
+          "occupations": null,
+          "@id": "https://api.fbi.gov/@wanted-person/f149ddba-72d9-4b19-8d3b-5692503d1c4e"
+      },
+      {
+          "eyes": "brown",
+          "sex": "Male",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/wcc/john-anthony-porcaro",
+          "ncic": "W295378385",
+          "path": "/wanted/wcc/john-anthony-porcaro",
+          "locations": null,
+          "weight_min": 197,
+          "place_of_birth": "New York",
+          "reward_min": 0,
+          "subjects": [
+              "White-Collar Crime"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "0d8ce11baaed80cf362c08f7aff73cf6",
+          "eyes_raw": "Brown",
+          "height_max": 68,
+          "nationality": "American",
+          "age_range": null,
+          "height_min": 68,
+          "aliases": [
+              "John A. Porcaro"
+          ],
+          "reward_text": "The FBI is offering a reward for information leading to the arrest of John Anthony Porcaro.",
+          "possible_countries": [
+              "USA"
+          ],
+          "description": "Conspiracy to Commit Mail and Wire Fraud; Conspiracy to Commit Money Laundering",
+          "caution": "<p>John Anthony Porcaro is wanted for his alleged involvement in a South Florida telemarketing scheme which defrauded more than 400 individuals throughout the United States out of more than $5 million. Between February and December of 1998, the Trump Financial Group and the Sheffield Group were doing business as telemarketing firms which obtained money from investors for purported investment in foreign currency options in the foreign exchange markets. It is alleged that investors were promised as much as 700 percent returns based upon the rise and fall of the value of foreign currencies in relation to the value of the United States Dollar.</p>\r\n<p> </p>\r\n<p>Investors rarely, if ever, received returns on their investments and money raised from investors allegedly was used for the personal benefit of the firms' principal employees and telemarketers who sold investments. A substantial amount of the money also was transferred to offshore bank accounts in the Cayman Islands.</p>\r\n<p> </p>\r\n<p>On October 21, 2003, a federal indictment was filed by the United States District Court, Southern District of Florida, charging Porcaro, and others who are no longer at large, with multiple counts of wire fraud, mail fraud, and money laundering. A federal warrant remains outstanding for the arrest of Porcaro.</p>",
+          "weight_max": 197,
+          "legat_names": null,
+          "race": "white",
+          "modified": "2016-07-25T23:45:30+00:00",
+          "publication": "2010-08-17T17:15:00",
+          "weight": "197 pounds",
+          "status": "na",
+          "possible_states": [
+              "US-FL",
+              "US-NY"
+          ],
+          "scars_and_marks": "Porcaro has an artificial right eye and a scar above his left eye.",
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/wcc/john-anthony-porcaro/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/wcc/john-anthony-porcaro/@@images/image",
+                  "caption": "Photograph taken in 1989",
+                  "large": "https://www.fbi.gov/wanted/wcc/john-anthony-porcaro/@@images/image/large"
+              }
+          ],
+          "remarks": "<p>Porcaro is an alleged associate of the Gambino crime family in New York.</p>",
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/wcc/john-anthony-porcaro/download.pdf"
+              }
+          ],
+          "field_offices": [
+              "miami"
+          ],
+          "coordinates": [],
+          "race_raw": "White",
+          "hair_raw": "Brown",
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": [
+              "June 16, 1959"
+          ],
+          "details": null,
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "title": "JOHN ANTHONY PORCARO",
+          "occupations": [
+              "Moving company owner"
+          ],
+          "@id": "https://api.fbi.gov/@wanted-person/0d8ce11baaed80cf362c08f7aff73cf6"
+      },
+      {
+          "eyes": "blue",
+          "sex": "Male",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/wcc/hamed-ahmed-elbarki",
+          "ncic": "W655617378",
+          "path": "/wanted/wcc/hamed-ahmed-elbarki",
+          "locations": null,
+          "weight_min": 210,
+          "place_of_birth": "New Jersey",
+          "reward_min": 0,
+          "subjects": [
+              "White-Collar Crime"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": [
+              "English",
+              "Arabic"
+          ],
+          "uid": "92ba8dc7-a13e-45e1-a1b6-9f8f39333690",
+          "eyes_raw": "Blue",
+          "height_max": 71,
+          "nationality": "American",
+          "age_range": null,
+          "height_min": 71,
+          "aliases": [
+              "Hamed Elbarki",
+              "Eddy Elbarki"
+          ],
+          "reward_text": null,
+          "possible_countries": [
+              "EGY",
+              "ARE"
+          ],
+          "description": "Wire Fraud; Securities Fraud",
+          "caution": "<p>Hamed Ahmed Elbarki, a convicted felon, is wanted for his alleged involvement in a mortgage-related scheme that defrauded individuals out of nearly $2 million. It is alleged that from approximately September of 2007 through March of 2008, Elbarki, doing business as Aventura Trust Investments Corporation (ATI), solicited money from two individuals who resided in South America. The individuals believed that they were investing in the short-term purchase and sale of residential mortgage loans, promising 50% returns. Instead, Elbarki allegedly misappropriated the investors' funds for personal use.</p>\r\n<p> </p>\r\n<p>On December 11, 2008, Elbarki was indicted federally by the United States District Court, Southern District of Florida at Miami, Florida, for wire fraud and securities fraud. That same day, a federal warrant was issued for Elbarki's arrest.</p>",
+          "weight_max": 210,
+          "legat_names": null,
+          "race": "white",
+          "modified": "2016-07-25T23:20:00+00:00",
+          "publication": "2013-03-26T07:00:00",
+          "weight": "210 pounds",
+          "status": "na",
+          "possible_states": [
+              "US-FL"
+          ],
+          "scars_and_marks": null,
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/wcc/hamed-ahmed-elbarki/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/wcc/hamed-ahmed-elbarki/@@images/image",
+                  "caption": "Photograph taken in 2005",
+                  "large": "https://www.fbi.gov/wanted/wcc/hamed-ahmed-elbarki/@@images/image/large"
+              }
+          ],
+          "remarks": "<p>Elbarki has sold cars and investment opportunities, and has worked for a mortgage brokerage firm. Elbarki may have travelled to Cairo, Egypt and Dubai, United Arab Emirates. He has familial ties to Florida.</p>",
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/wcc/hamed-ahmed-elbarki/download.pdf"
+              }
+          ],
+          "field_offices": [
+              "miami"
+          ],
+          "coordinates": [],
+          "race_raw": "White",
+          "hair_raw": "Brown (balding or shaved)",
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": [
+              "February 12, 1977"
+          ],
+          "details": null,
+          "warning_message": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "title": "HAMED AHMED ELBARKI",
+          "occupations": [
+              "Sales"
+          ],
+          "@id": "https://api.fbi.gov/@wanted-person/92ba8dc7-a13e-45e1-a1b6-9f8f39333690"
+      },
+      {
+          "eyes": "brown",
+          "sex": "Male",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/wcc/loy-naovarath",
+          "ncic": "W355260844",
+          "path": "/wanted/wcc/loy-naovarath",
+          "locations": null,
+          "weight_min": 160,
+          "place_of_birth": "Laos",
+          "reward_min": 0,
+          "subjects": [
+              "White-Collar Crime"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "804ef18c-21ea-4a4b-a206-b82209174299",
+          "eyes_raw": "Brown",
+          "height_max": 70,
+          "nationality": "Laotian",
+          "age_range": null,
+          "height_min": 70,
+          "aliases": [
+              "\"Loi\"",
+              "\"Loy\"",
+              "Phet Naovarath",
+              "Phetsamone Loi Naovarath",
+              "Phetsamone Loy Naovarath"
+          ],
+          "reward_text": null,
+          "possible_countries": [
+              "LAO"
+          ],
+          "description": "Escape",
+          "caution": "<p>Phet Loi Naovarath is wanted for his involvement in a fraudulent scheme that victimized multiple FDIC insured institutions, as well as many individuals within his own Laotian community in Nevada, from 2005 to 2007. Naovarath promised the Laotian victims that they would be \"investment partners\" on various Las Vegas properties that they would be purchasing. However, instead of being a partner on a legitimate real estate transaction, Naovarath merely used their identities to buy and then quickly resell (flip) the high-end properties.</p>\r\n<p> </p>\r\n<p>In some cases, Naovarath used the same buyer to purchase several properties, incurring millions of dollars in mortgage debt. Most, if not all, of the properties within one entire up-scale Las Vegas community were purchased in the same fraudulent manner, resulting in numerous foreclosures and losses exceeding $10 million.</p>\r\n<p> </p>\r\n<p>Naovarath used the ill-gotten gains to support his lavish lifestyle. Several of Naovarath's co-conspirators pled guilty and were subsequently sentenced. Due to the overwhelming evidence against him, Naovarath pled guilty and was sentenced to 33 months in federal prison.</p>\r\n<p> </p>\r\n<p>In May 2012, just before reporting to the Bureau of Prisons to begin serving his sentence, Naovarath fled Las Vegas, leaving behind his wife and two young children. On June 15, 2012, a federal warrant was issued for Naovarath's arrest.</p>",
+          "weight_max": 165,
+          "legat_names": null,
+          "race": "asian",
+          "modified": "2016-07-25T22:44:47+00:00",
+          "publication": "2013-09-23T07:00:00",
+          "weight": "160 to 165  pounds",
+          "status": "na",
+          "possible_states": [
+              "US-NV"
+          ],
+          "scars_and_marks": "Naovarath has a tattoo on his back and a tattoo on his right shoulder.",
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/wcc/loy-naovarath/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/wcc/loy-naovarath/@@images/image",
+                  "caption": "Photograph taken in 2009",
+                  "large": "https://www.fbi.gov/wanted/wcc/loy-naovarath/@@images/image/large"
+              }
+          ],
+          "remarks": "<p>Naovarath enjoys fast cars and previously has owned a Lamborghini. Naovarath may have travelled to Laos; Los Angeles, California; and Las Vegas and Pahrump, Nevada.</p>",
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/wcc/loy-naovarath/download.pdf"
+              }
+          ],
+          "field_offices": [
+              "lasvegas"
+          ],
+          "coordinates": [],
+          "race_raw": "Asian",
+          "hair_raw": "Black/Brown",
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": [
+              "May 1, 1976"
+          ],
+          "details": null,
+          "warning_message": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "title": "PHET LOI NAOVARATH",
+          "occupations": [
+              "Car dealer",
+              "Real estate investor",
+              "Card dealer"
+          ],
+          "@id": "https://api.fbi.gov/@wanted-person/804ef18c-21ea-4a4b-a206-b82209174299"
+      },
+      {
+          "eyes": "black",
+          "sex": "Male",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/wcc/jie-dong",
+          "ncic": "W206339519",
+          "path": "/wanted/wcc/jie-dong",
+          "locations": null,
+          "weight_min": 175,
+          "place_of_birth": null,
+          "reward_min": 0,
+          "subjects": [
+              "White-Collar Crime"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "c5ab9272-7cef-408d-bf54-e6a73795de20",
+          "eyes_raw": "Black",
+          "height_max": 70,
+          "nationality": null,
+          "age_range": null,
+          "height_min": 70,
+          "aliases": null,
+          "reward_text": null,
+          "possible_countries": [
+              "CHN",
+              "HKG"
+          ],
+          "description": "Mail Fraud and Wire Fraud (Internet Related)",
+          "caution": "<p>Jie Dong is wanted for defrauding Internet auction site users out of approximately $800,000. In the fall of 2003, Dong allegedly offered items on the auction site and collected money from the purported winning bidders. Dong is alleged to have never produced the promised merchandise to the nearly 5,000 victims. Dong is believed to have later fled from the United States to China and may now be in Hong Kong.</p>\r\n<p> </p>\r\n<p>The case is being investigated by the Electronics Crimes Task Force, comprised of FBI and U.S. Secret Service agents and state law enforcement authorities in California. On August 20, 2004, a federal arrest warrant was issued in the Central District of California charging Dong with mail fraud and wire fraud.</p>\r\n<p> </p>\r\n<p>As of January 2013, the FBI continues to receive reports that Dong may be continuing criminal activity against the United States while residing overseas.</p>",
+          "weight_max": 175,
+          "legat_names": null,
+          "race": "asian",
+          "modified": "2016-07-25T22:36:41+00:00",
+          "publication": "2010-08-28T04:35:00",
+          "weight": "175 pounds",
+          "status": "na",
+          "possible_states": [
+              "US-CA"
+          ],
+          "scars_and_marks": "None known",
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/wcc/jie-dong/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/wcc/jie-dong/@@images/image",
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/wcc/jie-dong/@@images/image/large"
+              }
+          ],
+          "remarks": null,
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/wcc/jie-dong/download.pdf"
+              }
+          ],
+          "field_offices": [
+              "losangeles"
+          ],
+          "coordinates": [],
+          "race_raw": "Asian",
+          "hair_raw": "Black",
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": [
+              "September 8, 1963"
+          ],
+          "details": null,
+          "warning_message": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "black",
+          "title": "JIE DONG",
+          "occupations": null,
+          "@id": "https://api.fbi.gov/@wanted-person/c5ab9272-7cef-408d-bf54-e6a73795de20"
+      },
+      {
+          "eyes": "brown",
+          "sex": "Male",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/wcc/spiro-edward-germenis",
+          "ncic": "W053136910",
+          "path": "/wanted/wcc/spiro-edward-germenis",
+          "locations": null,
+          "weight_min": 200,
+          "place_of_birth": "Flushing, Queens, New York",
+          "reward_min": 0,
+          "subjects": [
+              "White-Collar Crime"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "61442a20ddcb8461c6795d759bc56398",
+          "eyes_raw": "Brown",
+          "height_max": 70,
+          "nationality": "American",
+          "age_range": null,
+          "height_min": 70,
+          "aliases": [
+              "Spiro Germenis",
+              "Spiro Germenis",
+              "Spiro Germenis"
+          ],
+          "reward_text": "The FBI is offering a reward of up to $20,000 for information leading to the arrest of Spiro Edward Germenis.",
+          "possible_countries": [
+              "GRC",
+              "USA"
+          ],
+          "description": "Fraud By Wire",
+          "caution": "<p>Spiro Edward Germenis is wanted for his alleged orchestration of a \"Ponzi\" scheme, which led to him being charged with violating federal fraud by wire laws in 2007. Germenis established an investment management and advisory business named Oracle Evolution LLC, which was based in Great Neck, New York. He created various hedge funds and expanded his business by attracting new investors through networking groups and personal referrals. Germenis eventually lost substantial sums of money due to poor investment choices, gambling, and the use of his clients' money to fund a lavish lifestyle. He then allegedly sent his clients falsified financial statements showing excellent investment returns, which led to more investment money from his victims.</p>\r\n<p> </p>\r\n<p>The fraud collapsed when one of his largest investors sought to withdraw money from one of the hedge funds. The majority of those doing business with Germenis were middle-class people, and some were senior citizens who invested and lost their entire life savings. Together, more than twenty-five victims lost over eight million dollars.</p>\r\n<p> </p>\r\n<p>Germenis disappeared in October of 2006. After telling his family that he was going to a baseball game, Germenis drove to JFK Airport in New York and boarded a flight to Athens, Greece. He has not been seen or heard from since.</p>\r\n<p> </p>\r\n<p>On September 27, 2007, Germenis was charged with fraud by wire and a federal arrest warrant was issued by the United States District Court, Eastern District of New York, in Brooklyn, New York.</p>",
+          "weight_max": 220,
+          "legat_names": null,
+          "race": "white",
+          "modified": "2016-07-25T19:15:42+00:00",
+          "publication": "2010-08-12T17:55:00",
+          "weight": "200 to 220 pounds",
+          "status": "na",
+          "possible_states": [
+              "US-NY"
+          ],
+          "scars_and_marks": "Germenis has scars on his arm.",
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/wcc/spiro-edward-germenis/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/wcc/spiro-edward-germenis/@@images/image",
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/wcc/spiro-edward-germenis/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/wcc/spiro-edward-germenis/germenis2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/wcc/spiro-edward-germenis/germenis2.jpg",
+                  "caption": "Spiro Edward Germenis is wanted for his alleged orchestration of a \"Ponzi\" scheme, which led to him being charged with violating federal fraud by wire laws in 2007.",
+                  "large": "https://www.fbi.gov/wanted/wcc/spiro-edward-germenis/germenis2.jpg/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/wcc/spiro-edward-germenis/germenis3.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/wcc/spiro-edward-germenis/germenis3.jpg",
+                  "caption": "Spiro Edward Germenis is wanted for his alleged orchestration of a \"Ponzi\" scheme, which led to him being charged with violating federal fraud by wire laws in 2007.",
+                  "large": "https://www.fbi.gov/wanted/wcc/spiro-edward-germenis/germenis3.jpg/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/wcc/spiro-edward-germenis/germenis5.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/wcc/spiro-edward-germenis/germenis5.jpg",
+                  "caption": "Spiro Edward Germenis is wanted for his alleged orchestration of a \"Ponzi\" scheme, which led to him being charged with violating federal fraud by wire laws in 2007.",
+                  "large": "https://www.fbi.gov/wanted/wcc/spiro-edward-germenis/germenis5.jpg/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/wcc/spiro-edward-germenis/germenis4.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/wcc/spiro-edward-germenis/germenis4.jpg",
+                  "caption": "Spiro Edward Germenis is wanted for his alleged orchestration of a \"Ponzi\" scheme, which led to him being charged with violating federal fraud by wire laws in 2007.",
+                  "large": "https://www.fbi.gov/wanted/wcc/spiro-edward-germenis/germenis4.jpg/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/wcc/spiro-edward-germenis/germenis6.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/wcc/spiro-edward-germenis/germenis6.jpg",
+                  "caption": "Spiro Edward Germenis is wanted for his alleged orchestration of a \"Ponzi\" scheme, which led to him being charged with violating federal fraud by wire laws in 2007.",
+                  "large": "https://www.fbi.gov/wanted/wcc/spiro-edward-germenis/germenis6.jpg/@@images/image/large"
+              }
+          ],
+          "remarks": "<p>Germenis may have facial hair. He has ties to Greece.</p>",
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/wcc/spiro-edward-germenis/download.pdf"
+              }
+          ],
+          "field_offices": [
+              "newyork"
+          ],
+          "coordinates": [],
+          "race_raw": "White",
+          "hair_raw": "Brown",
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": [
+              "October 28, 1972"
+          ],
+          "details": null,
+          "warning_message": "SHOULD BE CONSIDERED AN ESCAPE RISK",
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "title": "SPIRO EDWARD GERMENIS",
+          "occupations": [
+              "Investment Advisor / Fund Manager"
+          ],
+          "@id": "https://api.fbi.gov/@wanted-person/61442a20ddcb8461c6795d759bc56398"
+      },
+      {
+          "eyes": "blue",
+          "sex": "Male",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/wcc/fernando-grijalva",
+          "ncic": "W275271957",
+          "path": "/wanted/wcc/fernando-grijalva",
+          "locations": null,
+          "weight_min": 220,
+          "place_of_birth": "Ecuador",
+          "reward_min": 0,
+          "subjects": [
+              "White-Collar Crime"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "9badeee26b4517d1c9071df85daf2653",
+          "eyes_raw": "Blue",
+          "height_max": 72,
+          "nationality": "Ecuadoran",
+          "age_range": null,
+          "height_min": 72,
+          "aliases": [
+              "Fernando Grijalva Cepeda"
+          ],
+          "reward_text": null,
+          "possible_countries": [
+              "ECU",
+              "USA"
+          ],
+          "description": "Mail Fraud; Bank Fraud",
+          "caution": "<p>Fernando Grijalva is wanted for allegedly embezzling over $3 million while working for a subsidiary of a multibillion dollar company, in Boca Raton, Florida. The subsidiary purchased computer supplies and equipment, and sold these products to various distributors. From 2002 through 2003, while head of accounts payable for this company, Grijalva allegedly issued fraudulent invoices under the name of a bogus company that he created.</p>\r\n<p> </p>\r\n<p>On December 12, 2003, a complaint was filed by the United States Magistrate, United States District Court, Southern District of Florida, charging Grijalva with mail fraud and bank fraud, and a federal warrant was issued for his arrest.</p>\r\n<p> </p>\r\n<p>Grijalva is also wanted by local law enforcement authorities in Florida for violating his probation which followed an unrelated charge for grand theft in 2001.</p>",
+          "weight_max": 220,
+          "legat_names": null,
+          "race": "white",
+          "modified": "2016-07-25T19:07:19+00:00",
+          "publication": "2010-08-17T17:30:00",
+          "weight": "220 pounds",
+          "status": "na",
+          "possible_states": [
+              "US-FL",
+              "US-NV"
+          ],
+          "scars_and_marks": "None known",
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/wcc/fernando-grijalva/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/wcc/fernando-grijalva/@@images/image",
+                  "caption": "Photograph taken in 2001",
+                  "large": "https://www.fbi.gov/wanted/wcc/fernando-grijalva/@@images/image/large"
+              }
+          ],
+          "remarks": "<p>Grijalva may travel to Las Vegas, Nevada, or Miami, Florida. Grijalva is believed to be in Ecuador.</p>",
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/wcc/fernando-grijalva/download.pdf"
+              }
+          ],
+          "field_offices": [
+              "miami"
+          ],
+          "coordinates": [],
+          "race_raw": "White",
+          "hair_raw": "Brown",
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": [
+              "March 26, 1975"
+          ],
+          "details": null,
+          "warning_message": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "title": "FERNANDO GRIJALVA",
+          "occupations": [
+              "Businessman"
+          ],
+          "@id": "https://api.fbi.gov/@wanted-person/9badeee26b4517d1c9071df85daf2653"
+      },
+      {
+          "eyes": "brown",
+          "sex": "Male",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/wcc/luis-ferreira",
+          "ncic": "W523398460",
+          "path": "/wanted/wcc/luis-ferreira",
+          "locations": null,
+          "weight_min": 185,
+          "place_of_birth": "Brazil",
+          "reward_min": 0,
+          "subjects": [
+              "White-Collar Crime"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "cce05a1c7bb8e7adb244515f449f21b4",
+          "eyes_raw": "Brown",
+          "height_max": 73,
+          "nationality": "Brazilian",
+          "age_range": null,
+          "height_min": 73,
+          "aliases": [
+              "Lou Ferreira",
+              "Lou Almeida",
+              "Luis Carlos de Almeida",
+              "Luis C. de Almeida",
+              "Luis Carlos de Almeida",
+              "Mike Todd"
+          ],
+          "reward_text": null,
+          "possible_countries": [
+              "BRA"
+          ],
+          "description": "Failure to Surrender for Service of Sentence; Contempt of Court (Conspiracy to Commit Witness Tampering)",
+          "caution": "<p>Luis Ferreira, a convicted felon, is wanted for failing to surrender to serve a sentence in Florida for conspiracy to commit witness tampering in connection with his involvement in a high-yield investment scam to defraud individual investors.</p>\r\n<p> </p>\r\n<p>From mid-2008 through 2010, Ferreira was one of the principal owners of three investment firms that operated out of Deerfield Beach, Florida and solicited investments in precious metals. However, the investors were unable to liquidate accounts and company employees conducted unauthorized transactions on their behalf. Throughout that time, Ferreira was on supervised release in connection with a prior federal sentence and concealed his involvement in these firms from authorities.</p>\r\n<p> </p>\r\n<p>On November 30, 2010, Ferreira was indicted for obstruction of justice, making false statements and conspiracy to obstruct justice, and he was arrested on December 7, 2010.</p>\r\n<p> </p>\r\n<p>In January 2011, Ferreira pled guilty to one count of conspiracy to commit witness tampering. On April 18, 2011, Ferreira was sentenced to 33 months in prison, followed by three years of supervised release. Ferreira was released after sentencing and was scheduled to appear in prison no later than August 29, 2011. Ferreira was given electronic monitoring with curfew, however, on or about May 19, 2011, Ferreira did not report home for curfew and a federal warrant was issued for his arrest the next day.</p>\r\n<p> </p>\r\n<p>On August 29, 2011, Ferreira failed to report to prison to begin serving his sentence. Ferreira was indicted again on September 1, 2011 by a Federal Grand Jury for the United States District Court, Southern District of Florida for failure to surrender and contempt of court, and a federal warrant was issued for his arrest.</p>",
+          "weight_max": 200,
+          "legat_names": null,
+          "race": null,
+          "modified": "2016-07-25T18:00:33+00:00",
+          "publication": "2011-09-14T07:00:00",
+          "weight": "185 to 200 pounds",
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": "Ferreira has a tattoo on his left shoulder.",
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/wcc/luis-ferreira/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/wcc/luis-ferreira/@@images/image",
+                  "caption": "Photograph taken in 2011",
+                  "large": "https://www.fbi.gov/wanted/wcc/luis-ferreira/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/wcc/luis-ferreira/ferreira_lc2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/wcc/luis-ferreira/ferreira_lc2.jpg",
+                  "caption": "Photograph taken in 2010",
+                  "large": "https://www.fbi.gov/wanted/wcc/luis-ferreira/ferreira_lc2.jpg/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/wcc/luis-ferreira/ferreira_lc3.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/wcc/luis-ferreira/ferreira_lc3.jpg",
+                  "caption": "Photograph taken in 2010",
+                  "large": "https://www.fbi.gov/wanted/wcc/luis-ferreira/ferreira_lc3.jpg/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/wcc/luis-ferreira/ferreira_lc4.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/wcc/luis-ferreira/ferreira_lc4.jpg",
+                  "caption": "Photograph taken in 2009",
+                  "large": "https://www.fbi.gov/wanted/wcc/luis-ferreira/ferreira_lc4.jpg/@@images/image/large"
+              }
+          ],
+          "remarks": "<p>Ferreira speaks Portuguese and English. Ferreira may have been living in South America, possibly in San Paulo, Brazil or Rio de Janeiro, Brazil since May of 2011. Ferreira has owned and operated an Internet business called Brazilian Hair Experts, LLC, also doing business as L’amour, and is likely still involved with that company.</p>",
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/wcc/luis-ferreira/download.pdf"
+              }
+          ],
+          "field_offices": [
+              "miami"
+          ],
+          "coordinates": [],
+          "race_raw": null,
+          "hair_raw": "Brown",
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": [
+              "February 13, 1967"
+          ],
+          "details": null,
+          "warning_message": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "title": "LUIS FERREIRA",
+          "occupations": [
+              "Commodities Broker",
+              "Sales"
+          ],
+          "@id": "https://api.fbi.gov/@wanted-person/cce05a1c7bb8e7adb244515f449f21b4"
+      },
+      {
+          "dates_of_birth_used": [
+              "November 5, 1953"
+          ],
+          "images": [
+              {
+                  "caption": "Photograph taken in 2000",
+                  "large": "https://www.fbi.gov/wanted/cac/curtis-lee-brovold/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/cac/curtis-lee-brovold/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cac/curtis-lee-brovold/@@images/image"
+              },
+              {
+                  "caption": "Photograph taken in 2000",
+                  "large": "https://www.fbi.gov/wanted/cac/curtis-lee-brovold/brovold_cl2.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/cac/curtis-lee-brovold/brovold_cl2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cac/curtis-lee-brovold/brovold_cl2.jpg"
+              }
+          ],
+          "details": null,
+          "warning_message": null,
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "white",
+          "occupations": [
+              "Computer Technician"
+          ],
+          "suspects": null,
+          "age_min": null,
+          "hair": "blond",
+          "legat_names": null,
+          "modified": "2016-07-25T01:09:21+00:00",
+          "status": "na",
+          "publication": "2010-08-27T17:00:00",
+          "weight": "195 pounds",
+          "caution": "<p>Curtis Lee Brovold is wanted for his alleged sexual activities with a 14-year-old Minnesota girl whom he met on the Internet in February of 2000. Brovold is alleged to have communicated with the victim mostly via Internet for approximately six months. Then, in July of 2000, Brovold allegedly flew to Moorhead, Minnesota, met the teenage victim, and engaged in sex acts with her at a local hotel.</p>\r\n<p> </p>\r\n<p>Brovold was arrested on July 11, 2000, and released on bond. However, Brovold did not appear for his court hearing which was scheduled for September 18, 2000, in Clay County, Minnesota. That same day, a state arrest warrant was issued in the State of Minnesota, Seventh Judicial District, after Brovold was charged with criminal sexual conduct. Brovold was charged subsequently with unlawful flight to avoid prosecution and a federal arrest warrant was issued by the United States District Court, State and District of Minnesota.</p>",
+          "possible_states": [
+              "US-CO",
+              "US-GA",
+              "US-MN"
+          ],
+          "scars_and_marks": "Brovold has a scar on his hand and a scar on his right forearm.",
+          "race_raw": "White",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/cac/curtis-lee-brovold/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "field_offices": [
+              "minneapolis"
+          ],
+          "nationality": "American",
+          "weight_min": 195,
+          "age_range": null,
+          "uid": "8127f3722d69c2e5d8ac2b5d0b1991bf",
+          "eyes_raw": "Blue",
+          "height_max": 75,
+          "height_min": 75,
+          "aliases": null,
+          "reward_text": null,
+          "description": "Unlawful Flight To Avoid Prosecution - Criminal Sexual Conduct (Third Degree)",
+          "title": "CURTIS LEE BROVOLD",
+          "possible_countries": [
+              "MEX",
+              "USA"
+          ],
+          "hair_raw": "Blond",
+          "remarks": "<p>Brovold may have traveled to Bital and Tepey, Mexico. He has ties to Granite Falls and Wood Lake, Minnesota; Colorado Springs, Colorado; and Martinez, Georgia. He spends a lot of time on computers in chat rooms, reportedly engaging in sexually explicit conversations.</p>",
+          "weight_max": 195,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/cac/curtis-lee-brovold",
+          "ncic": "W503999579",
+          "eyes": "blue",
+          "sex": "Male",
+          "coordinates": [],
+          "path": "/wanted/cac/curtis-lee-brovold",
+          "place_of_birth": "Montevideo, Minnesota",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Crimes Against Children"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/8127f3722d69c2e5d8ac2b5d0b1991bf"
+      },
+      {
+          "dates_of_birth_used": [
+              "June 21, 1961"
+          ],
+          "images": [
+              {
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/cac/william-willingham/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/cac/william-willingham/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cac/william-willingham/@@images/image"
+              }
+          ],
+          "details": null,
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "black",
+          "occupations": [
+              "Welder",
+              "Tractor driver"
+          ],
+          "suspects": null,
+          "age_min": null,
+          "hair": "black",
+          "legat_names": null,
+          "modified": "2016-07-25T01:08:03+00:00",
+          "status": "na",
+          "publication": "2010-08-27T16:10:00",
+          "weight": "180 pounds",
+          "caution": "<p>William Willingham is wanted for kidnapping and rape in Tate County, Mississippi. On December 22, 1998, Willingham is alleged to have tied up his girlfriend in her bedroom at her residence, and proceeded to the next room to rape her daughter. Willingham's girlfriend managed to free herself and went to the aid of her daughter. However, Willingham allegedly brandished a knife and forced his girlfriend back into her room. He then returned to the room of his girlfriend's daughter and allegedly continued to rape her. Willingham soon fled the residence.</p>\r\n<p> </p>\r\n<p>On March 4, 1999, Willingham was indicted by a Tate County, Mississippi Grand Jury for statutory rape and kidnapping. A federal arrest warrant was subsequently issued after Willingham was charged with unlawful flight to avoid prosecution.</p>",
+          "possible_states": [
+              "US-AL",
+              "US-AR",
+              "US-KS",
+              "US-MS",
+              "US-TN"
+          ],
+          "scars_and_marks": "Willingham has the following tattoos on his left forearm: the word GEMINI; a circle with a symbol inside; and a circle with a cross inside.  He also has two unidentified tattoos on his left bicep.",
+          "race_raw": "Black",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/cac/william-willingham/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "field_offices": [
+              "jackson"
+          ],
+          "nationality": "American",
+          "weight_min": 180,
+          "age_range": null,
+          "uid": "69a2d14f2c8b6e610996356e371f05c2",
+          "eyes_raw": "Brown",
+          "height_max": 73,
+          "height_min": 73,
+          "aliases": null,
+          "reward_text": "The FBI and the Tate County Sheriff's Office in Mississippi are offering a $5,000 reward for information leading to the arrest of William Willingham.",
+          "description": "Unlawful Flight to Avoid Prosecution - Kidnapping, Rape",
+          "title": "WILLIAM WILLINGHAM",
+          "possible_countries": null,
+          "hair_raw": "Black",
+          "remarks": "<p>Willingham has ties to Memphis, Tennessee. He may travel to Arkansas and Alabama. He reportedly is a heavy drinker and uses drugs. He is known to carry a 12-inch knife.</p>",
+          "weight_max": 180,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/cac/william-willingham",
+          "ncic": "W521290111",
+          "eyes": "brown",
+          "sex": "Male",
+          "coordinates": [],
+          "path": "/wanted/cac/william-willingham",
+          "place_of_birth": "Memphis, Tennessee",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Crimes Against Children"
+          ],
+          "additional_information": null,
+          "reward_max": 10000,
+          "@id": "https://api.fbi.gov/@wanted-person/69a2d14f2c8b6e610996356e371f05c2"
+      },
+      {
+          "dates_of_birth_used": [
+              "February 22, 1944",
+              "February 22, 1942"
+          ],
+          "images": [
+              {
+                  "caption": "Photograph taken in 1986",
+                  "large": "https://www.fbi.gov/wanted/cac/kent-douglas-eaton/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/cac/kent-douglas-eaton/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cac/kent-douglas-eaton/@@images/image"
+              },
+              {
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/cac/kent-douglas-eaton/eaton2.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/cac/kent-douglas-eaton/eaton2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cac/kent-douglas-eaton/eaton2.jpg"
+              }
+          ],
+          "details": null,
+          "warning_message": "MAY HAVE SUICIDAL TENDENCIES",
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "white",
+          "occupations": [
+              "Eaton has worked as a photographer, learning consultant, and community volunteer for youth groups."
+          ],
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "legat_names": null,
+          "modified": "2016-07-25T01:03:11+00:00",
+          "status": "na",
+          "publication": "2014-06-04T07:00:00",
+          "weight": "Approximately 160 pounds",
+          "caution": "<p>Kent Douglas Eaton is wanted for his alleged involvement in the sexual molestation of a minor and the creation of child pornography. From approximately June of 1985, to September of 1985, Eaton allegedly molested multiple children in Santa Cruz County, California. He allegedly lured young male victims to his residence, performed lewd and lascivious acts with those minors, and photographed minors while they participated in those acts.</p>\r\n<p> </p>\r\n<p>Eaton was indicted by the Santa Cruz County Municipal Court, County of Santa Cruz, Superior Court of the State of California, on June 22, 1987, on four counts of lewd or lascivious actions with a child, three counts of oral copulation with a child, photographing a minor engaged in sexual conduct, and persuading a minor to model for sexually explicit photographs. Eaton was arrested and on September 17, 1987, while released on bond, pled guilty to charges of lewd and lascivious acts with a child, lewd and lascivious acts by force, and photographing a minor engaged in sexual conduct, regarding two victims.</p>\r\n<p> </p>\r\n<p>On November 10, 1987, Eaton failed to appear for sentencing, and a state arrest warrant was issued the same day. On February 4, 1988, the United States District Court for the Northern District of California issued a federal arrest warrant for Eaton for unlawful flight to avoid confinement.</p>",
+          "possible_states": null,
+          "scars_and_marks": "Eaton has scars on his chin, lip, and neck. He may also have dental deficiencies in his front teeth.",
+          "race_raw": "White",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/cac/kent-douglas-eaton/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/cac/kent-douglas-eaton/eatongerman.pdf/@@download/file/eatongerman.pdf",
+                  "name": "Auf Deutsch"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/cac/kent-douglas-eaton/eatonswedish.pdf/@@download/file/eatonswedish.pdf",
+                  "name": "På Svenska"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/cac/kent-douglas-eaton/eatonfrench.pdf/@@download/file/eatonfrench.pdf",
+                  "name": "En Français"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/cac/kent-douglas-eaton/eatondutch.pdf/@@download/file/eatondutch.pdf",
+                  "name": "In Nederlands"
+              }
+          ],
+          "field_offices": [
+              "sanfrancisco"
+          ],
+          "nationality": "United States; Netherlands",
+          "weight_min": 160,
+          "age_range": null,
+          "uid": "fd78c24b-38e9-40f4-b89d-561299b74be1",
+          "eyes_raw": "Blue",
+          "height_max": 69,
+          "height_min": 69,
+          "aliases": [
+              "Ken Foster",
+              "Kent D. Eaton"
+          ],
+          "reward_text": null,
+          "description": "Unlawful Flight to Avoid Confinement - Lewd or Lascivious Actions with a Child, Oral Copulation with a Child, Photographing a Minor Engaged in Sexual Conduct, Persuading a Minor to Model for Sexually Explicit Photographs",
+          "title": "KENT DOUGLAS EATON",
+          "possible_countries": [
+              "BEL",
+              "FRA",
+              "DEU",
+              "NLD",
+              "NOR",
+              "PHL",
+              "PRT"
+          ],
+          "hair_raw": "Brown (graying)",
+          "remarks": "<p>Eaton is likely to travel internationally and maintains websites registered in the Netherlands. Eaton seems to seek out young males who are underage, developmentally disabled, mentally depressed, or economically/socially at risk.</p>",
+          "weight_max": 160,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/cac/kent-douglas-eaton",
+          "ncic": "W521118912",
+          "eyes": "blue",
+          "sex": "Male",
+          "coordinates": [],
+          "path": "/wanted/cac/kent-douglas-eaton",
+          "place_of_birth": "Rochester, New York",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Crimes Against Children"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/fd78c24b-38e9-40f4-b89d-561299b74be1"
+      },
+      {
+          "dates_of_birth_used": [
+              "July 21, 1946"
+          ],
+          "images": [
+              {
+                  "caption": "Photograph taken circa 1997",
+                  "large": "https://www.fbi.gov/wanted/cac/roger-dale-parham/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/cac/roger-dale-parham/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cac/roger-dale-parham/@@images/image"
+              }
+          ],
+          "details": null,
+          "warning_message": null,
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "white",
+          "occupations": [
+              "Computer-related work"
+          ],
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "legat_names": null,
+          "modified": "2016-07-25T00:59:32+00:00",
+          "status": "na",
+          "publication": "2014-01-07T07:00:00",
+          "weight": "225 pounds",
+          "caution": "<p>On November 21, 1998, Roger Dale Parham was arrested for rape involving a minor. He was subsequently released on bond with conditions, by the Circuit Court of Sebastian County, Arkansas, Fort Smith District. Parham's bond was revoked after he failed to appear on the charge of rape. On June 3, 1999, a bench warrant was issued for his arrest. A federal arrest warrant was issued by the United States District Court, Western District of Arkansas, Fort Smith, Arkansas, on September 10, 1999, after Parham was charged federally with unlawful flight to avoid prosecution.</p>",
+          "possible_states": [
+              "US-AR"
+          ],
+          "scars_and_marks": null,
+          "race_raw": "White",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/cac/roger-dale-parham/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "field_offices": [
+              "littlerock"
+          ],
+          "nationality": "American",
+          "weight_min": 225,
+          "age_range": null,
+          "uid": "d7bebca7-a842-411f-a1bb-7fb80d0d4ca2",
+          "eyes_raw": "Blue",
+          "height_max": 70,
+          "height_min": 70,
+          "aliases": [
+              "Roger D. Parham"
+          ],
+          "reward_text": null,
+          "description": "Unlawful Flight to Avoid Prosecution - Rape, Failure to Appear",
+          "title": "ROGER DALE PARHAM",
+          "possible_countries": [
+              "USA"
+          ],
+          "hair_raw": "Brown",
+          "remarks": "<p>Parham is described as being very charming. Parham reportedly has an interest in photography as well as fixing and selling antiques. He prefers odd jobs so that he can get paid in cash. Parham is believed to have fled the state of Arkansas. He may have traveled to Mexico.</p>",
+          "weight_max": 225,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/cac/roger-dale-parham",
+          "ncic": "W950143040",
+          "eyes": "blue",
+          "sex": "Male",
+          "coordinates": [],
+          "path": "/wanted/cac/roger-dale-parham",
+          "place_of_birth": "Arkansas",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Crimes Against Children"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/d7bebca7-a842-411f-a1bb-7fb80d0d4ca2"
+      }
+  ],
+  "page": 47
+}

@@ -1,0 +1,1853 @@
+{
+  "total": 1003,
+  "items": [
+      {
+          "dates_of_birth_used": [
+              "January 16, 1957"
+          ],
+          "images": [
+              {
+                  "caption": "Photograph taken in 1991",
+                  "large": "https://www.fbi.gov/wanted/cac/gerardo-beltran/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/cac/gerardo-beltran/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cac/gerardo-beltran/@@images/image"
+              },
+              {
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/cac/gerardo-beltran/beltran2.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/cac/gerardo-beltran/beltran2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cac/gerardo-beltran/beltran2.jpg"
+              },
+              {
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/cac/gerardo-beltran/beltran4.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/cac/gerardo-beltran/beltran4.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cac/gerardo-beltran/beltran4.jpg"
+              }
+          ],
+          "details": null,
+          "warning_message": null,
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "hispanic",
+          "occupations": [
+              "Beltran has previously held a position as a Catholic priest."
+          ],
+          "suspects": null,
+          "age_min": null,
+          "hair": "black",
+          "legat_names": null,
+          "modified": "2018-11-09T19:18:30+00:00",
+          "status": "na",
+          "publication": "2015-03-13T07:00:00",
+          "weight": "Approximately 150 pounds",
+          "caution": "<p>Gerardo Beltran is wanted for alleged lewd and lascivious conduct with four female victims under the age of fourteen during 1991. Beltran held a position as Catholic priest in two Sacramento, California, parishes, which he used to gain the trust of the families of the victims. A local arrest warrant was issued for Beltran on February 10, 1992, by the Sacramento Municipal Court after he was charged with four counts of lewd and lascivious acts with a child under the age of fourteen.</p>\r\n<p><br /><br />During the course of the investigation, Beltran fled, and on June 17, 2005, a federal warrant was issued for his arrest by the United States District Court, Eastern District of California, Sacramento, California, after he was charged with unlawful flight to avoid prosecution.</p>",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "race_raw": "White (Hispanic)",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/cac/gerardo-beltran/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/cac/gerardo-beltran/gerardo-beltran-en-espanol.pdf/@@download/file/Gerardo Beltran EN ESPAÑOL.pdf",
+                  "name": "EN ESPAÑOL"
+              }
+          ],
+          "field_offices": [
+              "sacramento"
+          ],
+          "nationality": "Mexican",
+          "weight_min": 150,
+          "age_range": null,
+          "uid": "683e345f-ea25-4df0-ba7e-21a7b3b1e01f",
+          "eyes_raw": "Brown",
+          "height_max": 67,
+          "height_min": 67,
+          "aliases": [
+              "Gerardo Beltran Rico",
+              "Gerardo Rico"
+          ],
+          "reward_text": null,
+          "description": "Unlawful Flight to Avoid Prosecution – Lewd and Lascivious Act with a Child Under Fourteen",
+          "title": "GERARDO BELTRAN",
+          "possible_countries": null,
+          "hair_raw": "Black",
+          "remarks": "<p>Beltran may have fled to southern Mexico.</p>",
+          "weight_max": 150,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/cac/gerardo-beltran",
+          "ncic": "W267747279",
+          "eyes": "brown",
+          "sex": "Male",
+          "coordinates": [],
+          "path": "/wanted/cac/gerardo-beltran",
+          "place_of_birth": "Mexico",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Crimes Against Children"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/683e345f-ea25-4df0-ba7e-21a7b3b1e01f"
+      },
+      {
+          "dates_of_birth_used": [
+              "September 16, 1945"
+          ],
+          "images": [
+              {
+                  "caption": "Photograph taken in 1984",
+                  "large": "https://www.fbi.gov/wanted/cac/rex-c.-reichert/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/cac/rex-c.-reichert/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cac/rex-c.-reichert/@@images/image"
+              },
+              {
+                  "caption": "Photograph taken in 1963",
+                  "large": "https://www.fbi.gov/wanted/cac/rex-c.-reichert/reichert_r1.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/cac/rex-c.-reichert/reichert_r1.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cac/rex-c.-reichert/reichert_r1.jpg"
+              },
+              {
+                  "caption": "Photograph age progressed in 2018",
+                  "large": "https://www.fbi.gov/wanted/cac/rex-c.-reichert/reichertage2018.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/cac/rex-c.-reichert/reichertage2018.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cac/rex-c.-reichert/reichertage2018.jpg"
+              },
+              {
+                  "caption": "Photograph age enhanced in 2011",
+                  "large": "https://www.fbi.gov/wanted/cac/rex-c.-reichert/reichert_rage2.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/cac/rex-c.-reichert/reichert_rage2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cac/rex-c.-reichert/reichert_rage2.jpg"
+              },
+              {
+                  "caption": "Photograph age enhanced in 2011",
+                  "large": "https://www.fbi.gov/wanted/cac/rex-c.-reichert/reichert_rage1.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/cac/rex-c.-reichert/reichert_rage1.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cac/rex-c.-reichert/reichert_rage1.jpg"
+              },
+              {
+                  "caption": "Photograph age enhanced in 2006",
+                  "large": "https://www.fbi.gov/wanted/cac/rex-c.-reichert/reichert_rcage1.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/cac/rex-c.-reichert/reichert_rcage1.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cac/rex-c.-reichert/reichert_rcage1.jpg"
+              }
+          ],
+          "details": null,
+          "warning_message": null,
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "white",
+          "occupations": [
+              "Reichert has been employed as a technician in a recording studio.  He also has operated an amusement arcade and invented a board game that was sold commercially."
+          ],
+          "suspects": null,
+          "age_min": null,
+          "hair": "gray",
+          "legat_names": null,
+          "modified": "2018-11-09T19:17:32+00:00",
+          "status": "na",
+          "publication": "2010-08-27T17:00:00",
+          "weight": "150 pounds",
+          "caution": "<p>Rex C. Reichert is wanted for the alleged sexual abuse of two juvenile males, ages fourteen and ten, over a two-year period at his apartment in Collegeville, Pennsylvania. Reichert had cared for the boys while a relative was receiving medical treatment. The boys also visited him on weekends and accompanied him on camping trips. On September 28, 1990, Reichert was charged with criminal attempt with intent to commit the crime of involuntary deviate sexual intercourse, criminal solicitation with the intent of promoting or facilitating the commissions of the crime of involuntary sexual intercourse, indecent assault, corruption of a minor, and endangering the welfare of children by the Collegeville Police Department, Collegeville, Pennsylvania, and a state warrant was issued for his arrest. On March 31, 1992, a federal arrest warrant was obtained for Reichert after he was charged with unlawful flight to avoid prosecution in the United States District Court, Eastern District of Pennsylvania, Philadelphia, Pennsylvania.</p>",
+          "possible_states": [
+              "US-NY",
+              "US-OH",
+              "US-PA",
+              "US-VT"
+          ],
+          "scars_and_marks": "None known",
+          "race_raw": "White",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/cac/rex-c.-reichert/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/cac/rex-c.-reichert/rex-c-reichert-en-espanol.pdf/@@download/file/Rex C Reichert EN ESPAÑOL.pdf",
+                  "name": "EN ESPAÑOL"
+              }
+          ],
+          "field_offices": [
+              "philadelphia"
+          ],
+          "nationality": "American",
+          "weight_min": 150,
+          "age_range": null,
+          "uid": "e7fd1bd61315342b4b7e1cde93fc4c80",
+          "eyes_raw": "Gray",
+          "height_max": 70,
+          "height_min": 70,
+          "aliases": null,
+          "reward_text": "The FBI is offering a reward for information leading to the arrest of Rex C. Reichert.",
+          "description": "Unlawful Flight to Avoid Prosecution - Criminal Attempt With Intent to Commit the Crime of Involuntary Deviate Sexual Intercourse, Criminal Solicitation With the Intent of Promoting or Facilitating the Commissions of the Crime of Involuntary Sexual Intercourse, Indecent Assault, Corruption of a Minor, Endangering the Welfare of Children",
+          "title": "REX C. REICHERT",
+          "possible_countries": [
+              "CAN",
+              "USA"
+          ],
+          "hair_raw": "Gray",
+          "remarks": "<p>Reichert is skilled in electronics, specifically musical equipment. He has been known to wear wire-rimmed glasses and have his hair in a ponytail. Reichert may travel to Pennsylvania, New York, Vermont, Canada, and Europe.</p>",
+          "weight_max": 150,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/cac/rex-c.-reichert",
+          "ncic": "W687345809",
+          "eyes": null,
+          "sex": "Male",
+          "coordinates": [],
+          "path": "/wanted/cac/rex-c.-reichert",
+          "place_of_birth": "Ohio",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Crimes Against Children"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/e7fd1bd61315342b4b7e1cde93fc4c80"
+      },
+      {
+          "dates_of_birth_used": [
+              "November 22, 1983",
+              "November 22, 1987"
+          ],
+          "images": [
+              {
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/cac/gerardo-cruz-hernandez/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/cac/gerardo-cruz-hernandez/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cac/gerardo-cruz-hernandez/@@images/image"
+              }
+          ],
+          "details": null,
+          "warning_message": null,
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "hispanic",
+          "occupations": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "black",
+          "legat_names": null,
+          "modified": "2018-11-09T19:16:04+00:00",
+          "status": "na",
+          "publication": "2015-02-23T07:00:00",
+          "weight": "200 pounds",
+          "caution": "<p>Gerardo Cruz-Hernandez is wanted for the alleged sexual assault of a female victim from 2011 to 2014 while she was between the ages of 12 and 15.</p>\r\n<p><br /><br />A state arrest warrant was issued for Cruz-Hernandez by the Commonwealth of Pennsylvania, County of Montgomery, Norristown, Pennsylvania, on January 17, 2014, after he was charged with multiple counts of forcible rape, rape of a child, statutory sexual assault, involuntary deviate sexual intercourse, unlawful contact with a minor, indecent assault, simple assault, recklessly endangering another person, terroristic threats, and corruption of minors. A federal arrest warrant was issued by the United States District Court, Eastern District of Pennsylvania, Philadelphia, Pennsylvania, on January 28, 2015, after Cruz-Hernandez was charged with unlawful flight to avoid prosecution.</p>",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "race_raw": "White (Hispanic)",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/cac/gerardo-cruz-hernandez/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/cac/gerardo-cruz-hernandez/gerardo-cruz-hernandez-en-espanol.pdf/@@download/file/Gerardo Cruz Hernandez EN ESPAÑOL.pdf",
+                  "name": "EN ESPAÑOL"
+              }
+          ],
+          "field_offices": [
+              "philadelphia"
+          ],
+          "nationality": "Mexican",
+          "weight_min": 200,
+          "age_range": null,
+          "uid": "00ca8f1d-bf53-4cc5-816d-ffcd77c2ab32",
+          "eyes_raw": "Brown",
+          "height_max": 71,
+          "height_min": 71,
+          "aliases": [
+              "Gerardo Cruz Hernandez",
+              "Gerardo H. Cruz",
+              "Gerardo Hernandez-Cruz"
+          ],
+          "reward_text": null,
+          "description": "Unlawful Flight to Avoid Prosecution – Forcible Rape, Rape of a Child, Statutory Sexual Assault, Involuntary Deviate Sexual Intercourse, Unlawful Contact with a Minor, Indecent Assault, Simple Assault, Recklessly Endangering Another Person, Terroristic Threats, Corruption of Minors",
+          "title": "GERARDO CRUZ-HERNANDEZ",
+          "possible_countries": null,
+          "hair_raw": "Black",
+          "remarks": "<p>Cruz-Hernandez has ties, and may have fled, to Mexico.</p>",
+          "weight_max": 200,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/cac/gerardo-cruz-hernandez",
+          "ncic": "W972765319",
+          "eyes": "brown",
+          "sex": "Male",
+          "coordinates": [],
+          "path": "/wanted/cac/gerardo-cruz-hernandez",
+          "place_of_birth": "Mexico",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Crimes Against Children"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/00ca8f1d-bf53-4cc5-816d-ffcd77c2ab32"
+      },
+      {
+          "dates_of_birth_used": [
+              "March 14, 1967"
+          ],
+          "images": [
+              {
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/@@images/image"
+              },
+              {
+                  "caption": "Jeffrey Dean McDaniel is wanted in Placer County, California, for his alleged repeated sexual contact with a minor female relative.",
+                  "large": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/mcdaniel_jd1.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/mcdaniel_jd1.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/mcdaniel_jd1.jpg"
+              },
+              {
+                  "caption": "Jeffrey Dean McDaniel is wanted in Placer County, California, for his alleged repeated sexual contact with a minor female relative.",
+                  "large": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/mcdaniel_jd4.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/mcdaniel_jd4.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/mcdaniel_jd4.jpg"
+              },
+              {
+                  "caption": "Jeffrey Dean McDaniel is wanted in Placer County, California, for his alleged repeated sexual contact with a minor female relative.",
+                  "large": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/mcdaniel_jd2.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/mcdaniel_jd2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/mcdaniel_jd2.jpg"
+              },
+              {
+                  "caption": "Jeffrey Dean McDaniel is wanted in Placer County, California, for his alleged repeated sexual contact with a minor female relative.",
+                  "large": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/mcdaniel_jd5.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/mcdaniel_jd5.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/mcdaniel_jd5.jpg"
+              },
+              {
+                  "caption": "Jeffrey Dean McDaniel is wanted in Placer County, California, for his alleged repeated sexual contact with a minor female relative.",
+                  "large": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/mcdaniel_jd3.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/mcdaniel_jd3.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/mcdaniel_jd3.jpg"
+              },
+              {
+                  "caption": "Jeffrey Dean McDaniel is wanted in Placer County, California, for his alleged repeated sexual contact with a minor female relative.",
+                  "large": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/mcdaniel_jd6.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/mcdaniel_jd6.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/mcdaniel_jd6.jpg"
+              },
+              {
+                  "caption": "Jeffrey Dean McDaniel is wanted in Placer County, California, for his alleged repeated sexual contact with a minor female relative.",
+                  "large": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/mcdaniel_jd7.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/mcdaniel_jd7.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/mcdaniel_jd7.jpg"
+              }
+          ],
+          "details": null,
+          "warning_message": null,
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "white",
+          "occupations": [
+              "McDaniel may be working in the computer industry."
+          ],
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "legat_names": null,
+          "modified": "2018-11-09T17:06:42+00:00",
+          "status": "na",
+          "publication": "2010-08-27T16:10:00",
+          "weight": "190 pounds",
+          "caution": "<p>Jeffrey Dean McDaniel is wanted in Placer County, California, for his alleged repeated sexual contact with a minor female relative. The girl was thirteen years old at the time of the abuse. In September of 1998, McDaniel left the area with the girl and her whereabouts remained unknown until she was located in Mexico in September of 2000. According to the girl, McDaniel had traveled with her throughout California and Nevada before ending up in Mexico. McDaniel continued to sexually assault the girl, which resulted in a pregnancy. McDaniel's whereabouts remain unknown. On February 28, 2001, an arrest warrant was issued for McDaniel after he was charged with child custody deprivation. A federal arrest warrant was issued in May of 2001, and McDaniel was charged with unlawful flight to avoid prosecution.</p>\r\n<p> </p>",
+          "possible_states": [
+              "US-CA",
+              "US-ME",
+              "US-NV"
+          ],
+          "scars_and_marks": "McDaniel has the following tattoos: several skulls, one wearing a helmet, and 3\" roses on vines on his chest;  a solar system design featuring multicolored planets from his wrist to his elbow on his left forearm;  an Egyptian pharaoh on his right bicep;  a door hinge on the inside of his right elbow;  old swastikas on both forearms (blacked over, but still visible); a dagger on his left wrist with \"S\" and \"J\" on either side of it;  lightning bolts on the fingers of his left hand;  a green wedding band on his left ring finger over the word \"Michelle\";  a dot on the web of his right hand;  \"X\" inside a circle on the inside of the web of his left hand;  a snake winding through a skull on his right calf;  \"Shelly\" above his right knee;  \"MBM\" in Old English letters above his left knee;  and the image of Fred Flintstone elsewhere on his body.",
+          "race_raw": "White",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/jeffrey-dean-mcdaniel-en-espanol.pdf/@@download/file/Jeffrey Dean McDaniel EN ESPAÑOL.pdf",
+                  "name": "EN ESPAÑOL"
+              }
+          ],
+          "field_offices": [
+              "sacramento"
+          ],
+          "nationality": null,
+          "weight_min": 190,
+          "age_range": null,
+          "uid": "efa297509bd7a136a8a04e54f3c5fc50",
+          "eyes_raw": "Brown",
+          "height_max": 71,
+          "height_min": 71,
+          "aliases": [
+              "Jeffrey Dean McDaniel, Jr.",
+              "Jeffrey D. McDaniel"
+          ],
+          "reward_text": null,
+          "description": "Unlawful Flight To Avoid Prosecution - Sex Crimes, Child Custody Deprivation",
+          "title": "JEFFREY DEAN MCDANIEL",
+          "possible_countries": [
+              "MEX"
+          ],
+          "hair_raw": "Brown",
+          "remarks": "<p>McDaniel may be living in Mexico. He may be interested in tattoo artistry.</p>",
+          "weight_max": 190,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel",
+          "ncic": "W071628428",
+          "eyes": "brown",
+          "sex": "Male",
+          "coordinates": [],
+          "path": "/wanted/cac/jeffrey-dean-mcdaniel",
+          "place_of_birth": null,
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Crimes Against Children"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/efa297509bd7a136a8a04e54f3c5fc50"
+      },
+      {
+          "dates_of_birth_used": [
+              "October 19, 1982"
+          ],
+          "images": [
+              {
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/cac/rene-f.-ramirez/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/cac/rene-f.-ramirez/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cac/rene-f.-ramirez/@@images/image"
+              },
+              {
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/cac/rene-f.-ramirez/ramirez_r.jpg1.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/cac/rene-f.-ramirez/ramirez_r.jpg1.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cac/rene-f.-ramirez/ramirez_r.jpg1.jpg"
+              },
+              {
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/cac/rene-f.-ramirez/ramirez_r.jpg3.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/cac/rene-f.-ramirez/ramirez_r.jpg3.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cac/rene-f.-ramirez/ramirez_r.jpg3.jpg"
+              }
+          ],
+          "details": null,
+          "warning_message": null,
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "hispanic",
+          "occupations": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "black",
+          "legat_names": null,
+          "modified": "2018-11-09T16:57:25+00:00",
+          "status": "na",
+          "publication": "2012-03-21T07:00:00",
+          "weight": "220 pounds",
+          "caution": "<p>Rene F. Ramirez is wanted for his alleged involvement in the possession and receipt of child pornography. From approximately June of 2007 through December of 2009, it is alleged that Ramirez was involved in the trafficking of child pornography, via computers, in the New York City area. A federal arrest warrant was issued for Ramirez in the United States District Court, Southern District of New York, on March 7, 2011, after he was charged with possession and receipt of child pornography.</p>",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "race_raw": "White (Hispanic)",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/cac/rene-f.-ramirez/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/cac/rene-f.-ramirez/rene-f-ramirez-en-espanol.pdf/@@download/file/Rene F Ramirez EN ESPAÑOL.pdf",
+                  "name": "EN ESPAÑOL"
+              }
+          ],
+          "field_offices": [
+              "newyork"
+          ],
+          "nationality": "Mexican",
+          "weight_min": 220,
+          "age_range": null,
+          "uid": "b987d98370b62a34a04edbdfc05b1e9b",
+          "eyes_raw": "Dark Brown",
+          "height_max": 68,
+          "height_min": 68,
+          "aliases": [
+              "Rene Ramirez",
+              "\"Tutzita\""
+          ],
+          "reward_text": null,
+          "description": "Possession and Receipt of Child Pornography",
+          "title": "RENE F. RAMIREZ",
+          "possible_countries": null,
+          "hair_raw": "Black",
+          "remarks": "<p>Ramirez is known to wear eyeglasses. He speaks both English and Spanish. He has ties to The Bronx, New York and Mexico. Ramirez is skilled in the use of computers and may frequent social networking sites.</p>",
+          "weight_max": 220,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/cac/rene-f.-ramirez",
+          "ncic": "W642415848",
+          "eyes": "brown",
+          "sex": "Male",
+          "coordinates": [],
+          "path": "/wanted/cac/rene-f.-ramirez",
+          "place_of_birth": "Mexico",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Crimes Against Children"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/b987d98370b62a34a04edbdfc05b1e9b"
+      },
+      {
+          "eyes": "brown",
+          "sex": "Male",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/topten/bhadreshkumar-chetanbhai-patel",
+          "ncic": null,
+          "path": "/wanted/topten/bhadreshkumar-chetanbhai-patel",
+          "locations": null,
+          "weight_min": 165,
+          "place_of_birth": "Kantrodi Ta Viramgam, Gujarat, India",
+          "reward_min": 0,
+          "subjects": [
+              "Ten Most Wanted Fugitives"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "8cb3b0fd2e4a4bbc9518f9b389a0a909",
+          "eyes_raw": "Brown",
+          "height_max": 69,
+          "nationality": "Indian",
+          "age_range": null,
+          "height_min": 69,
+          "aliases": [
+              "Bhadreshkumar C. Patel"
+          ],
+          "reward_text": "The FBI is offering a reward of up to $100,000 for information leading to the arrest of Bhadreshkumar Chetanbhai Patel.",
+          "possible_countries": null,
+          "description": "Unlawful Flight to Avoid Prosecution - First Degree Murder, Second Degree Murder, First Degree Assault, Second Degree Assault, Dangerous Weapon with Intent to Injure",
+          "caution": "<p>Bhadreshkumar Chetanbhai Patel is wanted for allegedly killing his wife by striking her multiple times with an object while they were both working at a donut shop in Hanover, Maryland, on April 12, 2015.  A local arrest warrant was issued in the District Court of Maryland for Anne Arundel County on April 13, 2015, and Patel was charged with first degree murder, second degree murder, first degree assault, second degree assault, and dangerous weapon with intent to injure. A federal arrest warrant was issued in the United States District Court, District of Maryland, Baltimore, Maryland, on April 20, 2015, after Patel was charged with unlawful flight to avoid prosecution.</p>",
+          "weight_max": 165,
+          "legat_names": null,
+          "race": null,
+          "modified": "2018-11-09T16:06:31+00:00",
+          "publication": "2015-04-20T07:00:00",
+          "weight": "165 pounds",
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/topten/bhadreshkumar-chetanbhai-patel/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/topten/bhadreshkumar-chetanbhai-patel/@@images/image",
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/topten/bhadreshkumar-chetanbhai-patel/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/topten/bhadreshkumar-chetanbhai-patel/pateltable1a.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/topten/bhadreshkumar-chetanbhai-patel/pateltable1a.jpg",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/topten/bhadreshkumar-chetanbhai-patel/pateltable1a.jpg/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/topten/bhadreshkumar-chetanbhai-patel/patelwork1.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/topten/bhadreshkumar-chetanbhai-patel/patelwork1.jpg",
+                  "caption": "Photograph taken April 2015",
+                  "large": "https://www.fbi.gov/wanted/topten/bhadreshkumar-chetanbhai-patel/patelwork1.jpg/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/topten/bhadreshkumar-chetanbhai-patel/patelcouch1.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/topten/bhadreshkumar-chetanbhai-patel/patelcouch1.jpg",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/topten/bhadreshkumar-chetanbhai-patel/patelcouch1.jpg/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/topten/bhadreshkumar-chetanbhai-patel/patelhotel.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/topten/bhadreshkumar-chetanbhai-patel/patelhotel.jpg",
+                  "caption": "Photograph taken April 2015",
+                  "large": "https://www.fbi.gov/wanted/topten/bhadreshkumar-chetanbhai-patel/patelhotel.jpg/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/topten/bhadreshkumar-chetanbhai-patel/patel.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/topten/bhadreshkumar-chetanbhai-patel/patel.jpg",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/topten/bhadreshkumar-chetanbhai-patel/patel.jpg/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/topten/bhadreshkumar-chetanbhai-patel/patel2a.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/topten/bhadreshkumar-chetanbhai-patel/patel2a.jpg",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/topten/bhadreshkumar-chetanbhai-patel/patel2a.jpg/@@images/image/large"
+              }
+          ],
+          "remarks": "<p>Patel was last known to be in the Newark, New Jersey, area.</p>",
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/topten/bhadreshkumar-chetanbhai-patel/download.pdf"
+              },
+              {
+                  "name": "हिंदी में",
+                  "url": "https://www.fbi.gov/wanted/topten/bhadreshkumar-chetanbhai-patel/pateltoptenhindi.pdf/@@download/file/pateltoptenhindi.pdf"
+              },
+              {
+                  "name": "मराठी मध्ये",
+                  "url": "https://www.fbi.gov/wanted/topten/bhadreshkumar-chetanbhai-patel/pateltoptenmarathi.pdf/@@download/file/pateltoptenmarathi.pdf"
+              },
+              {
+                  "name": "ગુજરાતીમાં",
+                  "url": "https://www.fbi.gov/wanted/topten/bhadreshkumar-chetanbhai-patel/pateltoptengujarati.pdf/@@download/file/pateltoptengujarati.pdf"
+              },
+              {
+                  "name": "EN FRANÇAIS",
+                  "url": "https://www.fbi.gov/wanted/topten/bhadreshkumar-chetanbhai-patel/bhadreshkumar-chetanbhai-patel-en-francais.pdf/@@download/file/Bhadreshkumar Chetanbhai Patel EN FRANÇAIS.pdf"
+              }
+          ],
+          "field_offices": [
+              "baltimore"
+          ],
+          "coordinates": [],
+          "race_raw": null,
+          "hair_raw": "Brown",
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": [
+              "May 15, 1990"
+          ],
+          "details": null,
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND EXTREMELY DANGEROUS",
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "title": "BHADRESHKUMAR CHETANBHAI PATEL",
+          "occupations": [
+              "Employee of donut shop"
+          ],
+          "@id": "https://api.fbi.gov/@wanted-person/8cb3b0fd2e4a4bbc9518f9b389a0a909"
+      },
+      {
+          "eyes": null,
+          "sex": "Male",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/seeking-info/muhammed-abu-bakr",
+          "ncic": null,
+          "path": "/wanted/seeking-info/muhammed-abu-bakr",
+          "locations": null,
+          "weight_min": null,
+          "place_of_birth": null,
+          "reward_min": 0,
+          "subjects": [
+              "Seeking Information"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "c757756a0d4d41bb9270ea233d168f8a",
+          "eyes_raw": null,
+          "height_max": null,
+          "nationality": null,
+          "age_range": null,
+          "height_min": null,
+          "aliases": null,
+          "reward_text": "The FBI’s Central Virginia Violent Crimes Task Force is offering a reward of up to $10,000 for information that leads to the arrest and conviction of the person(s) responsible for this violent crime.",
+          "possible_countries": null,
+          "description": "Murder Victim\r\nRichmond, Virginia\r\nOctober 17, 2015",
+          "caution": null,
+          "weight_max": null,
+          "legat_names": null,
+          "race": "black",
+          "modified": "2018-11-06T20:28:27+00:00",
+          "publication": "2018-09-18T13:41:00",
+          "weight": null,
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/muhammed-abu-bakr/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/muhammed-abu-bakr/@@images/image",
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/seeking-info/muhammed-abu-bakr/@@images/image/large"
+              }
+          ],
+          "remarks": null,
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/seeking-info/muhammed-abu-bakr/download.pdf"
+              }
+          ],
+          "field_offices": [
+              "richmond"
+          ],
+          "coordinates": [],
+          "race_raw": "Black",
+          "hair_raw": null,
+          "complexion": null,
+          "build": null,
+          "person_classification": "Victim",
+          "dates_of_birth_used": [
+              "December 26, 1957"
+          ],
+          "details": "<p>The FBI Richmond Division’s Central Virginia Violent Crimes Task Force requests the public’s assistance in identifying the person(s) responsible for the murder of Muhammed Abu-Bakr in 2015.</p>\r\n<p> </p>\r\n<p>On October 17, 2015, officers with the City of Richmond Police Department were dispatched to the 300 block of Hunt Avenue in Richmond, Virginia, for a report of random gunfire.  Officers on scene found the victim, Abu-Bakr, deceased from multiple gunshot wounds. </p>\r\n<p> </p>\r\n<p>The investigation accounts for the victim making purchases the evening of October 17, 2015, at the Walmart Express on Virginia Commonwealth University’s campus, prior to getting on a GRTC bus alone around 8:30 p.m. at Shaffer and Broad Streets. Abu-Bakr boarded another bus at the Transfer Station at 9th Street at 9:06 p.m. and then ended his bus ride at 9:19 p.m.   Abu-Bakr was shot moments later.</p>\r\n<p> </p>\r\n<p>At the time of Abu-Bakr’s death, he was wearing very clean dark blue jeans; clean tan ankle-height work boots; and a white t-shirt under a black hooded sweatshirt and dark gray jacket.  The victim had very short hair and a goatee with a little bit of gray in it.  He was carrying a black backpack.</p>\r\n<p> </p>",
+          "warning_message": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": null,
+          "title": "MUHAMMED ABU-BAKR",
+          "occupations": null,
+          "@id": "https://api.fbi.gov/@wanted-person/c757756a0d4d41bb9270ea233d168f8a"
+      },
+      {
+          "dates_of_birth_used": null,
+          "images": [
+              {
+                  "caption": "October 6, 2018",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/convenience-store-robberies/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/convenience-store-robberies/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/convenience-store-robberies/@@images/image"
+              },
+              {
+                  "caption": "October 6, 2018",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/convenience-store-robberies/shell1.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/convenience-store-robberies/shell1.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/convenience-store-robberies/shell1.jpg"
+              },
+              {
+                  "caption": "Logo on sweatshirt from October 6, 2018, robbery",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/convenience-store-robberies/shell2.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/convenience-store-robberies/shell2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/convenience-store-robberies/shell2.jpg"
+              },
+              {
+                  "caption": "October 12, 2018",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/convenience-store-robberies/shell4.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/convenience-store-robberies/shell4.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/convenience-store-robberies/shell4.jpg"
+              },
+              {
+                  "caption": "October 12, 2018",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/convenience-store-robberies/shell5a.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/convenience-store-robberies/shell5a.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/convenience-store-robberies/shell5a.jpg"
+              }
+          ],
+          "details": "<p>Law enforcement investigators at the FBI Richmond Division’s Central Virginia Violent Crimes Task Force request the public’s assistance in identifying the person(s) responsible for armed robberies that occurred at a Shell convenience store located in Chesterfield, Virginia, on October 6, 2018, and October 12, 2018.</p>\r\n<p> </p>\r\n<p>On October 6, 2018, an unknown male subject entered the Shell convenience store located in the 9400 block of Iron Bridge Road in Chesterfield, Virginia.  The subject, armed with a bladed weapon, approached the victim clerk stating it was a “stick up” at which point the subject opened the store's register and took money from the drawer.  The subject is described as a White male, approximately 5’7”with a thin/slender build.  He was wearing a black hooded sweatshirt drawn tightly around his face, sunglasses, a fanny-pack, and black gloves.  The logo on the sweatshirt worn by the individual during this robbery has been identified as that of American Tile LLC.</p>\r\n<p> </p>\r\n<p>On October 12, 2018, an unknown male subject entered the same convenience store armed with a bladed weapon and told the victim clerk to “step back”.  The subject tried several times unsuccessfully to open the register and, as he exited the convenience store, knocked over a display.  The subject is described as a Black male, approximately 6’0\" with a medium build.  He was wearing a gray hooded sweatshirt drawn tightly around his face with “Baltimore” written across the front of it, black pants, dark-colored shoes with white bottoms, a black mask, and goggles. </p>\r\n<p> </p>",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": null,
+          "occupations": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": null,
+          "legat_names": null,
+          "modified": "2018-11-06T13:15:51+00:00",
+          "status": "na",
+          "publication": "2018-11-06T06:08:00",
+          "weight": null,
+          "caution": null,
+          "possible_states": null,
+          "scars_and_marks": null,
+          "race_raw": null,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/seeking-info/convenience-store-robberies/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "field_offices": [
+              "richmond"
+          ],
+          "nationality": null,
+          "weight_min": null,
+          "age_range": null,
+          "uid": "74af9ecf1d3c47298745571347cd2212",
+          "eyes_raw": null,
+          "height_max": null,
+          "height_min": null,
+          "aliases": null,
+          "reward_text": null,
+          "description": "Unknown Suspects\r\nChesterfield, Virginia\r\nOctober 2018",
+          "title": "CONVENIENCE STORE ROBBERIES",
+          "possible_countries": null,
+          "hair_raw": null,
+          "remarks": null,
+          "weight_max": null,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/seeking-info/convenience-store-robberies",
+          "ncic": null,
+          "eyes": null,
+          "sex": null,
+          "coordinates": [],
+          "path": "/wanted/seeking-info/convenience-store-robberies",
+          "place_of_birth": null,
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Seeking Information"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/74af9ecf1d3c47298745571347cd2212"
+      },
+      {
+          "dates_of_birth_used": [
+              "August 15, 1978"
+          ],
+          "images": [
+              {
+                  "caption": "Photograph taken in 2001",
+                  "large": "https://www.fbi.gov/wanted/murders/jose-rosendo-carrillo-padilla/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/jose-rosendo-carrillo-padilla/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/jose-rosendo-carrillo-padilla/@@images/image"
+              }
+          ],
+          "details": null,
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "hispanic",
+          "occupations": [
+              "Unknown"
+          ],
+          "suspects": null,
+          "age_min": null,
+          "hair": "black",
+          "legat_names": null,
+          "modified": "2018-11-01T20:30:53+00:00",
+          "status": "na",
+          "publication": "2010-09-05T21:35:00",
+          "weight": "150 pounds",
+          "caution": "<p>Jose Rosendo Carrillo-Padilla is wanted for his alleged involvement in the shooting death of a man in Salem, Oregon. On September 3, 2001, Carrillo-Padilla allegedly shot and killed the man over a drug debt. Carrillo-Padilla was indicted by a grand jury in Marion County, Oregon, for one count of murder with a firearm on September 12, 2001. He was federally charged in Portland, Oregon, with unlawful flight to avoid prosecution on May 16, 2002.</p>",
+          "possible_states": [
+              "US-CA",
+              "US-OR"
+          ],
+          "scars_and_marks": "Carrillo-Padilla has tattoos of teardrops on his face and the letters \"VL\" on his right forearm. He has unknown tattoos on his left and right ears, right arm, and left hand.",
+          "race_raw": "White (Hispanic)",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/jose-rosendo-carrillo-padilla/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/jose-rosendo-carrillo-padilla/jose-rosendo-carrillo-padilla-en-espanol.pdf/@@download/file/Jose Rosendo Carrillo Padilla EN ESPAÑOL.pdf",
+                  "name": "EN ESPAÑOL"
+              }
+          ],
+          "field_offices": [
+              "portland"
+          ],
+          "nationality": "Mexican",
+          "weight_min": 150,
+          "age_range": null,
+          "uid": "09b16403453fef56f5b79c63091b1116",
+          "eyes_raw": "Brown",
+          "height_max": 64,
+          "height_min": 64,
+          "aliases": [
+              "Jose Carrillo-Padilla",
+              "Rosendo Carrillo",
+              "Jose Rosendo Carrillo",
+              "Jose Rosendo Padilla",
+              "Rosendo Jose Padilla",
+              "Rosendo Jose Carillo",
+              "Jose Rosendo Carrillopadilla",
+              "Jose Rosendo Carrillo-Padillo",
+              "Jose Carrillo-Padillo",
+              "Rosendo Jose Carrillo-Padillo",
+              "Rosendo Carrillo-Padillo"
+          ],
+          "reward_text": null,
+          "description": "Unlawful Flight to Avoid Prosecution - Murder",
+          "title": "JOSE ROSENDO CARRILLO-PADILLA",
+          "possible_countries": [
+              "MEX"
+          ],
+          "hair_raw": "Black",
+          "remarks": "<p>Carrillo-Padilla is known to abuse alcohol. He may be traveling with his cousin in either Metamoros, Tamaulipas, Mexico, or in Tijuana, Baja California, Mexico.</p>",
+          "weight_max": 150,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/murders/jose-rosendo-carrillo-padilla",
+          "ncic": "W612612112",
+          "eyes": "brown",
+          "sex": "Male",
+          "coordinates": [],
+          "path": "/wanted/murders/jose-rosendo-carrillo-padilla",
+          "place_of_birth": "Zacatecas, Mexico",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Violent Crime - Murders"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/09b16403453fef56f5b79c63091b1116"
+      },
+      {
+          "eyes": "brown",
+          "sex": "Male",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/cyber/pavel-vyacheslavovich-yershov",
+          "ncic": "W614297971",
+          "path": "/wanted/cyber/pavel-vyacheslavovich-yershov",
+          "locations": null,
+          "weight_min": null,
+          "place_of_birth": "Tver, Russia",
+          "reward_min": 0,
+          "subjects": [
+              "Cyber's Most Wanted"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "b366c070aec4456fb032e691a23d432e",
+          "eyes_raw": "Brown",
+          "height_max": null,
+          "nationality": "Russian",
+          "age_range": null,
+          "height_min": null,
+          "aliases": [
+              "Ершов Павел Вячеславович"
+          ],
+          "reward_text": null,
+          "possible_countries": null,
+          "description": "Conspiracy to Commit an Offense Against the United States; False Registration of a Domain Name; Aggravated Identity Theft; Conspiracy to Commit Money Laundering",
+          "caution": null,
+          "weight_max": null,
+          "legat_names": null,
+          "race": "white",
+          "modified": "2018-10-30T17:37:01+00:00",
+          "publication": "2018-09-21T13:21:00",
+          "weight": null,
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/cyber/pavel-vyacheslavovich-yershov/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cyber/pavel-vyacheslavovich-yershov/@@images/image",
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/cyber/pavel-vyacheslavovich-yershov/@@images/image/large"
+              }
+          ],
+          "remarks": "<p>Yershov is alleged to have been a Russian military intelligence officer, assigned to Unit 26165. Yershov was last known to be located in Moscow, Russia.</p>",
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/cyber/pavel-vyacheslavovich-yershov/pavel-vyacheslavovich-yershov-8-5x11.pdf"
+              },
+              {
+                  "name": "НА РУССКОМ",
+                  "url": "https://www.fbi.gov/wanted/cyber/pavel-vyacheslavovich-yershov/yershovrussian.pdf/@@download/file/yershovrussian.pdf"
+              }
+          ],
+          "field_offices": null,
+          "coordinates": [],
+          "race_raw": "White",
+          "hair_raw": "Brown",
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": [
+              "December 14, 1990"
+          ],
+          "details": "<p>On July 13, 2018, a federal grand jury sitting in the District of Columbia returned an indictment against 12 Russian military intelligence officers for their alleged roles in <a href=\"https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections\" data-val=\"https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections\" data-urltype=\"/view\" data-linktype=\"external\">interfering with the 2016 United States (U.S.) elections</a>. The indictment charges 11 defendants, Pavel Vyacheslavovich Yershov, <a href=\"https://www.fbi.gov/wanted/cyber/aleksey-aleksandrovich-potemkin\" data-val=\"https://www.fbi.gov/wanted/cyber/aleksey-aleksandrovich-potemkin\" data-urltype=\"/view\" data-linktype=\"external\">Aleksey Aleksandrovich Potemkin</a>, <a href=\"https://www.fbi.gov/wanted/cyber/sergey-aleksandrovich-morgachev\" data-val=\"https://www.fbi.gov/wanted/cyber/sergey-aleksandrovich-morgachev\" data-urltype=\"/view\" data-linktype=\"external\">Sergey Aleksandrovich Morgachev</a>, <a href=\"https://www.fbi.gov/wanted/cyber/artem-andreyevich-malyshev\" data-val=\"https://www.fbi.gov/wanted/cyber/artem-andreyevich-malyshev\" data-urltype=\"/view\" data-linktype=\"external\">Artem Andreyevich Malyshev</a>, <a href=\"https://www.fbi.gov/wanted/cyber/aleksey-viktorovich-lukashev\" data-val=\"https://www.fbi.gov/wanted/cyber/aleksey-viktorovich-lukashev\" data-urltype=\"/view\" data-linktype=\"external\">Aleksey Viktorovich Lukashev</a>,<a href=\"https://www.fbi.gov/wanted/cyber/boris-alekseyevich-antonov\" data-val=\"https://www.fbi.gov/wanted/cyber/boris-alekseyevich-antonov\" data-urltype=\"/view\" data-linktype=\"external\"> Boris Alekseyevich Antonov</a>, <a href=\"https://www.fbi.gov/wanted/cyber/dmitriy-sergeyevich-badin\" data-val=\"https://www.fbi.gov/wanted/cyber/dmitriy-sergeyevich-badin\" data-urltype=\"/view\" data-linktype=\"external\">Dmitriy Sergeyevich Badin</a>, <a href=\"https://www.fbi.gov/wanted/cyber/ivan-sergeyevich-yermakov\" data-val=\"https://www.fbi.gov/wanted/cyber/ivan-sergeyevich-yermakov\" data-urltype=\"/view\" data-linktype=\"external\">Ivan Sergeyevich Yermakov</a>, <a href=\"https://www.fbi.gov/wanted/cyber/nikolay-yuryevich-kozachek\" data-val=\"https://www.fbi.gov/wanted/cyber/nikolay-yuryevich-kozachek\" data-urltype=\"/view\" data-linktype=\"external\">Nikolay Yuryevich Kozachek</a>, <a href=\"https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk\" data-val=\"https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk\" data-urltype=\"/view\" data-linktype=\"external\">Aleksandr Vladimirovich Osadchuk</a>, and Viktor Borisovich Netyksho, with a computer hacking conspiracy involving gaining unauthorized access into the computers of U.S. persons and entities involved in the 2016 U.S. presidential election, stealing documents from those computers, and staging releases of the stolen documents to interfere with the 2016 U.S. presidential election. The indictment also charges these defendants with aggravated identity theft, false registration of a domain name, and conspiracy to commit money laundering. Two defendants, <a href=\"https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk\" data-val=\"https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk\" data-urltype=\"/view\" data-linktype=\"external\">Aleksandr Vladimirovich Osadchuk </a>and <a href=\"https://www.fbi.gov/wanted/cyber/anatoliy-sergeyevich-kovalev\" data-val=\"https://www.fbi.gov/wanted/cyber/anatoliy-sergeyevich-kovalev\" data-urltype=\"/view\" data-linktype=\"external\">Anatoliy Sergeyevich Kovalev</a>, are charged with a separate conspiracy to commit computer crimes, relating to hacking into the computers of U.S. persons and entities responsible for the administration of 2016 U.S. elections, such as state boards of elections, secretaries of state, and U.S. companies that supplied software and other technology related to the administration of U.S. elections. The United States District Court for the District of Columbia in Washington, D.C. issued a federal arrest warrant for Pavel Vyacheslavovich Yershov upon the grand jury’s return of the indictment.</p>\r\n<p> </p>",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS, AN INTERNATIONAL FLIGHT RISK, AND AN ESCAPE RISK",
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "title": "PAVEL VYACHESLAVOVICH YERSHOV",
+          "occupations": [
+              "Officer in the Russian Federation’s Main Intelligence Directorate of the General Staff (GRU)"
+          ],
+          "@id": "https://api.fbi.gov/@wanted-person/b366c070aec4456fb032e691a23d432e"
+      },
+      {
+          "eyes": "blue",
+          "sex": "Male",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/cyber/aleksey-aleksandrovich-potemkin",
+          "ncic": "W704346036",
+          "path": "/wanted/cyber/aleksey-aleksandrovich-potemkin",
+          "locations": null,
+          "weight_min": null,
+          "place_of_birth": "Russia",
+          "reward_min": 0,
+          "subjects": [
+              "Cyber's Most Wanted"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "5ab231b51f9841d589ae05c3a19bbd6a",
+          "eyes_raw": "Blue",
+          "height_max": null,
+          "nationality": "Russian",
+          "age_range": null,
+          "height_min": null,
+          "aliases": [
+              "Потемкин Алексей Александрович"
+          ],
+          "reward_text": null,
+          "possible_countries": null,
+          "description": "Conspiracy to Commit an Offense Against the United States; False Registration of a Domain Name; Aggravated Identity Theft; Conspiracy to Commit Money Laundering",
+          "caution": null,
+          "weight_max": null,
+          "legat_names": null,
+          "race": "white",
+          "modified": "2018-10-30T17:36:10+00:00",
+          "publication": "2018-09-18T09:37:00",
+          "weight": null,
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/cyber/aleksey-aleksandrovich-potemkin/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cyber/aleksey-aleksandrovich-potemkin/@@images/image",
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/cyber/aleksey-aleksandrovich-potemkin/@@images/image/large"
+              }
+          ],
+          "remarks": "<p>Potemkin is alleged to have been a Russian military intelligence officer assigned as a supervisor in Unit 74455.  Potemkin was last known to be located in Moscow, Russia.</p>",
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/cyber/aleksey-aleksandrovich-potemkin/aleksey-aleksandrovich-potemkin-8-5x11.pdf"
+              },
+              {
+                  "name": "НА РУССКОМ",
+                  "url": "https://www.fbi.gov/wanted/cyber/aleksey-aleksandrovich-potemkin/potemkinrussian.pdf/@@download/file/potemkinrussian.pdf"
+              }
+          ],
+          "field_offices": null,
+          "coordinates": [],
+          "race_raw": "White",
+          "hair_raw": "Brown",
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": [
+              "March 20, 1983"
+          ],
+          "details": "<p>On July 13, 2018, a federal grand jury sitting in the District of Columbia returned an indictment against 12 Russian military intelligence officers for their alleged roles in <a href=\"https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections\" data-val=\"https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections\" data-urltype=\"/view\" data-linktype=\"external\">interfering with the 2016 United States (U.S.) elections</a>.  The indictment charges 11 defendants, Aleksey Aleksandrovich Potemkin, <a href=\"https://www.fbi.gov/wanted/cyber/sergey-aleksandrovich-morgachev\" data-val=\"https://www.fbi.gov/wanted/cyber/sergey-aleksandrovich-morgachev\" data-urltype=\"/view\" data-linktype=\"external\">Sergey Aleksandrovich Morgachev</a>, <a href=\"https://www.fbi.gov/wanted/cyber/artem-andreyevich-malyshev\" data-val=\"https://www.fbi.gov/wanted/cyber/artem-andreyevich-malyshev\" data-urltype=\"/view\" data-linktype=\"external\">Artem Andreyevich Malyshev</a>, <a href=\"https://www.fbi.gov/wanted/cyber/aleksey-viktorovich-lukashev\" data-val=\"https://www.fbi.gov/wanted/cyber/aleksey-viktorovich-lukashev\" data-urltype=\"/view\" data-linktype=\"external\">Aleksey Viktorovich Lukashev</a>, <a href=\"https://www.fbi.gov/wanted/cyber/boris-alekseyevich-antonov\" data-val=\"https://www.fbi.gov/wanted/cyber/boris-alekseyevich-antonov\" data-urltype=\"/view\" data-linktype=\"external\">Boris Alekseyevich Antonov</a>, <a href=\"https://www.fbi.gov/wanted/cyber/dmitriy-sergeyevich-badin\" data-val=\"https://www.fbi.gov/wanted/cyber/dmitriy-sergeyevich-badin\" data-urltype=\"/view\" data-linktype=\"external\">Dmitriy Sergeyevich Badin</a>, <a href=\"https://www.fbi.gov/wanted/cyber/ivan-sergeyevich-yermakov\" data-val=\"https://www.fbi.gov/wanted/cyber/ivan-sergeyevich-yermakov\" data-urltype=\"/view\" data-linktype=\"external\">Ivan Sergeyevich Yermakov</a>, <a href=\"https://www.fbi.gov/wanted/cyber/nikolay-yuryevich-kozachek\" data-val=\"https://www.fbi.gov/wanted/cyber/nikolay-yuryevich-kozachek\" data-urltype=\"/view\" data-linktype=\"external\">Nikolay Yuryevich Kozachek</a>, <a href=\"https://www.fbi.gov/wanted/cyber/pavel-vyacheslavovich-yershov\" data-val=\"https://www.fbi.gov/wanted/cyber/pavel-vyacheslavovich-yershov\" data-urltype=\"/view\" data-linktype=\"external\">Pavel Vyacheslavovich Yershov</a>, <a href=\"https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk\" data-val=\"https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk\" data-urltype=\"/view\" data-linktype=\"external\">Aleksandr Vladimirovich Osadchuk</a>, and Viktor Borisovich Netyksho, with a computer hacking conspiracy involving gaining unauthorized access into the computers of U.S. persons and entities involved in the 2016 U.S. presidential election, stealing documents from those computers, and staging releases of the stolen documents to interfere with the 2016 U.S. presidential election.  The indictment also charges these defendants with aggravated identity theft, false registration of a domain name, and conspiracy to commit money laundering.  Two defendants, <a href=\"https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk\" data-val=\"https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk\" data-urltype=\"/view\" data-linktype=\"external\">Aleksandr Vladimirovich Osadchuk </a>and <a href=\"https://www.fbi.gov/wanted/cyber/anatoliy-sergeyevich-kovalev\" data-val=\"https://www.fbi.gov/wanted/cyber/anatoliy-sergeyevich-kovalev\" data-urltype=\"/view\" data-linktype=\"external\">Anatoliy Sergeyevich Kovalev</a>, are charged with a separate conspiracy to commit computer crimes, relating to hacking into the computers of U.S. persons and entities responsible for the administration of 2016 U.S. elections, such as state boards of elections, secretaries of state, and U.S. companies that supplied software and other technology related to the administration of U.S. elections.  The United States District Court for the District of Columbia in Washington, D.C. issued a federal arrest warrant for Aleksey Aleksandrovich Potemkin upon the grand jury’s return of the indictment.</p>\r\n<p> </p>",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS, AN INTERNATIONAL FLIGHT RISK, AND AN ESCAPE RISK",
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "title": "ALEKSEY ALEKSANDROVICH POTEMKIN",
+          "occupations": [
+              "Officer in the Russian Federation’s Main Intelligence Directorate of the General Staff (GRU)"
+          ],
+          "@id": "https://api.fbi.gov/@wanted-person/5ab231b51f9841d589ae05c3a19bbd6a"
+      },
+      {
+          "eyes": "brown",
+          "sex": "Male",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk",
+          "ncic": "W424314314",
+          "path": "/wanted/cyber/aleksandr-vladimirovich-osadchuk",
+          "locations": null,
+          "weight_min": null,
+          "place_of_birth": "Obninsk, Kaluga Oblast, Russia",
+          "reward_min": 0,
+          "subjects": [
+              "Cyber's Most Wanted"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "33de6dc773ee43009ba0e9bd1f35cd83",
+          "eyes_raw": "Brown",
+          "height_max": null,
+          "nationality": "Russian",
+          "age_range": null,
+          "height_min": null,
+          "aliases": [
+              "Осадчук Александр Владимирович"
+          ],
+          "reward_text": null,
+          "possible_countries": null,
+          "description": "Conspiracy to Commit an Offense Against the United States; False Registration of a Domain Name; Aggravated Identity Theft; Conspiracy to Commit Money Laundering",
+          "caution": null,
+          "weight_max": null,
+          "legat_names": null,
+          "race": "white",
+          "modified": "2018-10-30T17:35:17+00:00",
+          "publication": "2018-09-11T12:42:00",
+          "weight": null,
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk/@@images/image",
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk/@@images/image/large"
+              }
+          ],
+          "remarks": "<p>Osadchuk is alleged to have been a Russian military intelligence officer who held the rank of Colonel and was the commanding officer of Unit 74455.  Osadchuk was last known to be located in Moscow, Russia.</p>",
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk/aleksandr-vladimirovich-osadchuk-8-5x11.pdf"
+              },
+              {
+                  "name": "НА РУССКОМ",
+                  "url": "https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk/osadchukrussian.pdf/@@download/file/osadchukrussian.pdf"
+              }
+          ],
+          "field_offices": null,
+          "coordinates": [],
+          "race_raw": "White",
+          "hair_raw": "Brown",
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": [
+              "November 17, 1962"
+          ],
+          "details": "<p>On July 13, 2018, a federal grand jury sitting in the District of Columbia returned an indictment against 12 Russian military intelligence officers for their alleged roles in <a href=\"https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections\" data-val=\"https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections\" data-urltype=\"/view\" data-linktype=\"external\">interfering with the 2016 United States (U.S.) elections</a>.  The indictment charges 11 defendants, Aleksandr Vladimirovich Osadchuk, <a href=\"https://www.fbi.gov/wanted/cyber/dmitriy-sergeyevich-badin\" data-val=\"https://www.fbi.gov/wanted/cyber/dmitriy-sergeyevich-badin\" data-urltype=\"/view\" data-linktype=\"external\">Dmitriy Sergeyevich Badin</a>, <a href=\"https://www.fbi.gov/wanted/cyber/boris-alekseyevich-antonov\" data-val=\"https://www.fbi.gov/wanted/cyber/boris-alekseyevich-antonov\" data-urltype=\"/view\" data-linktype=\"external\">Boris Alekseyevich Antonov</a>,<a href=\"https://www.fbi.gov/wanted/cyber/ivan-sergeyevich-yermakov\" data-val=\"https://www.fbi.gov/wanted/cyber/ivan-sergeyevich-yermakov\" data-urltype=\"/view\" data-linktype=\"external\"> Ivan Sergeyevich Yermakov</a>, <a href=\"https://www.fbi.gov/wanted/cyber/aleksey-viktorovich-lukashev\" data-val=\"https://www.fbi.gov/wanted/cyber/aleksey-viktorovich-lukashev\" data-urltype=\"/view\" data-linktype=\"external\">Aleksey Viktorovich Lukashev</a>, <a href=\"https://www.fbi.gov/wanted/cyber/sergey-aleksandrovich-morgachev\" data-val=\"https://www.fbi.gov/wanted/cyber/sergey-aleksandrovich-morgachev\" data-urltype=\"/view\" data-linktype=\"external\">Sergey Aleksandrovich Morgachev</a>, <a href=\"https://www.fbi.gov/wanted/cyber/nikolay-yuryevich-kozachek\" data-val=\"https://www.fbi.gov/wanted/cyber/nikolay-yuryevich-kozachek\" data-urltype=\"/view\" data-linktype=\"external\">Nikolay Yuryevich Kozachek</a>, <a href=\"https://www.fbi.gov/wanted/cyber/pavel-vyacheslavovich-yershov\" data-val=\"https://www.fbi.gov/wanted/cyber/pavel-vyacheslavovich-yershov\" data-urltype=\"/view\" data-linktype=\"external\">Pavel Vyacheslavovich Yershov</a>, <a href=\"https://www.fbi.gov/wanted/cyber/artem-andreyevich-malyshev\" data-val=\"https://www.fbi.gov/wanted/cyber/artem-andreyevich-malyshev\" data-urltype=\"/view\" data-linktype=\"external\">Artem Andreyevich Malyshev</a>, <a href=\"https://www.fbi.gov/wanted/cyber/aleksey-aleksandrovich-potemkin\" data-val=\"https://www.fbi.gov/wanted/cyber/aleksey-aleksandrovich-potemkin\" data-urltype=\"/view\" data-linktype=\"external\">Aleksey Aleksandrovich Potemkin</a>, and Viktor Borisovich Netyksho, with a computer hacking conspiracy involving gaining unauthorized access into the computers of U.S. persons and entities involved in the 2016 U.S. presidential election, stealing documents from those computers, and staging releases of the stolen documents to interfere with the 2016 U.S. presidential election.  The indictment also charges these defendants with aggravated identity theft, false registration of a domain name, and conspiracy to commit money laundering.  Two defendants, Aleksandr Vladimirovich Osadchuk and <a href=\"https://www.fbi.gov/wanted/cyber/anatoliy-sergeyevich-kovalev\" data-val=\"https://www.fbi.gov/wanted/cyber/anatoliy-sergeyevich-kovalev\" data-urltype=\"/view\" data-linktype=\"external\">Anatoliy Sergeyevich Kovalev</a>, are charged with a separate conspiracy to commit computer crimes, relating to hacking into the computers of U.S. persons and entities responsible for the administration of 2016 U.S. elections, such as state boards of elections, secretaries of state, and U.S. companies that supplied software and other technology related to the administration of U.S. elections.  The United States District Court for the District of Columbia in Washington, D.C. issued a federal arrest warrant for Aleksandr Vladimirovich Osadchuk upon the grand jury’s return of the indictment.</p>\r\n<p> </p>",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS, AN INTERNATIONAL FLIGHT RISK, AND AN ESCAPE RISK",
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "title": "ALEKSANDR VLADIMIROVICH OSADCHUK",
+          "occupations": [
+              "Officer in the Russian Federation’s Main Intelligence Directorate of the General Staff (GRU)"
+          ],
+          "@id": "https://api.fbi.gov/@wanted-person/33de6dc773ee43009ba0e9bd1f35cd83"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Cyber's Most Wanted"
+          ],
+          "languages": null,
+          "path": "/wanted/cyber/sergey-aleksandrovich-morgachev",
+          "weight_min": null,
+          "details": "<p>On July 13, 2018, a federal grand jury sitting in the District of Columbia returned an indictment against 12 Russian military intelligence officers for their alleged roles in <a data-val=\"https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections\" href=\"https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections\" data-linktype=\"external\" data-urltype=\"/view\">interfering with the 2016 United States (U.S.) elections</a>.  The indictment charges 11 defendants, Sergey Aleksandrovich Morgachev, <a data-val=\"https://www.fbi.gov/wanted/cyber/artem-andreyevich-malyshev\" href=\"https://www.fbi.gov/wanted/cyber/artem-andreyevich-malyshev\" data-linktype=\"external\" data-urltype=\"/view\">Artem Andreyevich Malyshev</a>, <a data-val=\"https://www.fbi.gov/wanted/cyber/aleksey-viktorovich-lukashev\" href=\"https://www.fbi.gov/wanted/cyber/aleksey-viktorovich-lukashev\" data-linktype=\"external\" data-urltype=\"/view\">Aleksey Viktorovich Lukashev</a>, <a data-val=\"https://www.fbi.gov/wanted/cyber/boris-alekseyevich-antonov\" href=\"https://www.fbi.gov/wanted/cyber/boris-alekseyevich-antonov\" data-linktype=\"external\" data-urltype=\"/view\">Boris Alekseyevich Antonov</a>, <a data-val=\"https://www.fbi.gov/wanted/cyber/dmitriy-sergeyevich-badin\" href=\"https://www.fbi.gov/wanted/cyber/dmitriy-sergeyevich-badin\" data-linktype=\"external\" data-urltype=\"/view\">Dmitriy Sergeyevich Badin</a>, <a data-val=\"https://www.fbi.gov/wanted/cyber/ivan-sergeyevich-yermakov\" href=\"https://www.fbi.gov/wanted/cyber/ivan-sergeyevich-yermakov\" data-linktype=\"external\" data-urltype=\"/view\">Ivan Sergeyevich Yermakov</a>, <a data-val=\"https://www.fbi.gov/wanted/cyber/nikolay-yuryevich-kozachek\" href=\"https://www.fbi.gov/wanted/cyber/nikolay-yuryevich-kozachek\" data-linktype=\"external\" data-urltype=\"/view\">Nikolay Yuryevich Kozachek</a>, <a data-val=\"https://www.fbi.gov/wanted/cyber/pavel-vyacheslavovich-yershov\" href=\"https://www.fbi.gov/wanted/cyber/pavel-vyacheslavovich-yershov\" data-linktype=\"external\" data-urltype=\"/view\">Pavel Vyacheslavovich Yershov</a>, <a data-val=\"https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk\" href=\"https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk\" data-linktype=\"external\" data-urltype=\"/view\">Aleksandr Vladimirovich Osadchuk</a>, <a data-val=\"https://www.fbi.gov/wanted/cyber/aleksey-aleksandrovich-potemkin\" href=\"https://www.fbi.gov/wanted/cyber/aleksey-aleksandrovich-potemkin\" data-linktype=\"external\" data-urltype=\"/view\">Aleksey Aleksandrovich Potemkin</a>, and Viktor Borisovich Netyksho, with a computer hacking conspiracy involving gaining unauthorized access into the computers of U.S. persons and entities involved in the 2016 U.S. presidential election, stealing documents from those computers, and staging releases of the stolen documents to interfere with the 2016 U.S. presidential election.  The indictment also charges these defendants with aggravated identity theft, false registration of a domain name, and conspiracy to commit money laundering.  Two defendants, <a data-val=\"https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk\" href=\"https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk\" data-linktype=\"external\" data-urltype=\"/view\">Aleksandr Vladimirovich Osadchuk </a>and <a data-val=\"https://www.fbi.gov/wanted/cyber/anatoliy-sergeyevich-kovalev\" href=\"https://www.fbi.gov/wanted/cyber/anatoliy-sergeyevich-kovalev\" data-linktype=\"external\" data-urltype=\"/view\">Anatoliy Sergeyevich Kovalev</a>, are charged with a separate conspiracy to commit computer crimes, relating to hacking into the computers of U.S. persons and entities responsible for the administration of 2016 U.S. elections, such as state boards of elections, secretaries of state, and U.S. companies that supplied software and other technology related to the administration of U.S. elections.  The United States District Court for the District of Columbia in Washington, D.C. issued a federal arrest warrant for Sergey Aleksandrovich Morgachev upon the grand jury’s return of the indictment.</p>\r\n<p> </p>",
+          "status": "na",
+          "possible_states": null,
+          "eyes": "blue",
+          "hair": "brown",
+          "legat_names": null,
+          "eyes_raw": "Blue",
+          "field_offices": null,
+          "weight": null,
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": "<p>Morgachev is alleged to have been a Russian military intelligence officer holding the rank of Lieutenant Colonel, assigned to Unit 26165.  Morgachev was last known to be located in Moscow, Russia.</p>",
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/cyber/sergey-aleksandrovich-morgachev",
+          "nationality": "Ukrainian",
+          "uid": "c9444d9fc13f47de89f25b1a17249021",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS, AN INTERNATIONAL FLIGHT RISK, AND AN ESCAPE RISK",
+          "scars_and_marks": null,
+          "race": "white",
+          "hair_raw": "Brown",
+          "modified": "2018-10-30T17:34:17+00:00",
+          "title": "SERGEY ALEKSANDROVICH MORGACHEV",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/cyber/sergey-aleksandrovich-morgachev/@@images/image/large",
+                  "caption": null,
+                  "original": "https://www.fbi.gov/wanted/cyber/sergey-aleksandrovich-morgachev/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/cyber/sergey-aleksandrovich-morgachev/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": null,
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": null,
+          "reward_max": 0,
+          "ncic": "W984305395",
+          "aliases": [
+              "Моргачев Сергей Александрович"
+          ],
+          "height_max": null,
+          "dates_of_birth_used": [
+              "May 22, 1977"
+          ],
+          "height_min": null,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/cyber/sergey-aleksandrovich-morgachev/sergey-aleksandrovich-morgachev-8-5x11.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/cyber/sergey-aleksandrovich-morgachev/morgachevrussian.pdf/@@download/file/morgachevrussian.pdf",
+                  "name": "НА РУССКОМ"
+              }
+          ],
+          "occupations": [
+              "Officer in the Russian Federation’s Main Intelligence Directorate of the General Staff (GRU)"
+          ],
+          "publication": "2018-09-04T10:10:00",
+          "description": "Conspiracy to Commit an Offense Against the United States; False Registration of a Domain Name; Aggravated Identity Theft; Conspiracy to Commit Money Laundering",
+          "race_raw": "White",
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": "Kiev, Ukraine",
+          "reward_min": 0,
+          "weight_max": null,
+          "sex": "Male",
+          "@id": "https://api.fbi.gov/@wanted-person/c9444d9fc13f47de89f25b1a17249021"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Cyber's Most Wanted"
+          ],
+          "languages": null,
+          "path": "/wanted/cyber/aleksey-viktorovich-lukashev",
+          "weight_min": null,
+          "details": "<p>On July 13, 2018, a federal grand jury sitting in the District of Columbia returned an indictment against 12 Russian military intelligence officers for their alleged roles in <a data-val=\"https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections\" href=\"https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections\" data-linktype=\"external\" data-urltype=\"/view\">interfering with the 2016 United States (U.S.) elections</a>.  The indictment charges 11 defendants, Aleksey Viktorovich Lukashev, <a data-val=\"https://www.fbi.gov/wanted/cyber/boris-alekseyevich-antonov\" href=\"https://www.fbi.gov/wanted/cyber/boris-alekseyevich-antonov\" data-linktype=\"external\" data-urltype=\"/view\">Boris Alekseyevich Antonov</a>, <a data-val=\"https://www.fbi.gov/wanted/cyber/dmitriy-sergeyevich-badin\" href=\"https://www.fbi.gov/wanted/cyber/dmitriy-sergeyevich-badin\" data-linktype=\"external\" data-urltype=\"/view\">Dmitriy Sergeyevich Badin</a>, <a data-val=\"https://www.fbi.gov/wanted/cyber/ivan-sergeyevich-yermakov\" href=\"https://www.fbi.gov/wanted/cyber/ivan-sergeyevich-yermakov\" data-linktype=\"external\" data-urltype=\"/view\">Ivan Sergeyevich Yermakov</a>, <a data-val=\"https://www.fbi.gov/wanted/cyber/sergey-aleksandrovich-morgachev\" href=\"https://www.fbi.gov/wanted/cyber/sergey-aleksandrovich-morgachev\" data-linktype=\"external\" data-urltype=\"/view\">Sergey Aleksandrovich Morgachev</a>, <a data-val=\"https://www.fbi.gov/wanted/cyber/nikolay-yuryevich-kozachek\" href=\"https://www.fbi.gov/wanted/cyber/nikolay-yuryevich-kozachek\" data-linktype=\"external\" data-urltype=\"/view\">Nikolay Yuryevich Kozachek</a>, <a data-val=\"https://www.fbi.gov/wanted/cyber/pavel-vyacheslavovich-yershov\" href=\"https://www.fbi.gov/wanted/cyber/pavel-vyacheslavovich-yershov\" data-linktype=\"external\" data-urltype=\"/view\">Pavel Vyacheslavovich Yershov</a>, <a data-val=\"https://www.fbi.gov/wanted/cyber/artem-andreyevich-malyshev\" href=\"https://www.fbi.gov/wanted/cyber/artem-andreyevich-malyshev\" data-linktype=\"external\" data-urltype=\"/view\">Artem Andreyevich Malyshev</a>, <a data-val=\"https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk\" href=\"https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk\" data-linktype=\"external\" data-urltype=\"/view\">Aleksandr Vladimirovich Osadchuk</a>, <a data-val=\"https://www.fbi.gov/wanted/cyber/aleksey-aleksandrovich-potemkin\" href=\"https://www.fbi.gov/wanted/cyber/aleksey-aleksandrovich-potemkin\" data-linktype=\"external\" data-urltype=\"/view\">Aleksey Aleksandrovich Potemkin</a>, and Viktor Borisovich Netyksho, with a computer hacking conspiracy involving gaining unauthorized access into the computers of U.S. persons and entities involved in the 2016 U.S. presidential election, stealing documents from those computers, and staging releases of the stolen documents to interfere with the 2016 U.S. presidential election.  The indictment also charges these defendants with aggravated identity theft, false registration of a domain name, and conspiracy to commit money laundering.  Two defendants, <a data-val=\"https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk\" href=\"https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk\" data-linktype=\"external\" data-urltype=\"/view\">Aleksandr Vladimirovich Osadchuk </a>and <a data-val=\"https://www.fbi.gov/wanted/cyber/anatoliy-sergeyevich-kovalev\" href=\"https://www.fbi.gov/wanted/cyber/anatoliy-sergeyevich-kovalev\" data-linktype=\"external\" data-urltype=\"/view\">Anatoliy Sergeyevich Kovalev</a>, are charged with a separate conspiracy to commit computer crimes, relating to hacking into the computers of U.S. persons and entities responsible for the administration of 2016 U.S. elections, such as state boards of elections, secretaries of state, and U.S. companies that supplied software and other technology related to the administration of U.S. elections.  The United States District Court for the District of Columbia in Washington, D.C. issued a federal arrest warrant for Aleksey Viktorovich Lukashev upon the grand jury’s return of the indictment.</p>\r\n<p> </p>",
+          "status": "na",
+          "possible_states": null,
+          "eyes": "brown",
+          "hair": "blond",
+          "legat_names": null,
+          "eyes_raw": "Brown",
+          "field_offices": null,
+          "weight": null,
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": "<p>Lukashev is alleged to have been a Russian military intelligence officer holding the rank of Senior Lieutenant, assigned to Unit 26165.  Lukashev was last known to be located in Moscow, Russia.</p>",
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/cyber/aleksey-viktorovich-lukashev",
+          "nationality": "Russian",
+          "uid": "a53bc5b6aa3c4c9da049e83a96b33bab",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS, AN INTERNATIONAL FLIGHT RISK, AND AN ESCAPE RISK",
+          "scars_and_marks": null,
+          "race": "white",
+          "hair_raw": "Blond",
+          "modified": "2018-10-30T17:33:29+00:00",
+          "title": "ALEKSEY VIKTOROVICH LUKASHEV",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/cyber/aleksey-viktorovich-lukashev/@@images/image/large",
+                  "caption": null,
+                  "original": "https://www.fbi.gov/wanted/cyber/aleksey-viktorovich-lukashev/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/cyber/aleksey-viktorovich-lukashev/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": null,
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": null,
+          "reward_max": 0,
+          "ncic": "W044276015",
+          "aliases": [
+              "Лукашев Алексей Викторович",
+              "“Den Katenberg” ",
+              "“Yuliana Martynova”, "
+          ],
+          "height_max": null,
+          "dates_of_birth_used": [
+              "November 7, 1990"
+          ],
+          "height_min": null,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/cyber/aleksey-viktorovich-lukashev/aleksey-viktorovich-lukashev-8-5x11.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/cyber/aleksey-viktorovich-lukashev/lukashevrussian.pdf/@@download/file/lukashevrussian.pdf",
+                  "name": "НА РУССКОМ"
+              }
+          ],
+          "occupations": [
+              "Officer in the Russian Federation’s Main Intelligence Directorate of the General Staff (GRU)"
+          ],
+          "publication": "2018-08-16T14:31:00",
+          "description": "Conspiracy to Commit an Offense Against the United States; False Registration of a Domain Name; Aggravated Identity Theft; Conspiracy to Commit Money Laundering",
+          "race_raw": "White",
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": "Murmanskaya Oblast, Russia",
+          "reward_min": 0,
+          "weight_max": null,
+          "sex": "Male",
+          "@id": "https://api.fbi.gov/@wanted-person/a53bc5b6aa3c4c9da049e83a96b33bab"
+      },
+      {
+          "eyes": "blue",
+          "sex": "Male",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/cyber/nikolay-yuryevich-kozachek",
+          "ncic": "W954318897",
+          "path": "/wanted/cyber/nikolay-yuryevich-kozachek",
+          "locations": null,
+          "weight_min": null,
+          "place_of_birth": "Stavropolskiy Kraya, Russia",
+          "reward_min": 0,
+          "subjects": [
+              "Cyber's Most Wanted"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "bfd8fa7cff5a4cb3b9807cf38560a837",
+          "eyes_raw": "Blue",
+          "height_max": null,
+          "nationality": "Russian",
+          "age_range": null,
+          "height_min": null,
+          "aliases": [
+              "Козачек Николай Юрьевич",
+              "“kazak”",
+              "“blablabla1234565”"
+          ],
+          "reward_text": null,
+          "possible_countries": null,
+          "description": "Conspiracy to Commit an Offense Against the United States; False Registration of a Domain Name; Aggravated Identity Theft; Conspiracy to Commit Money Laundering",
+          "caution": null,
+          "weight_max": null,
+          "legat_names": null,
+          "race": "white",
+          "modified": "2018-10-30T17:32:36+00:00",
+          "publication": "2018-08-16T12:53:00",
+          "weight": null,
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/cyber/nikolay-yuryevich-kozachek/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cyber/nikolay-yuryevich-kozachek/@@images/image",
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/cyber/nikolay-yuryevich-kozachek/@@images/image/large"
+              }
+          ],
+          "remarks": "<p>Kozachek is alleged to have been a Russian military intelligence officer holding the rank of Lieutenant Captain, assigned to Unit 26165.  Kozachek was last known to be located in Moscow, Russia.</p>",
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/cyber/nikolay-yuryevich-kozachek/nikolay-yuryevich-kozachek-8-5x11.pdf"
+              },
+              {
+                  "name": "НА РУССКОМ",
+                  "url": "https://www.fbi.gov/wanted/cyber/nikolay-yuryevich-kozachek/kozachekrussian.pdf/@@download/file/kozachekrussian.pdf"
+              }
+          ],
+          "field_offices": null,
+          "coordinates": [],
+          "race_raw": "White",
+          "hair_raw": "Brown",
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": [
+              "July 29, 1989"
+          ],
+          "details": "<p>On July 13, 2018, a federal grand jury sitting in the District of Columbia returned an indictment against 12 Russian military intelligence officers for their alleged roles in <a href=\"https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections\" data-val=\"https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections\" data-urltype=\"/view\" data-linktype=\"external\">interfering with the 2016 United States (U.S.) elections</a>.  The indictment charges 11 defendants, Nikolay Yuryevich Kozachek, <a href=\"https://www.fbi.gov/wanted/cyber/boris-alekseyevich-antonov\" data-val=\"https://www.fbi.gov/wanted/cyber/boris-alekseyevich-antonov\" data-urltype=\"/view\" data-linktype=\"external\">Boris Alekseyevich Antonov</a>, <a href=\"https://www.fbi.gov/wanted/cyber/dmitriy-sergeyevich-badin\" data-val=\"https://www.fbi.gov/wanted/cyber/dmitriy-sergeyevich-badin\" data-urltype=\"/view\" data-linktype=\"external\">Dmitriy Sergeyevich Badin</a>, <a href=\"https://www.fbi.gov/wanted/cyber/ivan-sergeyevich-yermakov\" data-val=\"https://www.fbi.gov/wanted/cyber/ivan-sergeyevich-yermakov\" data-urltype=\"/view\" data-linktype=\"external\">Ivan Sergeyevich Yermakov</a>, <a href=\"https://www.fbi.gov/wanted/cyber/aleksey-viktorovich-lukashev\" data-val=\"https://www.fbi.gov/wanted/cyber/aleksey-viktorovich-lukashev\" data-urltype=\"/view\" data-linktype=\"external\">Aleksey Viktorovich Lukashev</a>, <a href=\"https://www.fbi.gov/wanted/cyber/sergey-aleksandrovich-morgachev\" data-val=\"https://www.fbi.gov/wanted/cyber/sergey-aleksandrovich-morgachev\" data-urltype=\"/view\" data-linktype=\"external\">Sergey Aleksandrovich Morgachev</a>, <a href=\"https://www.fbi.gov/wanted/cyber/pavel-vyacheslavovich-yershov\" data-val=\"https://www.fbi.gov/wanted/cyber/pavel-vyacheslavovich-yershov\" data-urltype=\"/view\" data-linktype=\"external\">Pavel Vyacheslavovich Yershov</a>, <a href=\"https://www.fbi.gov/wanted/cyber/artem-andreyevich-malyshev\" data-val=\"https://www.fbi.gov/wanted/cyber/artem-andreyevich-malyshev\" data-urltype=\"/view\" data-linktype=\"external\">Artem Andreyevich Malyshev</a>, <a href=\"https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk\" data-val=\"https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk\" data-urltype=\"/view\" data-linktype=\"external\">Aleksandr Vladimirovich Osadchuk</a>,<a href=\"https://www.fbi.gov/wanted/cyber/aleksey-aleksandrovich-potemkin\" data-val=\"https://www.fbi.gov/wanted/cyber/aleksey-aleksandrovich-potemkin\" data-urltype=\"/view\" data-linktype=\"external\"> Aleksey Aleksandrovich Potemkin</a>, and Viktor Borisovich Netyksho, with a computer hacking conspiracy involving gaining unauthorized access into the computers of U.S. persons and entities involved in the 2016 U.S. presidential election, stealing documents from those computers, and staging releases of the stolen documents to interfere with the 2016 U.S. presidential election.  The indictment also charges these defendants with aggravated identity theft, false registration of a domain name, and conspiracy to commit money laundering.  Two defendants, <a href=\"https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk\" data-val=\"https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk\" data-urltype=\"/view\" data-linktype=\"external\">Aleksandr Vladimirovich Osadchuk </a>and <a href=\"https://www.fbi.gov/wanted/cyber/anatoliy-sergeyevich-kovalev\" data-val=\"https://www.fbi.gov/wanted/cyber/anatoliy-sergeyevich-kovalev\" data-urltype=\"/view\" data-linktype=\"external\">Anatoliy Sergeyevich Kovalev</a>, are charged with a separate conspiracy to commit computer crimes, relating to hacking into the computers of U.S. persons and entities responsible for the administration of 2016 U.S. elections, such as state boards of elections, secretaries of state, and U.S. companies that supplied software and other technology related to the administration of U.S. elections.  The United States District Court for the District of Columbia in Washington, D.C. issued a federal arrest warrant for Nikolay Yuryevich Kozachek upon the grand jury’s return of the indictment.</p>\r\n<p> </p>",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS, AN INTERNATIONAL FLIGHT RISK, AND AN ESCAPE RISK",
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "title": "NIKOLAY YURYEVICH KOZACHEK",
+          "occupations": [
+              "Officer in the Russian Federation’s Main Intelligence Directorate of the General Staff (GRU)"
+          ],
+          "@id": "https://api.fbi.gov/@wanted-person/bfd8fa7cff5a4cb3b9807cf38560a837"
+      },
+      {
+          "eyes": "brown",
+          "sex": "Male",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/cyber/boris-alekseyevich-antonov",
+          "ncic": "W914294782",
+          "path": "/wanted/cyber/boris-alekseyevich-antonov",
+          "locations": null,
+          "weight_min": null,
+          "place_of_birth": "Russia",
+          "reward_min": 0,
+          "subjects": [
+              "Cyber's Most Wanted"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "bf7c158100b145edbdb1850497de4caf",
+          "eyes_raw": "Brown",
+          "height_max": null,
+          "nationality": "Russian",
+          "age_range": null,
+          "height_min": null,
+          "aliases": [
+              "Антонов Борис Алексеевич"
+          ],
+          "reward_text": null,
+          "possible_countries": null,
+          "description": "Conspiracy to Commit an Offense Against the United States; False Registration of a Domain Name; Aggravated Identity Theft; Conspiracy to Commit Money Laundering",
+          "caution": null,
+          "weight_max": null,
+          "legat_names": null,
+          "race": "white",
+          "modified": "2018-10-30T17:28:31+00:00",
+          "publication": "2018-08-14T07:52:00",
+          "weight": null,
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/cyber/boris-alekseyevich-antonov/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cyber/boris-alekseyevich-antonov/@@images/image",
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/cyber/boris-alekseyevich-antonov/@@images/image/large"
+              }
+          ],
+          "remarks": "<p>Antonov is alleged to have been a Russian military intelligence officer holding the rank of Major, assigned to Unit 26165.  Antonov was last known to be located in Moscow, Russia.</p>",
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/cyber/boris-alekseyevich-antonov/boris-alekseyevich-antonov-8-5x11.pdf"
+              },
+              {
+                  "name": "НА РУССКОМ",
+                  "url": "https://www.fbi.gov/wanted/cyber/boris-alekseyevich-antonov/antonovrussian.pdf/@@download/file/antonovrussian.pdf"
+              }
+          ],
+          "field_offices": null,
+          "coordinates": [],
+          "race_raw": "White",
+          "hair_raw": "Brown",
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": [
+              "December 19, 1980"
+          ],
+          "details": "<p>On July 13, 2018, a federal grand jury sitting in the District of Columbia returned an indictment against 12 Russian military intelligence officers for their alleged roles in <a href=\"https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections\" data-val=\"https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections\" data-urltype=\"/view\" data-linktype=\"external\">interfering with the 2016 United States (U.S.) elections</a>.  The indictment charges 11 defendants, Boris Alekseyevich Antonov, <a href=\"https://www.fbi.gov/wanted/cyber/dmitriy-sergeyevich-badin\" data-val=\"https://www.fbi.gov/wanted/cyber/dmitriy-sergeyevich-badin\" data-urltype=\"/view\" data-linktype=\"external\">Dmitriy Sergeyevich Badin</a>, <a href=\"https://www.fbi.gov/wanted/cyber/ivan-sergeyevich-yermakov\" data-val=\"https://www.fbi.gov/wanted/cyber/ivan-sergeyevich-yermakov\" data-urltype=\"/view\" data-linktype=\"external\">Ivan Sergeyevich Yermakov</a>, <a href=\"https://www.fbi.gov/wanted/cyber/aleksey-viktorovich-lukashev\" data-val=\"https://www.fbi.gov/wanted/cyber/aleksey-viktorovich-lukashev\" data-urltype=\"/view\" data-linktype=\"external\">Aleksey Viktorovich Lukashev</a>, <a href=\"https://www.fbi.gov/wanted/cyber/sergey-aleksandrovich-morgachev\" data-val=\"https://www.fbi.gov/wanted/cyber/sergey-aleksandrovich-morgachev\" data-urltype=\"/view\" data-linktype=\"external\">Sergey Aleksandrovich Morgachev</a>,<a href=\"https://www.fbi.gov/wanted/cyber/nikolay-yuryevich-kozachek\" data-val=\"https://www.fbi.gov/wanted/cyber/nikolay-yuryevich-kozachek\" data-urltype=\"/view\" data-linktype=\"external\"> Nikolay Yuryevich Kozachek</a>, <a href=\"https://www.fbi.gov/wanted/cyber/pavel-vyacheslavovich-yershov\" data-val=\"https://www.fbi.gov/wanted/cyber/pavel-vyacheslavovich-yershov\" data-urltype=\"/view\" data-linktype=\"external\">Pavel Vyacheslavovich Yershov</a>, <a href=\"https://www.fbi.gov/wanted/cyber/artem-andreyevich-malyshev\" data-val=\"https://www.fbi.gov/wanted/cyber/artem-andreyevich-malyshev\" data-urltype=\"/view\" data-linktype=\"external\">Artem Andreyevich Malyshev</a>, <a href=\"https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk\" data-val=\"https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk\" data-urltype=\"/view\" data-linktype=\"external\">Aleksandr Vladimirovich Osadchuk</a>, <a href=\"https://www.fbi.gov/wanted/cyber/aleksey-aleksandrovich-potemkin\" data-val=\"https://www.fbi.gov/wanted/cyber/aleksey-aleksandrovich-potemkin\" data-urltype=\"/view\" data-linktype=\"external\">Aleksey Aleksandrovich Potemkin</a>, and Viktor Borisovich Netyksho, with a computer hacking conspiracy involving gaining unauthorized access into the computers of U.S. persons and entities involved in the 2016 U.S. presidential election, stealing documents from those computers, and staging releases of the stolen documents to interfere with the 2016 U.S. presidential election.  The indictment also charges these defendants with aggravated identity theft, false registration of a domain name, and conspiracy to commit money laundering.  Two defendants, <a href=\"https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk\" data-val=\"https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk\" data-urltype=\"/view\" data-linktype=\"external\">Aleksandr Vladimirovich Osadchuk </a>and <a href=\"https://www.fbi.gov/wanted/cyber/anatoliy-sergeyevich-kovalev\" data-val=\"https://www.fbi.gov/wanted/cyber/anatoliy-sergeyevich-kovalev\" data-urltype=\"/view\" data-linktype=\"external\">Anatoliy Sergeyevich Kovalev</a>, are charged with a separate conspiracy to commit computer crimes, relating to hacking into the computers of U.S. persons and entities responsible for the administration of 2016 U.S. elections, such as state boards of elections, secretaries of state, and U.S. companies that supplied software and other technology related to the administration of U.S. elections.  The United States District Court for the District of Columbia in Washington, D.C. issued a federal arrest warrant for Boris Alekseyevich Antonov upon the grand jury’s return of the indictment.</p>\r\n<p> </p>",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS, AN INTERNATIONAL FLIGHT RISK, AND AN ESCAPE RISK",
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "title": "BORIS ALEKSEYEVICH ANTONOV",
+          "occupations": [
+              "Officer in the Russian Federation’s Main Intelligence Directorate of the General Staff (GRU)"
+          ],
+          "@id": "https://api.fbi.gov/@wanted-person/bf7c158100b145edbdb1850497de4caf"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Cyber's Most Wanted"
+          ],
+          "languages": null,
+          "path": "/wanted/cyber/russian-interference-in-2016-u-s-elections",
+          "weight_min": null,
+          "details": "<p>On July 13, 2018, a federal grand jury sitting in the District of Columbia returned an indictment against 12 Russian military intelligence officers for their alleged roles in interfering with the 2016 United States (U.S.) elections.  The indictment charges 11 defendants, <a data-val=\"https://www.fbi.gov/wanted/cyber/boris-alekseyevich-antonov\" href=\"https://www.fbi.gov/wanted/cyber/boris-alekseyevich-antonov\" data-linktype=\"external\" data-urltype=\"/view\">Boris Alekseyevich Antonov</a>, <a data-val=\"https://www.fbi.gov/wanted/cyber/dmitriy-sergeyevich-badin\" href=\"https://www.fbi.gov/wanted/cyber/dmitriy-sergeyevich-badin\" data-linktype=\"external\" data-urltype=\"/view\">Dmitriy Sergeyevich Badin</a>, <a data-val=\"https://www.fbi.gov/wanted/cyber/nikolay-yuryevich-kozachek\" href=\"https://www.fbi.gov/wanted/cyber/nikolay-yuryevich-kozachek\" data-linktype=\"external\" data-urltype=\"/view\">Nikolay Yuryevich Kozachek</a>, <a data-val=\"https://www.fbi.gov/wanted/cyber/aleksey-viktorovich-lukashev\" href=\"https://www.fbi.gov/wanted/cyber/aleksey-viktorovich-lukashev\" data-linktype=\"external\" data-urltype=\"/view\">Aleksey Viktorovich Lukashev</a>, <a data-val=\"https://www.fbi.gov/wanted/cyber/artem-andreyevich-malyshev\" href=\"https://www.fbi.gov/wanted/cyber/artem-andreyevich-malyshev\" data-linktype=\"external\" data-urltype=\"/view\">Artem Andreyevich Malyshev</a>, <a data-val=\"https://www.fbi.gov/wanted/cyber/sergey-aleksandrovich-morgachev\" href=\"https://www.fbi.gov/wanted/cyber/sergey-aleksandrovich-morgachev\" data-linktype=\"external\" data-urltype=\"/view\">Sergey Aleksandrovich Morgachev</a>, <a data-val=\"https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk\" href=\"https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk\" data-linktype=\"external\" data-urltype=\"/view\">Aleksandr Vladimirovich Osadchuk</a>, <a data-val=\"https://www.fbi.gov/wanted/cyber/aleksey-aleksandrovich-potemkin\" href=\"https://www.fbi.gov/wanted/cyber/aleksey-aleksandrovich-potemkin\" data-linktype=\"external\" data-urltype=\"/view\">Aleksey Aleksandrovich Potemkin</a>, <a data-val=\"https://www.fbi.gov/wanted/cyber/ivan-sergeyevich-yermakov\" href=\"https://www.fbi.gov/wanted/cyber/ivan-sergeyevich-yermakov\" data-linktype=\"external\" data-urltype=\"/view\">Ivan Sergeyevich Yermakov</a>, <a data-val=\"https://www.fbi.gov/wanted/cyber/pavel-vyacheslavovich-yershov\" href=\"https://www.fbi.gov/wanted/cyber/pavel-vyacheslavovich-yershov\" data-linktype=\"external\" data-urltype=\"/view\">Pavel Vyacheslavovich Yershov</a>, and Viktor Borisovich Netyksho, with a computer hacking conspiracy involving gaining unauthorized access into the computers of U.S. persons and entities involved in the 2016 U.S. presidential election, stealing documents from those computers, and staging releases of the stolen documents to interfere with the 2016 U.S. presidential election.  The indictment also charges these defendants with aggravated identity theft, false registration of a domain name, and conspiracy to commit money laundering.  Two defendants, <a data-val=\"https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk\" href=\"https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk\" data-linktype=\"external\" data-urltype=\"/view\">Aleksandr Vladimirovich Osadchuk </a>and <a data-val=\"https://www.fbi.gov/wanted/cyber/anatoliy-sergeyevich-kovalev\" href=\"https://www.fbi.gov/wanted/cyber/anatoliy-sergeyevich-kovalev\" data-linktype=\"external\" data-urltype=\"/view\">Anatoliy Sergeyevich Kovalev</a>, are charged with a separate conspiracy to commit computer crimes, relating to hacking into the computers of U.S. persons and entities responsible for the administration of 2016 U.S. elections, such as state boards of elections, secretaries of state, and U.S. companies that supplied software and other technology related to the administration of U.S. elections.  The United States District Court for the District of Columbia in Washington, D.C. issued a federal arrest warrant for each of these defendants upon the grand jury’s return of the indictment.</p>\r\n<p> </p>",
+          "status": "na",
+          "possible_states": null,
+          "eyes": null,
+          "hair": null,
+          "legat_names": null,
+          "eyes_raw": null,
+          "field_offices": null,
+          "weight": null,
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": null,
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections",
+          "nationality": null,
+          "uid": "9957ba299d774955b857bad921685cac",
+          "warning_message": "THESE INDIVIDUALS SHOULD BE CONSIDERED ARMED AND DANGEROUS, AN INTERNATIONAL FLIGHT RISK, AND AN ESCAPE RISK",
+          "scars_and_marks": null,
+          "race": null,
+          "hair_raw": null,
+          "modified": "2018-10-30T17:20:47+00:00",
+          "title": "RUSSIAN INTERFERENCE IN 2016 U.S. ELECTIONS",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections/@@images/image/large",
+                  "caption": null,
+                  "original": "https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections/antonov.jpg/@@images/image/large",
+                  "caption": "Boris Alekseyevich Antonov",
+                  "original": "https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections/antonov.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections/antonov.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections/badin.jpg/@@images/image/large",
+                  "caption": "Dmitriy Sergeyevich Badin",
+                  "original": "https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections/badin.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections/badin.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections/kovalev.jpg/@@images/image/large",
+                  "caption": "Anatoliy Sergeyevich Kovalev",
+                  "original": "https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections/kovalev.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections/kovalev.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections/kozachek.jpg/@@images/image/large",
+                  "caption": "Nikolay Yuryevich Kozachek",
+                  "original": "https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections/kozachek.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections/kozachek.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections/lukashev.jpg/@@images/image/large",
+                  "caption": "Aleksey Viktorovich Lukashev",
+                  "original": "https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections/lukashev.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections/lukashev.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections/malyshev.jpg/@@images/image/large",
+                  "caption": "Artem Andreyevich Malyshev",
+                  "original": "https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections/malyshev.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections/malyshev.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections/morgachev.jpg/@@images/image/large",
+                  "caption": "Sergey Aleksandrovich Morgachev",
+                  "original": "https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections/morgachev.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections/morgachev.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections/osadchuk.jpg/@@images/image/large",
+                  "caption": "Aleksandr Vladimirovich Osadchuk",
+                  "original": "https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections/osadchuk.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections/osadchuk.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections/potemkin.jpg/@@images/image/large",
+                  "caption": "Aleksey Aleksandrovich Potemkin",
+                  "original": "https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections/potemkin.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections/potemkin.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections/yermakov.jpg/@@images/image/large",
+                  "caption": "Ivan Sergeyevich Yermakov",
+                  "original": "https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections/yermakov.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections/yermakov.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections/yershov1.jpg/@@images/image/large",
+                  "caption": "Pavel Vyacheslavovich Yershov",
+                  "original": "https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections/yershov1.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections/yershov1.jpg/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": null,
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": null,
+          "reward_max": 0,
+          "ncic": null,
+          "aliases": null,
+          "height_max": null,
+          "dates_of_birth_used": null,
+          "height_min": null,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections/election-interference-collage-8-5x11.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections/election-interference-collage-8-5x11-russian.pdf/@@download/file/Election-Interference-Collage-8.5x11 Russian.pdf",
+                  "name": "НА РУССКОМ"
+              }
+          ],
+          "occupations": null,
+          "publication": "2018-09-30T08:53:00",
+          "description": "CONSPIRACY TO COMMIT AN OFFENSE AGAINST THE UNITED STATES; FALSE REGISTRATION OF A DOMAIN NAME; AGGRAVATED IDENTITY THEFT; CONSPIRACY TO COMMIT MONEY LAUNDERING",
+          "race_raw": null,
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": null,
+          "reward_min": 0,
+          "weight_max": null,
+          "sex": null,
+          "@id": "https://api.fbi.gov/@wanted-person/9957ba299d774955b857bad921685cac"
+      },
+      {
+          "eyes": "brown",
+          "sex": "Male",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/cyber/ivan-sergeyevich-yermakov",
+          "ncic": "W444340124",
+          "path": "/wanted/cyber/ivan-sergeyevich-yermakov",
+          "locations": null,
+          "weight_min": null,
+          "place_of_birth": "Chelyabinskaya Oblast, Russia",
+          "reward_min": 0,
+          "subjects": [
+              "Cyber's Most Wanted"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "a3f70fd05e6e435cbb7ebe1d9201524e",
+          "eyes_raw": "Brown",
+          "height_max": null,
+          "nationality": "Russian",
+          "age_range": null,
+          "height_min": null,
+          "aliases": [
+              "Ермаков Иван Сергеевич",
+              "Ivan Sergeyevich Ermakov",
+              "“Kate S. Milton”",
+              "“James McMorgans”",
+              "“Karen W. Millen” "
+          ],
+          "reward_text": null,
+          "possible_countries": null,
+          "description": "Conspiracy to Commit an Offense Against the United States; False Registration of a Domain Name; Aggravated Identity Theft; Conspiracy to Commit Money Laundering; Conspiracy to Commit Computer Fraud; Conspiracy to Commit Wire Fraud; Wire Fraud",
+          "caution": null,
+          "weight_max": null,
+          "legat_names": null,
+          "race": "white",
+          "modified": "2018-10-30T17:15:44+00:00",
+          "publication": "2018-09-20T08:13:00",
+          "weight": null,
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/cyber/ivan-sergeyevich-yermakov/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cyber/ivan-sergeyevich-yermakov/@@images/image",
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/cyber/ivan-sergeyevich-yermakov/@@images/image/large"
+              }
+          ],
+          "remarks": "<p>Yermakov is alleged to have been a Russian military intelligence officer, assigned to Unit 26165.  Yermakov was last known to be located in Moscow, Russia.</p>",
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/cyber/ivan-sergeyevich-yermakov/download.pdf"
+              },
+              {
+                  "name": "НА РУССКОМ",
+                  "url": "https://www.fbi.gov/wanted/cyber/ivan-sergeyevich-yermakov/yermakovrussian.pdf/@@download/file/yermakovrussian.pdf"
+              }
+          ],
+          "field_offices": null,
+          "coordinates": [],
+          "race_raw": "White",
+          "hair_raw": "Brown",
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": [
+              "April 10, 1986"
+          ],
+          "details": "<p>On July 13, 2018, a federal grand jury sitting in the District of Columbia returned an indictment against 12 Russian military intelligence officers for their alleged roles in <a href=\"https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections\" data-val=\"https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections\" data-urltype=\"/view\" data-linktype=\"external\">interfering with the 2016 United States (U.S.) elections</a>.  The indictment charges 11 defendants, Ivan Sergeyevich Yermakov, <a href=\"https://www.fbi.gov/wanted/cyber/aleksey-aleksandrovich-potemkin\" data-val=\"https://www.fbi.gov/wanted/cyber/aleksey-aleksandrovich-potemkin\" data-urltype=\"/view\" data-linktype=\"external\">Aleksey Aleksandrovich Potemkin</a>, <a href=\"https://www.fbi.gov/wanted/cyber/sergey-aleksandrovich-morgachev\" data-val=\"https://www.fbi.gov/wanted/cyber/sergey-aleksandrovich-morgachev\" data-urltype=\"/view\" data-linktype=\"external\">Sergey Aleksandrovich Morgachev</a>, <a href=\"https://www.fbi.gov/wanted/cyber/artem-andreyevich-malyshev\" data-val=\"https://www.fbi.gov/wanted/cyber/artem-andreyevich-malyshev\" data-urltype=\"/view\" data-linktype=\"external\">Artem Andreyevich Malyshev</a>, <a href=\"https://www.fbi.gov/wanted/cyber/aleksey-viktorovich-lukashev\" data-val=\"https://www.fbi.gov/wanted/cyber/aleksey-viktorovich-lukashev\" data-urltype=\"/view\" data-linktype=\"external\">Aleksey Viktorovich Lukashev</a>, <a href=\"https://www.fbi.gov/wanted/cyber/boris-alekseyevich-antonov\" data-val=\"https://www.fbi.gov/wanted/cyber/boris-alekseyevich-antonov\" data-urltype=\"/view\" data-linktype=\"external\">Boris Alekseyevich Antonov</a>, <a href=\"https://www.fbi.gov/wanted/cyber/dmitriy-sergeyevich-badin\" data-val=\"https://www.fbi.gov/wanted/cyber/dmitriy-sergeyevich-badin\" data-urltype=\"/view\" data-linktype=\"external\">Dmitriy Sergeyevich Badin</a>, <a href=\"https://www.fbi.gov/wanted/cyber/nikolay-yuryevich-kozachek\" data-val=\"https://www.fbi.gov/wanted/cyber/nikolay-yuryevich-kozachek\" data-urltype=\"/view\" data-linktype=\"external\">Nikolay Yuryevich Kozachek</a>, <a href=\"https://www.fbi.gov/wanted/cyber/pavel-vyacheslavovich-yershov\" data-val=\"https://www.fbi.gov/wanted/cyber/pavel-vyacheslavovich-yershov\" data-urltype=\"/view\" data-linktype=\"external\">Pavel Vyacheslavovich Yershov</a>, <a href=\"https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk\" data-val=\"https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk\" data-urltype=\"/view\" data-linktype=\"external\">Aleksandr Vladimirovich Osadchuk</a>, and Viktor Borisovich Netyksho, with a computer hacking conspiracy involving gaining unauthorized access into the computers of U.S. persons and entities involved in the 2016 U.S. presidential election, stealing documents from those computers, and staging releases of the stolen documents to interfere with the 2016 U.S. presidential election.  The indictment also charges these defendants with aggravated identity theft, false registration of a domain name, and conspiracy to commit money laundering.  Two defendants, <a href=\"https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk\" data-val=\"https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk\" data-urltype=\"/view\" data-linktype=\"external\">Aleksandr Vladimirovich Osadchuk </a>and <a href=\"https://www.fbi.gov/wanted/cyber/anatoliy-sergeyevich-kovalev\" data-val=\"https://www.fbi.gov/wanted/cyber/anatoliy-sergeyevich-kovalev\" data-urltype=\"/view\" data-linktype=\"external\">Anatoliy Sergeyevich Kovalev</a>, are charged with a separate conspiracy to commit computer crimes, relating to hacking into the computers of U.S. persons and entities responsible for the administration of 2016 U.S. elections, such as state boards of elections, secretaries of state, and U.S. companies that supplied software and other technology related to the administration of U.S. elections.  The United States District Court for the District of Columbia in Washington, D.C. issued a federal arrest warrant for Ivan Sergeyevich Yermakov upon the grand jury’s return of the indictment.</p>\r\n<p> </p>\r\n<p>Additionally, on October 3, 2018, a federal grand jury sitting in the Western District of Pennsylvania returned an indictment against <a href=\"https://www.fbi.gov/wanted/cyber/gru-hacking-to-undermine-anti-doping-efforts\" data-val=\"https://www.fbi.gov/wanted/cyber/gru-hacking-to-undermine-anti-doping-efforts\" data-urltype=\"/view\" data-linktype=\"external\">7 Russian individuals </a>for their alleged roles in hacking and related influence and disinformation operations targeting, among others, international anti-doping agencies, sporting federations, and anti-doping officials. The indictment charges Ivan Sergeyevich Yermakov, <a href=\"https://www.fbi.gov/wanted/cyber/dmitriy-sergeyevich-badin\" data-val=\"https://www.fbi.gov/wanted/cyber/dmitriy-sergeyevich-badin\" data-urltype=\"/view\" data-linktype=\"external\">Dmitriy Sergeyevich Badin</a>, <a href=\"https://www.fbi.gov/wanted/cyber/aleksei-sergeyevich-morenets\" data-val=\"https://www.fbi.gov/wanted/cyber/aleksei-sergeyevich-morenets\" data-urltype=\"/view\" data-linktype=\"external\">Aleksei Sergeyevich Morenets</a>, <a href=\"https://www.fbi.gov/wanted/cyber/evgenii-mikhaylovich-serebriakov\" data-val=\"https://www.fbi.gov/wanted/cyber/evgenii-mikhaylovich-serebriakov\" data-urltype=\"/view\" data-linktype=\"external\">Evgenii Mikhaylovich Serebriakov</a>, <a href=\"https://www.fbi.gov/wanted/cyber/artem-andreyevich-malyshev\" data-val=\"https://www.fbi.gov/wanted/cyber/artem-andreyevich-malyshev\" data-urltype=\"/view\" data-linktype=\"external\">Artem Andreyevich Malyshev</a>, <a href=\"https://www.fbi.gov/wanted/cyber/oleg-mikhaylovich-sotnikov\" data-val=\"https://www.fbi.gov/wanted/cyber/oleg-mikhaylovich-sotnikov\" data-urltype=\"/view\" data-linktype=\"external\">Oleg Mikhaylovich Sotnikov</a>, and <a href=\"https://www.fbi.gov/wanted/cyber/alexey-valerevich-minin\" data-val=\"https://www.fbi.gov/wanted/cyber/alexey-valerevich-minin\" data-urltype=\"/view\" data-linktype=\"external\">Alexey Valerevich Minin </a>with computer hacking activity spanning from 2014 through May of 2018, including the computer intrusions of the United States Anti-Doping Agency (USADA), the World Anti-Doping Agency (WADA), and other victim entities during the 2016 Summer Olympics and Paralympics and afterwards.  The indictment charges these defendants with conspiracy to commit computer fraud, conspiracy to commit wire fraud, wire fraud, aggravated identity theft, and conspiracy to commit money laundering. The United States District Court for the Western District of Pennsylvania in Pittsburgh, Pennsylvania, issued a federal arrest warrant for each of these defendants upon the grand jury’s return of the indictment.</p>\r\n<p> </p>",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS, AN INTERNATIONAL FLIGHT RISK, AND AN ESCAPE RISK",
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "title": "IVAN SERGEYEVICH YERMAKOV",
+          "occupations": [
+              "Officer in the Russian Federation’s Main Intelligence Directorate of the General Staff (GRU)"
+          ],
+          "@id": "https://api.fbi.gov/@wanted-person/a3f70fd05e6e435cbb7ebe1d9201524e"
+      },
+      {
+          "eyes": "blue",
+          "sex": "Male",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/cyber/artem-andreyevich-malyshev",
+          "ncic": "W814298888",
+          "path": "/wanted/cyber/artem-andreyevich-malyshev",
+          "locations": null,
+          "weight_min": null,
+          "place_of_birth": "Bologoe-4, Kalininskiy Oblast, Russia",
+          "reward_min": 0,
+          "subjects": [
+              "Cyber's Most Wanted"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "350c2e581d2d43db921ca9fa5640ee22",
+          "eyes_raw": "Blue",
+          "height_max": null,
+          "nationality": "Russian",
+          "age_range": null,
+          "height_min": null,
+          "aliases": [
+              "Малышев Артём Андреевич",
+              "“djangomagicdev”",
+              "“realblatr”"
+          ],
+          "reward_text": null,
+          "possible_countries": null,
+          "description": "Conspiracy to Commit an Offense Against the United States; False Registration of a Domain Name; Aggravated Identity Theft; Conspiracy to Commit Money Laundering; Conspiracy to Commit Computer Fraud; Conspiracy to Commit Wire Fraud",
+          "caution": null,
+          "weight_max": null,
+          "legat_names": null,
+          "race": "white",
+          "modified": "2018-10-30T16:57:27+00:00",
+          "publication": "2018-08-28T11:14:00",
+          "weight": null,
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/cyber/artem-andreyevich-malyshev/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cyber/artem-andreyevich-malyshev/@@images/image",
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/cyber/artem-andreyevich-malyshev/@@images/image/large"
+              }
+          ],
+          "remarks": "<p>Malyshev is alleged to have been a Russian military intelligence officer holding the rank of Senior Lieutenant, assigned to Unit 26165.  Malyshev was last known to be located in Moscow, Russia.</p>",
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/cyber/artem-andreyevich-malyshev/download.pdf"
+              },
+              {
+                  "name": "НА РУССКОМ",
+                  "url": "https://www.fbi.gov/wanted/cyber/artem-andreyevich-malyshev/malyshevrussian.pdf/@@download/file/malyshevrussian.pdf"
+              }
+          ],
+          "field_offices": null,
+          "coordinates": [],
+          "race_raw": "White",
+          "hair_raw": "Brown",
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": [
+              "February 2, 1988"
+          ],
+          "details": "<p>On July 13, 2018, a federal grand jury sitting in the District of Columbia returned an indictment against 12 Russian military intelligence officers for their alleged roles in <a href=\"https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections\" data-val=\"https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections\" data-urltype=\"/view\" data-linktype=\"external\">interfering with the 2016 United States (U.S.) elections</a>.  The indictment charges 11 defendants, Artem Andreyevich Malyshev, <a href=\"https://www.fbi.gov/wanted/cyber/aleksey-viktorovich-lukashev\" data-val=\"https://www.fbi.gov/wanted/cyber/aleksey-viktorovich-lukashev\" data-urltype=\"/view\" data-linktype=\"external\">Aleksey Viktorovich Lukashev</a>, <a href=\"https://www.fbi.gov/wanted/cyber/boris-alekseyevich-antonov\" data-val=\"https://www.fbi.gov/wanted/cyber/boris-alekseyevich-antonov\" data-urltype=\"/view\" data-linktype=\"external\">Boris Alekseyevich Antonov</a>, <a href=\"https://www.fbi.gov/wanted/cyber/dmitriy-sergeyevich-badin\" data-val=\"https://www.fbi.gov/wanted/cyber/dmitriy-sergeyevich-badin\" data-urltype=\"/view\" data-linktype=\"external\">Dmitriy Sergeyevich Badin</a>, <a href=\"https://www.fbi.gov/wanted/cyber/ivan-sergeyevich-yermakov\" data-val=\"https://www.fbi.gov/wanted/cyber/ivan-sergeyevich-yermakov\" data-urltype=\"/view\" data-linktype=\"external\">Ivan Sergeyevich Yermakov</a>, <a href=\"https://www.fbi.gov/wanted/cyber/sergey-aleksandrovich-morgachev\" data-val=\"https://www.fbi.gov/wanted/cyber/sergey-aleksandrovich-morgachev\" data-urltype=\"/view\" data-linktype=\"external\">Sergey Aleksandrovich Morgachev</a>, <a href=\"https://www.fbi.gov/wanted/cyber/nikolay-yuryevich-kozachek\" data-val=\"https://www.fbi.gov/wanted/cyber/nikolay-yuryevich-kozachek\" data-urltype=\"/view\" data-linktype=\"external\">Nikolay Yuryevich Kozachek</a>, <a href=\"https://www.fbi.gov/wanted/cyber/pavel-vyacheslavovich-yershov\" data-val=\"https://www.fbi.gov/wanted/cyber/pavel-vyacheslavovich-yershov\" data-urltype=\"/view\" data-linktype=\"external\">Pavel Vyacheslavovich Yershov</a>, <a href=\"https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk\" data-val=\"https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk\" data-urltype=\"/view\" data-linktype=\"external\">Aleksandr Vladimirovich Osadchuk</a>, <a href=\"https://www.fbi.gov/wanted/cyber/aleksey-aleksandrovich-potemkin\" data-val=\"https://www.fbi.gov/wanted/cyber/aleksey-aleksandrovich-potemkin\" data-urltype=\"/view\" data-linktype=\"external\">Aleksey Aleksandrovich Potemkin</a>, and Viktor Borisovich Netyksho, with a computer hacking conspiracy involving gaining unauthorized access into the computers of U.S. persons and entities involved in the 2016 U.S. presidential election, stealing documents from those computers, and staging releases of the stolen documents to interfere with the 2016 U.S. presidential election.  The indictment also charges these defendants with aggravated identity theft, false registration of a domain name, and conspiracy to commit money laundering.  Two defendants, <a href=\"https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk\" data-val=\"https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk\" data-urltype=\"/view\" data-linktype=\"external\">Aleksandr Vladimirovich Osadchuk </a>and <a href=\"https://www.fbi.gov/wanted/cyber/anatoliy-sergeyevich-kovalev\" data-val=\"https://www.fbi.gov/wanted/cyber/anatoliy-sergeyevich-kovalev\" data-urltype=\"/view\" data-linktype=\"external\">Anatoliy Sergeyevich Kovalev</a>, are charged with a separate conspiracy to commit computer crimes, relating to hacking into the computers of U.S. persons and entities responsible for the administration of 2016 U.S. elections, such as state boards of elections, secretaries of state, and U.S. companies that supplied software and other technology related to the administration of U.S. elections.  The United States District Court for the District of Columbia in Washington, D.C. issued a federal arrest warrant for Artem Andreyevich Malyshev upon the grand jury’s return of the indictment.</p>\r\n<p> </p>\r\n<p>Additionally, on October 3, 2018, a federal grand jury sitting in the Western District of Pennsylvania returned an indictment against <a href=\"https://www.fbi.gov/wanted/cyber/gru-hacking-to-undermine-anti-doping-efforts\" data-val=\"https://www.fbi.gov/wanted/cyber/gru-hacking-to-undermine-anti-doping-efforts\" data-urltype=\"/view\" data-linktype=\"external\">7 Russian individuals </a>for their alleged roles in hacking and related influence and disinformation operations targeting, among others, international anti-doping agencies, sporting federations, and anti-doping officials. The indictment charges Artem Andreyevich Malyshev, <a href=\"https://www.fbi.gov/wanted/cyber/dmitriy-sergeyevich-badin\" data-val=\"https://www.fbi.gov/wanted/cyber/dmitriy-sergeyevich-badin\" data-urltype=\"/view\" data-linktype=\"external\">Dmitriy Sergeyevich Badin</a>,<a href=\"https://www.fbi.gov/wanted/cyber/aleksei-sergeyevich-morenets\" data-val=\"https://www.fbi.gov/wanted/cyber/aleksei-sergeyevich-morenets\" data-urltype=\"/view\" data-linktype=\"external\"> Aleksei Sergeyevich Morenets</a>, <a href=\"https://www.fbi.gov/wanted/cyber/evgenii-mikhaylovich-serebriakov\" data-val=\"https://www.fbi.gov/wanted/cyber/evgenii-mikhaylovich-serebriakov\" data-urltype=\"/view\" data-linktype=\"external\">Evgenii Mikhaylovich Serebriakov</a>, <a href=\"https://www.fbi.gov/wanted/cyber/ivan-sergeyevich-yermakov\" data-val=\"https://www.fbi.gov/wanted/cyber/ivan-sergeyevich-yermakov\" data-urltype=\"/view\" data-linktype=\"external\">Ivan Sergeyevich Yermakov</a>, <a href=\"https://www.fbi.gov/wanted/cyber/oleg-mikhaylovich-sotnikov\" data-val=\"https://www.fbi.gov/wanted/cyber/oleg-mikhaylovich-sotnikov\" data-urltype=\"/view\" data-linktype=\"external\">Oleg Mikhaylovich Sotnikov</a>, and <a href=\"https://www.fbi.gov/wanted/cyber/alexey-valerevich-minin\" data-val=\"https://www.fbi.gov/wanted/cyber/alexey-valerevich-minin\" data-urltype=\"/view\" data-linktype=\"external\">Alexey Valerevich Minin </a>with computer hacking activity spanning from 2014 through May of 2018, including the computer intrusions of the United States Anti-Doping Agency (USADA), the World Anti-Doping Agency (WADA), and other victim entities during the 2016 Summer Olympics and Paralympics and afterwards.  The indictment charges these defendants with conspiracy to commit computer fraud, conspiracy to commit wire fraud, wire fraud, aggravated identity theft, and conspiracy to commit money laundering. The United States District Court for the Western District of Pennsylvania in Pittsburgh, Pennsylvania, issued a federal arrest warrant for each of these defendants upon the grand jury’s return of the indictment.</p>\r\n<p> </p>",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS, AN INTERNATIONAL FLIGHT RISK, AND AN ESCAPE RISK",
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "title": "ARTEM ANDREYEVICH MALYSHEV",
+          "occupations": [
+              "Officer in the Russian Federation’s Main Intelligence Directorate of the General Staff (GRU)"
+          ],
+          "@id": "https://api.fbi.gov/@wanted-person/350c2e581d2d43db921ca9fa5640ee22"
+      },
+      {
+          "eyes": "brown",
+          "sex": "Male",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/cyber/dmitriy-sergeyevich-badin",
+          "ncic": "W224328824",
+          "path": "/wanted/cyber/dmitriy-sergeyevich-badin",
+          "locations": null,
+          "weight_min": null,
+          "place_of_birth": "Kursk, Russia",
+          "reward_min": 0,
+          "subjects": [
+              "Cyber's Most Wanted"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "6ebb7cba6bf249248aef310df5693e8f",
+          "eyes_raw": "Brown",
+          "height_max": null,
+          "nationality": "Russian",
+          "age_range": null,
+          "height_min": null,
+          "aliases": [
+              "Бадин Дмитрий Сергеевич"
+          ],
+          "reward_text": null,
+          "possible_countries": null,
+          "description": "Conspiracy to Commit an Offense Against the United States; False Registration of a Domain Name; Aggravated Identity Theft; Conspiracy to Commit Money Laundering; Conspiracy to Commit Computer Fraud; Conspiracy to Commit Wire Fraud",
+          "caution": null,
+          "weight_max": null,
+          "legat_names": null,
+          "race": "white",
+          "modified": "2018-10-30T16:55:57+00:00",
+          "publication": "2018-08-14T08:57:00",
+          "weight": null,
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/cyber/dmitriy-sergeyevich-badin/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cyber/dmitriy-sergeyevich-badin/@@images/image",
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/cyber/dmitriy-sergeyevich-badin/@@images/image/large"
+              }
+          ],
+          "remarks": "<p>Badin is alleged to have been a Russian military intelligence officer, assigned to Unit 26165.  Badin was last known to be located in Moscow, Russia. </p>",
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/cyber/dmitriy-sergeyevich-badin/download.pdf"
+              },
+              {
+                  "name": "НА РУССКОМ",
+                  "url": "https://www.fbi.gov/wanted/cyber/dmitriy-sergeyevich-badin/badinrussian.pdf/@@download/file/badinrussian.pdf"
+              }
+          ],
+          "field_offices": null,
+          "coordinates": [],
+          "race_raw": "White",
+          "hair_raw": "Brown",
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": [
+              "November 15, 1990"
+          ],
+          "details": "<p>On July 13, 2018, a federal grand jury sitting in the District of Columbia returned an indictment against 12 Russian military intelligence officers for their alleged roles in <a href=\"https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections\" data-val=\"https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections\" data-urltype=\"/view\" data-linktype=\"external\">interfering with the 2016 United States (U.S.) elections</a>.  The indictment charges 11 defendants, Dmitriy Sergeyevich Badin, <a href=\"https://www.fbi.gov/wanted/cyber/boris-alekseyevich-antonov\" data-val=\"https://www.fbi.gov/wanted/cyber/boris-alekseyevich-antonov\" data-urltype=\"/view\" data-linktype=\"external\">Boris Alekseyevich Antonov</a>, <a href=\"https://www.fbi.gov/wanted/cyber/ivan-sergeyevich-yermakov\" data-val=\"https://www.fbi.gov/wanted/cyber/ivan-sergeyevich-yermakov\" data-urltype=\"/view\" data-linktype=\"external\">Ivan Sergeyevich Yermakov</a>, <a href=\"https://www.fbi.gov/wanted/cyber/aleksey-viktorovich-lukashev\" data-val=\"https://www.fbi.gov/wanted/cyber/aleksey-viktorovich-lukashev\" data-urltype=\"/view\" data-linktype=\"external\">Aleksey Viktorovich Lukashev</a>, <a href=\"https://www.fbi.gov/wanted/cyber/sergey-aleksandrovich-morgachev\" data-val=\"https://www.fbi.gov/wanted/cyber/sergey-aleksandrovich-morgachev\" data-urltype=\"/view\" data-linktype=\"external\">Sergey Aleksandrovich Morgachev</a>, <a href=\"https://www.fbi.gov/wanted/cyber/nikolay-yuryevich-kozachek\" data-val=\"https://www.fbi.gov/wanted/cyber/nikolay-yuryevich-kozachek\" data-urltype=\"/view\" data-linktype=\"external\">Nikolay Yuryevich Kozachek</a>, <a href=\"https://www.fbi.gov/wanted/cyber/pavel-vyacheslavovich-yershov\" data-val=\"https://www.fbi.gov/wanted/cyber/pavel-vyacheslavovich-yershov\" data-urltype=\"/view\" data-linktype=\"external\">Pavel Vyacheslavovich Yershov</a>, <a href=\"https://www.fbi.gov/wanted/cyber/artem-andreyevich-malyshev\" data-val=\"https://www.fbi.gov/wanted/cyber/artem-andreyevich-malyshev\" data-urltype=\"/view\" data-linktype=\"external\">Artem Andreyevich Malyshev</a>, <a href=\"https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk\" data-val=\"https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk\" data-urltype=\"/view\" data-linktype=\"external\">Aleksandr Vladimirovich Osadchuk</a>, <a href=\"https://www.fbi.gov/wanted/cyber/aleksey-aleksandrovich-potemkin\" data-val=\"https://www.fbi.gov/wanted/cyber/aleksey-aleksandrovich-potemkin\" data-urltype=\"/view\" data-linktype=\"external\">Aleksey Aleksandrovich Potemkin</a>, and Viktor Borisovich Netyksho, with a computer hacking conspiracy involving gaining unauthorized access into the computers of U.S. persons and entities involved in the 2016 U.S. presidential election, stealing documents from those computers, and staging releases of the stolen documents to interfere with the 2016 U.S. presidential election.  The indictment also charges these defendants with aggravated identity theft, false registration of a domain name, and conspiracy to commit money laundering.  Two defendants, <a href=\"https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk\" data-val=\"https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk\" data-urltype=\"/view\" data-linktype=\"external\">Aleksandr Vladimirovich Osadchuk</a> and <a href=\"https://www.fbi.gov/wanted/cyber/anatoliy-sergeyevich-kovalev\" data-val=\"https://www.fbi.gov/wanted/cyber/anatoliy-sergeyevich-kovalev\" data-urltype=\"/view\" data-linktype=\"external\">Anatoliy Sergeyevich Kovalev</a>, are charged with a separate conspiracy to commit computer crimes, relating to hacking into the computers of U.S. persons and entities responsible for the administration of 2016 U.S. elections, such as state boards of elections, secretaries of state, and U.S. companies that supplied software and other technology related to the administration of U.S. elections.  The United States District Court for the District of Columbia in Washington, D.C. issued a federal arrest warrant for Dmitriy Sergeyevich Badin upon the grand jury’s return of the indictment.</p>\r\n<p> </p>\r\n<p>Additionally, on October 3, 2018, a federal grand jury sitting in the Western District of Pennsylvania returned an indictment against <a href=\"https://www.fbi.gov/wanted/cyber/gru-hacking-to-undermine-anti-doping-efforts\" data-val=\"https://www.fbi.gov/wanted/cyber/gru-hacking-to-undermine-anti-doping-efforts\" data-urltype=\"/view\" data-linktype=\"external\">7 Russian individuals </a>for their alleged roles in hacking and related influence and disinformation operations targeting, among others, international anti-doping agencies, sporting federations, and anti-doping officials. The indictment charges Dmitriy Sergeyevich Badin, <a href=\"https://www.fbi.gov/wanted/cyber/aleksei-sergeyevich-morenets\" data-val=\"https://www.fbi.gov/wanted/cyber/aleksei-sergeyevich-morenets\" data-urltype=\"/view\" data-linktype=\"external\">Aleksei Sergeyevich Morenets</a>, <a href=\"https://www.fbi.gov/wanted/cyber/evgenii-mikhaylovich-serebriakov\" data-val=\"https://www.fbi.gov/wanted/cyber/evgenii-mikhaylovich-serebriakov\" data-urltype=\"/view\" data-linktype=\"external\">Evgenii Mikhaylovich Serebriakov</a>, <a href=\"https://www.fbi.gov/wanted/cyber/ivan-sergeyevich-yermakov\" data-val=\"https://www.fbi.gov/wanted/cyber/ivan-sergeyevich-yermakov\" data-urltype=\"/view\" data-linktype=\"external\">Ivan Sergeyevich Yermakov</a>, <a href=\"https://www.fbi.gov/wanted/cyber/artem-andreyevich-malyshev\" data-val=\"https://www.fbi.gov/wanted/cyber/artem-andreyevich-malyshev\" data-urltype=\"/view\" data-linktype=\"external\">Artem Andreyevich Malyshev</a>, <a href=\"https://www.fbi.gov/wanted/cyber/oleg-mikhaylovich-sotnikov\" data-val=\"https://www.fbi.gov/wanted/cyber/oleg-mikhaylovich-sotnikov\" data-urltype=\"/view\" data-linktype=\"external\">Oleg Mikhaylovich Sotnikov</a>, and <a href=\"https://www.fbi.gov/wanted/cyber/alexey-valerevich-minin\" data-val=\"https://www.fbi.gov/wanted/cyber/alexey-valerevich-minin\" data-urltype=\"/view\" data-linktype=\"external\">Alexey Valerevich Minin </a>with computer hacking activity spanning from 2014 through May of 2018, including the computer intrusions of the United States Anti-Doping Agency (USADA), the World Anti-Doping Agency (WADA), and other victim entities during the 2016 Summer Olympics and Paralympics and afterwards.  The indictment charges these defendants with conspiracy to commit computer fraud, conspiracy to commit wire fraud, wire fraud, aggravated identity theft, and conspiracy to commit money laundering. The United States District Court for the Western District of Pennsylvania in Pittsburgh, Pennsylvania, issued a federal arrest warrant for each of these defendants upon the grand jury’s return of the indictment.</p>\r\n<p> </p>",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS, AN INTERNATIONAL FLIGHT RISK, AND AN ESCAPE RISK",
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "title": "DMITRIY SERGEYEVICH BADIN",
+          "occupations": [
+              "Officer in the Russian Federation’s Main Intelligence Directorate of the General Staff (GRU)"
+          ],
+          "@id": "https://api.fbi.gov/@wanted-person/6ebb7cba6bf249248aef310df5693e8f"
+      }
+  ],
+  "page": 32
+}

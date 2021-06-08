@@ -1,0 +1,1651 @@
+{
+  "total": 1003,
+  "items": [
+      {
+          "eyes": "brown",
+          "sex": "Male",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/wcc/rodney-allen",
+          "ncic": "W652870682",
+          "path": "/wanted/wcc/rodney-allen",
+          "locations": null,
+          "weight_min": 185,
+          "place_of_birth": "Idaho",
+          "reward_min": 0,
+          "subjects": [
+              "White-Collar Crime"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "b6f013d399894b32ba3feead437b25ea",
+          "eyes_raw": "Brown",
+          "height_max": 72,
+          "nationality": "American",
+          "age_range": null,
+          "height_min": 72,
+          "aliases": [
+              "Rod Dean"
+          ],
+          "reward_text": "The FBI is offering a reward of up to $10,000 for information leading to the arrest of Rodney Allen.",
+          "possible_countries": null,
+          "description": "Wire Fraud",
+          "caution": "<p>It is alleged that from approximately 2016 to approximately 2017, Rodney Allen devised a scheme to defraud clients of his brokerage company, KA Investments, LLC, obtain their money by false pretenses and promises, and misappropriate their money.  Additionally, Allen allegedly misrepresented in monthly statements provided to clients that they were earning positive returns on investments, when in fact, clients were earning negative returns on investments. </p>\r\n<p> </p>\r\n<p>For instance, on December 6, 2016, Allen allegedly emailed a November 2016 monthly statement to a client.  In the statement, Allen represented that the client’s account had earned 1.903 percent that month.  In reality, the client’s account had lost 36.01 percent. </p>\r\n<p> </p>\r\n<p>Furthermore, Allen allegedly misrepresented to clients of KA Investments, LLC that he was taking between a 14-percent and 18-percent commission on investment profits.  In truth, he was misappropriating client deposits for his personal use, regardless of profit or loss, and at a greater percentage. </p>\r\n<p> </p>\r\n<p>A federal arrest warrant was issued by the United States District Court, District of Idaho, on January 10, 2018, after Allen was charged with wire fraud.</p>\r\n<p> </p>\r\n<p>Allen has been missing since April 20, 2017, and his whereabouts remains unknown.</p>",
+          "weight_max": 185,
+          "legat_names": null,
+          "race": "white",
+          "modified": "2018-08-09T11:22:08+00:00",
+          "publication": "2018-01-09T12:24:00",
+          "weight": "185 pounds",
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/wcc/rodney-allen/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/wcc/rodney-allen/@@images/image",
+                  "caption": "Photo taken in 2011",
+                  "large": "https://www.fbi.gov/wanted/wcc/rodney-allen/@@images/image/large"
+              }
+          ],
+          "remarks": "<p>Allen may be in possession of a handgun. He may also have suicidal tendencies.</p>",
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/wcc/rodney-allen/download.pdf"
+              }
+          ],
+          "field_offices": [
+              "saltlakecity"
+          ],
+          "coordinates": [],
+          "race_raw": "White",
+          "hair_raw": "Gray",
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": [
+              "March 9, 1952"
+          ],
+          "details": null,
+          "warning_message": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "gray",
+          "title": "RODNEY DEAN ALLEN",
+          "occupations": [
+              "Investment Advisor",
+              "Construction Project Manager",
+              "Cost Estimator"
+          ],
+          "@id": "https://api.fbi.gov/@wanted-person/b6f013d399894b32ba3feead437b25ea"
+      },
+      {
+          "eyes": "brown",
+          "sex": "Male",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/cei/o-b-hildson",
+          "ncic": "W060573011",
+          "path": "/wanted/cei/o-b-hildson",
+          "locations": null,
+          "weight_min": 275,
+          "place_of_birth": "Tennessee",
+          "reward_min": 0,
+          "subjects": [
+              "Criminal Enterprise Investigations"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "4dfb4b0ffd6e4588a171bffac85edb2a",
+          "eyes_raw": "Brown",
+          "height_max": 69,
+          "nationality": "American",
+          "age_range": null,
+          "height_min": 69,
+          "aliases": [
+              "\"OD\"",
+              "\"O.D.\"",
+              "O.B. Hildson II",
+              "OB Hildson",
+              "O B Hildson",
+              "O B Hildson II"
+          ],
+          "reward_text": "The FBI is offering a reward of up to $1,000 for information leading to the arrest of O.B. Hildson.",
+          "possible_countries": null,
+          "description": "Drug Conspiracy - Possession with Intent to Distribute Marijuana; Possession with Intent to Distribute Cocaine; Possession with Intent to Distribute Oxycodone; Attempt to Possess with Intent to Distribute Cocaine",
+          "caution": "<p>O.B. Hildson, a convicted felon and known member of the Young Mob street gang, is wanted for his alleged involvement in a drug distribution ring that operated in Memphis, Tennessee, from March of 2016 to March of 2017.</p>\r\n<p> </p>\r\n<p>On March 8, 2017, a federal arrest warrant was issued for Hildson in the United States District Court for the Western District of Tennessee, Memphis, Tennessee, after he was charged with drug conspiracy - possession with intent to distribute marijuana, possession with intent to distribute cocaine, possession with intent to distribute Oxycodone, and attempt to possess with intent to distribute cocaine.</p>",
+          "weight_max": 315,
+          "legat_names": null,
+          "race": "black",
+          "modified": "2018-08-08T21:46:31+00:00",
+          "publication": "2018-08-03T14:01:00",
+          "weight": "275 to 315 pounds",
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": "Hildson has a tattoo over his left eyebrow.",
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/cei/o-b-hildson/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cei/o-b-hildson/@@images/image",
+                  "caption": "Photograph taken circa 2016",
+                  "large": "https://www.fbi.gov/wanted/cei/o-b-hildson/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/cei/o-b-hildson/hildson2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cei/o-b-hildson/hildson2.jpg",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/cei/o-b-hildson/hildson2.jpg/@@images/image/large"
+              }
+          ],
+          "remarks": "<p style=\"text-align: left;\">Hildson has previously resided in Memphis, Tennessee. He may travel to Los Angeles, California.</p>",
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/cei/o-b-hildson/download.pdf"
+              }
+          ],
+          "field_offices": [
+              "memphis"
+          ],
+          "coordinates": [],
+          "race_raw": "Black",
+          "hair_raw": "Black",
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": [
+              "March 26, 1987"
+          ],
+          "details": null,
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "suspects": null,
+          "age_min": null,
+          "hair": "black",
+          "title": "O.B. HILDSON",
+          "occupations": null,
+          "@id": "https://api.fbi.gov/@wanted-person/4dfb4b0ffd6e4588a171bffac85edb2a"
+      },
+      {
+          "dates_of_birth_used": [
+              "April 11, 1963",
+              "April 11, 1960"
+          ],
+          "images": [
+              {
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/wanted_terrorists/saif-al-adel/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/wanted_terrorists/saif-al-adel/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/wanted_terrorists/saif-al-adel/@@images/image"
+              }
+          ],
+          "details": null,
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "build": "Unknown",
+          "person_classification": "Main",
+          "complexion": "Olive",
+          "race": null,
+          "occupations": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": null,
+          "legat_names": null,
+          "modified": "2018-08-08T16:14:05+00:00",
+          "status": "na",
+          "publication": "2010-07-26T16:15:00",
+          "weight": "Unknown",
+          "caution": "<p>Saif Al-Adel is wanted in connection with the August 7, 1998, bombings of the United States Embassies in Dar es Salaam, Tanzania, and Nairobi, Kenya.</p>",
+          "possible_states": null,
+          "scars_and_marks": "None known",
+          "race_raw": null,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/wanted_terrorists/saif-al-adel/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "field_offices": [
+              "newyork"
+          ],
+          "nationality": "Egyptian",
+          "weight_min": null,
+          "age_range": null,
+          "uid": "7969987b0a34d03f30116aaadfc4d730",
+          "eyes_raw": "Dark",
+          "height_max": null,
+          "height_min": null,
+          "aliases": [
+              "Muhamad Ibrahim Makkawi",
+              "Seif Al Adel",
+              "Ibrahim Al-Madani"
+          ],
+          "reward_text": "The Rewards For Justice Program, United States Department of State, is offering a reward of up to $10 million for information leading directly to the apprehension or conviction of Saif Al-Adel.",
+          "description": "Conspiracy to Kill United States Nationals, to Murder, to Destroy Buildings and Property of the United States, and to Destroy the National Defense Utilities of the United States",
+          "title": "SAIF AL-ADEL",
+          "possible_countries": null,
+          "hair_raw": "Dark",
+          "remarks": "<p>Al-Adel is thought to be affiliated with the Egyptian Islamic Jihad (EIJ), and is believed to be a high-ranking member of the Al-Qaeda organization.</p>",
+          "weight_max": null,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/wanted_terrorists/saif-al-adel",
+          "ncic": null,
+          "eyes": "dark",
+          "sex": "Male",
+          "coordinates": [],
+          "path": "/wanted/wanted_terrorists/saif-al-adel",
+          "place_of_birth": "Egypt",
+          "reward_min": 1000000,
+          "locations": null,
+          "languages": [
+              "Arabic"
+          ],
+          "subjects": [
+              "Most Wanted Terrorists"
+          ],
+          "additional_information": null,
+          "reward_max": 4999999,
+          "@id": "https://api.fbi.gov/@wanted-person/7969987b0a34d03f30116aaadfc4d730"
+      },
+      {
+          "eyes": "brown",
+          "sex": "Female",
+          "age_max": 42,
+          "url": "https://www.fbi.gov/wanted/vicap/missing-persons/katherine-joy-allen-denver-colorado",
+          "ncic": null,
+          "path": "/wanted/vicap/missing-persons/katherine-joy-allen-denver-colorado",
+          "locations": null,
+          "weight_min": 115,
+          "place_of_birth": null,
+          "reward_min": 0,
+          "subjects": [
+              "ViCAP Missing Persons"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "ac0070304a074bdfbc22daf4da185a4f",
+          "eyes_raw": "Brown",
+          "height_max": 62,
+          "nationality": null,
+          "age_range": "42 at the time of her disappearance",
+          "height_min": 62,
+          "aliases": null,
+          "reward_text": null,
+          "possible_countries": null,
+          "description": "June 12, 1996\r\nDenver, Colorado",
+          "caution": null,
+          "weight_max": 115,
+          "legat_names": null,
+          "race": "black",
+          "modified": "2018-08-08T13:21:33+00:00",
+          "publication": "2018-08-08T08:10:00",
+          "weight": "115 pounds",
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": "Allen has a mole on her right cheek.",
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/katherine-joy-allen-denver-colorado/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/vicap/missing-persons/katherine-joy-allen-denver-colorado/@@images/image",
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/vicap/missing-persons/katherine-joy-allen-denver-colorado/@@images/image/large"
+              }
+          ],
+          "remarks": null,
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/vicap/missing-persons/katherine-joy-allen-denver-colorado/allen-8-8-18.pdf"
+              }
+          ],
+          "field_offices": null,
+          "coordinates": [],
+          "race_raw": "Black",
+          "hair_raw": "Brown",
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": [
+              "November 12, 1953"
+          ],
+          "details": "<p>Katherine Joy Allen was known to struggle with narcotics in the past. In the days leading up to her disappearance she had contact with her family, telling them she was planning to attend her daughter's graduation. The victim did not show up for the graduation, and the family has had no further contact with her.</p>",
+          "warning_message": null,
+          "suspects": null,
+          "age_min": 42,
+          "hair": "brown",
+          "title": "KATHERINE JOY ALLEN - DENVER, COLORADO",
+          "occupations": null,
+          "@id": "https://api.fbi.gov/@wanted-person/ac0070304a074bdfbc22daf4da185a4f"
+      },
+      {
+          "age_range": "24 years old at time of disappearance",
+          "subjects": [
+              "ViCAP Missing Persons"
+          ],
+          "languages": null,
+          "path": "/wanted/vicap/missing-persons/jerrica-lizette-laws---park-forest-illinois",
+          "weight_min": 140,
+          "details": "<p>At approximately 7:00 p.m. on Sunday, August 16, 2015, Jerrica Lizette Laws left her home in Park Forest, Illinois, to go for a walk and meet with someone (not identified). She has not been seen or heard from since. Laws did not carry her purse and did not have any money or identification in her possession at the time of her disappearance. She had recently moved back to Park Forest after living in the Indianapolis and Spencer, Indiana, area for two years. According to family members, Laws has an undiagnosed mental disability.</p>",
+          "status": "na",
+          "possible_states": null,
+          "eyes": "brown",
+          "hair": "black",
+          "legat_names": null,
+          "eyes_raw": "Brown",
+          "field_offices": null,
+          "weight": "140 pounds",
+          "age_min": 24,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": "<p>No dental restorations have been performed on Laws' teeth.</p>",
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/vicap/missing-persons/jerrica-lizette-laws---park-forest-illinois",
+          "nationality": null,
+          "uid": "5a2d37fe0f8247d9a23f9718fdb33148",
+          "warning_message": null,
+          "scars_and_marks": null,
+          "race": "black",
+          "hair_raw": "Black (shoulder-length)",
+          "modified": "2018-08-07T17:47:32+00:00",
+          "title": "JERRICA LIZETTE LAWS - PARK FOREST, ILLINOIS",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/vicap/missing-persons/jerrica-lizette-laws---park-forest-illinois/@@images/image/large",
+                  "caption": null,
+                  "original": "https://www.fbi.gov/wanted/vicap/missing-persons/jerrica-lizette-laws---park-forest-illinois/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/jerrica-lizette-laws---park-forest-illinois/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": null,
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": null,
+          "reward_max": 0,
+          "ncic": null,
+          "aliases": [
+              "\"RicRic\""
+          ],
+          "height_max": 62,
+          "dates_of_birth_used": null,
+          "height_min": 62,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/vicap/missing-persons/jerrica-lizette-laws---park-forest-illinois/laws-8-3-18.pdf",
+                  "name": "English"
+              }
+          ],
+          "occupations": null,
+          "publication": "2018-08-03T07:32:00",
+          "description": "August 16, 2015\r\nPark Forest, Illinois",
+          "race_raw": "Black",
+          "age_max": 24,
+          "coordinates": [],
+          "place_of_birth": null,
+          "reward_min": 0,
+          "weight_max": 140,
+          "sex": "Female",
+          "@id": "https://api.fbi.gov/@wanted-person/5a2d37fe0f8247d9a23f9718fdb33148"
+      },
+      {
+          "eyes": "green",
+          "sex": "Male",
+          "age_max": 20,
+          "url": "https://www.fbi.gov/wanted/vicap/missing-persons/jason-william-dies",
+          "ncic": null,
+          "path": "/wanted/vicap/missing-persons/jason-william-dies",
+          "locations": null,
+          "weight_min": 130,
+          "place_of_birth": null,
+          "reward_min": 0,
+          "subjects": [
+              "ViCAP Missing Persons"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "3e55085cf7714ab786b21bffd2916012",
+          "eyes_raw": "Green",
+          "height_max": 71,
+          "nationality": null,
+          "age_range": "20 years old (at time of disappearance)",
+          "height_min": 69,
+          "aliases": [
+              "William Diaz",
+              "Bill Diaz",
+              "Bill Dies",
+              "William Dies "
+          ],
+          "reward_text": null,
+          "possible_countries": null,
+          "description": "June 18, 1991\r\nSan Diego, California",
+          "caution": null,
+          "weight_max": 160,
+          "legat_names": null,
+          "race": "hispanic",
+          "modified": "2018-08-07T17:46:10+00:00",
+          "publication": "2018-08-07T12:35:00",
+          "weight": "130 to 160 pounds",
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/jason-william-dies/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/vicap/missing-persons/jason-william-dies/@@images/image",
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/vicap/missing-persons/jason-william-dies/@@images/image/large"
+              }
+          ],
+          "remarks": null,
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/vicap/missing-persons/jason-william-dies/vicap-alert-2018-07-08-jason-william-dies-002.pdf"
+              }
+          ],
+          "field_offices": null,
+          "coordinates": [],
+          "race_raw": "White (Hispanic Descent)",
+          "hair_raw": "Brown (Dark)",
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": [
+              "1970"
+          ],
+          "details": "<p>United States Navy (USN), Petty Officer Third Class (PO3 / EW3), Jason William Dies, also known as William or Bill Diaz was last seen on Tuesday, June 18, 1991.  Jason William Dies returned to San Diego, California (CA), from a deployment aboard the USN ship, the USS HORNE (CG 30), in support of the Gulf War.  In July 1991, he failed to report to his new command on Corry Station, Pensacola, Florida, where he was expected to attend \"C\" School (advanced training).  PO3 Dies last made contact with family members in Louisiana (LA), on June 18, 1991, when he sent packages to his home of record in Lafayette, LA.  He had contacted his aunt and advised her of the incoming packages and asked her not to open them.  When the packages were finally opened, souvenirs for the family were discovered.</p>",
+          "warning_message": null,
+          "suspects": null,
+          "age_min": 20,
+          "hair": "brown",
+          "title": "JASON WILLIAM DIES - SAN DIEGO, CALIFORNIA",
+          "occupations": null,
+          "@id": "https://api.fbi.gov/@wanted-person/3e55085cf7714ab786b21bffd2916012"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Violent Crime - Murders"
+          ],
+          "languages": null,
+          "path": "/wanted/murders/stanley-obas",
+          "weight_min": 130,
+          "details": null,
+          "status": "na",
+          "possible_states": null,
+          "eyes": "brown",
+          "hair": "black",
+          "legat_names": null,
+          "eyes_raw": "Brown",
+          "field_offices": [
+              "philadelphia"
+          ],
+          "weight": "130 pounds",
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": "<p>Obas may have ties to the Flatbush area of Brooklyn, New York.</p>",
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/murders/stanley-obas",
+          "nationality": "Haitian",
+          "uid": "b4c7618bf1c04a36b995737f0474da8f",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS AND AN ESCAPE RISK",
+          "scars_and_marks": "Obas has scars on his left leg, left thigh, and left arm.",
+          "race": "black",
+          "hair_raw": "Black",
+          "modified": "2018-08-03T15:28:15+00:00",
+          "title": "STANLEY OBAS",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/murders/stanley-obas/@@images/image/large",
+                  "caption": "Photograph taken in 1994",
+                  "original": "https://www.fbi.gov/wanted/murders/stanley-obas/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/murders/stanley-obas/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/murders/stanley-obas/obas3.jpg/@@images/image/large",
+                  "caption": "Photograph taken in 1994",
+                  "original": "https://www.fbi.gov/wanted/murders/stanley-obas/obas3.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/murders/stanley-obas/obas3.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/murders/stanley-obas/obas1.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/murders/stanley-obas/obas1.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/murders/stanley-obas/obas1.jpg/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": null,
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": "<p>Stanley Obas is wanted for his alleged involvement in the assault and death of a 13-year-old girl in Easton, Pennsylvania.  On July 28, 1996, Obas and two accomplices who have since been arrested allegedly took the girl into the basement of a house, sexually assaulted her, and tortured her with items from the home.  She eventually died as a result of the assault and her body was located in a cemetery in town.  A local arrest warrant was issued for Obas by the Commonwealth of Pennsylvania, County of Northampton, on August 14, 1996, after he was charged with criminal homicide, kidnapping, aggravated assault, and criminal conspiracy.  A federal arrest warrant was issued for Obas on August 22, 1996, in the United States District Court, Eastern District of Pennsylvania, Allentown, Pennsylvania, after he was charged with unlawful flight to avoid prosecution.</p>",
+          "reward_max": 0,
+          "ncic": "W950087979",
+          "aliases": [
+              "Troy Smith",
+              "Neil Stevenson",
+              "\"Wildman\""
+          ],
+          "height_max": 70,
+          "dates_of_birth_used": [
+              "September 24, 1977",
+              "September 24, 1976"
+          ],
+          "height_min": 70,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/stanley-obas/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "occupations": null,
+          "publication": "2018-08-03T10:02:00",
+          "description": "Unlawful Flight to Avoid Prosecution - Criminal Homicide, Kidnapping, Aggravated Assault, Criminal Conspiracy",
+          "race_raw": "Black",
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": "Haiti",
+          "reward_min": 0,
+          "weight_max": 130,
+          "sex": "Male",
+          "@id": "https://api.fbi.gov/@wanted-person/b4c7618bf1c04a36b995737f0474da8f"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Additional Violent Crimes"
+          ],
+          "languages": null,
+          "path": "/wanted/additional/jonathan-david-cifuentes",
+          "weight_min": 200,
+          "details": "<p>Jonathan David Cifuentes is wanted for his alleged involvement in a shooting on April 5, 2015. It is alleged that Cifuentes was in the parking lot of a club located in Doral, Florida, and was observed carrying a bat. After being asked to leave the premises, Cifuentes allegedly returned to his vehicle, retrieved a handgun, and shot two individuals.</p>\r\n<p> </p>\r\n<p>On April 9, 2015, a state arrest warrant was issued by the 11th Judicial Circuit of Florida, charging Cifuentes with two counts of attempted murder in the first degree, and one count of discharging firearm in public.</p>\r\n<p> </p>\r\n<p>On June 12, 2015, a federal arrest warrant was issued by the United States District Court for the Southern District of Florida after Cifuentes was charged with unlawful flight to avoid prosecution.</p>\r\n<p> </p>",
+          "status": "na",
+          "possible_states": null,
+          "eyes": "brown",
+          "hair": "black",
+          "legat_names": null,
+          "eyes_raw": "Brown",
+          "field_offices": [
+              "miami"
+          ],
+          "weight": "200 pounds",
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": null,
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/additional/jonathan-david-cifuentes",
+          "nationality": null,
+          "uid": "7ff592d6c5144c799424f2756b74a02a",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "scars_and_marks": null,
+          "race": "hispanic",
+          "hair_raw": "Black",
+          "modified": "2018-08-03T15:21:13+00:00",
+          "title": "JONATHAN DAVID CIFUENTES",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/additional/jonathan-david-cifuentes/@@images/image/large",
+                  "caption": null,
+                  "original": "https://www.fbi.gov/wanted/additional/jonathan-david-cifuentes/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/additional/jonathan-david-cifuentes/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": "The FBI is offering a reward of up to $10,000 for information leading to the apprehension and conviction of Jonathan David Cifuentes.",
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": null,
+          "reward_max": 0,
+          "ncic": null,
+          "aliases": null,
+          "height_max": 70,
+          "dates_of_birth_used": [
+              "July 9, 1991"
+          ],
+          "height_min": 70,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/additional/jonathan-david-cifuentes/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "occupations": null,
+          "publication": "2018-06-13T08:30:00",
+          "description": "Unlawful Flight to Avoid Prosecution - Attempted Murder with a Firearm",
+          "race_raw": "White (Hispanic)",
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": null,
+          "reward_min": 0,
+          "weight_max": 200,
+          "sex": "Male",
+          "@id": "https://api.fbi.gov/@wanted-person/7ff592d6c5144c799424f2756b74a02a"
+      },
+      {
+          "eyes": "brown",
+          "sex": "Male",
+          "age_max": 71,
+          "url": "https://www.fbi.gov/wanted/vicap/missing-persons/melvin-l-shoemaker---parkman-ohio",
+          "ncic": null,
+          "path": "/wanted/vicap/missing-persons/melvin-l-shoemaker---parkman-ohio",
+          "locations": null,
+          "weight_min": 200,
+          "place_of_birth": null,
+          "reward_min": 0,
+          "subjects": [
+              "ViCAP Missing Persons"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "c4e2342dbfc549c282dea3682a217c93",
+          "eyes_raw": "Brown",
+          "height_max": 70,
+          "nationality": null,
+          "age_range": "71 years old at the time of his disappearance",
+          "height_min": 69,
+          "aliases": null,
+          "reward_text": null,
+          "possible_countries": null,
+          "description": "April 11, 1994\r\nParkman, Ohio",
+          "caution": null,
+          "weight_max": 250,
+          "legat_names": null,
+          "race": "white",
+          "modified": "2018-08-03T13:51:07+00:00",
+          "publication": "2018-08-03T08:41:00",
+          "weight": "200 to 250 pounds",
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/melvin-l-shoemaker---parkman-ohio/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/vicap/missing-persons/melvin-l-shoemaker---parkman-ohio/@@images/image",
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/vicap/missing-persons/melvin-l-shoemaker---parkman-ohio/@@images/image/large"
+              }
+          ],
+          "remarks": "<p>Shoemaker had a trimmed beard at the time of his disappearance.</p>",
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/vicap/missing-persons/melvin-l-shoemaker---parkman-ohio/shoemaker-8-3-18.pdf"
+              }
+          ],
+          "field_offices": null,
+          "coordinates": [],
+          "race_raw": "White",
+          "hair_raw": "Brown and gray, receding",
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": null,
+          "details": "<p>In the spring of 1994, 71-year-old Melvin L. Shoemaker disappeared, and has not been seen or heard from since. He left his home and vehicles behind. Despite extensive investigative efforts, no leads have been developed. Law enforcement is requesting the public’s assistance in providing information regarding Shoemaker’s disappearance and/or the circumstances surrounding his disappearance. </p>",
+          "warning_message": null,
+          "suspects": null,
+          "age_min": 71,
+          "hair": "brown",
+          "title": "MELVIN L. SHOEMAKER - PARKMAN, OHIO",
+          "occupations": null,
+          "@id": "https://api.fbi.gov/@wanted-person/c4e2342dbfc549c282dea3682a217c93"
+      },
+      {
+          "eyes": null,
+          "sex": null,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/seeking-info/murder-victims-california",
+          "ncic": null,
+          "path": "/wanted/seeking-info/murder-victims-california",
+          "locations": null,
+          "weight_min": null,
+          "place_of_birth": null,
+          "reward_min": 0,
+          "subjects": [
+              "Seeking Information"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "bd72ac5cc6c64f98aa3798c7d60341ec",
+          "eyes_raw": null,
+          "height_max": null,
+          "nationality": null,
+          "age_range": null,
+          "height_min": null,
+          "aliases": null,
+          "reward_text": "The FBI is offering a reward of up to $20,000 for information leading to an arrest in these cases.",
+          "possible_countries": null,
+          "description": "West Oakland and Richmond, California\r\n2005 to 2011",
+          "caution": null,
+          "weight_max": null,
+          "legat_names": null,
+          "race": null,
+          "modified": "2018-07-31T19:31:42+00:00",
+          "publication": "2017-10-02T08:52:00",
+          "weight": null,
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/murder-victims-california/seekinfosfmcclellan5.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/murder-victims-california/seekinfosfmcclellan5.jpg",
+                  "caption": "Sean McClelland",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/murder-victims-california/seekinfosfmcclellan5.jpg/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/murder-victims-california/seekinfosfbrooks.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/murder-victims-california/seekinfosfbrooks.jpg",
+                  "caption": "LaCorey Brooks",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/murder-victims-california/seekinfosfbrooks.jpg/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/murder-victims-california/seekinfosfngo.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/murder-victims-california/seekinfosfngo.jpg",
+                  "caption": "Nguyen Ngo",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/murder-victims-california/seekinfosfngo.jpg/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/murder-victims-california/seekinfosflewis.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/murder-victims-california/seekinfosflewis.jpg",
+                  "caption": "Nehemiah Lewis",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/murder-victims-california/seekinfosflewis.jpg/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/murder-victims-california/seekinfosfhenderson.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/murder-victims-california/seekinfosfhenderson.jpg",
+                  "caption": "Andrew Henderson, Jr.",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/murder-victims-california/seekinfosfhenderson.jpg/@@images/image/large"
+              }
+          ],
+          "remarks": null,
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/seeking-info/murder-victims-california/download.pdf"
+              },
+              {
+                  "name": "Murder Victims CA",
+                  "url": "https://www.fbi.gov/wanted/seeking-info/murder-victims-california/seekinfosfweb.pdf/@@download/file/seekinfosfweb.pdf"
+              }
+          ],
+          "field_offices": [
+              "sanfrancisco"
+          ],
+          "coordinates": [],
+          "race_raw": null,
+          "hair_raw": null,
+          "complexion": null,
+          "build": null,
+          "person_classification": "Victim",
+          "dates_of_birth_used": null,
+          "details": "<p>The FBI, the Oakland Police Department, and the Richmond Police Department are asking for the public’s help with identifying the suspects responsible for several homicides in the west side of Oakland and Richmond, California.  The murders date back to 2005 and involve the following cases:</p>\r\n<p> </p>\r\n<p>Sean McClelland and LaCorey Brooks were shot and killed on June 27, 2005, on Ripley Avenue, Richmond, California.</p>\r\n<p>Nguyen Ngo was shot and killed on April 23, 2009, on 45th Street, Oakland, California.</p>\r\n<p>Nehemiah Lewis was shot and killed on June 11, 2010, on Athens Avenue, Oakland, California.</p>\r\n<p>Andrew Henderson Jr. was shot and killed on April 13, 2011, on E Street, Oakland, California.</p>\r\n<p> </p>",
+          "warning_message": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": null,
+          "title": "MURDER VICTIMS - CALIFORNIA",
+          "occupations": null,
+          "@id": "https://api.fbi.gov/@wanted-person/bd72ac5cc6c64f98aa3798c7d60341ec"
+      },
+      {
+          "eyes": "green",
+          "sex": "Female",
+          "age_max": 64,
+          "url": "https://www.fbi.gov/wanted/vicap/missing-persons/margaret-ann-unger---st-clair-missouri",
+          "ncic": null,
+          "path": "/wanted/vicap/missing-persons/margaret-ann-unger---st-clair-missouri",
+          "locations": null,
+          "weight_min": 136,
+          "place_of_birth": null,
+          "reward_min": 0,
+          "subjects": [
+              "VICAP Missing Persons"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "c05dfaadb43842679b2dfe0ecaeca9f5",
+          "eyes_raw": "Green",
+          "height_max": 68,
+          "nationality": null,
+          "age_range": "64 years old at the time of disappearance",
+          "height_min": 68,
+          "aliases": null,
+          "reward_text": null,
+          "possible_countries": null,
+          "description": "April 19, 2010\r\nSt. Clair, Missouri",
+          "caution": null,
+          "weight_max": 136,
+          "legat_names": null,
+          "race": "white",
+          "modified": "2018-07-26T18:40:13+00:00",
+          "publication": "2018-07-26T13:28:00",
+          "weight": "136 pounds",
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/margaret-ann-unger---st-clair-missouri/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/vicap/missing-persons/margaret-ann-unger---st-clair-missouri/@@images/image",
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/vicap/missing-persons/margaret-ann-unger---st-clair-missouri/@@images/image/large"
+              }
+          ],
+          "remarks": "<p>Unger was last seen wearing a light blue t-shirt, khaki shorts, and glasses.</p>",
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/vicap/missing-persons/margaret-ann-unger---st-clair-missouri/unger-7-9-18.pdf"
+              }
+          ],
+          "field_offices": null,
+          "coordinates": [],
+          "race_raw": "White",
+          "hair_raw": "Brown",
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": null,
+          "details": "<p>On April 19, 2010, Margaret Ann Unger was last seen in the morning near her home on Turkey Run Road in St. Clair, Missouri. She was reported missing by her husband that evening. Her husband told authorities she took off the robe she had been sleeping in and put on a t-shirt and shorts and left the house without socks or shoes. He reported that he watched her walk out the door, away from the house, and into the woods. He then followed her until she got to the woods and he lost her. He also indicated she hadn't taken her medicine as scheduled and had an extensive history of mental illness. She also has a defibrillator/pacemaker for a heart condition that requires medication. An extensive search was conducted in the area, and several leads were followed, but all led to negative results.</p>",
+          "warning_message": null,
+          "suspects": null,
+          "age_min": 64,
+          "hair": "brown",
+          "title": "MARGARET ANN UNGER - ST. CLAIR, MISSOURI",
+          "occupations": null,
+          "@id": "https://api.fbi.gov/@wanted-person/c05dfaadb43842679b2dfe0ecaeca9f5"
+      },
+      {
+          "eyes": "brown",
+          "sex": "Male",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/murders/dennis-saint-john-rodriguez-jr",
+          "ncic": "W382761877",
+          "path": "/wanted/murders/dennis-saint-john-rodriguez-jr",
+          "locations": null,
+          "weight_min": 180,
+          "place_of_birth": "New York",
+          "reward_min": 0,
+          "subjects": [
+              "Violent Crime - Murders"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "7f7bb62a610f4bd09fccfae9251f0466",
+          "eyes_raw": "Brown",
+          "height_max": 71,
+          "nationality": "American",
+          "age_range": null,
+          "height_min": 71,
+          "aliases": [
+              "Dennis S. Rodriguez",
+              "Dennis Saint Rodriguez",
+              "Dennis Saint John Rodriguez",
+              "Dennis Saint John J. Rodriguez",
+              "Dennis Saintjohn Rodriguez",
+              "Dennis St. Rodriguez",
+              "Dennis St. John Rodriguez"
+          ],
+          "reward_text": "The FBI is offering a reward of up to $50,000 for information leading to the arrest and conviction of Rodriguez , Jr.",
+          "possible_countries": [
+              "MEX"
+          ],
+          "description": "Unlawful Flight to Avoid Prosecution - Murder (First Degree Premeditated Murder with a Weapon)",
+          "caution": null,
+          "weight_max": 180,
+          "legat_names": null,
+          "race": "hispanic",
+          "modified": "2018-07-26T00:38:17+00:00",
+          "publication": "2018-05-31T14:18:00",
+          "weight": "180 pounds",
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": "Rodriguez, Jr. has tattoos in the following locations: back, chest, left arm, left shoulder, left wrist, right arm, right hand, and right wrist.",
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/murders/dennis-saint-john-rodriguez-jr/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/dennis-saint-john-rodriguez-jr/@@images/image",
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/murders/dennis-saint-john-rodriguez-jr/@@images/image/large"
+              }
+          ],
+          "remarks": "<p>Rodriguez, Jr. is believed to be a member of the Latin Kings gang. He reportedly fled to Celaya, Mexico, and is possibly working as a barber.</p>",
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/murders/dennis-saint-john-rodriguez-jr/download.pdf"
+              }
+          ],
+          "field_offices": [
+              "tampa"
+          ],
+          "coordinates": [],
+          "race_raw": "White (Hispanic)",
+          "hair_raw": "Brown",
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": [
+              "March 28, 1979"
+          ],
+          "details": "<p>Dennis Saint John Rodriguez, Jr. is wanted for his alleged involvement in the murder of a man in 2016 in Hillsborough County, Florida. On December 22, 2017, a federal arrest warrant was issued by the United States District Court for the Middle District of Florida, after Rodriguez, Jr. was charged with unlawful flight to avoid prosecution.</p>\r\n<p> </p>",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS AND AN ESCAPE RISK",
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "title": "DENNIS SAINT JOHN RODRIGUEZ, JR.",
+          "occupations": [
+              "Barber"
+          ],
+          "@id": "https://api.fbi.gov/@wanted-person/7f7bb62a610f4bd09fccfae9251f0466"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Seeking Information"
+          ],
+          "languages": null,
+          "path": "/wanted/seeking-info/kelly-boyce-hurlbert",
+          "weight_min": 132,
+          "details": "<p>On July 5, 2013, shortly before 2:00 a.m., Kelly Boyce-Hurlbert was riding her bicycle on the 600 block of Washington Street, Traverse City, Michigan, when she was struck and killed by an unknown vehicle.  </p>",
+          "status": "na",
+          "possible_states": null,
+          "eyes": "blue",
+          "hair": "brown",
+          "legat_names": null,
+          "eyes_raw": "Blue",
+          "field_offices": [
+              "detroit"
+          ],
+          "weight": "132 pounds",
+          "age_min": null,
+          "build": null,
+          "person_classification": "Victim",
+          "remarks": null,
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/seeking-info/kelly-boyce-hurlbert",
+          "nationality": null,
+          "uid": "39d379c6c3f2440ca32410e27240c171",
+          "warning_message": null,
+          "scars_and_marks": null,
+          "race": "white",
+          "hair_raw": "Brown",
+          "modified": "2018-07-26T00:25:14+00:00",
+          "title": "KELLY BOYCE-HURLBERT",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/kelly-boyce-hurlbert/@@images/image/large",
+                  "caption": null,
+                  "original": "https://www.fbi.gov/wanted/seeking-info/kelly-boyce-hurlbert/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/kelly-boyce-hurlbert/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/kelly-boyce-hurlbert/kelly-boyce-hurlbert-pic-3.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/kelly-boyce-hurlbert/kelly-boyce-hurlbert-pic-3.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/kelly-boyce-hurlbert/kelly-boyce-hurlbert-pic-3.jpg/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": "The FBI is offering a reward of up to $25,000 for information leading to the arrest and conviction of the person responsible for Boyce-Hurlbert's death.",
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": null,
+          "reward_max": 0,
+          "ncic": null,
+          "aliases": null,
+          "height_max": 62,
+          "dates_of_birth_used": [
+              "January 30, 1984"
+          ],
+          "height_min": 62,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/seeking-info/kelly-boyce-hurlbert/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "occupations": null,
+          "publication": "2018-06-20T11:19:00",
+          "description": "Murder Victim\r\nTraverse City, Michigan\r\nJuly 5, 2013",
+          "race_raw": "White",
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": "Michigan",
+          "reward_min": 0,
+          "weight_max": 132,
+          "sex": "Female",
+          "@id": "https://api.fbi.gov/@wanted-person/39d379c6c3f2440ca32410e27240c171"
+      },
+      {
+          "eyes": "brown",
+          "sex": "Male",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/kidnap/rondreiz-phillips",
+          "ncic": null,
+          "path": "/wanted/kidnap/rondreiz-phillips",
+          "locations": null,
+          "weight_min": 45,
+          "place_of_birth": null,
+          "reward_min": 0,
+          "subjects": [
+              "Kidnappings and Missing Persons"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "abacfe79e8e245ed94d39d4bf09593ac",
+          "eyes_raw": "Brown",
+          "height_max": 36,
+          "nationality": null,
+          "age_range": null,
+          "height_min": 36,
+          "aliases": [
+              "Rondriez Cortez Phillips",
+              "Rondreiz Cortez Junior Phillips"
+          ],
+          "reward_text": "The FBI is offering a reward for information leading directly to the location of Rondreiz Phillips.",
+          "possible_countries": null,
+          "description": "April 5, 2018 \r\nHomer, Louisiana",
+          "caution": null,
+          "weight_max": 45,
+          "legat_names": null,
+          "race": "black",
+          "modified": "2018-07-26T00:22:14+00:00",
+          "publication": "2018-04-20T10:40:00",
+          "weight": "45 pounds (at the time of his disappearance)",
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/rondreiz-phillips/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/kidnap/rondreiz-phillips/@@images/image",
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/kidnap/rondreiz-phillips/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/rondreiz-phillips/rondreiz-original-pic-2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/kidnap/rondreiz-phillips/rondreiz-original-pic-2.jpg",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/kidnap/rondreiz-phillips/rondreiz-original-pic-2.jpg/@@images/image/large"
+              }
+          ],
+          "remarks": null,
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/kidnap/rondreiz-phillips/download.pdf"
+              }
+          ],
+          "field_offices": [
+              "neworleans"
+          ],
+          "coordinates": [],
+          "race_raw": "Black",
+          "hair_raw": "Black",
+          "complexion": null,
+          "build": null,
+          "person_classification": "Victim",
+          "dates_of_birth_used": null,
+          "details": "<p>The FBI is seeking the public's assistance in locating Rondreiz Phillips. Phillips went missing on April 5, 2018 in Homer, Louisiana. He was last seen wearing blue jeans, a white shirt, and yellow rubber boots. Phillips may go by the nickname Junior.</p>",
+          "warning_message": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "black",
+          "title": "RONDREIZ PHILLIPS",
+          "occupations": null,
+          "@id": "https://api.fbi.gov/@wanted-person/abacfe79e8e245ed94d39d4bf09593ac"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Seeking Information"
+          ],
+          "languages": null,
+          "path": "/wanted/seeking-info/patrick-scott-jr",
+          "weight_min": null,
+          "details": "<p>On February 3, 2018, Patrick Scott, Jr. was waiting at the bus stop at 62nd Street and Market Street in Oakland, California, to go to his grandmother's house.  An unknown person approached him and fired multiple shots, killing Patrick Scott, Jr.</p>\r\n<p> </p>",
+          "status": "na",
+          "possible_states": null,
+          "eyes": null,
+          "hair": null,
+          "legat_names": null,
+          "eyes_raw": null,
+          "field_offices": [
+              "sanfrancisco"
+          ],
+          "weight": null,
+          "age_min": null,
+          "build": null,
+          "person_classification": "Victim",
+          "remarks": null,
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/seeking-info/patrick-scott-jr",
+          "nationality": null,
+          "uid": "6bc39f5fe60a404899acd3ea41999ec1",
+          "warning_message": null,
+          "scars_and_marks": null,
+          "race": null,
+          "hair_raw": null,
+          "modified": "2018-07-17T20:19:52+00:00",
+          "title": "PATRICK SCOTT, JR.",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/patrick-scott-jr/@@images/image/large",
+                  "caption": null,
+                  "original": "https://www.fbi.gov/wanted/seeking-info/patrick-scott-jr/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/patrick-scott-jr/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/patrick-scott-jr/scott1.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/patrick-scott-jr/scott1.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/patrick-scott-jr/scott1.jpg/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": "The FBI is offering a reward of up to $20,000 for information leading to the arrest of the individual(s) responsible for the death of Patrick Scott, Jr.",
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": null,
+          "reward_max": 0,
+          "ncic": null,
+          "aliases": null,
+          "height_max": null,
+          "dates_of_birth_used": null,
+          "height_min": null,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/seeking-info/patrick-scott-jr/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "occupations": null,
+          "publication": "2018-07-02T10:33:00",
+          "description": "Murder Victim\r\nOakland, California\r\nFebruary 3, 2018",
+          "race_raw": null,
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": null,
+          "reward_min": 0,
+          "weight_max": null,
+          "sex": null,
+          "@id": "https://api.fbi.gov/@wanted-person/6bc39f5fe60a404899acd3ea41999ec1"
+      },
+      {
+          "eyes": null,
+          "sex": null,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/seeking-info/michael-surber",
+          "ncic": null,
+          "path": "/wanted/seeking-info/michael-surber",
+          "locations": null,
+          "weight_min": null,
+          "place_of_birth": null,
+          "reward_min": 0,
+          "subjects": [
+              "Seeking Information"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "b3de5069ca9e4fae976b9ad361bfff7b",
+          "eyes_raw": null,
+          "height_max": null,
+          "nationality": null,
+          "age_range": null,
+          "height_min": null,
+          "aliases": null,
+          "reward_text": null,
+          "possible_countries": null,
+          "description": "Murder Victim\r\nOcean Springs, Mississippi\r\nNovember 10, 2009",
+          "caution": null,
+          "weight_max": null,
+          "legat_names": null,
+          "race": null,
+          "modified": "2018-07-09T21:02:05+00:00",
+          "publication": "2017-04-28T11:05:00",
+          "weight": null,
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/michael-surber/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/michael-surber/@@images/image",
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/seeking-info/michael-surber/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/michael-surber/surbersuspect1.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/michael-surber/surbersuspect1.jpg",
+                  "caption": "Unknown Individual",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/michael-surber/surbersuspect1.jpg/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/michael-surber/surbersuspect2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/michael-surber/surbersuspect2.jpg",
+                  "caption": "Unknown Individual",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/michael-surber/surbersuspect2.jpg/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/michael-surber/surbersuspect3.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/michael-surber/surbersuspect3.jpg",
+                  "caption": "Unknown Individual",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/michael-surber/surbersuspect3.jpg/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/michael-surber/surbersuspectback.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/michael-surber/surbersuspectback.jpg",
+                  "caption": "Unknown Individual",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/michael-surber/surbersuspectback.jpg/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/michael-surber/surbersuspect.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/michael-surber/surbersuspect.jpg",
+                  "caption": "Unknown Individual",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/michael-surber/surbersuspect.jpg/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/michael-surber/surber2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/michael-surber/surber2.jpg",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/michael-surber/surber2.jpg/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/michael-surber/surber3.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/michael-surber/surber3.jpg",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/michael-surber/surber3.jpg/@@images/image/large"
+              }
+          ],
+          "remarks": null,
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/seeking-info/michael-surber/download.pdf"
+              }
+          ],
+          "field_offices": [
+              "jackson"
+          ],
+          "coordinates": [],
+          "race_raw": null,
+          "hair_raw": null,
+          "complexion": null,
+          "build": null,
+          "person_classification": "Victim",
+          "dates_of_birth_used": null,
+          "details": "<p>On the evening of November 10, 2009, Michael Surber, a nationally renowned pool player, was murdered in his home in Ocean Springs, Mississippi.  It is believed that Surber was playing pool in a bar in Gulfport, Mississippi, earlier that day when he met an unknown White male, seen above.  It is believed that Surber left the bar with this unknown individual and was later found deceased.</p>\r\n<p> </p>\r\n<p>The unknown individual was described as a White male, possibly between the ages of 55 and 65, approximately 5'8\" to 6'0\" and 170 to 185 pounds, with a receding hairline and ponytail.  He may have had gray hair, gaps between his teeth, and worn glasses. </p>",
+          "warning_message": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": null,
+          "title": "MICHAEL SURBER",
+          "occupations": null,
+          "@id": "https://api.fbi.gov/@wanted-person/b3de5069ca9e4fae976b9ad361bfff7b"
+      },
+      {
+          "age_range": "20s to 30s (at the time of the incidents)",
+          "subjects": [
+              "Seeking Information"
+          ],
+          "languages": null,
+          "path": "/wanted/seeking-info/dc-area-hotel-rapist",
+          "weight_min": null,
+          "details": "<p>The Federal Bureau of Investigation along with the Washington D.C. Metropolitan Police Department, Prince George's County Police Department, Montgomery County Police Department, Greenbelt Police Department, and Arlington County Police are asking for the public's assistance in identifying an individual responsible for a series of sexual assaults in the Washington D.C. metropolitan area.</p>\r\n<p> </p>\r\n<p>Between August 22, 1998, and February 6, 2006, a serial rapist violently assaulted six to nine women in the Washington D.C. area.  Six of these attacks have been linked by DNA to a single offender, and suspicious activity was reported in five additional area hotels which may also be related.  In the vast majority of these cases, hotel housekeepers were victimized.  The unknown individual would enter hotel rooms unnoticed and rape housekeepers while they were cleaning.  In several of the incidents, the suspect used a box cutter, a necktie, or a cord to threaten and harm his victims.</p>\r\n<p> </p>",
+          "status": "na",
+          "possible_states": null,
+          "eyes": "brown",
+          "hair": "black",
+          "legat_names": null,
+          "eyes_raw": "Brown",
+          "field_offices": [
+              "baltimore",
+              "washingtondc"
+          ],
+          "weight": null,
+          "age_min": 20,
+          "build": "Medium to Stocky",
+          "person_classification": "Main",
+          "remarks": null,
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/seeking-info/dc-area-hotel-rapist",
+          "nationality": null,
+          "uid": "2552251ce80e4087ab1df200c7d03174",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "scars_and_marks": null,
+          "race": "black",
+          "hair_raw": "Black",
+          "modified": "2018-06-27T14:07:07+00:00",
+          "title": "D.C.-AREA HOTEL RAPIST",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/dc-area-hotel-rapist/@@images/image/large",
+                  "caption": "Composite Sketch created in 2003",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/dc-area-hotel-rapist/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/dc-area-hotel-rapist/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/dc-area-hotel-rapist/composite-age-progressed.jpg/@@images/image/large",
+                  "caption": "Age-Progressed Composite Sketch Courtesy of Montgomery County (Maryland) Police Department and Washington D.C. Metropolitan Police Department / Parabon Nano Labs",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/dc-area-hotel-rapist/composite-age-progressed.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/dc-area-hotel-rapist/composite-age-progressed.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/dc-area-hotel-rapist/knife.jpg/@@images/image/large",
+                  "caption": "Box cutter, with name \"Debbie\" written on it, used in 2002 incident at the Hilton Hotel on Colesville Road in Silver Spring, Maryland.",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/dc-area-hotel-rapist/knife.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/dc-area-hotel-rapist/knife.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/dc-area-hotel-rapist/ring.jpg/@@images/image/large",
+                  "caption": "Suspect’s ring that came off during a 2003 assault at the Renaissance Hotel on 9th Street in NW Washington, D.C.",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/dc-area-hotel-rapist/ring.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/dc-area-hotel-rapist/ring.jpg/@@images/image/thumb"
+              }
+          ],
+          "complexion": "Medium to Dark",
+          "reward_text": "The FBI is offering a reward of up to $5,000 for information leading to the identity, arrest and conviction of the person responsible for this series of violent sexual assaults.  A substantial amount of additional reward money may be available from other law enforcement entities.",
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": null,
+          "reward_max": 0,
+          "ncic": null,
+          "aliases": null,
+          "height_max": 70,
+          "dates_of_birth_used": null,
+          "height_min": 67,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/seeking-info/dc-area-hotel-rapist/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "occupations": null,
+          "publication": "2018-06-11T10:04:00",
+          "description": "Washington, D.C. area\r\n1998 to 2006",
+          "race_raw": "Black",
+          "age_max": 30,
+          "coordinates": [],
+          "place_of_birth": null,
+          "reward_min": 0,
+          "weight_max": null,
+          "sex": "Male",
+          "@id": "https://api.fbi.gov/@wanted-person/2552251ce80e4087ab1df200c7d03174"
+      },
+      {
+          "eyes": "brown",
+          "sex": "Male",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/parental-kidnappings/marcelle-guimaraes/kidnapping",
+          "ncic": null,
+          "path": "/wanted/parental-kidnappings/marcelle-guimaraes/kidnapping",
+          "locations": null,
+          "weight_min": null,
+          "place_of_birth": "United States",
+          "reward_min": 0,
+          "subjects": [],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": [
+              "English",
+              "Portuguese"
+          ],
+          "uid": "9ff7511d91e049f897b6c8d55c6cb01b",
+          "eyes_raw": "Brown",
+          "height_max": null,
+          "nationality": "American",
+          "age_range": null,
+          "height_min": null,
+          "aliases": null,
+          "reward_text": null,
+          "possible_countries": null,
+          "description": "",
+          "caution": null,
+          "weight_max": null,
+          "legat_names": null,
+          "race": "white",
+          "modified": "2018-06-22T14:58:41+00:00",
+          "publication": "2018-06-06T13:18:00",
+          "weight": null,
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": "Brann has moles under his right eye.",
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/parental-kidnappings/marcelle-guimaraes/kidnapping/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/parental-kidnappings/marcelle-guimaraes/kidnapping/@@images/image",
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/parental-kidnappings/marcelle-guimaraes/kidnapping/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/parental-kidnappings/marcelle-guimaraes/kidnapping/brann_n-3.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/parental-kidnappings/marcelle-guimaraes/kidnapping/brann_n-3.jpg",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/parental-kidnappings/marcelle-guimaraes/kidnapping/brann_n-3.jpg/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/parental-kidnappings/marcelle-guimaraes/kidnapping/brann_n-2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/parental-kidnappings/marcelle-guimaraes/kidnapping/brann_n-2.jpg",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/parental-kidnappings/marcelle-guimaraes/kidnapping/brann_n-2.jpg/@@images/image/large"
+              }
+          ],
+          "remarks": "<p>Nicolas Scott Brann and Marcelle da Rocha Guimaraes have been known to frequent the area of Salvador, Bahia, Brazil. Guimaraes has dual citizenship in both the United States and Brazil. Brann is a United States citizen. His nickname is \"Nico\". </p>",
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/parental-kidnappings/marcelle-guimaraes/kidnapping/download.pdf"
+              },
+              {
+                  "name": "PORTUGUÊS",
+                  "url": "https://www.fbi.gov/wanted/parental-kidnappings/marcelle-guimaraes/kidnapping/brann-portuguese.pdf/@@download/file/Brann Portuguese.pdf"
+              }
+          ],
+          "field_offices": [
+              "houston"
+          ],
+          "coordinates": [],
+          "race_raw": "White",
+          "hair_raw": "Brown",
+          "complexion": null,
+          "build": null,
+          "person_classification": "Victim",
+          "dates_of_birth_used": [
+              "September 14, 2009"
+          ],
+          "details": "<p>In 2013, Marcelle da Rocha Guimaraes, in violation of United States court order, allegedly took her son Nicolas Scott Brann from the United States and traveled to Brazil. Both mother and son have not returned to the United States.</p>\r\n<p> </p>\r\n<p>In May 2018, Guimaraes' co-conspirators were convicted of international parental kidnapping for their involvement in this matter. On March 23, 2017, an arrest warrant for Guimaraes was issued in the United States District Court, Southern District of Texas. In February 2018, Guimaraes was indicted by a Federal Grand Jury for international parental kidnapping and conspiracy.</p>",
+          "warning_message": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "title": "NICOLAS SCOTT BRANN",
+          "occupations": null,
+          "@id": "https://api.fbi.gov/@wanted-person/9ff7511d91e049f897b6c8d55c6cb01b"
+      },
+      {
+          "eyes": null,
+          "sex": "Male",
+          "age_max": 40,
+          "url": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-straw-hat",
+          "ncic": null,
+          "path": "/wanted/seeking-info/unknown-suspect-straw-hat",
+          "locations": null,
+          "weight_min": null,
+          "place_of_birth": null,
+          "reward_min": 0,
+          "subjects": [
+              "Seeking Information"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "d566481a-45fe-4c61-a324-1443399523b6",
+          "eyes_raw": null,
+          "height_max": 72,
+          "nationality": null,
+          "age_range": "30 to 40 years old",
+          "height_min": 69,
+          "aliases": null,
+          "reward_text": null,
+          "possible_countries": null,
+          "description": "Armed Bank Robbery, Murder\r\n“The Straw Hat Bandit”\r\nSouth Strabane Township, Pennsylvania",
+          "caution": "<p>The Pittsburgh Office of the FBI, the Pennsylvania State Police, and the South Strabane Police are working to find the killer of a Washington, Pennsylvania, man who was shot and killed on Father’s Day, June 16, 2013, as he tried to stop a bank robber at the Strabane Square Shopping Center. The suspect entered the Giant Eagle supermarket around 2:20 p.m. and approached the Citizens Bank located inside the store. He jumped over the teller counter, demanded money, showed a gun, and left with a bag of money. The robber parked away from the store entrance, near the pharmacy drive-through area, apparently to be close to an exit from the parking lot. Police said he drove a “small-to-mid-sized” white four-door sedan south on Route 19 after leaving the shopping center and was last spotted just north of the interchange with I-70.</p>\r\n<p> </p>\r\n<p>Vincent Kelley, 46, was killed in the shooting when he tried to stop the robber. Mr. Kelley had been grocery shopping with a friend when he witnessed the robbery. He chased the robber into the parking lot and struggled with him inside of the robber’s car. He was killed after being shot several times during the struggle.</p>\r\n<p> </p>\r\n<p>South Strabane Police said a red dye pack placed in the money bag exploded inside of the getaway car, creating a cloud of smoke. Authorities are asking any motorists who may have seen a car fitting the description, driving erratically, or filled with red smoke on Route 19 or Interstates 70 or 79 to notify law enforcement officials. In addition to creating red smoke, the dye pack, upon explosion, would have caused burns and other irritation to the suspect or anyone in the car with him and stains on the hands of anyone who handled the money. Anyone who knows someone with burns or red stains on their hands, or any auto shop that may be asked to clean a car with red stains on the interior, should report this to law enforcement. Police would also like anyone who took cell phone photos or video of the incident inside the Giant Eagle or outside in the parking lot to provide it to police.</p>",
+          "weight_max": null,
+          "legat_names": null,
+          "race": null,
+          "modified": "2018-06-21T11:22:05+00:00",
+          "publication": "2013-07-01T07:00:00",
+          "weight": null,
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-straw-hat/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-straw-hat/@@images/image",
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-straw-hat/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-straw-hat/strawhat2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-straw-hat/strawhat2.jpg",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-straw-hat/strawhat2.jpg/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-straw-hat/strawhat3.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-straw-hat/strawhat3.jpg",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-straw-hat/strawhat3.jpg/@@images/image/large"
+              }
+          ],
+          "remarks": "<p>The suspect wore a mask, black gloves, a large straw hat with a blue band and floppy brim, and carried a black, open umbrella and a handgun.</p>",
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/seeking-info/unknown-suspect-straw-hat/download.pdf"
+              }
+          ],
+          "field_offices": [
+              "pittsburgh"
+          ],
+          "coordinates": [],
+          "race_raw": null,
+          "hair_raw": null,
+          "complexion": null,
+          "build": "Medium",
+          "person_classification": "Main",
+          "dates_of_birth_used": null,
+          "details": null,
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "suspects": null,
+          "age_min": 30,
+          "hair": null,
+          "title": "UNKNOWN SUSPECT - \"THE STRAW HAT BANDIT\"",
+          "occupations": null,
+          "@id": "https://api.fbi.gov/@wanted-person/d566481a-45fe-4c61-a324-1443399523b6"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Kidnappings and Missing Persons"
+          ],
+          "languages": null,
+          "path": "/wanted/kidnap/jonathan-fraser",
+          "weight_min": 150,
+          "details": "<p>Jonathan Fraser was last seen on July 30, 2016, at his Hawaii Kai apartment located at 6233 Keokea Place, Honolulu, Hawaii.  Fraser was reported missing on July 31, 2016, by family and friends.  On August 8, 2016, investigators discovered Fraser’s vehicle, a 1994 grey, two-door Honda hatchback bearing Hawaii license plate SXC021, parked near the intersection of Summer Street and Kuliouou Road in Hawaii Kai. There have been no reported sightings of or contacts by Fraser since his disappearance.</p>\r\n<p> </p>",
+          "status": "na",
+          "possible_states": null,
+          "eyes": "hazel",
+          "hair": "brown",
+          "legat_names": null,
+          "eyes_raw": "Hazel",
+          "field_offices": [
+              "honolulu"
+          ],
+          "weight": "150 pounds",
+          "age_min": null,
+          "build": null,
+          "person_classification": "Victim",
+          "remarks": null,
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/kidnap/jonathan-fraser",
+          "nationality": "American",
+          "uid": "474f16f4572c4b898c3d5dfad7e39ba5",
+          "warning_message": null,
+          "scars_and_marks": "Fraser has four large scars on his face: one beneath his left eye, another under his nose, and two on his chin.",
+          "race": "white",
+          "hair_raw": "Brown, Wavy, Shoulder Length",
+          "modified": "2018-05-18T01:14:48+00:00",
+          "title": "JONATHAN FRASER",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/kidnap/jonathan-fraser/@@images/image/large",
+                  "caption": null,
+                  "original": "https://www.fbi.gov/wanted/kidnap/jonathan-fraser/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/jonathan-fraser/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/kidnap/jonathan-fraser/fraser2.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/kidnap/jonathan-fraser/fraser2.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/jonathan-fraser/fraser2.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/kidnap/jonathan-fraser/fraservehicle1.jpg/@@images/image/large",
+                  "caption": "Fraser's vehicle which has been located",
+                  "original": "https://www.fbi.gov/wanted/kidnap/jonathan-fraser/fraservehicle1.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/jonathan-fraser/fraservehicle1.jpg/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": "The FBI is offering a reward of up to $20,000 for information leading to the arrest of the individual(s) responsible for the disappearance of Jonathan Fraser.",
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": null,
+          "reward_max": 0,
+          "ncic": null,
+          "aliases": null,
+          "height_max": 67,
+          "dates_of_birth_used": [
+              "May 11, 1995"
+          ],
+          "height_min": 67,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/kidnap/jonathan-fraser/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "occupations": null,
+          "publication": "2018-05-17T09:35:00",
+          "description": "July 30, 2016\r\nHonolulu, Hawaii",
+          "race_raw": "White",
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": "Hawaii",
+          "reward_min": 0,
+          "weight_max": 150,
+          "sex": "Male",
+          "@id": "https://api.fbi.gov/@wanted-person/474f16f4572c4b898c3d5dfad7e39ba5"
+      }
+  ],
+  "page": 34
+}

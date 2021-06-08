@@ -1,0 +1,2009 @@
+{
+  "total": 1003,
+  "items": [
+      {
+          "dates_of_birth_used": [
+              "October 23, 1961"
+          ],
+          "images": [
+              {
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/murders/francisco-martinez/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/francisco-martinez/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/francisco-martinez/@@images/image"
+              },
+              {
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/murders/francisco-martinez/martinez_f2.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/francisco-martinez/martinez_f2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/francisco-martinez/martinez_f2.jpg"
+              },
+              {
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/murders/francisco-martinez/martinez_f3.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/francisco-martinez/martinez_f3.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/francisco-martinez/martinez_f3.jpg"
+              },
+              {
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/murders/francisco-martinez/martinez_f4.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/francisco-martinez/martinez_f4.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/francisco-martinez/martinez_f4.jpg"
+              }
+          ],
+          "details": null,
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "hispanic",
+          "occupations": [
+              "Warehouse Worker",
+              "Textile Worker",
+              "Production Manager"
+          ],
+          "suspects": null,
+          "age_min": null,
+          "hair": "black",
+          "legat_names": null,
+          "modified": "2018-11-15T15:48:18+00:00",
+          "status": "na",
+          "publication": "2010-09-01T03:25:00",
+          "weight": "350 pounds",
+          "caution": "<p>Francisco Martinez is wanted for allegedly shooting to death his employer in Passaic, New Jersey, on September 14, 2001. The victim was shot execution-style in the basement of the building in which they both worked. The two men had allegedly been arguing that day after the victim confronted Martinez about his possible involvement in both a fire which was set at the business in August of 2001, as well as the ongoing theft of textile materials from the business. Local arrest warrants charging Martinez with murder, possession of a weapon for an unlawful purpose, and unlawful possession of a weapon were issued in the Passaic County Superior Court on September 21, 2001. A federal arrest warrant charging Martinez with unlawful flight to avoid prosecution was then issued on July 25, 2002, in Newark, New Jersey.</p>",
+          "possible_states": [
+              "US-FL",
+              "US-NJ",
+              "US-NY",
+              "US-PA"
+          ],
+          "scars_and_marks": "Martinez has a discoloration on the portion of his head which is bald.",
+          "race_raw": "White (Hispanic)",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/francisco-martinez/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/francisco-martinez/francisco-martinez-en-espanol.pdf/@@download/file/Francisco Martínez EN ESPAÑOL.pdf",
+                  "name": "EN ESPAÑOL"
+              }
+          ],
+          "field_offices": [
+              "newark"
+          ],
+          "nationality": "Ecuadoran",
+          "weight_min": 350,
+          "age_range": null,
+          "uid": "959a6c8e33f9e1a18935bcd6fff2b9ae",
+          "eyes_raw": "Brown",
+          "height_max": 68,
+          "height_min": 68,
+          "aliases": [
+              "Francisco Martinez-Seminari",
+              "Francisco Seminari"
+          ],
+          "reward_text": "The FBI is offering a reward of up to $25,000 for information leading directly to the arrest of Francisco Martinez.",
+          "description": "Unlawful Flight to Avoid Prosecution - Murder, Possession of a Weapon for an Unlawful Purpose, Unlawful Possession of a Weapon",
+          "title": "FRANCISCO MARTINEZ",
+          "possible_countries": [
+              "ECU",
+              "USA"
+          ],
+          "hair_raw": "Black",
+          "remarks": "<p>Martinez is balding and usually wears baseball caps. He has permanent resident status in the United States. Martinez has ties to Ecuador, New York, New Jersey, Pennsylvania, and Florida. He may be traveling throughout South America.</p>",
+          "weight_max": 350,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/murders/francisco-martinez",
+          "ncic": "W353054726",
+          "eyes": "brown",
+          "sex": "Male",
+          "coordinates": [],
+          "path": "/wanted/murders/francisco-martinez",
+          "place_of_birth": "Guayaquil, Ecuador",
+          "reward_min": 10000,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Violent Crime - Murders"
+          ],
+          "additional_information": null,
+          "reward_max": 99999,
+          "@id": "https://api.fbi.gov/@wanted-person/959a6c8e33f9e1a18935bcd6fff2b9ae"
+      },
+      {
+          "dates_of_birth_used": [
+              "June 19, 1969",
+              "January 17, 1970"
+          ],
+          "images": [
+              {
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/murders/arnulfo-beltran-barboza/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/murders/arnulfo-beltran-barboza/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/arnulfo-beltran-barboza/@@images/image"
+              }
+          ],
+          "details": null,
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "hispanic",
+          "occupations": [
+              "Unknown"
+          ],
+          "suspects": null,
+          "age_min": null,
+          "hair": "black",
+          "legat_names": null,
+          "modified": "2018-11-15T15:43:42+00:00",
+          "status": "na",
+          "publication": "2010-09-05T21:35:00",
+          "weight": "155 pounds",
+          "caution": "<p>Arnulfo Beltran-Barboza is wanted for his alleged involvement in the shooting death of a male family friend on June 25, 2004, in Springfield, Oregon. A felony arrest warrant was issued on June 28, 2004, by the Circuit Court of Lane County, Oregon, charging Beltran-Barboza with one count of murder. On July 14, 2004, a federal arrest warrant was issued by the United States District Court, District of Oregon, Eugene, Oregon, charging Beltran-Barboza with unlawful flight to avoid prosecution.</p>",
+          "possible_states": [
+              "US-AZ",
+              "US-CA",
+              "US-OR",
+              "US-WA"
+          ],
+          "scars_and_marks": "None known",
+          "race_raw": "White (Hispanic)",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/arnulfo-beltran-barboza/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/arnulfo-beltran-barboza/arnulfo-beltran-barboza-en-espanol.pdf/@@download/file/Arnulfo  Beltrán Barboza EN ESPAÑOL.pdf",
+                  "name": "EN ESPAÑOL"
+              }
+          ],
+          "field_offices": [
+              "portland"
+          ],
+          "nationality": "Mexican",
+          "weight_min": 155,
+          "age_range": null,
+          "uid": "bebe2ebf29bb5fbbf72e46f8477e702d",
+          "eyes_raw": "Brown",
+          "height_max": 64,
+          "height_min": 64,
+          "aliases": [
+              "Arnulfo Beltran-Barbosa",
+              "Arnulfo Barbosa-Beltran",
+              "Arnulfo Barboza-Beltran",
+              "Arnulfo Beltranbarboza",
+              "Arnulfo Beltranbarbosa",
+              "Antonion Beltranlopez",
+              "Arnulfo Barbosa",
+              "Arnulfo Barboza",
+              "Arnulfo Beltran",
+              "Arnulfo Beltran Lopez",
+              "Arnulfo Lopez Beltran",
+              "Arnulfo Lopez"
+          ],
+          "reward_text": null,
+          "description": "Unlawful Flight to Avoid Prosecution - Murder",
+          "title": "ARNULFO BELTRAN-BARBOZA",
+          "possible_countries": [
+              "MEX",
+              "USA"
+          ],
+          "hair_raw": "Black",
+          "remarks": "<p>Beltran-Barboza may travel to parts of California, Oregon, Washington, Arizona, or Mexico.</p>",
+          "weight_max": 155,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/murders/arnulfo-beltran-barboza",
+          "ncic": "W716159156",
+          "eyes": "brown",
+          "sex": "Male",
+          "coordinates": [],
+          "path": "/wanted/murders/arnulfo-beltran-barboza",
+          "place_of_birth": "Colima, Mexico",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Violent Crime - Murders"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/bebe2ebf29bb5fbbf72e46f8477e702d"
+      },
+      {
+          "eyes": "brown",
+          "sex": "Female",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/wcc/julieanne-baldueza-dimitrion",
+          "ncic": "W440768252",
+          "path": "/wanted/wcc/julieanne-baldueza-dimitrion",
+          "locations": null,
+          "weight_min": 120,
+          "place_of_birth": "Massachusetts",
+          "reward_min": 0,
+          "subjects": [
+              "White-Collar Crime"
+          ],
+          "additional_information": null,
+          "reward_max": 10000,
+          "languages": null,
+          "uid": "84e3e5ef2a04eb7dfa9c454ed42e7bd7",
+          "eyes_raw": "Brown",
+          "height_max": 59,
+          "nationality": "American",
+          "age_range": null,
+          "height_min": 59,
+          "aliases": [
+              "Julie Anne Baldueza Dimitrion"
+          ],
+          "reward_text": "The FBI is offering a reward of up to $10,000 for information leading to the arrest of Julieanne and John Dimitrion.",
+          "possible_countries": [
+              "USA"
+          ],
+          "description": "Failure to Appear (Mortgage Fraud)",
+          "caution": "<p>Julieanne Dimitrion and her husband, <a href=\"https://www.fbi.gov/wanted/wcc/john-michael-dimitrion/view\" data-linktype=\"external\" data-urltype=\"/view\" data-val=\"https://www.fbi.gov/wanted/wcc/john-michael-dimitrion/view\">John</a>, were indicted in February of 2009 for mortgage fraud. In April of 2009, they pled guilty to operating a fraud scheme in which they used their companies to convince distressed homeowners to relinquish their homes with the premise of improving the victims' financial position. They promised to invest the proceeds of the home sales, but instead the Dimitrions used the victims' money to fund their own lavish lifestyles. As a result, multiple families in Oahu, Hawaii, lost their homes. The Dimitrions were scheduled to be sentenced in the United States District Court in Honolulu, Hawaii, on July 6, 2010, but failed to appear at the sentencing. A federal arrest warrant for failure to appear was then issued for each of them.</p>",
+          "weight_max": 140,
+          "legat_names": null,
+          "race": "asian",
+          "modified": "2018-11-15T15:37:58+00:00",
+          "publication": "2010-10-29T16:10:00",
+          "weight": "120 to 140 pounds",
+          "status": "na",
+          "possible_states": [
+              "US-HI"
+          ],
+          "scars_and_marks": "None known",
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/wcc/julieanne-baldueza-dimitrion/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/wcc/julieanne-baldueza-dimitrion/@@images/image",
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/wcc/julieanne-baldueza-dimitrion/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/wcc/julieanne-baldueza-dimitrion/dimitrionjulie2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/wcc/julieanne-baldueza-dimitrion/dimitrionjulie2.jpg",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/wcc/julieanne-baldueza-dimitrion/dimitrionjulie2.jpg/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/wcc/julieanne-baldueza-dimitrion/dimitrionjulie1.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/wcc/julieanne-baldueza-dimitrion/dimitrionjulie1.jpg",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/wcc/julieanne-baldueza-dimitrion/dimitrionjulie1.jpg/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/wcc/julieanne-baldueza-dimitrion/dimitrionduo1.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/wcc/julieanne-baldueza-dimitrion/dimitrionduo1.jpg",
+                  "caption": "Julieanne and John Dimitrion",
+                  "large": "https://www.fbi.gov/wanted/wcc/julieanne-baldueza-dimitrion/dimitrionduo1.jpg/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/wcc/julieanne-baldueza-dimitrion/dimitrionduo2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/wcc/julieanne-baldueza-dimitrion/dimitrionduo2.jpg",
+                  "caption": "Julieanne Dimitrion and her husband, John",
+                  "large": "https://www.fbi.gov/wanted/wcc/julieanne-baldueza-dimitrion/dimitrionduo2.jpg/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/wcc/julieanne-baldueza-dimitrion/dimitrionduo3.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/wcc/julieanne-baldueza-dimitrion/dimitrionduo3.jpg",
+                  "caption": "Julieanne Dimitrion and her husband, John",
+                  "large": "https://www.fbi.gov/wanted/wcc/julieanne-baldueza-dimitrion/dimitrionduo3.jpg/@@images/image/large"
+              }
+          ],
+          "remarks": "<p>The Dimitrions were last known to be in the Mililani area of Oahu, Hawaii. Julieanne Dimitrion has expensive tastes in clothing, specifically high-end lingerie, designer purses, and shoes.</p>",
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/wcc/julieanne-baldueza-dimitrion/download.pdf"
+              },
+              {
+                  "name": "En Français",
+                  "url": "https://www.fbi.gov/wanted/wcc/julieanne-baldueza-dimitrion/dimitrionjbfrench.pdf/@@download/file/dimitrionjbfrench.pdf"
+              },
+              {
+                  "name": "EN ESPAÑOL",
+                  "url": "https://www.fbi.gov/wanted/wcc/julieanne-baldueza-dimitrion/julieanne-baldueza-dimitrion-en-espanol.pdf/@@download/file/Julieanne Baldueza Dimitrion EN ESPAÑOL.pdf"
+              }
+          ],
+          "field_offices": [
+              "honolulu"
+          ],
+          "coordinates": [],
+          "race_raw": "Asian",
+          "hair_raw": "Black",
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": [
+              "March 22, 1972"
+          ],
+          "details": null,
+          "warning_message": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "black",
+          "title": "JULIEANNE BALDUEZA DIMITRION",
+          "occupations": [
+              "Unknown"
+          ],
+          "@id": "https://api.fbi.gov/@wanted-person/84e3e5ef2a04eb7dfa9c454ed42e7bd7"
+      },
+      {
+          "eyes": "brown",
+          "sex": "Male",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/wcc/john-michael-dimitrion",
+          "ncic": "W720776158",
+          "path": "/wanted/wcc/john-michael-dimitrion",
+          "locations": null,
+          "weight_min": 185,
+          "place_of_birth": "Hawaii",
+          "reward_min": 0,
+          "subjects": [
+              "White-Collar Crime"
+          ],
+          "additional_information": null,
+          "reward_max": 10000,
+          "languages": null,
+          "uid": "35e0f3468009a01e4250fd62d3b433fe",
+          "eyes_raw": "Brown",
+          "height_max": 67,
+          "nationality": "American",
+          "age_range": null,
+          "height_min": 67,
+          "aliases": [
+              "John M. Dimitrion",
+              "John Dela Cruz"
+          ],
+          "reward_text": "The FBI is offering a reward of up to $10,000 for information leading to the arrest of John and Julieanne Dimitrion.",
+          "possible_countries": [
+              "USA"
+          ],
+          "description": "Failure to Appear (Mortgage Fraud)",
+          "caution": "<p>John Dimitrion and his wife, <a href=\"https://www.fbi.gov/wanted/wcc/julieanne-baldueza-dimitrion/view\" data-linktype=\"external\" data-urltype=\"/view\" data-val=\"https://www.fbi.gov/wanted/wcc/julieanne-baldueza-dimitrion/view\">Julieanne</a>, were indicted in February of 2009 for mortgage fraud. In April of 2009, they pled guilty to operating a fraud scheme in which they used their companies to convince distressed homeowners to relinquish their homes with the premise of improving the victims' financial position. They promised to invest the proceeds of the home sales, but instead the Dimitrions used the victims' money to fund their own lavish lifestyles. As a result, multiple families in Oahu, Hawaii, lost their homes. The Dimitrions were scheduled to be sentenced in the United States District Court in Honolulu, Hawaii, on July 6, 2010, but failed to appear at the sentencing. A federal arrest warrant for failure to appear was then issued for each of them.</p>",
+          "weight_max": 200,
+          "legat_names": null,
+          "race": null,
+          "modified": "2018-11-15T15:32:49+00:00",
+          "publication": "2010-10-29T16:10:00",
+          "weight": "185 to 200 pounds",
+          "status": "na",
+          "possible_states": [
+              "US-HI"
+          ],
+          "scars_and_marks": "None known",
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/wcc/john-michael-dimitrion/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/wcc/john-michael-dimitrion/@@images/image",
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/wcc/john-michael-dimitrion/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/wcc/john-michael-dimitrion/dimitrionjohn1.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/wcc/john-michael-dimitrion/dimitrionjohn1.jpg",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/wcc/john-michael-dimitrion/dimitrionjohn1.jpg/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/wcc/john-michael-dimitrion/dimitrionjohn2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/wcc/john-michael-dimitrion/dimitrionjohn2.jpg",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/wcc/john-michael-dimitrion/dimitrionjohn2.jpg/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/wcc/john-michael-dimitrion/dimitrionduo1.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/wcc/john-michael-dimitrion/dimitrionduo1.jpg",
+                  "caption": "John and Julieanne Dimitrion",
+                  "large": "https://www.fbi.gov/wanted/wcc/john-michael-dimitrion/dimitrionduo1.jpg/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/wcc/john-michael-dimitrion/dimitrionduo2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/wcc/john-michael-dimitrion/dimitrionduo2.jpg",
+                  "caption": "John and Julieanne Dimitrion",
+                  "large": "https://www.fbi.gov/wanted/wcc/john-michael-dimitrion/dimitrionduo2.jpg/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/wcc/john-michael-dimitrion/dimitrionduo3.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/wcc/john-michael-dimitrion/dimitrionduo3.jpg",
+                  "caption": "John and Julieanne Dimitrion",
+                  "large": "https://www.fbi.gov/wanted/wcc/john-michael-dimitrion/dimitrionduo3.jpg/@@images/image/large"
+              }
+          ],
+          "remarks": "<p>The Dimitrions were last known to be in the Mililani area of Oahu, Hawaii. John Dimitrion has expensive tastes in sports cars, clothing and jewelry. He is an enthusiast for high-end personal electronics and has a large collection of Airsoft replica firearms.</p>",
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/wcc/john-michael-dimitrion/download.pdf"
+              },
+              {
+                  "name": "En Français",
+                  "url": "https://www.fbi.gov/wanted/wcc/john-michael-dimitrion/dimitrionjmfrench.pdf/@@download/file/dimitrionjmfrench.pdf"
+              },
+              {
+                  "name": "EN ESPAÑOL",
+                  "url": "https://www.fbi.gov/wanted/wcc/john-michael-dimitrion/john-michael-dimitrion-en-espanol.pdf/@@download/file/John Michael Dimitrion EN ESPAÑOL.pdf"
+              }
+          ],
+          "field_offices": [
+              "honolulu"
+          ],
+          "coordinates": [],
+          "race_raw": null,
+          "hair_raw": "Black",
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": [
+              "April 12, 1976"
+          ],
+          "details": null,
+          "warning_message": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "black",
+          "title": "JOHN MICHAEL DIMITRION",
+          "occupations": [
+              "Unknown"
+          ],
+          "@id": "https://api.fbi.gov/@wanted-person/35e0f3468009a01e4250fd62d3b433fe"
+      },
+      {
+          "eyes": "brown",
+          "sex": "Male",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/wcc/daniel-guzman",
+          "ncic": "W295847500",
+          "path": "/wanted/wcc/daniel-guzman",
+          "locations": null,
+          "weight_min": 160,
+          "place_of_birth": "Dominican Republic",
+          "reward_min": 0,
+          "subjects": [
+              "White-Collar Crime"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "fb1f85e0f75bcbf9e937692adb9146c2",
+          "eyes_raw": "Brown",
+          "height_max": 65,
+          "nationality": "Dominican",
+          "age_range": null,
+          "height_min": 65,
+          "aliases": null,
+          "reward_text": null,
+          "possible_countries": [
+              "DOM"
+          ],
+          "description": "Failure to Appear (Health Care Fraud)",
+          "caution": "<p>Daniel Guzman is wanted for his alleged involvement in a health care fraud scheme that cost Medicaid millions of dollars. Guzman allegedly conspired with others in a scheme to defraud Medicaid by fraudulently obtaining reimbursements from the Medicaid program for prescription drugs that were not dispensed. Guzman worked in a pharmacy in the Washington Heights area of the Borough of Manhattan in New York City wherein he received prescriptions from Medicaid beneficiaries and then submitted phony reimbursement claims to the Medicaid program requesting reimbursement for the full value of the prescription drugs.</p>\r\n<p> </p>\r\n<p>On August 13, 2008, Guzman was arrested pursuant to a federal arrest warrant issued by the Southern District of New York and released on bond. Subsequently, Guzman failed to appear for a court date and a federal arrest warrant was issued by the Southern District of New York on January 16, 2009. Guzman was charged with failure to appear.</p>",
+          "weight_max": 160,
+          "legat_names": null,
+          "race": "hispanic",
+          "modified": "2018-11-15T15:28:09+00:00",
+          "publication": "2010-10-05T19:25:00",
+          "weight": "160 pounds",
+          "status": "na",
+          "possible_states": [
+              "US-NY"
+          ],
+          "scars_and_marks": "None known",
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/wcc/daniel-guzman/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/wcc/daniel-guzman/@@images/image",
+                  "caption": "Photograph taken in 2010",
+                  "large": "https://www.fbi.gov/wanted/wcc/daniel-guzman/@@images/image/large"
+              }
+          ],
+          "remarks": "<p>Guzman is known to speak Spanish.</p>",
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/wcc/daniel-guzman/download.pdf"
+              },
+              {
+                  "name": "EN ESPAÑOL",
+                  "url": "https://www.fbi.gov/wanted/wcc/daniel-guzman/daniel-guzman-en-espanol.pdf/@@download/file/Daniel Guzmán EN ESPAÑOL.pdf"
+              }
+          ],
+          "field_offices": [
+              "newyork"
+          ],
+          "coordinates": [],
+          "race_raw": "White (Hispanic)",
+          "hair_raw": "Black",
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": [
+              "July 21, 1959"
+          ],
+          "details": null,
+          "warning_message": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "black",
+          "title": "DANIEL GUZMAN",
+          "occupations": [
+              "Pharmacy Worker"
+          ],
+          "@id": "https://api.fbi.gov/@wanted-person/fb1f85e0f75bcbf9e937692adb9146c2"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Human Trafficking"
+          ],
+          "languages": null,
+          "path": "/wanted/human-trafficking/alfonso-angel-diaz-juarez",
+          "weight_min": 160,
+          "details": null,
+          "status": "na",
+          "possible_states": null,
+          "eyes": "brown",
+          "hair": "black",
+          "legat_names": null,
+          "eyes_raw": "Brown",
+          "field_offices": [
+              "houston"
+          ],
+          "weight": "Approximately 160 pounds",
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": "<p>Diaz-Juarez has ties to Mexico, Texas, and Florida.</p>",
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/human-trafficking/alfonso-angel-diaz-juarez",
+          "nationality": "Mexican",
+          "uid": "f37863b9-39c5-4c00-97f2-32196f07364e",
+          "warning_message": null,
+          "scars_and_marks": "Diaz-Juarez has a scar from an operation to remove his appendix.",
+          "race": "hispanic",
+          "hair_raw": "Black",
+          "modified": "2018-11-15T15:23:32+00:00",
+          "title": "ALFONSO ANGEL DIAZ-JUAREZ",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/human-trafficking/alfonso-angel-diaz-juarez/@@images/image/large",
+                  "caption": "Photograph taken in October 2012",
+                  "original": "https://www.fbi.gov/wanted/human-trafficking/alfonso-angel-diaz-juarez/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/human-trafficking/alfonso-angel-diaz-juarez/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": "The FBI is offering a reward of up to $50,000 for information leading to the arrest of Alfonso Angel Diaz-Juarez.",
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": "<p>The FBI is seeking the public’s assistance in locating Alfonso Angel Diaz-Juarez, who is being sought for alleged offenses relating to human trafficking, namely conspiracy to commit sex trafficking and conspiracy to harbor illegal aliens. In October 2013, Diaz-Juarez, a Mexican national, was indicted with 13 other co-conspirators for running an international sex-trafficking organization. Diaz-Juarez, reportedly one of the most violent individuals in the organization, is the only remaining fugitive in the case.</p>\r\n<p> </p>\r\n<p>As reported to the FBI, it is alleged that the following criminal activities occurred. The criminal acts in the conspiracy involve acts committed by Diaz-Juarez and others against undocumented Mexican women and children. The sex-trafficking conspiracy operated from 1999 through October 2013 and relied on “padrotes,” or pimps, to supply women and girls for the brothels, bars, and cantinas owned and operated by co-conspirators. Diaz-Juarez is one of these pimps. During the investigation, it was revealed that some women and girls were compelled into performing commercial sex acts through the use of force, fraud, coercion, or a combination thereof, including the use of locked rooms to maintain control over the young women and girls. Diaz-Juarez used force and/or violence to punish and control young females he prostituted in the Houston area.</p>\r\n<p> </p>\r\n<p>On October 10, 2013, a federal arrest warrant was issued by the United States District Court, Southern District of Texas, Houston Division, after Diaz-Juarez was charged with sex-trafficking conspiracy and conspiracy to harbor illegal aliens.</p>",
+          "reward_max": 0,
+          "ncic": "W838594827",
+          "aliases": [
+              "Alfonso Angel Diaz",
+              "Alfonso Angel-Diaz",
+              "Poncho Diaz",
+              "\"Poncho\"",
+              "Javier Perez-Garcia",
+              "\"El Greñas\""
+          ],
+          "height_max": 62,
+          "dates_of_birth_used": [
+              "August 2, 1968"
+          ],
+          "height_min": 62,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/human-trafficking/alfonso-angel-diaz-juarez/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/human-trafficking/alfonso-angel-diaz-juarez/alfonso-angel-diaz-juarez-en-espanol.pdf/@@download/file/Alfonso Angel Díaz Juárez EN ESPAÑOL.pdf",
+                  "name": "EN ESPAÑOL"
+              }
+          ],
+          "occupations": [
+              "Demolition",
+              "Asbestos removal"
+          ],
+          "publication": "2014-05-06T07:00:00",
+          "description": "Sex-Trafficking Conspiracy; Conspiracy to Harbor Illegal Aliens",
+          "race_raw": "White (Hispanic)",
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": "State of Puebla, Mexico",
+          "reward_min": 0,
+          "weight_max": 160,
+          "sex": "Male",
+          "@id": "https://api.fbi.gov/@wanted-person/f37863b9-39c5-4c00-97f2-32196f07364e"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Cyber's Most Wanted"
+          ],
+          "languages": [
+              "English",
+              "Hindi",
+              "Portuguese"
+          ],
+          "path": "/wanted/cyber/shaileshkumar-p.-jain",
+          "weight_min": 175,
+          "details": null,
+          "status": "na",
+          "possible_states": null,
+          "eyes": "brown",
+          "hair": "black",
+          "legat_names": null,
+          "eyes_raw": "Brown",
+          "field_offices": [
+              "chicago"
+          ],
+          "weight": "175 to 180 pounds",
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": "<p>Jain is a United States citizen who has ties to Brazil, Canada, India and the Ukraine.</p>",
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/cyber/shaileshkumar-p.-jain",
+          "nationality": "Indian",
+          "uid": "238526d57b9dd0e1837599576ee0e0c6",
+          "warning_message": null,
+          "scars_and_marks": null,
+          "race": "white",
+          "hair_raw": "Black",
+          "modified": "2018-11-15T15:12:14+00:00",
+          "title": "SHAILESHKUMAR P. JAIN",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/cyber/shaileshkumar-p.-jain/@@images/image/large",
+                  "caption": "Photograph taken in 2008",
+                  "original": "https://www.fbi.gov/wanted/cyber/shaileshkumar-p.-jain/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/cyber/shaileshkumar-p.-jain/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/cyber/shaileshkumar-p.-jain/jain-sideview.png/@@images/image/large",
+                  "caption": "Photograph taken in 2008",
+                  "original": "https://www.fbi.gov/wanted/cyber/shaileshkumar-p.-jain/jain-sideview.png",
+                  "thumb": "https://www.fbi.gov/wanted/cyber/shaileshkumar-p.-jain/jain-sideview.png/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": "The FBI is offering a reward of up to $20,000 for information leading to the arrest and conviction of Shaileshkumar P. Jain.",
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": "<p>Shaileshkumar P. Jain, along with his co-conspirator, <a data-val=\"https://www.fbi.gov/wanted/cyber/bjorn-daniel-sundin/view\" href=\"https://www.fbi.gov/wanted/cyber/bjorn-daniel-sundin/view\" data-urltype=\"/view\" data-linktype=\"external\">Bjorn Daniel Sundin</a>, is wanted for his alleged involvement in an international cybercrime scheme that caused internet users in more than 60 countries to purchase more than one million bogus software products, resulting in consumer loss of more than $100 million. It is alleged that from December 2006 to October 2008, through fake advertisements placed on legitimate companies’ websites, Jain and his accomplices deceived internet users into believing that their computers were infected with “malware” or had other critical errors in order to encourage them to purchase “scareware” software products that had limited or no ability to remedy the purported defects.</p>\r\n<p> </p>\r\n<p>Jain and his co-conspirators allegedly deceived victims, through browser hijacking, multiple fraudulent scans and false error messages, into purchasing full paid versions of software products offered by their company, Innovative Marketing, Inc. The proceeds of these credit card sales were allegedly deposited into bank accounts controlled by the defendant and others around the world, and were then transferred to bank accounts located in Europe. When customers complained that their purchases were actually fraudulent software, call center representatives were allegedly instructed to lie or provide refunds in order to prevent fraud reports to law enforcement or credit companies.</p>\r\n<p> </p>\r\n<p>On May 26, 2010, Jain was indicted in Chicago, Illinois, by a federal grand jury for the United States District Court, Northern District of Illinois. He was indicted for wire fraud, conspiracy to commit computer fraud and computer fraud. That same day, a federal warrant was issued for Jain’s arrest.</p>",
+          "reward_max": 0,
+          "ncic": "W510528111",
+          "aliases": [
+              "Sam Jain"
+          ],
+          "height_max": 68,
+          "dates_of_birth_used": [
+              "February 10, 1970"
+          ],
+          "height_min": 68,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/cyber/shaileshkumar-p.-jain/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/cyber/shaileshkumar-p.-jain/jain-portuguese-9-20-13.pdf/@@download/file/Jain Portuguese 9-20-13.pdf",
+                  "name": "EM PORTUGUÊS"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/cyber/shaileshkumar-p.-jain/shaileshkumar-p-jain-en-espanol.pdf/@@download/file/Shaileshkumar P. Jain EN ESPAÑOL.pdf",
+                  "name": "EN ESPAÑOL"
+              }
+          ],
+          "occupations": [
+              "Internet Entrepreneur"
+          ],
+          "publication": "2011-11-17T12:00:00",
+          "description": "Wire Fraud; Conspiracy to Commit Computer Fraud; Computer Fraud",
+          "race_raw": "White (Indian)",
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": "India",
+          "reward_min": 0,
+          "weight_max": 180,
+          "sex": "Male",
+          "@id": "https://api.fbi.gov/@wanted-person/238526d57b9dd0e1837599576ee0e0c6"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Criminal Enterprise Investigations"
+          ],
+          "languages": null,
+          "path": "/wanted/cei/rene-arzate-garcia",
+          "weight_min": 220,
+          "details": "<p>The FBI is seeking the public's assistance in locating Rene Arzate-Garcia, who is being sought on drug charges. Reports allege the following information. Arzate-Garcia, who is better known as \"La Rana,\" is a high-ranking member of the Sinaloa Cartel in charge of the drug trade in Northern Baja California. \"La Rana\" allegedly conspired with other persons to import a large amount of marijuana into the United States. \"La Rana\" is also suspected of coordinating and enforcing violent operations on behalf of the cartel, to include multiple murders and kidnappings. \"La Rana,\" along with 117 other individuals were indicted for their roles in the operations of the Sinaloa Cartel.</p>\r\n<p> </p>\r\n<p>On July 25, 2014, a federal arrest warrant was issued by the United States District Court for the Southern District of California after Arzate-Garcia was charged federally with conspiracy to import marijuana.</p>",
+          "status": "na",
+          "possible_states": null,
+          "eyes": "brown",
+          "hair": "black",
+          "legat_names": null,
+          "eyes_raw": "Brown",
+          "field_offices": [
+              "sandiego"
+          ],
+          "weight": "Approximately 220 pounds",
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": "<p>\"La Rana\" is believed to be in Mexico.</p>",
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/cei/rene-arzate-garcia",
+          "nationality": "Mexican",
+          "uid": "7d9abed8-bdff-4339-a249-cee26656c9c3",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "scars_and_marks": null,
+          "race": "hispanic",
+          "hair_raw": "Black",
+          "modified": "2018-11-15T14:52:04+00:00",
+          "title": "RENE ARZATE-GARCIA",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/cei/rene-arzate-garcia/@@images/image/large",
+                  "caption": null,
+                  "original": "https://www.fbi.gov/wanted/cei/rene-arzate-garcia/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/cei/rene-arzate-garcia/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/cei/rene-arzate-garcia/rene-azarte-garcia-2.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/cei/rene-arzate-garcia/rene-azarte-garcia-2.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/cei/rene-arzate-garcia/rene-azarte-garcia-2.jpg/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": "The FBI is offering a reward of up to $20,000 for information leading to the arrest of Rene Arzate-Garcia.",
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": null,
+          "reward_max": 0,
+          "ncic": "W523056628",
+          "aliases": [
+              "\"La Rana\"",
+              "\"General\"",
+              "\"Apa\"",
+              "Rene Garcia Arzate"
+          ],
+          "height_max": 72,
+          "dates_of_birth_used": [
+              "June 11, 1983"
+          ],
+          "height_min": 72,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/cei/rene-arzate-garcia/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/cei/rene-arzate-garcia/rene-arzate-garcia-en-espanol.pdf/@@download/file/René Arzate García EN ESPAÑOL.pdf",
+                  "name": "EN ESPAÑOL"
+              }
+          ],
+          "occupations": null,
+          "publication": "2015-03-09T07:00:00",
+          "description": "Conspiracy to Import Marijuana",
+          "race_raw": "White (Hispanic)",
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": "Mexico",
+          "reward_min": 0,
+          "weight_max": 220,
+          "sex": "Male",
+          "@id": "https://api.fbi.gov/@wanted-person/7d9abed8-bdff-4339-a249-cee26656c9c3"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Criminal Enterprise Investigations"
+          ],
+          "languages": null,
+          "path": "/wanted/cei/melvin-perez-cardenas",
+          "weight_min": 175,
+          "details": null,
+          "status": "na",
+          "possible_states": null,
+          "eyes": "brown",
+          "hair": "black",
+          "legat_names": null,
+          "eyes_raw": "Brown",
+          "field_offices": [
+              "losangeles"
+          ],
+          "weight": "175 pounds",
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": "<p>Cardenas may be residing in Guadalajara, Jalisco, Mexico or Culiacan, Sinaloa, Mexico.  He also has ties to the Los Angeles, California, area.</p>",
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/cei/melvin-perez-cardenas",
+          "nationality": "American",
+          "uid": "1a79ec941e4c4e87b55a12f08c473403",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "scars_and_marks": "Cardenas has tattoos on his left ankle, right arm, right side of his chest, and right shoulder.",
+          "race": "hispanic",
+          "hair_raw": "Black",
+          "modified": "2018-11-15T14:49:41+00:00",
+          "title": "MELVIN PEREZ CARDENAS",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/cei/melvin-perez-cardenas/@@images/image/large",
+                  "caption": null,
+                  "original": "https://www.fbi.gov/wanted/cei/melvin-perez-cardenas/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/cei/melvin-perez-cardenas/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/cei/melvin-perez-cardenas/cardenasmp2.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/cei/melvin-perez-cardenas/cardenasmp2.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/cei/melvin-perez-cardenas/cardenasmp2.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/cei/melvin-perez-cardenas/cardenasmp3.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/cei/melvin-perez-cardenas/cardenasmp3.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/cei/melvin-perez-cardenas/cardenasmp3.jpg/@@images/image/thumb"
+              }
+          ],
+          "complexion": "Medium",
+          "reward_text": "The FBI is offering a reward of up to $50,000 U.S. Dollars for information leading directly to the location, arrest, and conviction of Melvin Perez Cardenas.",
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": "<p>Melvin Perez Cardenas is wanted for his alleged involvement in narcotics trafficking, hostage taking, and money laundering as part of the Sinaloa Drug Trafficking Organization.  On October 15, 2015, Cardenas was indicted in the United States District Court, Central District of California, Los Angeles, California, and an arrest warrant was issued for his arrest based on the following charges: Racketeer Influenced and Corrupt Organizations (RICO) Conspiracy; Violent Crime in Aid of Racketeering; Conspiracy to Distribute Controlled Substances; Conspiracy to Import Controlled Substances: Hostage Taking Conspiracy and Hostage Taking; Conspiracy to Launder Money; Carry and Use of a Firearm in Furtherance of a Crime of Violence or Drug Trafficking Crime; and Criminal Forfeiture.</p>",
+          "reward_max": 0,
+          "ncic": "W756241980",
+          "aliases": [
+              "Carlos Mondragon Cardenas",
+              "Carlos Perez Cardenas",
+              "Melven Cardenas",
+              "Melvin P. Cardenas",
+              "Oswaldo Cardenas",
+              "Rolando Cevillas",
+              "Alejandro Lujan Contreras",
+              "Rolando Contreras",
+              "Rolando Cevillas Contreras",
+              "Osbaldo Iguera",
+              "Osbaldo Cardenas Iguera",
+              "Melvin Perez-Cardenas",
+              "Melbe Perez",
+              "Melve Perez",
+              "Melve C. Perez",
+              "Melvin Perez",
+              "“Shorty”",
+              "\"Chory”",
+              "“Charlie”",
+              "“El Senor”"
+          ],
+          "height_max": 69,
+          "dates_of_birth_used": [
+              "January 31, 1977",
+              "January 31, 1976"
+          ],
+          "height_min": 69,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/cei/melvin-perez-cardenas/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/cei/melvin-perez-cardenas/melvin-perez-cardenas-en-espanol.pdf/@@download/file/Melvin Pérez Cárdenas EN ESPAÑOL.pdf",
+                  "name": "EN ESPAÑOL"
+              }
+          ],
+          "occupations": null,
+          "publication": "2017-02-15T08:29:00",
+          "description": "Racketeer Influenced and Corrupt Organizations (RICO) Conspiracy; Violent Crime in Aid of Racketeering; Conspiracy to Distribute Controlled Substances; Conspiracy to Import Controlled Substances; Hostage Taking Conspiracy and Hostage Taking; Conspiracy to Launder Money; Carry and Use of a Firearm in Furtherance of a Crime of Violence or Drug Trafficking Crime; Criminal Forfeiture",
+          "race_raw": "White (Hispanic)",
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": "Los Angeles, California",
+          "reward_min": 0,
+          "weight_max": 175,
+          "sex": "Male",
+          "@id": "https://api.fbi.gov/@wanted-person/1a79ec941e4c4e87b55a12f08c473403"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Criminal Enterprise Investigations"
+          ],
+          "languages": null,
+          "path": "/wanted/cei/fausto-isidro-meza-flores",
+          "weight_min": 160,
+          "details": null,
+          "status": "na",
+          "possible_states": null,
+          "eyes": "brown",
+          "hair": "brown",
+          "legat_names": null,
+          "eyes_raw": "Brown",
+          "field_offices": [
+              "washingtondc"
+          ],
+          "weight": "160 pounds",
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": "<p>Meza-Flores is believed to be living in Mexico.  He was previously a high-ranking leader of the Beltran-Leyva Transnational Criminal Organization and was considered to be the “right hand man” of Alfredo Beltran-Leyva prior to Beltran-Leyva’s arrest in 2008.</p>",
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/cei/fausto-isidro-meza-flores",
+          "nationality": "Mexican",
+          "uid": "ee7d22039ed540c589e0d7c17f24c396",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS AND AN INTERNATIONAL FLIGHT RISK",
+          "scars_and_marks": null,
+          "race": "hispanic",
+          "hair_raw": "Dark Brown",
+          "modified": "2018-11-15T14:48:47+00:00",
+          "title": "FAUSTO ISIDRO MEZA-FLORES",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/cei/fausto-isidro-meza-flores/@@images/image/large",
+                  "caption": null,
+                  "original": "https://www.fbi.gov/wanted/cei/fausto-isidro-meza-flores/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/cei/fausto-isidro-meza-flores/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": "The United States Department of State's Narcotics Rewards Program is offering a reward of up to $5 million for information leading directly to the arrest and/or conviction of Fausto Isidro Meza-Flores.",
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": "<p>Fausto Isidro Meza-Flores is the alleged leader of the Meza-Flores Transnational Criminal Organization (TCO), a major drug trafficking organization based in Sinaloa, Mexico.  The Meza-Flores TCO is allegedly responsible for the possession, distribution, and importation of large quantities of heroin, methamphetamine, cocaine and marijuana into the United States, and has predominately controlled drug distribution in parts of Sinaloa, southern Sonora, and Nayarit, Mexico.</p>\r\n<p> </p>\r\n<p>On May 2, 2012, a federal indictment was issued for Meza-Flores in the United States District Court for the District of Columbia after he was charged with Conspiracy to Distribute Five Kilograms or More of Cocaine, Fifty Grams or More of Methamphetamine, One Kilogram or More of Heroin, and One Thousand Kilograms or More of Marijuana for Importation into the United States; and Use of a Firearm.</p>\r\n<p> </p>",
+          "reward_max": 0,
+          "ncic": "W135060088",
+          "aliases": [
+              "\"El Chapo Isidro\"",
+              "\"Chapo Isidro\"",
+              "\"Chapito Isidro\""
+          ],
+          "height_max": 66,
+          "dates_of_birth_used": [
+              "June 19, 1982"
+          ],
+          "height_min": 66,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/cei/fausto-isidro-meza-flores/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/cei/fausto-isidro-meza-flores/fausto-isidro-meza-flores-en-espanol.pdf/@@download/file/Fausto Isidro Meza Flores EN ESPAÑOL.pdf",
+                  "name": "EN ESPAÑOL"
+              }
+          ],
+          "occupations": null,
+          "publication": "2017-09-27T08:29:00",
+          "description": "Conspiracy to Distribute Five Kilograms or More of Cocaine, Fifty Grams or More of Methamphetamine, One Kilogram or More of Heroin, and One Thousand Kilograms or More of Marijuana for Importation into the United States; Use of a Firearm",
+          "race_raw": "White (Hispanic)",
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": "Mexico",
+          "reward_min": 0,
+          "weight_max": 160,
+          "sex": "Male",
+          "@id": "https://api.fbi.gov/@wanted-person/ee7d22039ed540c589e0d7c17f24c396"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Criminal Enterprise Investigations"
+          ],
+          "languages": null,
+          "path": "/wanted/cei/alberto-hinojosa",
+          "weight_min": 180,
+          "details": null,
+          "status": "na",
+          "possible_states": null,
+          "eyes": "brown",
+          "hair": "black",
+          "legat_names": null,
+          "eyes_raw": "Brown",
+          "field_offices": [
+              "losangeles",
+              "portland",
+              "sacramento"
+          ],
+          "weight": "180 pounds",
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": "<p>Hinojosa's last known address is in Medford, Oregon, although he is known to have family connections in Stockton, California.  He is also believed to have ties to Bakersfield, California. </p>",
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/cei/alberto-hinojosa",
+          "nationality": "American",
+          "uid": "5f4a62bd01c84bbf8854489be94c8f6f",
+          "warning_message": null,
+          "scars_and_marks": "Hinojosa has scars on his right calf and right finger.",
+          "race": "hispanic",
+          "hair_raw": "Black",
+          "modified": "2018-11-15T14:47:54+00:00",
+          "title": "ALBERTO HINOJOSA",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/cei/alberto-hinojosa/@@images/image/large",
+                  "caption": null,
+                  "original": "https://www.fbi.gov/wanted/cei/alberto-hinojosa/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/cei/alberto-hinojosa/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/cei/alberto-hinojosa/hinojosa2.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/cei/alberto-hinojosa/hinojosa2.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/cei/alberto-hinojosa/hinojosa2.jpg/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": null,
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": "<p>Alberto Hinojosa pled guilty to possession with intent to distribute 50 or more grams of methamphetamine and heroin before a federal judge in the United States District Court located in Medford, Oregon, on April 11, 2016.  The judge set sentencing for April 12, 2017.  On or about January 19, 2017, Hinojosa failed to return from a planned trip to Las Vegas, Nevada.  On May 4, 2017, a federal grand jury in the United States District Court, District of Oregon, indicted Hinojosa for failure to appear for sentencing, and a warrant was issued for his arrest.</p>\r\n<p> </p>\r\n<p> </p>",
+          "reward_max": 0,
+          "ncic": "W540019720",
+          "aliases": null,
+          "height_max": 71,
+          "dates_of_birth_used": [
+              "April 13, 1987"
+          ],
+          "height_min": 71,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/cei/alberto-hinojosa/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/cei/alberto-hinojosa/alberto-hinojosa-en-espanol.pdf/@@download/file/Alberto Hinojosa EN ESPAÑOL.pdf",
+                  "name": "EN ESPAÑOL"
+              }
+          ],
+          "occupations": null,
+          "publication": "2018-03-06T09:30:00",
+          "description": "Failure to Appear for Sentencing (Possession of Methamphetamine and Heroin with Intent to Distribute)",
+          "race_raw": "White (Hispanic)",
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": "California",
+          "reward_min": 0,
+          "weight_max": 180,
+          "sex": "Male",
+          "@id": "https://api.fbi.gov/@wanted-person/5f4a62bd01c84bbf8854489be94c8f6f"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Criminal Enterprise Investigations"
+          ],
+          "languages": null,
+          "path": "/wanted/cei/victor-manuel-tolentino",
+          "weight_min": 180,
+          "details": null,
+          "status": "na",
+          "possible_states": null,
+          "eyes": "brown",
+          "hair": "black",
+          "legat_names": null,
+          "eyes_raw": "Brown",
+          "field_offices": [
+              "newyork"
+          ],
+          "weight": "180 pounds",
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": "<p>Tolentino has ties to Queens, New York, and the Boston and Lawrence, Massachusetts, areas. He is an avid weightlifter who is known to frequent gyms. Tolentino speaks both English and Spanish.</p>",
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/cei/victor-manuel-tolentino",
+          "nationality": "Dominican",
+          "uid": "38378dde-b74f-4863-a091-be06254a09ba",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "scars_and_marks": "Tolentino has multiple tattoos including a design and the words \"El Prince\" on his upper right arm, and a cross and thorns on his upper left bicep.",
+          "race": "hispanic",
+          "hair_raw": "Black",
+          "modified": "2018-11-15T14:46:48+00:00",
+          "title": "VICTOR MANUEL TOLENTINO",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/cei/victor-manuel-tolentino/@@images/image/large",
+                  "caption": "Photograph taken in December of 2012",
+                  "original": "https://www.fbi.gov/wanted/cei/victor-manuel-tolentino/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/cei/victor-manuel-tolentino/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/cei/victor-manuel-tolentino/tolentino1.jpg/@@images/image/large",
+                  "caption": "Photograph taken in March of 2012",
+                  "original": "https://www.fbi.gov/wanted/cei/victor-manuel-tolentino/tolentino1.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/cei/victor-manuel-tolentino/tolentino1.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/cei/victor-manuel-tolentino/tolentino5.jpg/@@images/image/large",
+                  "caption": "Photograph taken in December of 2012",
+                  "original": "https://www.fbi.gov/wanted/cei/victor-manuel-tolentino/tolentino5.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/cei/victor-manuel-tolentino/tolentino5.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/cei/victor-manuel-tolentino/tolentino6.jpg/@@images/image/large",
+                  "caption": "Photograph taken in December of 2012",
+                  "original": "https://www.fbi.gov/wanted/cei/victor-manuel-tolentino/tolentino6.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/cei/victor-manuel-tolentino/tolentino6.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/cei/victor-manuel-tolentino/tolentino3.jpg/@@images/image/large",
+                  "caption": "Photograph taken in December of 2012",
+                  "original": "https://www.fbi.gov/wanted/cei/victor-manuel-tolentino/tolentino3.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/cei/victor-manuel-tolentino/tolentino3.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/cei/victor-manuel-tolentino/tolentino4.jpg/@@images/image/large",
+                  "caption": "Photograph taken in December of 2012",
+                  "original": "https://www.fbi.gov/wanted/cei/victor-manuel-tolentino/tolentino4.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/cei/victor-manuel-tolentino/tolentino4.jpg/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": "The FBI is offering a reward of up to $2,500 for information leading to the arrest of Victor Manuel Tolentino.",
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": "<p>Victor Manuel Tolentino was an alleged member of a drug trafficking organization that was responsible for shipping heroin, cocaine, and marijuana to New York City from Las Vegas, Nevada, and San Diego, California. He was indicted for narcotics conspiracy on July 3, 2012, and was scheduled to stand trial in federal court in Manhattan, New York City, on September 30, 2013. Tolentino fled prior to the start of the trial, and failed to appear in court. A federal arrest warrant for bail jumping was then issued for Tolentino on September 30, 2013, by the United States District Court, Southern District of New York.</p>",
+          "reward_max": 0,
+          "ncic": "W838468210",
+          "aliases": [
+              "Victor M. Tolentino",
+              "Victor Tolentino"
+          ],
+          "height_max": 68,
+          "dates_of_birth_used": [
+              "September 3, 1980"
+          ],
+          "height_min": 68,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/cei/victor-manuel-tolentino/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/cei/victor-manuel-tolentino/victor-manuel-tolentino-en-espanol.pdf/@@download/file/Víctor Manuel Tolentino EN ESPAÑOL.pdf",
+                  "name": "EN ESPAÑOL"
+              }
+          ],
+          "occupations": [
+              "Tolentino has worked as an auto mechanic."
+          ],
+          "publication": "2016-03-01T07:00:00",
+          "description": "Bail Jumping; Narcotics Conspiracy",
+          "race_raw": "White (Hispanic)",
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": "Santiago, Dominican Republic",
+          "reward_min": 0,
+          "weight_max": 180,
+          "sex": "Male",
+          "@id": "https://api.fbi.gov/@wanted-person/38378dde-b74f-4863-a091-be06254a09ba"
+      },
+      {
+          "dates_of_birth_used": [
+              "December 7, 1959"
+          ],
+          "images": [
+              {
+                  "caption": "Photograph taken in 1998",
+                  "large": "https://www.fbi.gov/wanted/cac/jerold-c.-dunning/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/cac/jerold-c.-dunning/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cac/jerold-c.-dunning/@@images/image"
+              },
+              {
+                  "caption": "Photograph taken in 1998",
+                  "large": "https://www.fbi.gov/wanted/cac/jerold-c.-dunning/dunning_jc2.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/cac/jerold-c.-dunning/dunning_jc2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cac/jerold-c.-dunning/dunning_jc2.jpg"
+              },
+              {
+                  "caption": "Photograph taken in 1998",
+                  "large": "https://www.fbi.gov/wanted/cac/jerold-c.-dunning/dunning_jc3.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/cac/jerold-c.-dunning/dunning_jc3.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cac/jerold-c.-dunning/dunning_jc3.jpg"
+              },
+              {
+                  "caption": "Photograph taken in 1995",
+                  "large": "https://www.fbi.gov/wanted/cac/jerold-c.-dunning/dunning_jc4.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/cac/jerold-c.-dunning/dunning_jc4.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cac/jerold-c.-dunning/dunning_jc4.jpg"
+              }
+          ],
+          "details": null,
+          "warning_message": null,
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "white",
+          "occupations": [
+              "Ship/Boat Builder"
+          ],
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "legat_names": null,
+          "modified": "2018-11-09T21:45:45+00:00",
+          "status": "na",
+          "publication": "2010-08-27T21:55:00",
+          "weight": "170 pounds",
+          "caution": "<p>Jerold C. Dunning is wanted for his alleged involvement in lewd activities with a child under the age of 16, in St. Petersburg, Florida from 1996 to 1998. Dunning was arrested on October 14, 1998, and subsequently released on bond. His trial was scheduled for June 29, 1999, but he failed to appear in court.</p>\r\n<p> </p>\r\n<p>Dunning was charged with lewd and lascivious behavior upon a child, and a state warrant was issued for his arrest by the Circuit Court, Pinnellas County, Florida, on June 29, 1999. A federal arrest warrant was subsequently issued for Dunning by the United States District Court, Middle District of Florida, after he was charged federally with unlawful flight to avoid prosecution.</p>",
+          "possible_states": [
+              "US-FL",
+              "US-MI",
+              "US-TN"
+          ],
+          "scars_and_marks": "Dunning has a scar above his left eye.",
+          "race_raw": "White",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/cac/jerold-c.-dunning/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/cac/jerold-c.-dunning/jerold-c-dunning-em-portugues.pdf/@@download/file/Jerold C. Dunning EM PORTUGUÊS.pdf",
+                  "name": "EM PORTUGUÊS"
+              }
+          ],
+          "field_offices": [
+              "tampa"
+          ],
+          "nationality": "American",
+          "weight_min": 170,
+          "age_range": null,
+          "uid": "4bbf5d2e5f760a9d24e6ba8d97a04450",
+          "eyes_raw": "Brown",
+          "height_max": 67,
+          "height_min": 67,
+          "aliases": [
+              "Jerold Chester Dunning",
+              "Chester Dunning",
+              "Jerry Dunning",
+              "C. J. Dunning",
+              "J. R. Dunning",
+              "Junior Dunning",
+              "Jerold Chester Dunning, Jr."
+          ],
+          "reward_text": null,
+          "description": "Unlawful Flight To Avoid Prosecution - Lewd And Lascivious Behavior On A Child; Failure To Appear",
+          "title": "JEROLD C. DUNNING",
+          "possible_countries": [
+              "USA"
+          ],
+          "hair_raw": "Brown",
+          "remarks": "<p>Dunning is known to have experience working with fiberglass used for building boats. Dunning enjoys outdoor activities such as, four wheeling, camping, fishing, and skiing (water/snow). He owns several guns for recreational purposes. He reportedly has never been violent. Dunning has ties to Florida and Tennessee. Dunning may have fled from the United States to Brazil.</p>",
+          "weight_max": 170,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/cac/jerold-c.-dunning",
+          "ncic": "W057145730",
+          "eyes": "brown",
+          "sex": "Male",
+          "coordinates": [],
+          "path": "/wanted/cac/jerold-c.-dunning",
+          "place_of_birth": "Michigan, USA",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Crimes Against Children"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/4bbf5d2e5f760a9d24e6ba8d97a04450"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Additional Violent Crimes"
+          ],
+          "languages": null,
+          "path": "/wanted/additional/luis-rosado",
+          "weight_min": 160,
+          "details": null,
+          "status": "na",
+          "possible_states": [
+              "US-IL",
+              "US-NY",
+              "US-PR"
+          ],
+          "eyes": "brown",
+          "hair": "brown",
+          "legat_names": null,
+          "eyes_raw": "Brown/Green",
+          "field_offices": [
+              "chicago"
+          ],
+          "weight": "160 to 185 pounds",
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": "<p>Rosado has ties to New York City, New York, and Puerto Rico. He may travel to Havana, Cuba. He is allegedly an active member of the Fuerzas Armadas de Liberacion National de Puerto Rico (FALN), a clandestine terrorist organization.</p>",
+          "possible_countries": [
+              "CUB",
+              "PRI",
+              "USA"
+          ],
+          "url": "https://www.fbi.gov/wanted/additional/luis-rosado",
+          "nationality": "American",
+          "uid": "395615ae25332862382e61355a2a3c07",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND EXTREMELY DANGEROUS AND A HIGH-RISK ARREST",
+          "scars_and_marks": "Rosado has pockmarks on his cheek, a prominent nose, and a scar on the right side of his scalp.",
+          "race": "hispanic",
+          "hair_raw": "Brown (with Red)",
+          "modified": "2018-11-09T20:57:01+00:00",
+          "title": "LUIS ROSADO",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/additional/luis-rosado/@@images/image/large",
+                  "caption": "Photograph taken in 1980",
+                  "original": "https://www.fbi.gov/wanted/additional/luis-rosado/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/additional/luis-rosado/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/additional/luis-rosado/rosado_l2.jpg/@@images/image/large",
+                  "caption": "Photograph age enhanced in 2005",
+                  "original": "https://www.fbi.gov/wanted/additional/luis-rosado/rosado_l2.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/additional/luis-rosado/rosado_l2.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/additional/luis-rosado/rosado_l3.jpg/@@images/image/large",
+                  "caption": "Photograph age enhanced in 2005",
+                  "original": "https://www.fbi.gov/wanted/additional/luis-rosado/rosado_l3.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/additional/luis-rosado/rosado_l3.jpg/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": "The FBI is offering a reward of up to $50,000 for information leading to the arrest of Luis Rosado.",
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": "<p>Luis Rosado, along with an accomplice, allegedly entered a car dealership in Highland Park, Illinois, on December 10, 1980, and robbed the salesman at gunpoint. Rosado and his accomplice then allegedly bound the salesman and drove away with a stolen van from the dealership. Following a high-speed police chase, both were arrested and charged with armed robbery, kidnapping, theft, and aggravated battery. They were released on bond, however, Rosado failed to appear for his March of 1981 trial.</p>\r\n<p> </p>\r\n<p>A state warrant was issued on March 6, 1981, for Rosado's arrest by the Circuit Court of the 19th Judicial Circuit, Lake County, Illinois. Rosado was charged federally with unlawful flight to avoid prosecution by the United States District Court, Northern District of Illinois, Eastern Division, and a federal warrant was issued for his arrest on March 6, 1981. Rosado's accomplice was tried in March of 1981, and was subsequently convicted and sentenced.</p>",
+          "reward_max": 99999,
+          "ncic": "W065206308",
+          "aliases": [
+              "Luis Rosado-Ayala",
+              "Felipe Guzman"
+          ],
+          "height_max": 72,
+          "dates_of_birth_used": [
+              "August 24, 1950",
+              "September 24, 1950",
+              "January 1, 1949"
+          ],
+          "height_min": 68,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/additional/luis-rosado/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/additional/luis-rosado/luis-rosado-en-espanol.pdf/@@download/file/Luis Rosado EN ESPAÑOL.pdf",
+                  "name": "EN ESPAÑOL"
+              }
+          ],
+          "occupations": [
+              "Cab Driver",
+              "Car Salesman",
+              "Spanish Affairs Consultant",
+              "Lab Assistant",
+              "Porter",
+              "Social Worker"
+          ],
+          "publication": "2010-08-31T15:55:00",
+          "description": "Unlawful Flight to Avoid Prosecution - Armed Robbery; Kidnapping, Theft, Aggravated Battery, Failure to Appear",
+          "race_raw": "White (Hispanic)",
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": "New York City, New York",
+          "reward_min": 10000,
+          "weight_max": 185,
+          "sex": "Male",
+          "@id": "https://api.fbi.gov/@wanted-person/395615ae25332862382e61355a2a3c07"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Additional Violent Crimes"
+          ],
+          "languages": null,
+          "path": "/wanted/additional/glen-stewart-godwin",
+          "weight_min": 170,
+          "details": null,
+          "status": "na",
+          "possible_states": [
+              "US-CA"
+          ],
+          "eyes": "green",
+          "hair": "black",
+          "legat_names": null,
+          "eyes_raw": "Green",
+          "field_offices": [
+              "sacramento"
+          ],
+          "weight": "170 to 200 pounds",
+          "age_min": null,
+          "build": "Medium",
+          "person_classification": "Main",
+          "remarks": "<p>Godwin is fluent in Spanish and may be traveling throughout Central and South America, and Mexico. He is thought to use illegal drugs and be involved in narcotics distribution.</p>",
+          "possible_countries": [
+              "MEX"
+          ],
+          "url": "https://www.fbi.gov/wanted/additional/glen-stewart-godwin",
+          "nationality": "American",
+          "uid": "7225b9559266485b92ee7a9e2e0d2cd9",
+          "warning_message": "CONSIDERED ARMED AND EXTREMELY DANGEROUS AND AN ESCAPE RISK",
+          "scars_and_marks": null,
+          "race": "white",
+          "hair_raw": "Black/Salt and Pepper",
+          "modified": "2018-11-09T20:55:00+00:00",
+          "title": "GLEN STEWART GODWIN",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/additional/glen-stewart-godwin/@@images/image/large",
+                  "caption": "Photograph taken in 1991",
+                  "original": "https://www.fbi.gov/wanted/additional/glen-stewart-godwin/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/additional/glen-stewart-godwin/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/additional/glen-stewart-godwin/godwinage2.jpg/@@images/image/large",
+                  "caption": "Age Enhanced Drawing 2009",
+                  "original": "https://www.fbi.gov/wanted/additional/glen-stewart-godwin/godwinage2.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/additional/glen-stewart-godwin/godwinage2.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/additional/glen-stewart-godwin/godwinage1.jpg/@@images/image/large",
+                  "caption": "Age Enhanced Drawing 2009",
+                  "original": "https://www.fbi.gov/wanted/additional/glen-stewart-godwin/godwinage1.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/additional/glen-stewart-godwin/godwinage1.jpg/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": "The FBI is offering a reward of up to $20,000 for information leading directly to the arrest of Glen Stewart Godwin.",
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": "<p>Glen Stewart Godwin is being sought for his 1987 escape from Folsom State Prison in California, where he was serving a lengthy sentence for murder. Later in 1987, Godwin was arrested for drug trafficking in Puerto Vallarta, Mexico. After being convicted, he was sent to a prison in Guadalajara. In April of 1991, Godwin allegedly murdered a fellow inmate and then escaped five months later.</p>",
+          "reward_max": 0,
+          "ncic": "W526492669",
+          "aliases": [
+              "Michael Carrera",
+              "Miguel Carrera",
+              "Miguel Carerra",
+              "Michael Carmen",
+              "Michael Stuwart Carrera",
+              "Mike Carrera",
+              "Stewart Michael Carrera",
+              "Glen Godwin",
+              "Glen S. Godwin",
+              "Nigel Lopez",
+              "Dennis H. McWilliams",
+              "Dennis Harold McWilliams"
+          ],
+          "height_max": 72,
+          "dates_of_birth_used": [
+              "June 26, 1958",
+              "July 6, 1946",
+              "October 4, 1950"
+          ],
+          "height_min": 72,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/additional/glen-stewart-godwin/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/additional/glen-stewart-godwin/glen-stewart-godwin-en-espanol.pdf/@@download/file/Glen Stewart Godwin EN ESPAÑOL.pdf",
+                  "name": "EN ESPAÑOL"
+              }
+          ],
+          "occupations": [
+              "Self-employed in tool supplies",
+              "Mechanic",
+              "Construction worker"
+          ],
+          "publication": "2016-07-15T16:33:00",
+          "description": "Unlawful Flight to Avoid Confinement - Murder, Escape",
+          "race_raw": "White",
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": "Miami, Florida",
+          "reward_min": 0,
+          "weight_max": 200,
+          "sex": "Male",
+          "@id": "https://api.fbi.gov/@wanted-person/7225b9559266485b92ee7a9e2e0d2cd9"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Additional Violent Crimes"
+          ],
+          "languages": null,
+          "path": "/wanted/additional/mauro-ociel-valenzuela-reyes",
+          "weight_min": 170,
+          "details": null,
+          "status": "na",
+          "possible_states": null,
+          "eyes": "brown",
+          "hair": "black",
+          "legat_names": null,
+          "eyes_raw": "Brown",
+          "field_offices": [
+              "miami"
+          ],
+          "weight": "170 pounds",
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": "<p>Valenzuela-Reyes may be living under a false identity.</p>\r\n<p> </p>\r\n<p>He may be in Chile and may travel to Peru, Argentina, Brazil, and Bolivia, and other South American countries. He has ties to Georgia in the United States of America.</p>",
+          "possible_countries": null,
+          "url": "https://www.fbi.gov/wanted/additional/mauro-ociel-valenzuela-reyes",
+          "nationality": null,
+          "uid": "49c18e556a424e7a8d5fa12b59a04405",
+          "warning_message": null,
+          "scars_and_marks": null,
+          "race": "hispanic",
+          "hair_raw": "Black",
+          "modified": "2018-11-09T20:51:39+00:00",
+          "title": "MAURO OCIEL VALENZUELA-REYES",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/additional/mauro-ociel-valenzuela-reyes/@@images/image/large",
+                  "caption": "Photograph taken in 1996",
+                  "original": "https://www.fbi.gov/wanted/additional/mauro-ociel-valenzuela-reyes/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/additional/mauro-ociel-valenzuela-reyes/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/additional/mauro-ociel-valenzuela-reyes/valenzuela-2.jpg/@@images/image/large",
+                  "caption": "Photograph age-progressed to age 48",
+                  "original": "https://www.fbi.gov/wanted/additional/mauro-ociel-valenzuela-reyes/valenzuela-2.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/additional/mauro-ociel-valenzuela-reyes/valenzuela-2.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/additional/mauro-ociel-valenzuela-reyes/valenzuela-3.jpg/@@images/image/large",
+                  "caption": "Photograph age-progressed to age 48",
+                  "original": "https://www.fbi.gov/wanted/additional/mauro-ociel-valenzuela-reyes/valenzuela-3.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/additional/mauro-ociel-valenzuela-reyes/valenzuela-3.jpg/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": "The FBI is offering a reward of up to $10,000 for information leading to the location and capture of Mauro Ociel Valenzuela-Reyes.",
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": "<p>Mauro Ociel Valenzuela-Reyes is wanted for his alleged involvement in the crash of ValuJet Airlines Flight 592 in 1996.</p>\r\n<p> </p>\r\n<p>On May 11, 1996, Flight 592 crashed in the Florida Everglades, killing all 110 people on board. Investigation led to the indictment of an aircraft repair facility in Florida, and three of its employees, in connection with improperly packaged chemical oxygen generators that were loaded on Flight 592 and signed off by company employees despite lacking safety caps. Valenzuela-Reyes is the final employee wanted in connection with this incident.</p>\r\n<p> </p>\r\n<p>On April 6, 2000, a federal arrest warrant was issued for Valenzuela-Reyes in the United States District Court, Southern District of Florida, after he was charged with disobedience and resistance to lawful order and command of the United States District Court for the Southern District of Florida, and failure to appear for trial. Valenzuela-Reyes was previously charged on July 13, 1999, with conspiracy to make false statements to the Federal Aviation Administration and the Department of Transportation; false statements to the Federal Aviation Administration and the Department of Transportation; and causing the transportation of hazardous material.</p>",
+          "reward_max": 0,
+          "ncic": "W860126244",
+          "aliases": [
+              "Mauro Valenzuela-Reyes",
+              "Mauro Valenzuela",
+              "Mauro O. Valenzuela",
+              "Mauro Ociel Valenzuela",
+              "Reyes Mauro Valenzuela",
+              "Mauro Valenzvela-Reyes",
+              "Mauro Reyes"
+          ],
+          "height_max": 72,
+          "dates_of_birth_used": [
+              "April 18, 1969"
+          ],
+          "height_min": 70,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/additional/mauro-ociel-valenzuela-reyes/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/additional/mauro-ociel-valenzuela-reyes/vr-portuguese.pdf/@@download/file/VR portuguese.pdf",
+                  "name": "EM PORTUGUÊS"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/additional/mauro-ociel-valenzuela-reyes/vr-german.pdf/@@download/file/VR German.pdf",
+                  "name": "AUF DEUTSCH"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/additional/mauro-ociel-valenzuela-reyes/mauro-ociel-valenzuela-reyes-en-espanol.pdf/@@download/file/Mauro Ociel Valenzuela Reyes EN ESPAÑOL.pdf",
+                  "name": "EN ESPAÑOL"
+              }
+          ],
+          "occupations": [
+              "Airframe and power plant (A&P) mechanic; former Federal Aviation Administration certified aircraft mechanic"
+          ],
+          "publication": "2017-06-09T14:33:00",
+          "description": "Disobedience and Resistance to Lawful Order and Command of the United States District Court for the Southern District of Florida; Failure to Appear for Trial; Conspiracy to Make False Statements to the Federal Aviation Administration and the Department of Transportation; False statements to the Federal Aviation Administration and the Department of Transportation; Causing the Transport of Hazardous Materials",
+          "race_raw": "White (Hispanic)",
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": "La Calera, Chile",
+          "reward_min": 0,
+          "weight_max": 170,
+          "sex": "Male",
+          "@id": "https://api.fbi.gov/@wanted-person/49c18e556a424e7a8d5fa12b59a04405"
+      },
+      {
+          "age_range": null,
+          "subjects": [
+              "Additional Violent Crimes"
+          ],
+          "languages": null,
+          "path": "/wanted/additional/julio-cesar-guevara-mejia",
+          "weight_min": 160,
+          "details": null,
+          "status": "na",
+          "possible_states": [
+              "US-CA",
+              "US-TX"
+          ],
+          "eyes": "brown",
+          "hair": "black",
+          "legat_names": null,
+          "eyes_raw": "Brown",
+          "field_offices": [
+              "sacramento"
+          ],
+          "weight": "160 pounds",
+          "age_min": null,
+          "build": null,
+          "person_classification": "Main",
+          "remarks": "<p>Guevara-Mejia may have ties to the Palm Springs, California, and Houston, Texas, areas. He may travel to Mexico or Honduras.</p>",
+          "possible_countries": [
+              "HND",
+              "MEX",
+              "USA"
+          ],
+          "url": "https://www.fbi.gov/wanted/additional/julio-cesar-guevara-mejia",
+          "nationality": "Honduran",
+          "uid": "5f13bfc195ffd512daf5db21bcf70755",
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "scars_and_marks": "None known",
+          "race": "hispanic",
+          "hair_raw": "Black",
+          "modified": "2018-11-09T20:24:27+00:00",
+          "title": "JULIO CESAR GUEVARA-MEJIA",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/additional/julio-cesar-guevara-mejia/@@images/image/large",
+                  "caption": null,
+                  "original": "https://www.fbi.gov/wanted/additional/julio-cesar-guevara-mejia/@@images/image",
+                  "thumb": "https://www.fbi.gov/wanted/additional/julio-cesar-guevara-mejia/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/additional/julio-cesar-guevara-mejia/mejia_jc2.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/additional/julio-cesar-guevara-mejia/mejia_jc2.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/additional/julio-cesar-guevara-mejia/mejia_jc2.jpg/@@images/image/thumb"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/additional/julio-cesar-guevara-mejia/mejia_jc3.jpg/@@images/image/large",
+                  "caption": "",
+                  "original": "https://www.fbi.gov/wanted/additional/julio-cesar-guevara-mejia/mejia_jc3.jpg",
+                  "thumb": "https://www.fbi.gov/wanted/additional/julio-cesar-guevara-mejia/mejia_jc3.jpg/@@images/image/thumb"
+              }
+          ],
+          "complexion": null,
+          "reward_text": "The FBI is offering a reward of up to $15,000 for information leading directly to the capture of Julio Cesar Guevara-Mejia.",
+          "locations": null,
+          "suspects": null,
+          "additional_information": null,
+          "caution": "<p>Julio Cesar Guevara-Mejia is wanted for allegedly luring a female victim with whom he had a prior relationship from Sacramento, California, to a hotel in Davis, California, where he had rented a room. When the 19-year-old victim arrived at the hotel on November 10, 2007, Guevara-Mejia allegedly attempted to force her into the room. A bystander heard the victim scream for help and attempted to intervene on her behalf. At that time, Guevara-Mejia allegedly pulled out a handgun and fired a shot at the bystander, who was not injured. Guevara-Mejia then succeeded in forcing the victim into the hotel room where he allegedly forced her onto the bed and shot her in her right foot and then the left foot. He then allegedly aimed the weapon at her chest and fired at least three more rounds into her torso. The victim survived her injuries.</p>\r\n<p> </p>\r\n<p>On November 13, 2007, a local arrest warrant was issued for Guevara-Mejia by the Superior Court of California, Davis, California, charging him with attempted murder, false imprisonment, assault with a deadly weapon, and possession of deadly weapon. On January 22, 2008, a federal arrest warrant was issued in the United States District Court, Eastern District of California, Sacramento, California, and Guevara-Mejia was charged with unlawful flight to avoid prosecution.</p>",
+          "reward_max": 0,
+          "ncic": "W643737474",
+          "aliases": [
+              "Juan Carlos Mejia",
+              "Julio Cesar Guevara",
+              "Julio Guevara",
+              "Julio C. Guevara"
+          ],
+          "height_max": 66,
+          "dates_of_birth_used": [
+              "December 7, 1971"
+          ],
+          "height_min": 66,
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/additional/julio-cesar-guevara-mejia/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/additional/julio-cesar-guevara-mejia/julio-cesar-guevara-mejia-en-espanol.pdf/@@download/file/Julio César Guevara Mejía EN ESPAÑOL.pdf",
+                  "name": "EN ESPAÑOL"
+              }
+          ],
+          "occupations": [
+              "Construction and Iron Work"
+          ],
+          "publication": "2010-08-31T22:10:00",
+          "description": "Unlawful Flight to Avoid Prosecution - Attempted Murder, False Imprisonment, Assault With a Deadly Weapon, Possession of a Deadly Weapon",
+          "race_raw": "White (Hispanic)",
+          "age_max": null,
+          "coordinates": [],
+          "place_of_birth": "Atlantida, Honduras",
+          "reward_min": 0,
+          "weight_max": 160,
+          "sex": "Male",
+          "@id": "https://api.fbi.gov/@wanted-person/5f13bfc195ffd512daf5db21bcf70755"
+      },
+      {
+          "eyes": "brown",
+          "sex": "Male",
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/additional/rafael-hernandez-maldonado",
+          "ncic": "W105033983",
+          "path": "/wanted/additional/rafael-hernandez-maldonado",
+          "locations": null,
+          "weight_min": 180,
+          "place_of_birth": null,
+          "reward_min": 0,
+          "subjects": [
+              "Additional Violent Crimes"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "languages": null,
+          "uid": "3ac94134a4b343cebf0bfe6b2e4a30a7",
+          "eyes_raw": "Brown",
+          "height_max": 69,
+          "nationality": null,
+          "age_range": null,
+          "height_min": 69,
+          "aliases": [
+              "Bebo"
+          ],
+          "reward_text": "The FBI is offering a reward for up to $20,000.00 for information leading to the arrest of Rafael Hernandez-Maldonado.",
+          "possible_countries": null,
+          "description": "Interference with Commerce by Robbery; Using and Carrying a Firearm During and in Relation to a Crime of Violence",
+          "caution": "<p>Rafael Hernandez-Maldonado is wanted for his alleged involvement in the shooting of a man in San Juan, Puerto Rico. In 2015, Hernandez-Maldonado and another individual allegedly shot the victim in his chest and face numerous times. The other individual involved in the shooting was arrested at the hospital and Hernandez-Maldonado fled. On November 20, 2015, an arrest warrant was issued by the United States District Court for the District of Puerto Rico for Interference with Commerce by Robbery and Using a Firearm During and in Relation to a Crime of Violence.</p>",
+          "weight_max": 180,
+          "legat_names": null,
+          "race": "hispanic",
+          "modified": "2018-11-09T20:21:38+00:00",
+          "publication": "2018-04-30T08:48:00",
+          "weight": "180 pounds",
+          "status": "na",
+          "possible_states": null,
+          "scars_and_marks": "Hernandez-Maldonado may have a scar on his left cheek.",
+          "images": [
+              {
+                  "thumb": "https://www.fbi.gov/wanted/additional/rafael-hernandez-maldonado/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/additional/rafael-hernandez-maldonado/@@images/image",
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/additional/rafael-hernandez-maldonado/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/additional/rafael-hernandez-maldonado/maldonado-pic-4.png/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/additional/rafael-hernandez-maldonado/maldonado-pic-4.png",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/additional/rafael-hernandez-maldonado/maldonado-pic-4.png/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/additional/rafael-hernandez-maldonado/maldonado-pic-5.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/additional/rafael-hernandez-maldonado/maldonado-pic-5.jpg",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/additional/rafael-hernandez-maldonado/maldonado-pic-5.jpg/@@images/image/large"
+              },
+              {
+                  "thumb": "https://www.fbi.gov/wanted/additional/rafael-hernandez-maldonado/hernandez-maldonado-pic-2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/additional/rafael-hernandez-maldonado/hernandez-maldonado-pic-2.jpg",
+                  "caption": "",
+                  "large": "https://www.fbi.gov/wanted/additional/rafael-hernandez-maldonado/hernandez-maldonado-pic-2.jpg/@@images/image/large"
+              }
+          ],
+          "remarks": "<p>Hernandez-Maldonado has been hiding with the family of his girlfriend, who has relatives in the municipality of Yauco and in the states of Wisconsin and Florida.</p>",
+          "files": [
+              {
+                  "name": "English",
+                  "url": "https://www.fbi.gov/wanted/additional/rafael-hernandez-maldonado/download.pdf"
+              },
+              {
+                  "name": "EN ESPAÑOL",
+                  "url": "https://www.fbi.gov/wanted/additional/rafael-hernandez-maldonado/rafael-hernandez-maldonado-en-espanol.pdf/@@download/file/Rafael Hernández Maldonado EN ESPAÑOL.pdf"
+              }
+          ],
+          "field_offices": [
+              "sanjuan"
+          ],
+          "coordinates": [],
+          "race_raw": "White (Hispanic)",
+          "hair_raw": "Brown",
+          "complexion": null,
+          "build": null,
+          "person_classification": "Main",
+          "dates_of_birth_used": [
+              "June 29, 1984"
+          ],
+          "details": null,
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "title": "RAFAEL HERNANDEZ-MALDONADO",
+          "occupations": null,
+          "@id": "https://api.fbi.gov/@wanted-person/3ac94134a4b343cebf0bfe6b2e4a30a7"
+      },
+      {
+          "dates_of_birth_used": [
+              "August 5, 1976"
+          ],
+          "images": [
+              {
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/cac/luis-tejada/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/cac/luis-tejada/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cac/luis-tejada/@@images/image"
+              }
+          ],
+          "details": null,
+          "warning_message": null,
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "hispanic",
+          "occupations": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "legat_names": null,
+          "modified": "2018-11-09T19:21:39+00:00",
+          "status": "na",
+          "publication": "2011-04-13T15:30:00",
+          "weight": "230 pounds",
+          "caution": "<p>Luis Tejada was indicted on October 29, 2010, by the United States District Court, District of Maryland, Greenbelt, Maryland, for distribution of child pornography and a federal warrant was issued for his arrest. It is alleged that Tejada distributed child pornography images and video via the Internet.</p>",
+          "possible_states": null,
+          "scars_and_marks": null,
+          "race_raw": "White (Hispanic)",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/cac/luis-tejada/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/cac/luis-tejada/luis-tejada-en-espanol.pdf/@@download/file/Luis Tejada EN ESPAÑOL.pdf",
+                  "name": "EN ESPAÑOL"
+              }
+          ],
+          "field_offices": null,
+          "nationality": "Salvadoran",
+          "weight_min": 230,
+          "age_range": null,
+          "uid": "9144a7fd75429985a71f444341c07dc5",
+          "eyes_raw": "Brown",
+          "height_max": 72,
+          "height_min": 72,
+          "aliases": [
+              "Luis F. Tejada",
+              "Luis Fernando Tejada",
+              "Luis Tejada Fonseca"
+          ],
+          "reward_text": null,
+          "description": "Distribution of Child Pornography",
+          "title": "LUIS TEJADA",
+          "possible_countries": null,
+          "hair_raw": "Dark Brown",
+          "remarks": "<p>Tejada speaks fluent Spanish. He has ties to New York, Maryland, and El Salvador. Tejada is a citizen of the United States and has a U.S. Passport.</p>",
+          "weight_max": 230,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/cac/luis-tejada",
+          "ncic": "W061518924",
+          "eyes": "brown",
+          "sex": "Male",
+          "coordinates": [],
+          "path": "/wanted/cac/luis-tejada",
+          "place_of_birth": "Santa Ana, El Salvador",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Crimes Against Children"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/9144a7fd75429985a71f444341c07dc5"
+      },
+      {
+          "dates_of_birth_used": [
+              "February 9, 1958"
+          ],
+          "images": [
+              {
+                  "caption": null,
+                  "large": "https://www.fbi.gov/wanted/cac/anthony-kendall-dewater/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/cac/anthony-kendall-dewater/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cac/anthony-kendall-dewater/@@images/image"
+              }
+          ],
+          "details": null,
+          "warning_message": null,
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "white",
+          "occupations": [
+              "Teacher's Aide at an Elementary School"
+          ],
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "legat_names": null,
+          "modified": "2018-11-09T19:20:47+00:00",
+          "status": "na",
+          "publication": "2010-08-27T16:10:00",
+          "weight": "195 pounds",
+          "caution": "<p>On February 21, 1992, Anthony Kendall Dewater, a teacher's aide at an elementary school in Salem, Oregon, was charged with nine counts of sexual abuse in the first degree for allegedly fondling multiple students over a six-month period. He was found guilty of seven of those counts in the Marion County Circuit Court for the State of Oregon on July 31, 1992. On November 2, 1992, the Marion County Circuit Court for the State of Oregon issued an arrest warrant for Dewater for failure to appear in the first degree. A complaint was authorized and a federal arrest warrant was issued by the United States District Court, District of Oregon, Portland, Oregon, charging Dewater with unlawful flight to avoid prosecution on July 22, 1993.</p>",
+          "possible_states": [
+              "US-CA",
+              "US-OR",
+              "US-WA"
+          ],
+          "scars_and_marks": "None known",
+          "race_raw": "White",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/cac/anthony-kendall-dewater/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/cac/anthony-kendall-dewater/anthony-kendall-dewater-en-espanol.pdf/@@download/file/Anthony Kendall Dewater EN ESPAÑOL.pdf",
+                  "name": "EN ESPAÑOL"
+              }
+          ],
+          "field_offices": [
+              "portland"
+          ],
+          "nationality": "American",
+          "weight_min": 195,
+          "age_range": null,
+          "uid": "74fe2c2049d8bd9c89a705119f828cf3",
+          "eyes_raw": "Blue",
+          "height_max": 71,
+          "height_min": 71,
+          "aliases": [
+              "Tony Dewater",
+              "Anthony Girod",
+              "Anthony K. Dewater"
+          ],
+          "reward_text": null,
+          "description": "Unlawful Flight to Avoid Prosecution - Failure to Appear (Sexual Abuse in the First Degree)",
+          "title": "ANTHONY KENDALL DEWATER",
+          "possible_countries": [
+              "CAN",
+              "PER",
+              "ESP",
+              "GBR",
+              "USA"
+          ],
+          "hair_raw": "Brown/Gray",
+          "remarks": "<p>Dewater speaks fluent Spanish. He may have traveled to Seattle, Washington; California; British Columbia, Canada; Spain; the United Kingdom; or Peru.</p>",
+          "weight_max": 195,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/cac/anthony-kendall-dewater",
+          "ncic": "W757735200",
+          "eyes": "blue",
+          "sex": "Male",
+          "coordinates": [],
+          "path": "/wanted/cac/anthony-kendall-dewater",
+          "place_of_birth": "California",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Crimes Against Children"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/74fe2c2049d8bd9c89a705119f828cf3"
+      }
+  ],
+  "page": 31
+}

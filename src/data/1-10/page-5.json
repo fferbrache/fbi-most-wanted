@@ -1,0 +1,1677 @@
+{
+  "total": 1003,
+  "items": [
+      {
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/seeking-info/amy-lynn-hanson/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/seeking-info/amy-lynn-hanson/hanson-navajo-8-20-2020.pdf/@@download/file/Hanson Navajo 8-20-2020.pdf",
+                  "name": "DINÉ BIZAAD K’EHGO"
+              }
+          ],
+          "age_range": null,
+          "uid": "a40ac83593aa4f7aa8a2b51c5a3554a8",
+          "weight": null,
+          "occupations": null,
+          "field_offices": [
+              "albuquerque"
+          ],
+          "locations": null,
+          "reward_text": "The FBI is offering a reward of up to $1,000 for information leading to the arrest and conviction of the individual(s) responsible for the death of Amy Lynn Hanson.",
+          "hair": null,
+          "ncic": null,
+          "dates_of_birth_used": [
+              "March 12, 1989"
+          ],
+          "caution": null,
+          "nationality": null,
+          "age_min": null,
+          "age_max": null,
+          "scars_and_marks": null,
+          "subjects": [
+              "Seeking Information",
+              "Indian Country",
+              "Navajo"
+          ],
+          "aliases": null,
+          "race_raw": "Native American",
+          "suspects": null,
+          "publication": "2019-06-07T08:43:00",
+          "title": "AMY LYNN HANSON",
+          "coordinates": [],
+          "hair_raw": null,
+          "languages": null,
+          "complexion": null,
+          "build": null,
+          "details": "<p>The Federal Bureau of Investigation's Albuquerque Field Office is asking for the public's assistance in identifying the person(s) responsible for the homicide of Amy Lynn Hanson.</p>\r\n<p> </p>\r\n<p>Hanson was last seen alive two days before her body was found in an arroyo at State Route 602 and Blue Medicine Well Road in Red Rock, New Mexico, on November 30, 2014. The cause of death was blunt force trauma. Hanson was 25 years old at the time of her death.</p>",
+          "status": "na",
+          "legat_names": null,
+          "eyes": null,
+          "person_classification": "Main",
+          "description": "Homicide Victim\r\nRed Rock, New Mexico\r\nNovember 28 to 30, 2014",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/amy-lynn-hanson/@@images/image/large",
+                  "caption": "Photograph taken in 2014",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/amy-lynn-hanson/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/amy-lynn-hanson/@@images/image"
+              }
+          ],
+          "possible_countries": null,
+          "weight_min": null,
+          "additional_information": null,
+          "remarks": "<p>Hanson lived in Tohatchi, New Mexico.</p>",
+          "path": "/wanted/seeking-info/amy-lynn-hanson",
+          "sex": "Female",
+          "eyes_raw": null,
+          "weight_max": null,
+          "reward_min": 0,
+          "url": "https://www.fbi.gov/wanted/seeking-info/amy-lynn-hanson",
+          "possible_states": null,
+          "modified": "2021-04-16T13:01:38+00:00",
+          "reward_max": 0,
+          "race": "native",
+          "height_max": null,
+          "place_of_birth": null,
+          "height_min": null,
+          "warning_message": null,
+          "@id": "https://api.fbi.gov/@wanted-person/a40ac83593aa4f7aa8a2b51c5a3554a8"
+      },
+      {
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/seeking-info/wilson-joe-chiquito/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/seeking-info/wilson-joe-chiquito/chiquito-navajo-3-17-2020.pdf/@@download/file/Chiquito Navajo 3-17-2020.pdf",
+                  "name": "DINÉ BIZAAD K’EHGO"
+              }
+          ],
+          "age_range": null,
+          "uid": "86b3cf3b61a04c959179883a80975401",
+          "weight": null,
+          "occupations": null,
+          "field_offices": [
+              "albuquerque"
+          ],
+          "locations": null,
+          "reward_text": "The FBI is offering a reward of up to $10,000 for information leading to the arrest and conviction of the individual(s) responsible for the death of Wilson Joe Chiquito.",
+          "hair": null,
+          "ncic": null,
+          "dates_of_birth_used": [
+              "August 13, 1938"
+          ],
+          "caution": null,
+          "nationality": null,
+          "age_min": null,
+          "age_max": null,
+          "scars_and_marks": null,
+          "subjects": [
+              "Seeking Information",
+              "Indian Country",
+              "Navajo"
+          ],
+          "aliases": null,
+          "race_raw": "Native American",
+          "suspects": null,
+          "publication": "2019-02-15T11:51:00",
+          "title": "WILSON JOE CHIQUITO",
+          "coordinates": [],
+          "hair_raw": null,
+          "languages": null,
+          "complexion": null,
+          "build": null,
+          "details": "<p>The Federal Bureau of Investigation's Albuquerque Field Office is asking for the public's assistance in identifying the person(s) responsible for the homicide of Wilson Joe Chiquito.</p>\r\n<p> </p>\r\n<p>Chiquito was killed sometime between the evening hours of February 14, 2014, and noon on February 15, 2014, at his residence on the Navajo Indian reservation in Counselor, New Mexico. The cause of death was blunt force trauma to the head. He was 75 years old at the time of his death.</p>",
+          "status": "na",
+          "legat_names": null,
+          "eyes": null,
+          "person_classification": "Main",
+          "description": "Homicide Victim\r\nCounselor, New Mexico\r\nFebruary 14 to 15, 2014",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/wilson-joe-chiquito/@@images/image/large",
+                  "caption": null,
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/wilson-joe-chiquito/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/wilson-joe-chiquito/@@images/image"
+              }
+          ],
+          "possible_countries": null,
+          "weight_min": null,
+          "additional_information": null,
+          "remarks": null,
+          "path": "/wanted/seeking-info/wilson-joe-chiquito",
+          "sex": "Male",
+          "eyes_raw": null,
+          "weight_max": null,
+          "reward_min": 0,
+          "url": "https://www.fbi.gov/wanted/seeking-info/wilson-joe-chiquito",
+          "possible_states": null,
+          "modified": "2021-04-16T13:01:10+00:00",
+          "reward_max": 0,
+          "race": "native",
+          "height_max": null,
+          "place_of_birth": null,
+          "height_min": null,
+          "warning_message": null,
+          "@id": "https://api.fbi.gov/@wanted-person/86b3cf3b61a04c959179883a80975401"
+      },
+      {
+          "dates_of_birth_used": [
+              "December 25, 1976"
+          ],
+          "images": [
+              {
+                  "caption": "Photograph taken in 1986",
+                  "large": "https://www.fbi.gov/wanted/kidnap/anthonette-christine-cayedito/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/anthonette-christine-cayedito/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/kidnap/anthonette-christine-cayedito/@@images/image"
+              },
+              {
+                  "caption": "Photograph age-progressed to 36 years",
+                  "large": "https://www.fbi.gov/wanted/kidnap/anthonette-christine-cayedito/cayedito-2.jpg/@@images/image/large",
+                  "thumb": "https://www.fbi.gov/wanted/kidnap/anthonette-christine-cayedito/cayedito-2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/kidnap/anthonette-christine-cayedito/cayedito-2.jpg"
+              }
+          ],
+          "details": "<p>Anthonette Cayedito was last seen inside her family’s residence in Gallup, New Mexico, on April 6, 1986.  She was last seen wearing a pink nightgown.</p>",
+          "warning_message": null,
+          "build": null,
+          "person_classification": "Main",
+          "complexion": null,
+          "race": "native",
+          "occupations": null,
+          "suspects": null,
+          "age_min": null,
+          "hair": "brown",
+          "legat_names": null,
+          "modified": "2021-04-16T13:00:35+00:00",
+          "status": "na",
+          "publication": "2014-07-01T07:00:00",
+          "weight": "55 pounds (at the time of her disappearance)",
+          "caution": null,
+          "possible_states": null,
+          "scars_and_marks": "Cayedito has freckles, pierced ears, a scar on her knee, and a scar on her lip. She has moles on her back, right cheek, nose, left and right hands, and her right ankle.",
+          "race_raw": "Biracial (Native American and White)",
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/kidnap/anthonette-christine-cayedito/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/kidnap/anthonette-christine-cayedito/cayedito-navajo-12-8-2020.pdf/@@download/file/Cayedito Navajo 12-8-2020.pdf",
+                  "name": "DINÉ BIZAAD K’EHGO"
+              }
+          ],
+          "field_offices": [
+              "albuquerque"
+          ],
+          "nationality": "American",
+          "weight_min": 55,
+          "age_range": null,
+          "uid": "5342f633-76b9-4b46-bed9-32599702b86d",
+          "eyes_raw": "Brown",
+          "height_max": 55,
+          "height_min": 55,
+          "aliases": null,
+          "reward_text": null,
+          "description": "April 6, 1986\r\nGallup, New Mexico",
+          "title": "ANTHONETTE CHRISTINE CAYEDITO",
+          "possible_countries": null,
+          "hair_raw": "Brown",
+          "remarks": "<p>Cayedito is of Navajo and Italian descent. At the time of her disappearance, she wore glasses. She was known to wear a silver chain with a small turquoise cross pendant.</p>",
+          "weight_max": 55,
+          "age_max": null,
+          "url": "https://www.fbi.gov/wanted/kidnap/anthonette-christine-cayedito",
+          "ncic": null,
+          "eyes": "brown",
+          "sex": "Female",
+          "coordinates": [],
+          "path": "/wanted/kidnap/anthonette-christine-cayedito",
+          "place_of_birth": "New Mexico",
+          "reward_min": 0,
+          "locations": null,
+          "languages": null,
+          "subjects": [
+              "Kidnappings and Missing Persons",
+              "Indian Country",
+              "Navajo"
+          ],
+          "additional_information": null,
+          "reward_max": 0,
+          "@id": "https://api.fbi.gov/@wanted-person/5342f633-76b9-4b46-bed9-32599702b86d"
+      },
+      {
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/seeking-info/tyrell-j-bellson/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/seeking-info/tyrell-j-bellson/bellson-navajo-12-4-2020.pdf/@@download/file/Bellson Navajo 12-4-2020.pdf",
+                  "name": "DINÉ BIZAAD K’EHGO"
+              }
+          ],
+          "age_range": null,
+          "uid": "f33f52dff5124b91bdd7d92345e286f5",
+          "weight": null,
+          "occupations": null,
+          "field_offices": [
+              "albuquerque"
+          ],
+          "locations": null,
+          "reward_text": "The FBI is offering a reward of up to $1,000 for information leading to the arrest and conviction of the individual(s) responsible for the death of Tyrell J. Bellson.",
+          "hair": null,
+          "ncic": null,
+          "dates_of_birth_used": null,
+          "caution": null,
+          "nationality": null,
+          "age_min": null,
+          "age_max": null,
+          "scars_and_marks": null,
+          "subjects": [
+              "Seeking Information",
+              "Indian Country",
+              "Navajo"
+          ],
+          "aliases": null,
+          "race_raw": null,
+          "suspects": null,
+          "publication": "2019-10-04T11:35:00",
+          "title": "TYRELL J. BELLSON",
+          "coordinates": [],
+          "hair_raw": null,
+          "languages": null,
+          "complexion": null,
+          "build": null,
+          "details": "<p>The Federal Bureau of Investigation's Albuquerque Field Office is asking for the public's assistance in identifying the person(s) responsible for the homicide of Tyrell J. Bellson.</p>\r\n<p> </p>\r\n<p>Bellson's body was found near Highway 53 at mile marker 20 in Zuni, New Mexico, on September 24, 2019. He likely had been dead for several days. Bellson was 35 years old at the time of his death.</p>",
+          "status": "na",
+          "legat_names": null,
+          "eyes": null,
+          "person_classification": "Main",
+          "description": "Homicide Victim\r\nZuni, New Mexico\r\nSeptember 16 - 24, 2019",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/tyrell-j-bellson/@@images/image/large",
+                  "caption": "Photograph taken in 2010",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/tyrell-j-bellson/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/tyrell-j-bellson/@@images/image"
+              }
+          ],
+          "possible_countries": null,
+          "weight_min": null,
+          "additional_information": null,
+          "remarks": null,
+          "path": "/wanted/seeking-info/tyrell-j-bellson",
+          "sex": null,
+          "eyes_raw": null,
+          "weight_max": null,
+          "reward_min": 0,
+          "url": "https://www.fbi.gov/wanted/seeking-info/tyrell-j-bellson",
+          "possible_states": null,
+          "modified": "2021-04-16T12:59:44+00:00",
+          "reward_max": 0,
+          "race": null,
+          "height_max": null,
+          "place_of_birth": null,
+          "height_min": null,
+          "warning_message": null,
+          "@id": "https://api.fbi.gov/@wanted-person/f33f52dff5124b91bdd7d92345e286f5"
+      },
+      {
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/cac/angel-gonzalez/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/cac/angel-gonzalez/gonzalezaspanish.pdf/@@download/file/gonzalezaspanish.pdf",
+                  "name": "EN ESPAÑOL"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/cac/angel-gonzalez/gonzalezaportuguese.pdf/@@download/file/gonzalezaportuguese.pdf",
+                  "name": "EM PORTUGUÊS"
+              }
+          ],
+          "age_range": null,
+          "uid": "277208f2a4f34d2fae1f9589a8fac4e5",
+          "weight": "170 pounds",
+          "occupations": null,
+          "field_offices": [
+              "newark"
+          ],
+          "locations": null,
+          "reward_text": "The FBI is offering a reward of up to $5,000 for information leading to the arrest and conviction of Angel Gonzalez.",
+          "hair": "brown",
+          "ncic": "W685787537",
+          "dates_of_birth_used": [
+              "August 25, 1959",
+              "August 15, 1956",
+              "August 25, 1969"
+          ],
+          "caution": "<p>Angel Gonzalez is wanted for allegedly sexually assaulting several young female victims in New Jersey between 1999 and 2006.  For all of these assaults, Gonzalez has been charged multiple times in the Newark Municipal Court, Newark, New Jersey, with First Degree Aggravated Sexual Assault, Second Degree Sexual Assault by Sexual Contact, and Second Degree Endangering the Welfare of a Child.  On February 8, 2010, a federal arrest warrant was issued for Gonzalez in the United States District Court, District of New Jersey, Newark, New Jersey, after he was charged with Unlawful Flight to Avoid Prosecution.</p>\r\n<p> </p>",
+          "nationality": null,
+          "age_min": null,
+          "age_max": null,
+          "scars_and_marks": "Gonzalez has a tattoo on his right shoulder.",
+          "subjects": [
+              "Crimes Against Children"
+          ],
+          "aliases": [
+              "Angel Gonzales",
+              "Angel G. Gonzales",
+              "Angel Gonzalez Ramirez"
+          ],
+          "race_raw": "White (Hispanic)",
+          "suspects": null,
+          "publication": "2021-02-08T07:44:00",
+          "title": "ANGEL GONZALEZ",
+          "coordinates": [],
+          "hair_raw": "Brown",
+          "languages": null,
+          "complexion": null,
+          "build": null,
+          "details": null,
+          "status": "na",
+          "legat_names": null,
+          "eyes": "blue",
+          "person_classification": "Main",
+          "description": "Unlawful Flight to Avoid Prosecution - First Degree Aggravated Sexual Assault, Second Degree Sexual Assault by Sexual Contact, Second Degree Endangering the Welfare of a Child",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/cac/angel-gonzalez/@@images/image/large",
+                  "caption": null,
+                  "thumb": "https://www.fbi.gov/wanted/cac/angel-gonzalez/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cac/angel-gonzalez/@@images/image"
+              }
+          ],
+          "possible_countries": null,
+          "weight_min": 170,
+          "additional_information": null,
+          "remarks": "<p>Gonzalez may require corrective lenses.  He has ties to Essex County, New Jersey; Aguada, Puerto Rico; and Guarulhos, Brazil.</p>",
+          "path": "/wanted/cac/angel-gonzalez",
+          "sex": "Male",
+          "eyes_raw": "Green or Blue",
+          "weight_max": 170,
+          "reward_min": 0,
+          "url": "https://www.fbi.gov/wanted/cac/angel-gonzalez",
+          "possible_states": null,
+          "modified": "2021-04-16T12:46:10+00:00",
+          "reward_max": 0,
+          "race": "hispanic",
+          "height_max": 71,
+          "place_of_birth": "Aguada, Puerto Rico",
+          "height_min": 70,
+          "warning_message": "SHOULD BE CONSIDERED AN INTERNATIONAL FLIGHT RISK",
+          "@id": "https://api.fbi.gov/@wanted-person/277208f2a4f34d2fae1f9589a8fac4e5"
+      },
+      {
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/cyber/mujtaba-raza/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/cyber/mujtaba-raza/razamujtabaurdu.pdf/@@download/file/RazaMujtabaUrdu.pdf",
+                  "name": "اردو میں"
+              }
+          ],
+          "age_range": null,
+          "uid": "7e2490248a2746ccb011d7d11abea5a9",
+          "weight": null,
+          "occupations": null,
+          "field_offices": [
+              "newark"
+          ],
+          "locations": null,
+          "reward_text": null,
+          "hair": "black",
+          "ncic": null,
+          "dates_of_birth_used": [
+              "October 21, 1987"
+          ],
+          "caution": "<p>Mujtaba Raza and <a data-urltype=\"/view\" data-val=\"https://www.fbi.gov/wanted/cyber/mohsin-raza\" href=\"https://www.fbi.gov/wanted/cyber/mohsin-raza\" data-linktype=\"external\">Mohsin Raza</a> are wanted for allegedly operating a fraudulent online business based in Karachi, Pakistan.  Since at least 2011, the business known as SecondEye Solution (SecondEye), aka Forwarderz, allegedly sold digital images of false identity documents including passports, driver’s licenses, bank statements, and national identity cards associated with more than 200 countries and territories.  SecondEye marketed these fake documents for use verifying online accounts, which allowed SecondEye customers to defraud payment processing companies, e-commerce businesses, social media, and social networking platforms.  On January 28, 2020, a federal arrest warrant was issued for Mujtaba Raza in the United States District Court, District of New Jersey, Newark, New Jersey, after he was charged with Conspiracy to Produce and Transfer False Documents, Transfer of False Documents, False Use of Passports, and Aggravated Identity Theft.</p>\r\n<p> </p>",
+          "nationality": "Pakistani",
+          "age_min": null,
+          "age_max": null,
+          "scars_and_marks": null,
+          "subjects": [
+              "Cyber's Most Wanted"
+          ],
+          "aliases": [
+              "Mujtaba Ali Raza",
+              "Mujtaba Ali Liliani",
+              "Mujtaba Ali"
+          ],
+          "race_raw": null,
+          "suspects": null,
+          "publication": "2021-03-15T07:47:00",
+          "title": "MUJTABA RAZA",
+          "coordinates": [],
+          "hair_raw": "Black",
+          "languages": null,
+          "complexion": null,
+          "build": null,
+          "details": null,
+          "status": "na",
+          "legat_names": null,
+          "eyes": "brown",
+          "person_classification": "Main",
+          "description": "Conspiracy to Produce and Transfer False Documents; Transfer of False Documents; False Use of Passports; Aggravated Identity Theft",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/cyber/mujtaba-raza/@@images/image/large",
+                  "caption": null,
+                  "thumb": "https://www.fbi.gov/wanted/cyber/mujtaba-raza/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cyber/mujtaba-raza/@@images/image"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/cyber/mujtaba-raza/razamujtaba2.png/@@images/image/large",
+                  "caption": "",
+                  "thumb": "https://www.fbi.gov/wanted/cyber/mujtaba-raza/razamujtaba2.png/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cyber/mujtaba-raza/razamujtaba2.png"
+              }
+          ],
+          "possible_countries": null,
+          "weight_min": null,
+          "additional_information": null,
+          "remarks": "<p>Raza is thought to currently be in Karachi, Pakistan.</p>",
+          "path": "/wanted/cyber/mujtaba-raza",
+          "sex": "Male",
+          "eyes_raw": "Brown",
+          "weight_max": null,
+          "reward_min": 0,
+          "url": "https://www.fbi.gov/wanted/cyber/mujtaba-raza",
+          "possible_states": null,
+          "modified": "2021-04-15T13:24:45+00:00",
+          "reward_max": 0,
+          "race": null,
+          "height_max": null,
+          "place_of_birth": "Hyderabad, Pakistan",
+          "height_min": null,
+          "warning_message": null,
+          "@id": "https://api.fbi.gov/@wanted-person/7e2490248a2746ccb011d7d11abea5a9"
+      },
+      {
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/cyber/mohsin-raza/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/cyber/mohsin-raza/razamohsinurdu.pdf/@@download/file/RazaMohsinUrdu.pdf",
+                  "name": "اردو میں"
+              }
+          ],
+          "age_range": null,
+          "uid": "cb584b7479b74f229f64da7e444e9190",
+          "weight": null,
+          "occupations": null,
+          "field_offices": [
+              "newark"
+          ],
+          "locations": null,
+          "reward_text": null,
+          "hair": "black",
+          "ncic": null,
+          "dates_of_birth_used": [
+              "May 25, 1986"
+          ],
+          "caution": "<p>Mohsin Raza and <a data-urltype=\"/view\" data-val=\"https://www.fbi.gov/wanted/cyber/mujtaba-raza\" href=\"https://www.fbi.gov/wanted/cyber/mujtaba-raza\" data-linktype=\"external\">Mujtaba Raza</a> are wanted for allegedly operating a fraudulent online business based in Karachi, Pakistan.  Since at least 2011, the business known as SecondEye Solution (SecondEye), aka Forwarderz, allegedly sold digital images of false identity documents including passports, driver’s licenses, bank statements, and national identity cards associated with more than 200 countries and territories.  SecondEye marketed these fake documents for use verifying online accounts, which allowed SecondEye customers to defraud payment processing companies, e-commerce businesses, social media, and social networking platforms.  On January 28, 2020, a federal arrest warrant was issued for Mohsin Raza in the United States District Court, District of New Jersey, Newark, New Jersey, after he was charged with Conspiracy to Produce and Transfer False Documents, Transfer of False Documents, False Use of Passports, and Aggravated Identity Theft.</p>\r\n<p> </p>",
+          "nationality": "Pakistani",
+          "age_min": null,
+          "age_max": null,
+          "scars_and_marks": null,
+          "subjects": [
+              "Cyber's Most Wanted"
+          ],
+          "aliases": [
+              "Mohsin Raza Amiri"
+          ],
+          "race_raw": null,
+          "suspects": null,
+          "publication": "2021-03-15T07:29:00",
+          "title": "MOHSIN RAZA",
+          "coordinates": [],
+          "hair_raw": "Black",
+          "languages": null,
+          "complexion": null,
+          "build": null,
+          "details": null,
+          "status": "na",
+          "legat_names": null,
+          "eyes": "brown",
+          "person_classification": "Main",
+          "description": "Conspiracy to Produce and Transfer False Documents; Transfer of False Documents; False Use of Passports; Aggravated Identity Theft",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/cyber/mohsin-raza/@@images/image/large",
+                  "caption": null,
+                  "thumb": "https://www.fbi.gov/wanted/cyber/mohsin-raza/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cyber/mohsin-raza/@@images/image"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/cyber/mohsin-raza/razamohsin2.jpg/@@images/image/large",
+                  "caption": "",
+                  "thumb": "https://www.fbi.gov/wanted/cyber/mohsin-raza/razamohsin2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cyber/mohsin-raza/razamohsin2.jpg"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/cyber/mohsin-raza/razamohsin3.jpg/@@images/image/large",
+                  "caption": "",
+                  "thumb": "https://www.fbi.gov/wanted/cyber/mohsin-raza/razamohsin3.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cyber/mohsin-raza/razamohsin3.jpg"
+              }
+          ],
+          "possible_countries": null,
+          "weight_min": null,
+          "additional_information": null,
+          "remarks": "<p>Raza is thought to currently be in Karachi, Pakistan.</p>",
+          "path": "/wanted/cyber/mohsin-raza",
+          "sex": "Male",
+          "eyes_raw": "Brown",
+          "weight_max": null,
+          "reward_min": 0,
+          "url": "https://www.fbi.gov/wanted/cyber/mohsin-raza",
+          "possible_states": null,
+          "modified": "2021-04-15T13:23:56+00:00",
+          "reward_max": 0,
+          "race": null,
+          "height_max": null,
+          "place_of_birth": "Karachi, Pakistan",
+          "height_min": null,
+          "warning_message": null,
+          "@id": "https://api.fbi.gov/@wanted-person/cb584b7479b74f229f64da7e444e9190"
+      },
+      {
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/seeking-info/el-monte-church-bombing/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "age_range": null,
+          "uid": "86f4a5b42f9e42818b4e6599b2bc307c",
+          "weight": null,
+          "occupations": null,
+          "field_offices": [
+              "losangeles"
+          ],
+          "locations": null,
+          "reward_text": "The FBI is offering a reward of up to $25,000 for information leading to the arrest and conviction of the person or persons responsible for the bombing.",
+          "hair": null,
+          "ncic": null,
+          "dates_of_birth_used": null,
+          "caution": null,
+          "nationality": null,
+          "age_min": null,
+          "age_max": null,
+          "scars_and_marks": null,
+          "subjects": [
+              "Seeking Information"
+          ],
+          "aliases": null,
+          "race_raw": null,
+          "suspects": null,
+          "publication": "2021-03-01T10:33:00",
+          "title": "EL MONTE CHURCH BOMBING",
+          "coordinates": [],
+          "hair_raw": null,
+          "languages": null,
+          "complexion": null,
+          "build": null,
+          "details": "<p>The FBI is asking for the public's assistance in identifying the individuals responsible for the bombing of the First Works Baptist Church in El Monte, California, on January 23, 2021.</p>\r\n<p> </p>\r\n<p>At approximately 1:00 a.m., the El Monte Police Department received its first 9-1-1 call regarding an explosion at the First Works Baptist Church, located at 2600 Tyler Avenue in El Monte. The police department responded and discovered a post-blast scene at the church.</p>\r\n<p> </p>\r\n<p>It is reported that a male and female suspect were observed smashing a church window, then lighting an object and throwing it inside the church shortly before the explosion. The suspects then fled on foot to a vehicle, which they entered before fleeing the scene.</p>\r\n<p> </p>\r\n<p>The male suspect was described as Hispanic, between 5’8” and 6’1”, and weighing approximately 170 to 180 pounds. The female suspect was described as Hispanic, between 5’3” and 5’5”, and weighing approximately 125 to 135 pounds.</p>",
+          "status": "na",
+          "legat_names": null,
+          "eyes": null,
+          "person_classification": "Main",
+          "description": "Unknown Suspects\r\nEl Monte, California\r\nJanuary 23, 2021",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/el-monte-church-bombing/@@images/image/large",
+                  "caption": null,
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/el-monte-church-bombing/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/el-monte-church-bombing/@@images/image"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/el-monte-church-bombing/male_subject_glareremoved_edgeehanced-1.png/@@images/image/large",
+                  "caption": "",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/el-monte-church-bombing/male_subject_glareremoved_edgeehanced-1.png/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/el-monte-church-bombing/male_subject_glareremoved_edgeehanced-1.png"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/el-monte-church-bombing/front-door-1201-to-1226-mp4-times-frame-2462.jpg/@@images/image/large",
+                  "caption": "",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/el-monte-church-bombing/front-door-1201-to-1226-mp4-times-frame-2462.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/el-monte-church-bombing/front-door-1201-to-1226-mp4-times-frame-2462.jpg"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/el-monte-church-bombing/front-door-1201-to-1226-mp4-times-frame-62.jpg/@@images/image/large",
+                  "caption": "",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/el-monte-church-bombing/front-door-1201-to-1226-mp4-times-frame-62.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/el-monte-church-bombing/front-door-1201-to-1226-mp4-times-frame-62.jpg"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/el-monte-church-bombing/photo-1.jpg/@@images/image/large",
+                  "caption": "",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/el-monte-church-bombing/photo-1.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/el-monte-church-bombing/photo-1.jpg"
+              }
+          ],
+          "possible_countries": null,
+          "weight_min": null,
+          "additional_information": null,
+          "remarks": null,
+          "path": "/wanted/seeking-info/el-monte-church-bombing",
+          "sex": null,
+          "eyes_raw": null,
+          "weight_max": null,
+          "reward_min": 0,
+          "url": "https://www.fbi.gov/wanted/seeking-info/el-monte-church-bombing",
+          "possible_states": null,
+          "modified": "2021-04-08T12:56:34+00:00",
+          "reward_max": 0,
+          "race": null,
+          "height_max": null,
+          "place_of_birth": null,
+          "height_min": null,
+          "warning_message": null,
+          "@id": "https://api.fbi.gov/@wanted-person/86f4a5b42f9e42818b4e6599b2bc307c"
+      },
+      {
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/derek-bryan-dominguez/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/derek-bryan-dominguez/dominguez-spanish-9-2-2020.pdf/@@download/file/Dominguez Spanish 9-2-2020.pdf",
+                  "name": "EN ESPAÑOL"
+              }
+          ],
+          "age_range": null,
+          "uid": "75c8211572ca4b02afef22a3779e1620",
+          "weight": "170 to 190 pounds",
+          "occupations": [
+              "Construction Worker",
+              "Factory Worker"
+          ],
+          "field_offices": [
+              "losangeles"
+          ],
+          "locations": null,
+          "reward_text": "Reward money may be available.",
+          "hair": "black",
+          "ncic": "W522989179",
+          "dates_of_birth_used": [
+              "June 11, 1989"
+          ],
+          "caution": "<p>Derek Bryan Dominguez, a convicted felon, is wanted for his alleged involvement in the shooting death of a man in California.</p>\r\n<p>On the evening of December 31, 2017, Dominguez was inside a fast food restaurant in Los Angeles, California, with his girlfriend and two sons when he made eye contact through the restaurant window with another male. The male was outside of the restaurant with the victim and another man. Dominguez allegedly exited the restaurant and, after a brief verbal altercation with the man he had made eye contact with, punched the victim in the face. The victim attempted to defend himself and punch back before Dominguez allegedly produced a handgun and fired multiple rounds, ultimately killing the victim.</p>\r\n<p>Dominguez fled the scene and is believed to be in Mexico.</p>\r\n<p>Dominguez was charged with murder by the Superior Court of the State of California, County of Los Angeles, and a state warrant was issued for his arrest on January 26, 2018. A federal arrest warrant was issued by the United States District Court for the Central District of California on February 2, 2020, after Dominguez was charged federally with unlawful flight to avoid prosecution.</p>",
+          "nationality": "American",
+          "age_min": null,
+          "age_max": null,
+          "scars_and_marks": "Dominguez has numerous tattoos, including: devil horns on his head; the letters \"VN\" (for Van Nuys) on the back of his head; lips on his left neck; the word \"Dominguez\" on his upper chest; and \"sleeves\" on both arms. It is likely he has obtained additional tattoos. The tattoos on his head may be obscured if he has grown his hair out.",
+          "subjects": [
+              "Violent Crimes - Murders"
+          ],
+          "aliases": [
+              "\"Grinch\"",
+              "\"Bullet\"",
+              "\"Ryder\"",
+              "Derek Dominguez",
+              "Derek Brian Dominguez"
+          ],
+          "race_raw": "White (Hispanic)",
+          "suspects": null,
+          "publication": "2020-08-19T10:07:00",
+          "title": "DEREK BRYAN DOMINGUEZ",
+          "coordinates": [],
+          "hair_raw": "Black",
+          "languages": null,
+          "complexion": null,
+          "build": null,
+          "details": null,
+          "status": "captured",
+          "legat_names": null,
+          "eyes": "brown",
+          "person_classification": "Main",
+          "description": "Unlawful Flight to Avoid Prosecution - Murder",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/murders/derek-bryan-dominguez/@@images/image/large",
+                  "caption": "Photograph taken in 2016",
+                  "thumb": "https://www.fbi.gov/wanted/murders/derek-bryan-dominguez/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/derek-bryan-dominguez/@@images/image"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/murders/derek-bryan-dominguez/dominguez.png/@@images/image/large",
+                  "caption": "",
+                  "thumb": "https://www.fbi.gov/wanted/murders/derek-bryan-dominguez/dominguez.png/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/derek-bryan-dominguez/dominguez.png"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/murders/derek-bryan-dominguez/head-tattoo.png/@@images/image/large",
+                  "caption": "Top of head tattoo",
+                  "thumb": "https://www.fbi.gov/wanted/murders/derek-bryan-dominguez/head-tattoo.png/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/derek-bryan-dominguez/head-tattoo.png"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/murders/derek-bryan-dominguez/chest-tattoo.png/@@images/image/large",
+                  "caption": "Chest tattoo",
+                  "thumb": "https://www.fbi.gov/wanted/murders/derek-bryan-dominguez/chest-tattoo.png/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/derek-bryan-dominguez/chest-tattoo.png"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/murders/derek-bryan-dominguez/back-of-head-tattoo.png/@@images/image/large",
+                  "caption": "Back of head tattoo",
+                  "thumb": "https://www.fbi.gov/wanted/murders/derek-bryan-dominguez/back-of-head-tattoo.png/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/derek-bryan-dominguez/back-of-head-tattoo.png"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/murders/derek-bryan-dominguez/side-of-head-tatoo.png/@@images/image/large",
+                  "caption": "Side of head tattoo",
+                  "thumb": "https://www.fbi.gov/wanted/murders/derek-bryan-dominguez/side-of-head-tatoo.png/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/derek-bryan-dominguez/side-of-head-tatoo.png"
+              }
+          ],
+          "possible_countries": null,
+          "weight_min": 170,
+          "additional_information": null,
+          "remarks": "<p>Dominguez may have attempted to change his appearance by gaining weight, growing out his hair, and growing facial hair.</p>",
+          "path": "/wanted/murders/derek-bryan-dominguez",
+          "sex": "Male",
+          "eyes_raw": "Brown",
+          "weight_max": 190,
+          "reward_min": 0,
+          "url": "https://www.fbi.gov/wanted/murders/derek-bryan-dominguez",
+          "possible_states": null,
+          "modified": "2021-04-08T12:43:29+00:00",
+          "reward_max": 0,
+          "race": "hispanic",
+          "height_max": 67,
+          "place_of_birth": "Los Angeles, California",
+          "height_min": 64,
+          "warning_message": null,
+          "@id": "https://api.fbi.gov/@wanted-person/75c8211572ca4b02afef22a3779e1620"
+      },
+      {
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/seeking-info/alonzo-brooks/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "age_range": null,
+          "uid": "4c1554ae39a84dc79952f56da3545c92",
+          "weight": null,
+          "occupations": null,
+          "field_offices": [
+              "kansascity"
+          ],
+          "locations": null,
+          "reward_text": "The FBI is offering a reward of up to $100,000 for information leading to the arrest, prosecution and conviction of the individual or individuals that may be responsible for Alonzo Brooks’ death.",
+          "hair": null,
+          "ncic": null,
+          "dates_of_birth_used": null,
+          "caution": null,
+          "nationality": null,
+          "age_min": null,
+          "age_max": null,
+          "scars_and_marks": null,
+          "subjects": [
+              "Seeking Information"
+          ],
+          "aliases": null,
+          "race_raw": null,
+          "suspects": null,
+          "publication": "2020-03-17T09:59:00",
+          "title": "ALONZO BROOKS",
+          "coordinates": [],
+          "hair_raw": null,
+          "languages": null,
+          "complexion": null,
+          "build": null,
+          "details": "<p>Alonzo Brooks attended a party at a rural house outside of La Cygne, Kansas, the night of April 3, 2004. When Alonzo didn’t return home from the party, his family called authorities in Linn County, Kansas. The Linn County Sheriff’s Department launched a search.</p>\r\n<p>Almost a month later, Alonzo was still missing when his family organized a search party of approximately 50 volunteers. On May 1, 2004, they found his body located in brush in a creek in Linn County. An autopsy was not able to determine the cause of death.  Alonzo was 23 years old at the time of his death. He was described as being mild-mannered and a good-humored person.</p>",
+          "status": "na",
+          "legat_names": null,
+          "eyes": null,
+          "person_classification": "Victim",
+          "description": "Homicide\r\nLa Cygne, Kansas\r\nApril 3, 2004",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/alonzo-brooks/@@images/image/large",
+                  "caption": null,
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/alonzo-brooks/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/alonzo-brooks/@@images/image"
+              }
+          ],
+          "possible_countries": null,
+          "weight_min": null,
+          "additional_information": null,
+          "remarks": null,
+          "path": "/wanted/seeking-info/alonzo-brooks",
+          "sex": null,
+          "eyes_raw": null,
+          "weight_max": null,
+          "reward_min": 0,
+          "url": "https://www.fbi.gov/wanted/seeking-info/alonzo-brooks",
+          "possible_states": null,
+          "modified": "2021-04-07T18:59:42+00:00",
+          "reward_max": 0,
+          "race": null,
+          "height_max": null,
+          "place_of_birth": null,
+          "height_min": null,
+          "warning_message": null,
+          "@id": "https://api.fbi.gov/@wanted-person/4c1554ae39a84dc79952f56da3545c92"
+      },
+      {
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/cac/ruben-a-hernandez/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "age_range": null,
+          "uid": "af925177480f4fb2828e63019d1efcf9",
+          "weight": "140 pounds",
+          "occupations": null,
+          "field_offices": [
+              "louisville"
+          ],
+          "locations": null,
+          "reward_text": null,
+          "hair": "brown",
+          "ncic": "W293293060",
+          "dates_of_birth_used": [
+              "January 2, 2002"
+          ],
+          "caution": "<p>On August 27, 2020, in Louisville, Kentucky, Ruben Hernandez allegedly live streamed, via Instagram, a minor having sexual intercourse with an adult male. This live stream was sent to other suspects allegedly under investigation by law enforcement.</p>\r\n<p>Hernandez was indicted on February 24, 2021, by the United States District Court, for the Western District of Kentucky, Paducah, Kentucky, for production of child pornography, A federal warrant was issued for his arrest.</p>",
+          "nationality": "American",
+          "age_min": null,
+          "age_max": null,
+          "scars_and_marks": null,
+          "subjects": [],
+          "aliases": [
+              "\"Lil Pablo\""
+          ],
+          "race_raw": "White (Hispanic)",
+          "suspects": null,
+          "publication": "2021-04-01T08:30:00",
+          "title": "RUBEN A. HERNANDEZ",
+          "coordinates": [],
+          "hair_raw": "Brown",
+          "languages": null,
+          "complexion": null,
+          "build": null,
+          "details": null,
+          "status": "na",
+          "legat_names": null,
+          "eyes": "brown",
+          "person_classification": "Main",
+          "description": "Production of Child Pornography",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/cac/ruben-a-hernandez/@@images/image/large",
+                  "caption": "Photograph taken in 2020",
+                  "thumb": "https://www.fbi.gov/wanted/cac/ruben-a-hernandez/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/cac/ruben-a-hernandez/@@images/image"
+              }
+          ],
+          "possible_countries": null,
+          "weight_min": 140,
+          "additional_information": null,
+          "remarks": null,
+          "path": "/wanted/cac/ruben-a-hernandez",
+          "sex": "Male",
+          "eyes_raw": "Brown",
+          "weight_max": 140,
+          "reward_min": 0,
+          "url": "https://www.fbi.gov/wanted/cac/ruben-a-hernandez",
+          "possible_states": null,
+          "modified": "2021-04-06T20:10:49+00:00",
+          "reward_max": 0,
+          "race": "hispanic",
+          "height_max": 66,
+          "place_of_birth": "Kentucky",
+          "height_min": 66,
+          "warning_message": null,
+          "@id": "https://api.fbi.gov/@wanted-person/af925177480f4fb2828e63019d1efcf9"
+      },
+      {
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/seeking-info/badraldeen-mohamad-elwaseem/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "age_range": null,
+          "uid": "569e5d14a4964a328baeca98a03a503b",
+          "weight": null,
+          "occupations": null,
+          "field_offices": [
+              "buffalo"
+          ],
+          "locations": null,
+          "reward_text": "The FBI is offering a reward of up to $25,000 for information leading to the arrest of the person(s) responsible for the shooting death of Badraldeen Mohamad Elwaseem.",
+          "hair": null,
+          "ncic": null,
+          "dates_of_birth_used": null,
+          "caution": null,
+          "nationality": null,
+          "age_min": null,
+          "age_max": null,
+          "scars_and_marks": null,
+          "subjects": [
+              "Seeking Information"
+          ],
+          "aliases": null,
+          "race_raw": null,
+          "suspects": null,
+          "publication": "2019-04-08T09:13:00",
+          "title": "BADRALDEEN MOHAMAD ELWASEEM",
+          "coordinates": [],
+          "hair_raw": null,
+          "languages": null,
+          "complexion": null,
+          "build": null,
+          "details": "<p>Law enforcement officials are seeking information regarding the murder of 12-year-old Badraldeen Mohamad Elwaseem who was shot and killed on April 6, 2019, in Buffalo, New York. Badraldeen was in the kitchen of his apartment around 8:30 p.m. when he was fatally shot in the head by a stray bullet. </p>\r\n<p> </p>",
+          "status": "na",
+          "legat_names": null,
+          "eyes": null,
+          "person_classification": "Victim",
+          "description": "Murder Victim\r\nBuffalo, New York\r\nApril 6, 2019",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/badraldeen-mohamad-elwaseem/@@images/image/large",
+                  "caption": null,
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/badraldeen-mohamad-elwaseem/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/badraldeen-mohamad-elwaseem/@@images/image"
+              }
+          ],
+          "possible_countries": null,
+          "weight_min": null,
+          "additional_information": null,
+          "remarks": null,
+          "path": "/wanted/seeking-info/badraldeen-mohamad-elwaseem",
+          "sex": null,
+          "eyes_raw": null,
+          "weight_max": null,
+          "reward_min": 0,
+          "url": "https://www.fbi.gov/wanted/seeking-info/badraldeen-mohamad-elwaseem",
+          "possible_states": null,
+          "modified": "2021-04-06T12:58:43+00:00",
+          "reward_max": 0,
+          "race": null,
+          "height_max": null,
+          "place_of_birth": null,
+          "height_min": null,
+          "warning_message": null,
+          "@id": "https://api.fbi.gov/@wanted-person/569e5d14a4964a328baeca98a03a503b"
+      },
+      {
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/seeking-info/truman-presidential-library-theft/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "age_range": null,
+          "uid": "59065235552c48db989972d35b7e0c4f",
+          "weight": null,
+          "occupations": null,
+          "field_offices": [
+              "kansascity"
+          ],
+          "locations": null,
+          "reward_text": "The FBI is offering a reward of up to $10,000 for information leading to the recovery of the swords stolen from the Truman Presidential Library or the arrest and conviction of the individuals responsible.",
+          "hair": null,
+          "ncic": null,
+          "dates_of_birth_used": null,
+          "caution": null,
+          "nationality": null,
+          "age_min": null,
+          "age_max": null,
+          "scars_and_marks": null,
+          "subjects": [
+              "seeking information"
+          ],
+          "aliases": null,
+          "race_raw": null,
+          "suspects": null,
+          "publication": "2021-03-30T09:58:00",
+          "title": "TRUMAN PRESIDENTIAL LIBRARY THEFT",
+          "coordinates": [],
+          "hair_raw": null,
+          "languages": null,
+          "complexion": null,
+          "build": null,
+          "details": "<p>The Federal Bureau of Investigation's Kansas City Field Office in Missouri is seeking information leading to the recovery of artifacts stolen in 1978 from the Truman Presidential Library, located at 500 West U.S. Highway 24 in Independence, Missouri.<br /> <br />On March 24, 1978, around 6:30 a.m., a car pulled up near the south gate of the library. Two suspects, believed to be aware of the library’s security procedures, broke into the library and smashed a display case in the lobby. The display case contained three ceremonial swords and two daggers that had been given to President Truman by the Saudi Arabian Crown Prince Saud and the Shah of Iran.<br /> <br />The theft took just minutes, and the suspects fled the building through a window. The items stolen were valued between $700,000 and $1,000,000 in 1978.</p>",
+          "status": "na",
+          "legat_names": null,
+          "eyes": null,
+          "person_classification": "Main",
+          "description": "Truman Presidential Library\r\nIndependence, Missouri\r\nMarch 24, 1978",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/truman-presidential-library-theft/@@images/image/large",
+                  "caption": "Display case in the library lobby before the theft",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/truman-presidential-library-theft/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/truman-presidential-library-theft/@@images/image"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/truman-presidential-library-theft/dagger-scabbard-and-belt.png/@@images/image/large",
+                  "caption": "Weapon grip decorated with 9 diamonds in linear pattern, scabbard decorated\nwith four diamonds in rhomboid shape",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/truman-presidential-library-theft/dagger-scabbard-and-belt.png/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/truman-presidential-library-theft/dagger-scabbard-and-belt.png"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/truman-presidential-library-theft/sword-and-scabbard.png/@@images/image/large",
+                  "caption": "Weapon ivory grips, gold decoration chain leading from hand guard to pommel,\ndiamonds and rubies on grips and scabbard",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/truman-presidential-library-theft/sword-and-scabbard.png/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/truman-presidential-library-theft/sword-and-scabbard.png"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/truman-presidential-library-theft/dagger-and-scabbard.png/@@images/image/large",
+                  "caption": "Weapon dagger hilt inlaid with 4 diamonds surrounding 1 emerald. Lower grip of\r\ndagger has 15 small diamonds surrounding oval ruby. Scabbard has 4 rubies at the throat and is also inlaid with\r\nan emerald over a ruby surrounded by 12 small diamonds. At tip of scabbard is ruby surrounded by 12 small\r\ndiamonds.",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/truman-presidential-library-theft/dagger-and-scabbard.png/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/truman-presidential-library-theft/dagger-and-scabbard.png"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/truman-presidential-library-theft/presentation-sword.png/@@images/image/large",
+                  "caption": "Sword gemstone (diamond) decoration on grips and scabbard, gold chain from hand\nguard to pommel of sword",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/truman-presidential-library-theft/presentation-sword.png/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/truman-presidential-library-theft/presentation-sword.png"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/truman-presidential-library-theft/truman-library-1.png/@@images/image/large",
+                  "caption": "Display case in the library lobby after the theft",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/truman-presidential-library-theft/truman-library-1.png/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/truman-presidential-library-theft/truman-library-1.png"
+              }
+          ],
+          "possible_countries": null,
+          "weight_min": null,
+          "additional_information": null,
+          "remarks": null,
+          "path": "/wanted/seeking-info/truman-presidential-library-theft",
+          "sex": null,
+          "eyes_raw": null,
+          "weight_max": null,
+          "reward_min": 0,
+          "url": "https://www.fbi.gov/wanted/seeking-info/truman-presidential-library-theft",
+          "possible_states": null,
+          "modified": "2021-04-05T14:58:31+00:00",
+          "reward_max": 0,
+          "race": null,
+          "height_max": null,
+          "place_of_birth": null,
+          "height_min": null,
+          "warning_message": null,
+          "@id": "https://api.fbi.gov/@wanted-person/59065235552c48db989972d35b7e0c4f"
+      },
+      {
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/vicap/missing-persons/ekaterina-katie-shcherbakova---seaside-california/vicap-alert-2021-04-01.pdf",
+                  "name": "English"
+              }
+          ],
+          "age_range": "13 (at time of disappearance)",
+          "uid": "aed0cae464b64121881dfbb78569fd66",
+          "weight": "110 pounds (at time of disappearance)",
+          "occupations": null,
+          "field_offices": null,
+          "locations": null,
+          "reward_text": null,
+          "hair": "brown",
+          "ncic": null,
+          "dates_of_birth_used": null,
+          "caution": null,
+          "nationality": null,
+          "age_min": 13,
+          "age_max": 13,
+          "scars_and_marks": "She has a scar on her left ankle.",
+          "subjects": [
+              "ViCAP Missing Persons"
+          ],
+          "aliases": null,
+          "race_raw": "White",
+          "suspects": null,
+          "publication": "2021-04-05T07:11:00",
+          "title": "EKATERINA “KATIE” SHCHERBAKOVA - SEASIDE, CALIFORNIA",
+          "coordinates": [],
+          "hair_raw": "Brown",
+          "languages": null,
+          "complexion": null,
+          "build": null,
+          "details": "<p>Thirteen-year-old Ekaterina “Katie” Shcherbakova was last seen on April 5, 1998, at a friend’s house in Seaside, California (Monterey County).  Her friends said that Ekaterina left the house at 2000 hours to walk home, and she was last seen walking toward Fremont Boulevard.  She never arrived home and has not been heard from since then.  As of 2021, Ekaterina would be 36 years old.</p>",
+          "status": "na",
+          "legat_names": null,
+          "eyes": "green",
+          "person_classification": "Main",
+          "description": "April 5, 1998\r\nSeaside, California",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/vicap/missing-persons/ekaterina-katie-shcherbakova---seaside-california/@@images/image/large",
+                  "caption": "Photograph taken in 1998",
+                  "thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/ekaterina-katie-shcherbakova---seaside-california/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/vicap/missing-persons/ekaterina-katie-shcherbakova---seaside-california/@@images/image"
+              }
+          ],
+          "possible_countries": null,
+          "weight_min": 110,
+          "additional_information": null,
+          "remarks": null,
+          "path": "/wanted/vicap/missing-persons/ekaterina-katie-shcherbakova---seaside-california",
+          "sex": "Female",
+          "eyes_raw": "Green",
+          "weight_max": 110,
+          "reward_min": 0,
+          "url": "https://www.fbi.gov/wanted/vicap/missing-persons/ekaterina-katie-shcherbakova---seaside-california",
+          "possible_states": null,
+          "modified": "2021-04-05T12:43:25+00:00",
+          "reward_max": 0,
+          "race": "white",
+          "height_max": 63,
+          "place_of_birth": null,
+          "height_min": 63,
+          "warning_message": null,
+          "@id": "https://api.fbi.gov/@wanted-person/aed0cae464b64121881dfbb78569fd66"
+      },
+      {
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/seeking-info/john-doe/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/seeking-info/john-doe/john-doe-spanish-final.pdf/@@download/file/john doe.Spanish.final.pdf",
+                  "name": "EN ESPAÑOL"
+              }
+          ],
+          "age_range": "Approximately 40 to 60 years",
+          "uid": "4281124b3c334a649c0064e3bc8f775e",
+          "weight": "Approximately 225 to 300 pounds",
+          "occupations": null,
+          "field_offices": [
+              "denver"
+          ],
+          "locations": null,
+          "reward_text": null,
+          "hair": "brown",
+          "ncic": null,
+          "dates_of_birth_used": null,
+          "caution": null,
+          "nationality": null,
+          "age_min": 40,
+          "age_max": 60,
+          "scars_and_marks": null,
+          "subjects": [
+              "Seeking Information"
+          ],
+          "aliases": null,
+          "race_raw": null,
+          "suspects": null,
+          "publication": "2019-12-05T09:52:00",
+          "title": "JOHN DOE",
+          "coordinates": [],
+          "hair_raw": "Brown",
+          "languages": null,
+          "complexion": null,
+          "build": null,
+          "details": "<p>On October 19, 2002, the remains of an unidentified male, of unknown race and ethnicity, were found wrapped in a blanket/quilt located off of Colorado State Highway 114 in Saguache County, Colorado. The Colorado Bureau of Investigation assisted the Saguache County Sheriff’s Office in the recovery of the remains. Law enforcement officials have released facial reconstruction images of the man whose body was discovered. The remains were clad in black boxer shorts and a black Harley Davidson T-shirt from Fort Washington, Maryland.  A coroner’s examination concluded that the cause of death was homicide.</p>\r\n<p> </p>\r\n<p> </p>",
+          "status": "na",
+          "legat_names": null,
+          "eyes": null,
+          "person_classification": "Main",
+          "description": "Murder Victim\r\nSaguache County, Colorado\r\nOctober 19, 2002",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/john-doe/@@images/image/large",
+                  "caption": "Digital rendering of John Doe",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/john-doe/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/john-doe/@@images/image"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/john-doe/thumbnail_john-doe-dn-2.jpg/@@images/image/large",
+                  "caption": "Digital rendering of John Doe",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/john-doe/thumbnail_john-doe-dn-2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/john-doe/thumbnail_john-doe-dn-2.jpg"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/john-doe/john-doe-quilt.jpg/@@images/image/large",
+                  "caption": "Blanket/quilt",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/john-doe/john-doe-quilt.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/john-doe/john-doe-quilt.jpg"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/john-doe/john-doe-shirt.jpg/@@images/image/large",
+                  "caption": "Harley Davidson T-shirt",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/john-doe/john-doe-shirt.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/john-doe/john-doe-shirt.jpg"
+              }
+          ],
+          "possible_countries": null,
+          "weight_min": 225,
+          "additional_information": null,
+          "remarks": null,
+          "path": "/wanted/seeking-info/john-doe",
+          "sex": "Male",
+          "eyes_raw": null,
+          "weight_max": 300,
+          "reward_min": 0,
+          "url": "https://www.fbi.gov/wanted/seeking-info/john-doe",
+          "possible_states": null,
+          "modified": "2021-04-02T12:58:09+00:00",
+          "reward_max": 0,
+          "race": null,
+          "height_max": 77,
+          "place_of_birth": null,
+          "height_min": 77,
+          "warning_message": null,
+          "@id": "https://api.fbi.gov/@wanted-person/4281124b3c334a649c0064e3bc8f775e"
+      },
+      {
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/diego-alfonso-de-leon-mejia/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "age_range": null,
+          "uid": "c381775b66c6474b9ba8926a4fdc0dcd",
+          "weight": "150 to 160 pounds",
+          "occupations": null,
+          "field_offices": [
+              "newark"
+          ],
+          "locations": null,
+          "reward_text": null,
+          "hair": "black",
+          "ncic": "W283295977",
+          "dates_of_birth_used": [
+              "May 29, 1999"
+          ],
+          "caution": "<p>Diego Alfonso De Leon Mejia is wanted for his alleged involvement in the murder of another man at a gas station in Paterson, New Jersey, on May 16, 2019.  The victim was shot and killed.  On May 31, 2019, Diego Alfonso De Leon Mejia was charged with murder and possession of a weapon for unlawful purpose by the Paterson Municipal Court, State of New Jersey, and a state warrant was issued for his arrest.  A federal arrest warrant was issued by the United States District Court, District of New Jersey, on March 18, 2021, after De Leon Mejia was charged federally with unlawful flight to avoid prosecution.</p>\r\n<p> </p>",
+          "nationality": null,
+          "age_min": null,
+          "age_max": null,
+          "scars_and_marks": null,
+          "subjects": [
+              "Violent Crime - Murders"
+          ],
+          "aliases": [
+              "Diego Deleon",
+              "Diego A. De Leon",
+              "Diego Deleon-Mejia",
+              "Diego Mejia"
+          ],
+          "race_raw": "Black",
+          "suspects": null,
+          "publication": "2019-06-19T08:48:00",
+          "title": "DIEGO ALFONSO DE LEON MEJIA",
+          "coordinates": [],
+          "hair_raw": "Black",
+          "languages": null,
+          "complexion": null,
+          "build": null,
+          "details": null,
+          "status": "na",
+          "legat_names": null,
+          "eyes": "brown",
+          "person_classification": "Main",
+          "description": "Unlawful Flight to Avoid Prosecution - Murder, Possession of a Weapon for Unlawful Purpose",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/murders/diego-alfonso-de-leon-mejia/@@images/image/large",
+                  "caption": null,
+                  "thumb": "https://www.fbi.gov/wanted/murders/diego-alfonso-de-leon-mejia/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/diego-alfonso-de-leon-mejia/@@images/image"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/murders/diego-alfonso-de-leon-mejia/deleon2.jpg/@@images/image/large",
+                  "caption": "",
+                  "thumb": "https://www.fbi.gov/wanted/murders/diego-alfonso-de-leon-mejia/deleon2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/diego-alfonso-de-leon-mejia/deleon2.jpg"
+              }
+          ],
+          "possible_countries": null,
+          "weight_min": 150,
+          "additional_information": null,
+          "remarks": null,
+          "path": "/wanted/murders/diego-alfonso-de-leon-mejia",
+          "sex": "Male",
+          "eyes_raw": "Brown",
+          "weight_max": 160,
+          "reward_min": 0,
+          "url": "https://www.fbi.gov/wanted/murders/diego-alfonso-de-leon-mejia",
+          "possible_states": null,
+          "modified": "2021-04-01T12:14:15+00:00",
+          "reward_max": 0,
+          "race": "black",
+          "height_max": 66,
+          "place_of_birth": null,
+          "height_min": 66,
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS AND AN ESCAPE RISK",
+          "@id": "https://api.fbi.gov/@wanted-person/c381775b66c6474b9ba8926a4fdc0dcd"
+      },
+      {
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/john-doe---sacramento-california2/vicap-alert-2021-03-02.pdf",
+                  "name": "English"
+              }
+          ],
+          "age_range": "50 to 75 years old",
+          "uid": "d9e9e48b3f3d4834bbdfc676e74ef2b5",
+          "weight": "185 pounds",
+          "occupations": null,
+          "field_offices": null,
+          "locations": null,
+          "reward_text": null,
+          "hair": "gray",
+          "ncic": null,
+          "dates_of_birth_used": null,
+          "caution": null,
+          "nationality": null,
+          "age_min": 50,
+          "age_max": 75,
+          "scars_and_marks": "Prosthetic right eye",
+          "subjects": [
+              "ViCAP Unidentified Persons"
+          ],
+          "aliases": null,
+          "race_raw": "White",
+          "suspects": null,
+          "publication": "2021-03-30T09:09:00",
+          "title": "JOHN DOE - SACRAMENTO, CALIFORNIA",
+          "coordinates": [],
+          "hair_raw": "Gray/White; 4 to 5 inches in length, balding in front",
+          "languages": null,
+          "complexion": null,
+          "build": null,
+          "details": "<p>On June 22, 1989, the unidentified human remains of a 50- to 75-year-old white male were recovered in Sacramento, California. The male was discovered floating in the Sacramento River and is believed to have been deceased for a few hours. He was wearing blue pants, a navy-blue jacket, a white shirt, and brown ankle boots. The autopsy identified the following:<br />- Prosthetic right eye<br />- 10-inch long, well-healed scar on his mid-left abdominal wall<br />- Left kidney had been surgically removed<br />- Benign tumor beneath his sternum/breastbone<br />- Coronary artery disease<br />- Signs of emphysema<br />- Gallbladder contained three large stones<br />It is likely these medical conditions had been diagnosed by a doctor and may have been known by those close to him. Fingerprints are available for comparison.</p>\r\n<p> </p>",
+          "status": "na",
+          "legat_names": null,
+          "eyes": "blue",
+          "person_classification": "Main",
+          "description": "Sacramento, California\r\nJune 22, 1989",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/vicap/unidentified-persons/john-doe---sacramento-california2/@@images/image/large",
+                  "caption": null,
+                  "thumb": "https://www.fbi.gov/wanted/vicap/unidentified-persons/john-doe---sacramento-california2/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/vicap/unidentified-persons/john-doe---sacramento-california2/@@images/image"
+              }
+          ],
+          "possible_countries": null,
+          "weight_min": 185,
+          "additional_information": null,
+          "remarks": null,
+          "path": "/wanted/vicap/unidentified-persons/john-doe---sacramento-california2",
+          "sex": "Male",
+          "eyes_raw": "Blue",
+          "weight_max": 185,
+          "reward_min": 0,
+          "url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/john-doe---sacramento-california2",
+          "possible_states": null,
+          "modified": "2021-03-30T14:14:09+00:00",
+          "reward_max": 0,
+          "race": "white",
+          "height_max": 66,
+          "place_of_birth": null,
+          "height_min": 66,
+          "warning_message": null,
+          "@id": "https://api.fbi.gov/@wanted-person/d9e9e48b3f3d4834bbdfc676e74ef2b5"
+      },
+      {
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/john-doe---needville-texas/john-doe-needville-tx.pdf",
+                  "name": "English"
+              }
+          ],
+          "age_range": "Approximately 17 to 23 years old",
+          "uid": "0de65261a2d74b298f3021202edfa532",
+          "weight": null,
+          "occupations": null,
+          "field_offices": null,
+          "locations": null,
+          "reward_text": null,
+          "hair": "brown",
+          "ncic": null,
+          "dates_of_birth_used": null,
+          "caution": null,
+          "nationality": null,
+          "age_min": 17,
+          "age_max": 23,
+          "scars_and_marks": "The victim had a vitamin deficiency, broken tailbone (healed), and his front two lower incisor teeth were rotated and overlapping.",
+          "subjects": [],
+          "aliases": null,
+          "race_raw": "Hispanic",
+          "suspects": null,
+          "publication": "2019-02-28T14:22:00",
+          "title": "JOHN DOE - NEEDVILLE, TEXAS",
+          "coordinates": [],
+          "hair_raw": "Black or brown",
+          "languages": null,
+          "complexion": null,
+          "build": null,
+          "details": "<p>On December 17, 2000, the skeletal remains of an unidentified male were located beside the roadway near 8500 Davis Estate Road in Needville, Texas (Fort Bend County). Based on the condition of the remains, the decedent is believed to have been deceased approximately 3 - 9 months prior to discovery. The decedent had straight dark brown to black hair, approximately 2 inches in length. Clothing items found with the remains include blue jeans with a 29\" waistband (Route 66 brand), a brown leather belt, beige socks, brown suede shoes (Pele brand), a black wrist band (Guess logo/brand), and a pink fabric wrist band. The decedent had a healed fracture of his tailbone and his front two lower incisor teeth were rotated and overlapping. Victim was found with many of his bones inside a green plastic bag.</p>",
+          "status": "na",
+          "legat_names": null,
+          "eyes": null,
+          "person_classification": "Main",
+          "description": "Needville, Texas\r\nDecember 17, 2000",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/vicap/unidentified-persons/john-doe---needville-texas/@@images/image/large",
+                  "caption": null,
+                  "thumb": "https://www.fbi.gov/wanted/vicap/unidentified-persons/john-doe---needville-texas/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/vicap/unidentified-persons/john-doe---needville-texas/@@images/image"
+              }
+          ],
+          "possible_countries": null,
+          "weight_min": null,
+          "additional_information": null,
+          "remarks": null,
+          "path": "/wanted/vicap/unidentified-persons/john-doe---needville-texas",
+          "sex": "Male",
+          "eyes_raw": null,
+          "weight_max": null,
+          "reward_min": 0,
+          "url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/john-doe---needville-texas",
+          "possible_states": null,
+          "modified": "2021-03-30T14:03:52+00:00",
+          "reward_max": 0,
+          "race": "hispanic",
+          "height_max": 66,
+          "place_of_birth": null,
+          "height_min": 61,
+          "warning_message": null,
+          "@id": "https://api.fbi.gov/@wanted-person/0de65261a2d74b298f3021202edfa532"
+      },
+      {
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/seeking-info/rhonda-tribue/download.pdf",
+                  "name": "English"
+              }
+          ],
+          "age_range": null,
+          "uid": "f13c7ca165974ee78680c5216917821f",
+          "weight": "145 pounds",
+          "occupations": null,
+          "field_offices": [
+              "kansascity"
+          ],
+          "locations": null,
+          "reward_text": "The FBI is offering a reward of up to $50,000 for information leading to the identification, arrest, and conviction of the individual(s) responsible for the death of Rhonda Tribue.",
+          "hair": "brown",
+          "ncic": null,
+          "dates_of_birth_used": [
+              "September 1, 1965"
+          ],
+          "caution": null,
+          "nationality": null,
+          "age_min": null,
+          "age_max": null,
+          "scars_and_marks": null,
+          "subjects": [
+              "Seeking Information"
+          ],
+          "aliases": [
+              "Rhonda Easley"
+          ],
+          "race_raw": "Black",
+          "suspects": null,
+          "publication": "2021-03-24T11:34:00",
+          "title": "RHONDA TRIBUE",
+          "coordinates": [],
+          "hair_raw": "Dark brown with deep orange/yellow highlights",
+          "languages": null,
+          "complexion": null,
+          "build": null,
+          "details": "<p>The FBI's Kansas City Division, along with the Kansas Bureau of Investigation in Kansas, are seeking information to identify the unknown individual(s) responsible for the 1998 murder of Rhonda Tribue.</p>\r\n<p><br />On October 8, 1998, at approximately 4:40 a.m., Tribue, a mother of six, was found dead from apparent blunt force trauma. Her body was discovered in the roadway at the 500 block of South 94th Street near Edwardsville, Kansas.<br /> </p>\r\n<p><br />In the early morning hours of that same day, Tribue had been seen at the Firelight Lounge. Tribue was known to frequent the Firelight Lounge and the area of 7th Street and Quindaro Boulevard in Kansas City, Kansas. At the time of her death, Tribue was wearing a High-Sierra brand dark-purple corduroy jacket over a gold lace top, pumpkin-colored jeans, and brown sandals. She was 33 years old at the time of her murder.</p>",
+          "status": "na",
+          "legat_names": null,
+          "eyes": "brown",
+          "person_classification": "Main",
+          "description": "Homicide Victim\r\nKansas City, Kansas\r\nOctober 8, 1998",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/rhonda-tribue/@@images/image/large",
+                  "caption": null,
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/rhonda-tribue/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/rhonda-tribue/@@images/image"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/seeking-info/rhonda-tribue/4.jpg/@@images/image/large",
+                  "caption": "",
+                  "thumb": "https://www.fbi.gov/wanted/seeking-info/rhonda-tribue/4.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/seeking-info/rhonda-tribue/4.jpg"
+              }
+          ],
+          "possible_countries": null,
+          "weight_min": 145,
+          "additional_information": null,
+          "remarks": null,
+          "path": "/wanted/seeking-info/rhonda-tribue",
+          "sex": "Female",
+          "eyes_raw": "Brown",
+          "weight_max": 145,
+          "reward_min": 0,
+          "url": "https://www.fbi.gov/wanted/seeking-info/rhonda-tribue",
+          "possible_states": null,
+          "modified": "2021-03-29T14:28:27+00:00",
+          "reward_max": 0,
+          "race": "black",
+          "height_max": 65,
+          "place_of_birth": null,
+          "height_min": 65,
+          "warning_message": null,
+          "@id": "https://api.fbi.gov/@wanted-person/f13c7ca165974ee78680c5216917821f"
+      },
+      {
+          "files": [
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/maico-encarnacion-lopez/download.pdf",
+                  "name": "English"
+              },
+              {
+                  "url": "https://www.fbi.gov/wanted/murders/maico-encarnacion-lopez/maicolopezspanish.pdf/@@download/file/MaicoLopezSpanish.pdf",
+                  "name": "EN ESPAÑOL"
+              }
+          ],
+          "age_range": null,
+          "uid": "dfcf24ee89c5425190c5d8f920d8d277",
+          "weight": "160 pounds",
+          "occupations": [
+              "Farm Laborer"
+          ],
+          "field_offices": [
+              "sacramento"
+          ],
+          "locations": null,
+          "reward_text": "The FBI is offering a reward of up to $10,000 for information leading to the arrest and conviction of Maico Encarnacion Lopez.",
+          "hair": "black",
+          "ncic": "W493618688",
+          "dates_of_birth_used": [
+              "October 21, 1975"
+          ],
+          "caution": "<p>Maico Encarnacion Lopez is wanted for his alleged involvement in the murder of a woman on or about September 11, 2011.   On September 12, 2011, the woman’s body was discovered by Arvin Police Department officers during a welfare check at a residence located on the 100 block of Monroe Avenue in the Kern County community of Arvin, California.  Lopez and the victim were in a relationship and shared two children.  Law enforcement officials believe Lopez fled the area with his children after the alleged murder.  The Federal Bureau of Investigation, the Kern County District Attorney’s Office, and the Arvin Police Department are seeking assistance from the public to locate him.</p>\r\n<p> </p>\r\n<p>A felony complaint was filed, and an arrest warrant issued, in the Superior Court of California, County of Kern, Bakersfield Judicial District, on March 2, 2012. The Kern County District Attorney’s Office unsealed the warrant for Lopez’s arrest on March 12, 2020.  A federal arrest warrant was issued for Lopez in the United States District Court, Eastern District of California, Bakersfield, California, on September 27, 2011, after he was charged with unlawful flight to avoid prosecution.</p>\r\n<p> </p>",
+          "nationality": "Mexican",
+          "age_min": null,
+          "age_max": null,
+          "scars_and_marks": null,
+          "subjects": [
+              "Violent Crime - Murders"
+          ],
+          "aliases": [
+              "Maico Lopez Encarnacion",
+              "Encarnacion Lopez",
+              "Maico Lopez",
+              "Michael Encarnacion"
+          ],
+          "race_raw": "White (Hispanic)",
+          "suspects": null,
+          "publication": "2020-09-25T07:32:00",
+          "title": "MAICO ENCARNACION LOPEZ",
+          "coordinates": [],
+          "hair_raw": "Black",
+          "languages": null,
+          "complexion": null,
+          "build": null,
+          "details": null,
+          "status": "na",
+          "legat_names": null,
+          "eyes": "brown",
+          "person_classification": "Main",
+          "description": "Unlawful Flight to Avoid Prosecution - Murder",
+          "images": [
+              {
+                  "large": "https://www.fbi.gov/wanted/murders/maico-encarnacion-lopez/@@images/image/large",
+                  "caption": null,
+                  "thumb": "https://www.fbi.gov/wanted/murders/maico-encarnacion-lopez/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/maico-encarnacion-lopez/@@images/image"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/murders/maico-encarnacion-lopez/encarnacion2.jpg/@@images/image/large",
+                  "caption": "",
+                  "thumb": "https://www.fbi.gov/wanted/murders/maico-encarnacion-lopez/encarnacion2.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/maico-encarnacion-lopez/encarnacion2.jpg"
+              },
+              {
+                  "large": "https://www.fbi.gov/wanted/murders/maico-encarnacion-lopez/encarnacion3.jpg/@@images/image/large",
+                  "caption": "",
+                  "thumb": "https://www.fbi.gov/wanted/murders/maico-encarnacion-lopez/encarnacion3.jpg/@@images/image/thumb",
+                  "original": "https://www.fbi.gov/wanted/murders/maico-encarnacion-lopez/encarnacion3.jpg"
+              }
+          ],
+          "possible_countries": null,
+          "weight_min": 160,
+          "additional_information": null,
+          "remarks": "<p>Lopez has ties to communities in California and Mexico.</p>",
+          "path": "/wanted/murders/maico-encarnacion-lopez",
+          "sex": "Male",
+          "eyes_raw": "Brown",
+          "weight_max": 160,
+          "reward_min": 0,
+          "url": "https://www.fbi.gov/wanted/murders/maico-encarnacion-lopez",
+          "possible_states": null,
+          "modified": "2021-03-29T12:48:44+00:00",
+          "reward_max": 0,
+          "race": "hispanic",
+          "height_max": 66,
+          "place_of_birth": "Mexico",
+          "height_min": 66,
+          "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+          "@id": "https://api.fbi.gov/@wanted-person/dfcf24ee89c5425190c5d8f920d8d277"
+      }
+  ],
+  "page": 5
+}
