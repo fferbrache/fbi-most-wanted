@@ -9,6 +9,7 @@ export default function NavigationBar() {
       <Navbar.Brand href="/">FBI</Navbar.Brand>
     <Nav className="mr-auto">
       <Link to="/mostwanted">Most Wanted</Link>
+      <Link to="/terrorism">Terrorism</Link>
     </Nav>
     <Form inline>
       <Link to="/tips">

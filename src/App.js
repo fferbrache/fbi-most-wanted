@@ -6,7 +6,9 @@ import NavigationBar from './components/NavigationBar';
 import Home from './components/Home';
 import Contact from './components/Contact';
 import MostWantedPage from './components/MostWantedPage';
+import TerrorismPage from './components/TerrorismPage';
 import FugitiveCard from './components/FugitiveCard';
+import TerroristCard from './components/TerroristCard';
 import Tips from './components/Tips';
 import Footer from './components/Footer';
 
@@ -20,9 +22,11 @@ function App() {
         <Switch>
           <Route exact path="/" component={Home}></Route>
           <Route path="/mostwanted" component={MostWantedPage}></Route>
+          <Route path="/terrorism" component={TerrorismPage}></Route>
           <Route path="/tips" component={Tips}></Route>
           <Route path="/contact" component={Contact}></Route>
           <Route path="/mostwantedlist/:id" component={FugitiveCard}></Route>
+          <Route path="/terrorismlist/:id" component={TerroristCard}></Route>
         </Switch>
       <Footer/>
       </Router>

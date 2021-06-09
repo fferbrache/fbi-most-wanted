@@ -27,7 +27,7 @@ export default function Contact() {
           </Col>
           <Col xs={6} md={4}>
             <a href="https://www.fbi.gov/contact-us/field-offices/atlanta">
-              <Image src="https://www.fbi.gov/contact-us/field-offices/atlanta/@@images/image/large" thumbnail />
+              <Image src="https://www.fbi.gov/contact-us/field-offices/atlanta/@@images/image/large" thumbnail/>
             </a>
             <h3>Atlanta</h3>
           </Col>
