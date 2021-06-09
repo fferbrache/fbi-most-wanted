@@ -19,7 +19,7 @@ export default function MostWantedPage() {
               <p>{cases.description}</p>
             </div>
             <div className="add-tip">
-              <Link to={`/mostwanted/${cases.id}`}>View Details</Link>
+              <Link to={`/mostwantedlist/${cases.id}`}>View Details</Link>
               <button className="tipButton" onClick={() => addATip(dispatch, cases)}>Submit Tip</button>
             </div>
           </div>

@@ -12,7 +12,7 @@ export default function NavigationBar() {
     </Nav>
     <Form inline>
       <Link to="/tips">
-      <Button variant="outline-info">Tips</Button>
+      <Button variant="outline-info">FBI Tipline</Button>
       </Link>
     </Form>
       </Navbar>

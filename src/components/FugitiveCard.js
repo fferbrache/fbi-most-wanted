@@ -1,21 +1,28 @@
 import React from 'react';
-import "./cardContainer.css";
+import { useSelector, useDispatch } from 'react-redux';
 import { addATip } from '../actions/tipActions';
-import { selectCase } from '../actions/singleCaseActions';
-import { useDispatch } from 'react-redux';
-import {Link} from 'react-router-dom';
 
-export default function FugitiveCard(props) {
+export default function FugitiveCard({match}) {
+  console.log({match})
+  const Id = match.params.id;
   const dispatch = useDispatch();
+  const caseInfo = useSelector(state => state.caseReducer);
+  const caseDisplay = caseInfo.filter(cases => (cases.id === Id))
   return (
-    <div>
-      <img src={props.case.image} height="200" width="200" alt="" />
-      <h5>{props.case.title}</h5>
-      <p>{props.case.description}</p>
-      <Link to="./mostwanted/:id">
-        <button onClick={() => selectCase(dispatch, props.case)}>View Details</button>
-      </Link>
-      <button onClick={() => addATip(dispatch, props.case)}>Add a Tip</button>
+    <div className="individual-card">
+      <h1 className="individual-title">{caseDisplay[0].title}</h1>
+      <div className="caseContainer">
+        <div className="inividual-image">
+          <img src={caseDisplay[0].img} height="300" width="250" alt="Fugitive" />
+        <div className="individual-office">
+          <h3>{caseDisplay[0].field_office}</h3>
+          <button className="individual-button" onClick={() => addATip(dispatch, caseDisplay[0])}>Add a Tip</button>
+        </div>
+        </div>
+        <div className="individual-details">
+          <p>{caseDisplay[0].description}</p>
+        </div> 
+      </div>
     </div>
   );
 }
