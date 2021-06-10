@@ -6,3 +6,4 @@ export const addTip = (dispatch, tips) => {
     payload: tips,
   });
 };
+

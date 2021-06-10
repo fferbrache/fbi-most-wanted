@@ -2,20 +2,20 @@ import React from 'react';
 import {useSelector} from 'react-redux';
 
 export default function Tips() {
-  const mostWantedTips = useSelector((state) => state.mostWantedReducer);
-  const terrorismTips = useSelector((state) => state.terrorismReducer);
-  const kidnappingTips = useSelector((state) => state.kidnapperReducer);
+  const mostWantedTips = useSelector((state) => state.tipReducer);
+  // const terrorismTips = useSelector((state) => state.terrorismReducer);
+  // const kidnappingTips = useSelector((state) => state.kidnapperReducer);
 
   return (
     <div className="tips">
       <h1>Tips</h1>
-      <h3>Most Wanted</h3>
-      {mostWantedTips.map(cases => (
+      {mostWantedTips.map(tips => (
         <div className="cardContainer">
-          <img src={cases.img} alt="tip-img" height="50" width="50" />
+          {tips}
+          {/* <img src={cases.img} alt="tip-img" height="50" width="50" /> */}
         </div>
       ))}
-      <h3>Terrorism</h3>
+      {/* <h3>Terrorism</h3>
       {terrorismTips.map(cases => (
         <div className="cardContainer">
           <img src={cases.img} alt="tip-img" height="50" width="50" />
@@ -26,7 +26,7 @@ export default function Tips() {
         <div className="cardContainer">
           <img src={cases.img} alt="tip-img" height="50" width="50" />
         </div>
-      ))}
+      ))} */}
 
     </div>
   )
