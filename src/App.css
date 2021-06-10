@@ -1,56 +1,110 @@
-.App {
-  text-align: center;
-}
-
+/* Home */
 .carousel-caption {
   top: 55%;
   bottom: auto;
 }
 
-@media(min-width: 800px) { .allFugitives{
+/* NavBar */
+.navBarLink {
+  margin: 5px;
+  color: white;
+  margin-top: .46rem;
+  text-decoration: none;
+} 
+
+.navBarLink:hover {
+  margin: 5px;
+  color: white;
+  margin-top: .46rem;
+  text-decoration: none;
+}
+
+#basic-nav-dropdown {
+  color: white;
+}
+
+/* Most Wanted, Terrorism, Kidnappings/Missing Persons Pages */
+.main-container {
   display: grid;
   flex-wrap: wrap;
-  grid-template-columns: repeat(2, 1fr); 
-  align-items: center;
+  grid-template-columns: repeat(3, 1fr);
+  align-items: top;
   justify-content: center;
-  margin: 1rem;
-}
-
-} 
-.allFugitives {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-  margin: 1rem;
+  margin: 2rem;
+  text-align: center;
+  padding: 25px 50px 5px;
 }
 
 
-.cardContainer {
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
-  font-size: small;
-  border-radius: 1rem;
-  height: 20%;
-  width: 20%;
-  margin: 5%;
+.card-container {
+  padding: 5px 50px 25px;
+  
 }
 
-.card-bottom {
-  display: flex;
-  flex-wrap: wrap;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  width:100%
-}
-
-.add-tip {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
+.details-link {
+  text-decoration: none;
   color: black;
+}
+/* View Details Pages */
+.individual-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 2rem;
+  text-align: center;
+}
+
+.individual-card p {
+  font-size: 14px;
+  text-align: left;
+  width: 40%;
+}
+
+
+/* Contact Page */
+.offices {
+  text-align: center;
+}
+
+/* Media Queries */
+@media screen and (max-width: 992px) {
+  .main-container{
+  display: grid;
+  flex-wrap: wrap;
+  grid-template-columns: repeat(2, 1fr);
+  align-items: top;
+  justify-content: center;
+  margin: 2rem;
+  text-align: center;
+  padding: 25px 50px 5px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .main-container{
+  display: grid;
+  flex-wrap: wrap;
+  grid-template-columns: repeat(1, 1fr);
+  align-items: top;
+  justify-content: center;
+  margin: 2rem;
+  text-align: center;
+  padding: 25px 50px 5px;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .individual-card p {
+    font-size: 14px;
+    text-align: left;
+    width: 80%;
+  }
+}
+@media screen and (max-width: 600px) {
+  .individual-card p {
+    font-size: 14px;
+    text-align: left;
+    width: 80%;
+  }
 }

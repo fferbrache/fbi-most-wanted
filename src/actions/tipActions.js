@@ -1,8 +1,8 @@
-import { ADD_A_TIP } from '../action-types/tip-action-types';
+import { ADD_TIP } from '../action-types/tip-action-types';
 
-export const addATip = (dispatch, cases) => {
+export const addTip = (dispatch, tips) => {
   return dispatch({
-    type: ADD_A_TIP,
-    payload: cases,
+    type: ADD_TIP,
+    payload: tips,
   });
 };

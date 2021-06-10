@@ -1,28 +1,26 @@
 import React from 'react';
 import { useSelector, useDispatch } from 'react-redux';
-import { addATip } from '../actions/tipActions';
+import { addTip } from '../actions/tipActions';
 
-export default function FugitiveCard({match}) {
-  console.log({match})
+export default function TerroristCard({match}) {
   const Id = match.params.id;
   const dispatch = useDispatch();
-  const caseInfo = useSelector(state => state.terrorismReducer);
-  const caseDisplay = caseInfo.filter(cases => (cases.id === Id))
+  const terroristInfo = useSelector(state => state.terrorismReducer);
+  const terroristDisplay = terroristInfo.filter(terrorist => (terrorist.id === Id))
   return (
     <div className="individual-card">
-      <h1 className="individual-title">{caseDisplay[0].title}</h1>
-      <div className="caseContainer">
-        <div className="inividual-image">
-          <img src={caseDisplay[0].img} height="300" width="250" alt="Terrorist" />
-        <div className="individual-office">
-          <h3>Field Office: {caseDisplay[0].field_office}</h3>
-          <button className="individual-button" onClick={() => addATip(dispatch, caseDisplay[0])}>Add a Tip</button>
-        </div>
-        </div>
-        <div className="individual-details">
-          <p>{caseDisplay[0].description}</p>
-        </div> 
-      </div>
+      <img src={terroristDisplay[0].img} height="300" width="250" alt="Terrorist" />
+      <h1>{terroristDisplay[0].title}</h1>
+      <h3>Field Office: {terroristDisplay[0].field_office}</h3>
+      <p>{terroristDisplay[0].description}</p>
+      <form type="submit">
+        <input 
+        type="text"
+        placeholder="Add tip"
+        onChange={(e) => addTip(dispatch, e.target.value)}
+        />
+        <button className="tipButton" onClick={() => addTip(dispatch, terroristDisplay[0].tips)}>Add Tip</button>
+      </form>
     </div>
   );
 }

@@ -1,30 +1,24 @@
 import React from 'react';
-import { useDispatch, useSelector } from 'react-redux';
+import { useSelector } from 'react-redux';
 import {Link} from 'react-router-dom';
-import { addATip } from '../actions/tipActions';
 
 export default function MostWantedPage() {
-  const displayAllFugitives = useSelector((state) => state.caseReducer);
-  const dispatch = useDispatch();
+  const displayMostWanted = useSelector((state) => state.mostWantedReducer);
 
   return (
-    <div className="allFugitives">
-      {displayAllFugitives.map(cases => 
-        <div className="cardContainer">
-          <img src={cases.img} alt="most-wanted-img" height="300" width="250"/>
-          <div className="card-bottom">
+    <div className="main-container">
+      {displayMostWanted.map(mostWanted => 
+        <div className="card-container">
+          <img src={mostWanted.img} alt="most-wanted-img" height="300" width="250"/>
             <div className="card-details">
-              <h3>{cases.title}</h3>
-              <h5>Field Office: {cases.field_office}</h5>
-              <p>{cases.description}</p>
+              <h3>{mostWanted.title}</h3>
+              <h5>Field Office: {mostWanted.field_office}</h5>
+              <Link className="details-link"to={`/mostwantedlist/${mostWanted.id}`}>View Details</Link>
             </div>
-            <div className="add-tip">
-              <Link to={`/mostwantedlist/${cases.id}`}>View Details</Link>
-              <button className="tipButton" onClick={() => addATip(dispatch, cases)}>Submit Tip</button>
-            </div>
-          </div>
         </div>
       )}
     </div>
   )
 }
+
+

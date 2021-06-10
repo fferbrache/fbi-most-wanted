@@ -1,29 +1,21 @@
 import React from 'react';
-import { useDispatch, useSelector } from 'react-redux';
+import { useSelector } from 'react-redux';
 import {Link} from 'react-router-dom';
-import { addATip } from '../actions/tipActions';
 
 export default function TerrorismPage() {
-  const displayAllTerrorists = useSelector((state) => state.terrorismReducer);
-  const dispatch = useDispatch();
+  const displayTerrorists = useSelector((state) => state.terrorismReducer);
 
   return (
-    <div className="allTerrorists">
-      {displayAllTerrorists.map(cases => 
-        <div className="cardContainer">
-          <img src={cases.img} alt="terrorist-img" height="300" width="250"/>
-          <div className="card-bottom">
+    <div className="main-container">
+      {displayTerrorists.map(terrorist => 
+        <div className="card-container">
+          <img src={terrorist.img} alt="terrorist-img" height="300" width="250"/>
             <div className="card-details">
-              <h3>{cases.title}</h3>
-              <h5>Field Office: {cases.field_office}</h5>
-              <p>{cases.description}</p>
-            </div>
-            <div className="add-tip">
-              <Link to={`/terrorismlist/${cases.id}`}>View Details</Link>
-              <button className="tipButton" onClick={() => addATip(dispatch, cases)}>Submit Tip</button>
+              <h3>{terrorist.title}</h3>
+              <h5>Field Office: {terrorist.field_office}</h5>
+              <Link className="details-link" to={`/terrorismlist/${terrorist.id}`}>View Details</Link>
             </div>
           </div>
-        </div>
       )}
     </div>
   )

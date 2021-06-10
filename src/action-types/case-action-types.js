@@ -1,1 +1,0 @@
-export const DISPLAY_CASE = "DISPLAY_CASE";

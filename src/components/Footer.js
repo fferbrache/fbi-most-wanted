@@ -8,7 +8,7 @@ export default function Footer() {
       <Card.Footer>
         <Nav variant="tabs" defaultActiveKey="#link" className="justify-content-center">
           <Nav.Item>
-            <Link to="/contact">Contact</Link>
+            <Link className="details-link" to="/contact">Contact</Link>
           </Nav.Item>
         </Nav>
       </Card.Footer>

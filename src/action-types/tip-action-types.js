@@ -1,1 +1,1 @@
-export const ADD_A_TIP = "ADD_A_TIP";
+export const ADD_TIP = "ADD_TIP";
