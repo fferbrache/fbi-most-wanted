@@ -6,7 +6,7 @@ export default function NavigationBar() {
   return (
     <div>
       <Navbar expand="lg" bg="dark" variant="dark">
-        <Navbar.Brand href="/">FBI</Navbar.Brand>
+        <Navbar.Brand href="/fbi-most-wanted">FBI</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="mr-auto">

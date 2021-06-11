@@ -23,7 +23,7 @@ function App() {
         <NavigationBar />
         </div>
         <Switch>
-          <Route exact path="/" component={Home}></Route>
+          <Route exact path="/fbi-most-wanted" component={Home}></Route>
           <Route path="/mostwanted" component={MostWantedPage}></Route>
           <Route path="/terrorism" component={TerrorismPage}></Route>
           <Route path="/kidnappings" component={KidnapperPage}></Route>
