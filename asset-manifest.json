@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fbi-most-wanted/static/css/main.2fef905f.chunk.css",
-    "main.js": "/fbi-most-wanted/static/js/main.9cc678b0.chunk.js",
-    "main.js.map": "/fbi-most-wanted/static/js/main.9cc678b0.chunk.js.map",
+    "main.js": "/fbi-most-wanted/static/js/main.f5ab29ba.chunk.js",
+    "main.js.map": "/fbi-most-wanted/static/js/main.f5ab29ba.chunk.js.map",
     "runtime-main.js": "/fbi-most-wanted/static/js/runtime-main.27b39101.js",
     "runtime-main.js.map": "/fbi-most-wanted/static/js/runtime-main.27b39101.js.map",
     "static/css/2.150d169a.chunk.css": "/fbi-most-wanted/static/css/2.150d169a.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.d31e69fd.chunk.js",
     "static/css/main.2fef905f.chunk.css",
-    "static/js/main.9cc678b0.chunk.js"
+    "static/js/main.f5ab29ba.chunk.js"
   ]
 }
