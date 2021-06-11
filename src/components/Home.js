@@ -1,6 +1,6 @@
 import React from 'react';
 import { Carousel } from 'react-bootstrap';
-import trojanShield from './trojanShield.jpg'
+import trojanShield from '../assets/img/trojanShield.jpg'
 import { TwitterTimelineEmbed } from 'react-twitter-embed'
 
 export default function Home() {

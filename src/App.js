@@ -13,6 +13,7 @@ import TerroristCard from './components/TerroristCard';
 import KidnapperCard from './components/KidnapperCard';
 import Tips from './components/Tips';
 import Footer from './components/Footer';
+import Error from './components/Error';
 
 function App() {
   return (
@@ -31,6 +32,7 @@ function App() {
           <Route path="/mostwantedlist/:id" component={MostWantedCard}></Route>
           <Route path="/terrorismlist/:id" component={TerroristCard}></Route>
           <Route path="/missingpersonslist/:id" component={KidnapperCard}></Route>
+          <Route component={Error}></Route>
         </Switch>
       <Footer/>
       </Router>

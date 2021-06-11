@@ -4,7 +4,7 @@ import {Link} from 'react-router-dom';
 
 export default function Footer() {
   return (
-    <div>
+    <div>   
       <Card.Footer>
         <Nav variant="tabs" defaultActiveKey="#link" className="justify-content-center">
           <Nav.Item>

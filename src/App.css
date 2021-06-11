@@ -1,6 +1,6 @@
 /* Home */
 .carousel-caption {
-  top: 55%;
+  top: 50%;
   bottom: auto;
 }
 
@@ -35,39 +35,6 @@
   padding: 25px 50px 5px;
 }
 
-
-.card-container {
-  padding: 5px 50px 25px;
-  
-}
-
-.details-link {
-  text-decoration: none;
-  color: black;
-}
-/* View Details Pages */
-.individual-card {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  margin: 2rem;
-  text-align: center;
-}
-
-.individual-card p {
-  font-size: 14px;
-  text-align: left;
-  width: 40%;
-}
-
-
-/* Contact Page */
-.offices {
-  text-align: center;
-}
-
-/* Media Queries */
 @media screen and (max-width: 992px) {
   .main-container{
   display: grid;
@@ -94,6 +61,72 @@
   }
 }
 
+.card-container {
+  padding: 5px 50px 25px;
+}
+
+.details-link {
+  text-decoration: none;
+  color: black;
+}
+
+/* View Details Pages */
+.individual-card {
+  display: grid;
+  /* flex-wrap: wrap; */
+  grid-template-columns: repeat(2, 1fr);
+  align-items: center;
+  justify-content: center;
+  margin: 1rem;
+  text-align: center;
+  padding: 25px 50px 5px;
+}
+
+.individual-card p {
+  font-size: 14px;
+  text-align: left;
+  width: 80%;
+}
+.tipButton {
+  background-color: #979FB9;
+ 
+}
+
+.individual-details {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 1rem;
+  text-align: center;
+}
+
+@media screen and (max-width: 992px) {
+  .individual-card{
+  display: grid;
+  flex-wrap: wrap;
+  grid-template-columns: repeat(1, 1fr);
+  align-items: top;
+  justify-content: center;
+  margin: 2rem;
+  text-align: center;
+  padding: 25px 50px 5px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .individual-card{
+    display: grid;
+    flex-wrap: wrap;
+    grid-template-columns: repeat(1, 1fr);
+    align-items: top;
+    justify-content: center;
+    margin: 2rem;
+    text-align: center;
+    padding: 25px 50px 5px;
+  }
+}
+
 @media screen and (max-width: 992px) {
   .individual-card p {
     font-size: 14px;
@@ -101,6 +134,7 @@
     width: 80%;
   }
 }
+
 @media screen and (max-width: 600px) {
   .individual-card p {
     font-size: 14px;
@@ -108,3 +142,48 @@
     width: 80%;
   }
 }
+
+/* Tips Page */
+.tip-container {
+  text-align: center;
+}
+
+.tip-detail {
+  display: grid;
+  flex-wrap: wrap;
+  grid-template-columns: repeat(1, 1fr);
+  align-items: top;
+  justify-content: center;
+  text-align: center;
+}
+
+/* Contact Page */
+.offices {
+  text-align: center;
+}
+
+@media screen and (max-width: 992px) {
+  .offices p {
+    font-size: 14px;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .offices p {
+    font-size: 14px;
+    width: 100%;
+  }
+}
+
+/* Error Page */
+.error-template {
+  text-align: center;
+  padding: 40px;
+}
+
+/* Canva Color Scheme
+Abbey #4B4E50
+Dust Storm #E5D1CA
+Cadet Blue #A3AEC0
+Gull Gray #979FB9 */
