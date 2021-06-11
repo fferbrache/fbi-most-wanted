@@ -1,6 +1,6 @@
 import React from 'react';
 import {useSelector} from 'react-redux';
-import fbiLogo from '../assets/img/fbiLogo.jpeg'
+// import fbiLogo from '../assets/img/fbiLogo.jpeg'
 
 export default function Tips() {
   const mostWantedTips = useSelector((state) => state.tipReducer);
@@ -12,7 +12,7 @@ export default function Tips() {
           {tips}
         </div>
       ))}
-      <img src={fbiLogo} alt="fbi-logo" height="300" width="250"/>
+      {/* <img src={fbiLogo} alt="fbi-logo" height="300" width="250"/> */}
     </div>
   )
 }
